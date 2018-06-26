@@ -1,0 +1,16 @@
+{
+  "id": 6527,
+  "cardNumber": "39765115",
+  "name": "Splash Capture",
+  "description": "When your opponent Xyz Summons: Banish 2 Fish-Type monsters from your Graveyard to target that face-up Xyz Monster; take control of that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

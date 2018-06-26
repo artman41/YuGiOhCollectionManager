@@ -1,0 +1,16 @@
+{
+  "id": 8549,
+  "cardNumber": "34690519",
+  "name": "Spirit of the Mountain",
+  "description": "An elderly magician that raises mountains with his flute.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

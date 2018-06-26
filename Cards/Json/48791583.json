@@ -1,0 +1,16 @@
+{
+  "id": 3625,
+  "cardNumber": "48791583",
+  "name": "Invoked Magellanica",
+  "description": "\"Aleister the Invoker\" + 1 EARTH monster",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 3300,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

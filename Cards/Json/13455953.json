@@ -1,0 +1,16 @@
+{
+  "id": 2083,
+  "cardNumber": "13455953",
+  "name": "Dverg of the Nordic Alfar",
+  "description": "After you Normal Summon this card, you can Normal Summon 1 \"Nordic\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If this face-up card on the field is sent to the Graveyard: Target 1 \"Nordic Relic\" card in your Graveyard; add that target to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

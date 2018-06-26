@@ -1,0 +1,16 @@
+{
+  "id": 3157,
+  "cardNumber": "24317029",
+  "name": "Gravekeeper's Spy",
+  "description": "FLIP: Special Summon 1 \"Gravekeeper's\" monster with 1500 or less ATK from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

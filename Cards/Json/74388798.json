@@ -1,0 +1,16 @@
+{
+  "id": 6258,
+  "cardNumber": "74388798",
+  "name": "Silent Swordsman LV5",
+  "description": "Unaffected by your opponent's Spell effects. During your next Standby Phase after this card inflicts battle damage to your opponent by a direct attack: You can send this face-up card to the Graveyard; Special Summon 1 \"Silent Swordsman LV7\" from your hand or Deck.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

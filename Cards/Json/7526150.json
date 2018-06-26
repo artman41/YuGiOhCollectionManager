@@ -1,0 +1,16 @@
+{
+  "id": 8267,
+  "cardNumber": "7526150",
+  "name": "Golgoil",
+  "description": "An iron giant that appears from a dimensional rift.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

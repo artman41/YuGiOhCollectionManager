@@ -1,0 +1,16 @@
+{
+  "id": 3639,
+  "cardNumber": "65844845",
+  "name": "Inzektor Giga-Cricket",
+  "description": "If this card is in your Graveyard: You can banish 1 Insect-Type monster from your Graveyard to target 1 face-up \"Inzektor\" monster you control; equip this card from the Graveyard to that target. This effect of \"Inzektor Giga-Cricket\" can only be used once per turn. While this card is equipped to a monster, that monster's original ATK becomes 2000, and if it attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

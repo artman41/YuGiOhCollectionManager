@@ -1,0 +1,16 @@
+{
+  "id": 2437,
+  "cardNumber": "31764353",
+  "name": "Familiar-Possessed - Wynn",
+  "description": "You can send 1 \"Wynn the Wind Charmer\" and 1 WIND monster you control to the Graveyard to Special Summon this card from your hand or Deck. If you do, this card gets the following effect: â— During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

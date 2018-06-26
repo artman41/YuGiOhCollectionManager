@@ -1,0 +1,16 @@
+{
+  "id": 1036,
+  "cardNumber": "61044390",
+  "name": "Chaos End",
+  "description": "You can only activate this card if 7 or more of your cards are currently removed from play. Destroy all Monster Cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

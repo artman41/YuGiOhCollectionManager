@@ -1,0 +1,16 @@
+{
+  "id": 4898,
+  "cardNumber": "9161357",
+  "name": "Number 6: Chronomaly Atlandis",
+  "description": "2 Level 6 monsters<br>When this card is Xyz Summoned: You can target 1 \"Number\" monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 Xyz Material from this card, then send the monster equipped by this effect to the Graveyard; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.",
+  "cardLevel": null,
+  "cardRank": 6,
+  "atk": 2600,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

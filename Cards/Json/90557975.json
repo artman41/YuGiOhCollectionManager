@@ -1,0 +1,16 @@
+{
+  "id": 7307,
+  "cardNumber": "90557975",
+  "name": "Updraft",
+  "description": "Remove all Fog Counters from the field. Inflict 300 damage to your opponent for each Fog Counter you removed.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

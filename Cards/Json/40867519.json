@@ -1,0 +1,16 @@
+{
+  "id": 6248,
+  "cardNumber": "40867519",
+  "name": "Silent Insect",
+  "description": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. While this card is face-up on the field, negate the effects of all Continuous Spell Cards and Continuous Trap Cards.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

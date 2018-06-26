@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "cardNumber": "35149085",
+  "name": "Beast Soul Swap",
+  "description": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

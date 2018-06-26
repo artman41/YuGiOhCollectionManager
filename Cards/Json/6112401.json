@@ -1,0 +1,16 @@
+{
+  "id": 413,
+  "cardNumber": "6112401",
+  "name": "At One With the Sword",
+  "description": "Activate while the only monster you control is 1 face-up \"X-Saber\" monster. Equip this card to that monster. It gains 800 ATK. If it destroys your opponent's monster by battle, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

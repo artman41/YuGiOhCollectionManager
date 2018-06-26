@@ -1,0 +1,16 @@
+{
+  "id": 1034,
+  "cardNumber": "72630549",
+  "name": "Chaos Command Magician",
+  "description": "Negate the effect of a Monster Card that targets this 1 card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

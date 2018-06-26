@@ -1,0 +1,16 @@
+{
+  "id": 7605,
+  "cardNumber": "83546647",
+  "name": "Wolf in Sheep's Clothing",
+  "description": "Activate only when you take Battle Damage from your opponent's monster's direct attack. Reveal 1 Level 1 monster in your hand. Special Summon it from your hand, and 1 monster with the same name from your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

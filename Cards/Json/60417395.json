@@ -1,0 +1,16 @@
+{
+  "id": 1672,
+  "cardNumber": "60417395",
+  "name": "Darkness Neosphere",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 Fiend-Type monster you control and 1 Fiend-Type monster from your hand to the Graveyard when your opponent's monster declares an attack. This card cannot be destroyed by battle. Once per turn, you can return all face-up Trap Cards you control to the hand.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 4000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

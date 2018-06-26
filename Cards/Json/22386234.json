@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "cardNumber": "22386234",
+  "name": "Aurora Paragon",
+  "description": "Neither player can Special Summon monsters. When another monster is Normal Summoned to either player's side of the field, destroy this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

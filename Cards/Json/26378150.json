@@ -1,0 +1,16 @@
+{
+  "id": 8497,
+  "cardNumber": "26378150",
+  "name": "Rude Kaiser",
+  "description": "With an axe in each hand, this monster delivers heavy damage.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

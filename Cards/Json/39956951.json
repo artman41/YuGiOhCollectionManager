@@ -1,0 +1,16 @@
+{
+  "id": 2553,
+  "cardNumber": "39956951",
+  "name": "Flash of the Forbidden Spell",
+  "description": "Activate only when all of your opponent's Monster Card Zones are occupied by monsters. Destroy all monsters on your opponent's side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

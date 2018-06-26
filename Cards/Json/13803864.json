@@ -1,0 +1,16 @@
+{
+  "id": 4607,
+  "cardNumber": "13803864",
+  "name": "Mokey Mokey King",
+  "description": "\"Mokey Mokey\" + \"Mokey Mokey\" + \"Mokey Mokey\"<br>When this card is removed from the field, you can Special Summon as many \"Mokey Mokey\" as possible from your Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 300,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

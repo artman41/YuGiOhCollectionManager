@@ -1,0 +1,16 @@
+{
+  "id": 484,
+  "cardNumber": "87112784",
+  "name": "Banishment of the Darklords",
+  "description": "Add 1 \"Darklord\" card from your Deck to your hand, except \"Banishment of the Darklords\". You can only activate 1 \"Banishment of the Darklords\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

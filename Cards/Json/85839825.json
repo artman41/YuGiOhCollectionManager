@@ -1,0 +1,16 @@
+{
+  "id": 7693,
+  "cardNumber": "85839825",
+  "name": "Xyz Energy",
+  "description": "Detach 1 Xyz Material you control to target 1 face-up monster your opponent controls; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

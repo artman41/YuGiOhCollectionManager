@@ -1,0 +1,16 @@
+{
+  "id": 6849,
+  "cardNumber": "94331452",
+  "name": "Symphonic Warrior Drumss",
+  "description": "Once per turn, you can declare 1 Attribute and select 1 face-up \"Symphonic Warrior\" monster on the field. That monster becomes that Attribute. You can declare 1 Attribute and remove from play this card from your Graveyard to select 1 face-up \"Symphonic Warrior\" monster you control, and make it that Attribute.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

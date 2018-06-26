@@ -1,0 +1,16 @@
+{
+  "id": 2768,
+  "cardNumber": "54507222",
+  "name": "Galaxy Worm",
+  "description": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower \"Galaxy\" Effect Monster from your Deck, but it has its effects negated.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

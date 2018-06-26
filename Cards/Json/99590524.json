@@ -1,0 +1,16 @@
+{
+  "id": 7107,
+  "cardNumber": "99590524",
+  "name": "Treacherous Trap Hole",
+  "description": "If you have no Trap Cards in your Graveyard: Target 2 monsters on the field; destroy those targets.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

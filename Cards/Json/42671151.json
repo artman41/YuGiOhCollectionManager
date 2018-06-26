@@ -1,0 +1,16 @@
+{
+  "id": 3074,
+  "cardNumber": "42671151",
+  "name": "The Golden Apples",
+  "description": "When you take battle damage while you control no monsters: Gain LP equal to the battle damage you took, and if you do, Special Summon 1 \"Malus Token\" (Fiend/DARK/Level 1/ATK&#160;?/DEF&#160;?). Its ATK/DEF are each equal to the amount of LP you gained by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

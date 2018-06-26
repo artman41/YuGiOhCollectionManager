@@ -1,0 +1,16 @@
+{
+  "id": 242,
+  "cardNumber": "47594939",
+  "name": "And the Band Played On",
+  "description": "Neither player can Special Summon monsters with the same Level as those they control. Neither player can Special Summon monsters with the same Rank as those they control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

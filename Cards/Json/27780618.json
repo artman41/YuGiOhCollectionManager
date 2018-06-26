@@ -1,0 +1,16 @@
+{
+  "id": 7394,
+  "cardNumber": "27780618",
+  "name": "Vision HERO Vyon",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"HERO\" monster from your Deck to the Graveyard. You can only use this effect of \"Vision HERO Vyon\" once per turn. Once per turn: You can banish 1 \"HERO\" monster from your Graveyard; add 1 \"Polymerization\" from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

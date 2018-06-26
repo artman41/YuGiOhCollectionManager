@@ -1,0 +1,16 @@
+{
+  "id": 8560,
+  "cardNumber": "70781052",
+  "name": "Summoned Skull",
+  "description": "A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.<br><br>(This card is always treated as an \"Archfiend\" card.)",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

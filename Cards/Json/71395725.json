@@ -1,0 +1,16 @@
+{
+  "id": 4311,
+  "cardNumber": "71395725",
+  "name": "Man Beast of Ares",
+  "description": "After a Chain (of 2 or more Links) resolves, this card gains 500 ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

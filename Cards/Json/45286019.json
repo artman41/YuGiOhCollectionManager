@@ -1,0 +1,16 @@
+{
+  "id": 2821,
+  "cardNumber": "45286019",
+  "name": "Geargiano Mk-III",
+  "description": "When this card is Special Summoned by the effect of a \"Geargia\" card: You can Special Summon 1 \"Geargia\" monster from your hand or Graveyard in Defense Position, except \"Geargiano Mk-III\", but its effects are negated. You can only use this effect of \"Geargiano Mk-III\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except \"Geargia\" monsters.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

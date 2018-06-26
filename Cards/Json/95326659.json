@@ -1,0 +1,16 @@
+{
+  "id": 1302,
+  "cardNumber": "95326659",
+  "name": "Crystal Beacon",
+  "description": "Special Summon 1 \"Crystal Beast\" monster from your Deck. You must have 2 or more \"Crystal Beast\" cards in your Spell &amp; Trap Card Zone to activate and to resolve this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

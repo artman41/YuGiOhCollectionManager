@@ -1,0 +1,16 @@
+{
+  "id": 3022,
+  "cardNumber": "77642288",
+  "name": "Gladiator Beast Secutor",
+  "description": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, then at the end of any Battle Phase in which this card attacked or was attacked: Special Summon 2 \"Gladiator Beast\" monsters from your Deck, except \"Gladiator Beast Secutor\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

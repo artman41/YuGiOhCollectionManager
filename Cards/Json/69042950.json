@@ -1,0 +1,16 @@
+{
+  "id": 1268,
+  "cardNumber": "69042950",
+  "name": "Crashbug Road",
+  "description": "Each player can Special Summon 1 monster from their hand with the same Level as 1 face-up Level 4 or lower monster they control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

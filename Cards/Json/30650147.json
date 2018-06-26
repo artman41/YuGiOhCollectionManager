@@ -1,0 +1,16 @@
+{
+  "id": 7354,
+  "cardNumber": "30650147",
+  "name": "Vendread Reorigin",
+  "description": "Target 1 face-up monster your opponent controls that has a Level; Tribute it, and if you do, Special Summon 1 \"Vendread Token\" (Zombie/DARK/ATK 0/DEF 0) with a Level equal to the Tributed monster's original Level. While the Token Special Summoned by this effect is on the field, you cannot Normal or Special Summon monsters, except \"Vendread\" monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

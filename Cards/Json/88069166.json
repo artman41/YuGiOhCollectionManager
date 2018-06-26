@@ -1,0 +1,16 @@
+{
+  "id": 5055,
+  "cardNumber": "88069166",
+  "name": "Odin's Eye",
+  "description": "Once per turn, during each player's Standby Phase: You can target 1 \"Aesir\" monster you control; negate its effects until the end of this turn, and if you do, look at all cards in your opponent's hand and all Set cards they control. Your opponent cannot activate cards or effects in response to this effect's activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

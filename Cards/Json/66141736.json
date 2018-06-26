@@ -1,0 +1,16 @@
+{
+  "id": 7987,
+  "cardNumber": "66141736",
+  "name": "Red Rising Dragon",
+  "description": "1 Fiend Tuner + 1+ non-Tuner monsters<br>When this card is Synchro Summoned: You can target 1 \"Resonator\" monster in your GY; Special Summon it. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except DARK Dragon Synchro Monsters. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY, then target 2 Level 1 \"Resonator\" monsters in your GY; Special Summon both of them.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

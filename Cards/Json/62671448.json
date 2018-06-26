@@ -1,0 +1,16 @@
+{
+  "id": 8582,
+  "cardNumber": "62671448",
+  "name": "Toad Master",
+  "description": "A hermit frog that has been in existence for thousands of years, it attacks with tadpoles.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

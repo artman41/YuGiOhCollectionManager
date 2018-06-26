@@ -1,0 +1,16 @@
+{
+  "id": 235,
+  "cardNumber": "17663375",
+  "name": "Ancient Gear Wyvern",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"Ancient Gear\" card from your Deck to your hand, except \"Ancient Gear Wyvern\", also you cannot Set cards for the rest of this turn. You can only use this effect of \"Ancient Gear Wyvern\" once per turn. If this card attacks, your opponent's monsters cannot activate their effects until the end of the Damage Step.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

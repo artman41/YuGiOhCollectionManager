@@ -1,0 +1,16 @@
+{
+  "id": 3498,
+  "cardNumber": "24019092",
+  "name": "Igknight Paladin",
+  "description": "Pendulum Effect\n If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n Monster Effect\n This Igknight has a reputation as a thinker with a cool head. But the truth is that his emotions just take longer to heat up.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

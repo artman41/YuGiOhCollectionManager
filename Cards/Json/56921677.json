@@ -1,0 +1,16 @@
+{
+  "id": 3344,
+  "cardNumber": "56921677",
+  "name": "Heraldic Beast Basilisk",
+  "description": "After damage calculation: Destroy any opponent's monster that battles this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

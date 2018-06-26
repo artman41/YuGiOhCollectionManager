@@ -1,0 +1,16 @@
+{
+  "id": 7092,
+  "cardNumber": "46461247",
+  "name": "Trap Master",
+  "description": "FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

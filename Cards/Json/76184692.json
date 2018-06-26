@@ -1,0 +1,16 @@
+{
+  "id": 8296,
+  "cardNumber": "76184692",
+  "name": "Hitotsu-Me Giant",
+  "description": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

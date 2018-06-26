@@ -1,0 +1,16 @@
+{
+  "id": 1440,
+  "cardNumber": "2833249",
+  "name": "D. Tribe",
+  "description": "All monsters on your side of the field are treated as Dragon-Type until the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

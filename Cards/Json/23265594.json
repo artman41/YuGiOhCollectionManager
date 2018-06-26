@@ -1,0 +1,16 @@
+{
+  "id": 3321,
+  "cardNumber": "23265594",
+  "name": "Heavy Mech Support Platform",
+  "description": "Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 500 ATK and DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Union\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

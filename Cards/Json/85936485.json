@@ -1,0 +1,16 @@
+{
+  "id": 8605,
+  "cardNumber": "85936485",
+  "name": "United Resistance",
+  "description": "The people that gather to swear to fight their oppressors. A revolution is coming.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

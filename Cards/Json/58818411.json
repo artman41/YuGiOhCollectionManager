@@ -1,0 +1,16 @@
+{
+  "id": 8199,
+  "cardNumber": "58818411",
+  "name": "Empress Mantis",
+  "description": "Queen of an army of giant mantises whose command moves legions.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

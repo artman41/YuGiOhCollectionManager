@@ -1,0 +1,16 @@
+{
+  "id": 4229,
+  "cardNumber": "30208479",
+  "name": "Magician of Black Chaos",
+  "description": "You can Ritual Summon this card with \"Black Magic Ritual\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

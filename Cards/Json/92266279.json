@@ -1,0 +1,16 @@
+{
+  "id": 3456,
+  "cardNumber": "92266279",
+  "name": "Humid Winds",
+  "description": "You can pay 1000 LP; add 1 \"Aroma\" monster from your Deck to your hand. If your LP is lower than your opponent's: You can gain 500 LP. You can only use each effect of \"Humid Winds\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

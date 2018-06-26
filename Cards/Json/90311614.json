@@ -1,0 +1,16 @@
+{
+  "id": 1807,
+  "cardNumber": "90311614",
+  "name": "Dewdark of the Ice Barrier",
+  "description": "If the only face-up monsters you control are Level 2 or lower monsters, this card can attack your opponent directly.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

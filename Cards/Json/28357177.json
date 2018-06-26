@@ -1,0 +1,16 @@
+{
+  "id": 3257,
+  "cardNumber": "28357177",
+  "name": "Hade-Hane",
+  "description": "FLIP: You can return up to 3 monsters on the field to the owner's hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

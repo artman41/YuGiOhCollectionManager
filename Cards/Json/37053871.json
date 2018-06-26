@@ -1,0 +1,16 @@
+{
+  "id": 408,
+  "cardNumber": "37053871",
+  "name": "Astral Barrier",
+  "description": "If your opponent's monster attacks a monster you control: You can make the attack a direct attack instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

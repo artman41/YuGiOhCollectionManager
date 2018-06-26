@@ -1,0 +1,16 @@
+{
+  "id": 4041,
+  "cardNumber": "83880087",
+  "name": "Light Wing Shield",
+  "description": "When a monster's attack is negated: Activate 1 of these effects;<br>â— It becomes the End Phase of this turn.<br>â— Target 1 \"Utopia\" Xyz Monster you control; its ATK becomes double its original ATK until the end of this turn.<br>If a \"Utopia\" Xyz Monster you control would detach exactly 1 Xyz Material to activate its effect, you can banish this card from your Graveyard instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

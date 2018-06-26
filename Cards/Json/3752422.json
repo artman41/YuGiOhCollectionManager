@@ -1,0 +1,16 @@
+{
+  "id": 7973,
+  "cardNumber": "3752422",
+  "name": "Performapal Lebellman",
+  "description": "Pendulum Effect\n Once per turn: You can increase the Levels of all Pendulum Summoned monsters you control by 1 (even if this card leaves the field).\n\n Monster Effect\n Once per turn: You can target 1 other \"Performapal\" monster you control, and declare a Level from 1 to 5; reduce this card's Level by the declared Level, and if you do, increase the targeted monster's Level by the declared Level. These changes last until the end of this turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

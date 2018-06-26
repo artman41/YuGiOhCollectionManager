@@ -1,0 +1,16 @@
+{
+  "id": 4758,
+  "cardNumber": "61049315",
+  "name": "Naturia Rosewhip",
+  "description": "Your opponent can only activate 1 Spell/Trap Card per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

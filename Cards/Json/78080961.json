@@ -1,0 +1,16 @@
+{
+  "id": 6545,
+  "cardNumber": "78080961",
+  "name": "SPYRAL Quik-Fix",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"SPYRAL GEAR\" card from your Deck to your hand. If this card is in your GY and you control \"SPYRAL Super Agent\": You can discard 1 card; Special Summon this card, but banish it when it leaves the field.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

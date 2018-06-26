@@ -1,0 +1,16 @@
+{
+  "id": 4942,
+  "cardNumber": "56292140",
+  "name": "Number 51: Finisher the Strong Arm",
+  "description": "3 Level 3 monsters<br>Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: You can detach 1 Xyz Material from this card; place 1 Counter on this card (max. 3). At the end of the Battle Phase, if this card battled, and has 3 of these Counters: You can destroy all cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 2600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5059,
+  "cardNumber": "19230407",
+  "name": "Offerings to the Doomed",
+  "description": "Target 1 face-up monster on the field; destroy that target, also skip your next Draw Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

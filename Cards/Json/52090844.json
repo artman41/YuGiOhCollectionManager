@@ -1,0 +1,16 @@
+{
+  "id": 792,
+  "cardNumber": "52090844",
+  "name": "Bowganian",
+  "description": "During each of your Standby Phases: Inflict 600 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

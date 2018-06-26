@@ -1,0 +1,16 @@
+{
+  "id": 3990,
+  "cardNumber": "295517",
+  "name": "A Legendary Ocean",
+  "description": "(This card's name is always treated as \"Umi\".)<br>All WATER monsters on the field gain 200 ATK/DEF. Reduce the Level of all WATER monsters in both players' hands and on the field by 1.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

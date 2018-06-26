@@ -1,0 +1,16 @@
+{
+  "id": 8470,
+  "cardNumber": "89959682",
+  "name": "Pharaonic Protector",
+  "description": "The mummy of a soldier that has been guarding the royal family for thousands of years. Even now, its spirit does not allow anybody to trespass.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

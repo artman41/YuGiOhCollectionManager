@@ -1,0 +1,16 @@
+{
+  "id": 3859,
+  "cardNumber": "46089249",
+  "name": "Koa'ki Ring",
+  "description": "Reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to select 1 face-up monster on the field. Destroy that monster, and both players take 1000 damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

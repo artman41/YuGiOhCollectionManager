@@ -1,0 +1,16 @@
+{
+  "id": 5162,
+  "cardNumber": "94585852",
+  "name": "Pandemonium",
+  "description": "Neither player has to pay Life Points during the Standby Phase for \"Archfiend\" monsters. Each time a player's \"Archfiend\" monster(s) is destroyed and sent to the Graveyard, except by battle, that player can add 1 \"Archfiend\" monster from their Deck to their hand that is a lower Level than the destroyed card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

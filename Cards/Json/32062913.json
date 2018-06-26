@@ -1,0 +1,16 @@
+{
+  "id": 4415,
+  "cardNumber": "32062913",
+  "name": "Mega Ton Magical Cannon",
+  "description": "Remove 10 Spell Counters on your side of the field. Destroy all cards on your opponent's side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3149,
+  "cardNumber": "46955770",
+  "name": "Gravekeeper's Heretic",
+  "description": "This card on the field is unaffected by all other card effects, as long as \"Necrovalley\" is also on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

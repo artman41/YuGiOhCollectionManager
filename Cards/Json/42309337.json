@@ -1,0 +1,16 @@
+{
+  "id": 1258,
+  "cardNumber": "42309337",
+  "name": "Counter Counter",
+  "description": "Negate the activation of a Counter Trap Card, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

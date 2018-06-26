@@ -1,0 +1,16 @@
+{
+  "id": 8748,
+  "cardNumber": "84976088",
+  "name": "Background Dragon",
+  "description": "If this card is in your GY and you control no cards: You can Special Summon both this card and 1 Level 4 or lower Dragon monster from your hand in Defense Position, but banish this card when it leaves the field. You can only use this effect of \"Background Dragon\" once per turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8361,
+  "cardNumber": "81618817",
+  "name": "Lord of Zemia",
+  "description": "A wicked entity that manipulates enemies towards a path of destruction.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4033,
+  "cardNumber": "54766667",
+  "name": "Light Effigy",
+  "description": "If you Tribute Summon a LIGHT Normal Monster, you can treat this 1 monster as 2 Tributes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

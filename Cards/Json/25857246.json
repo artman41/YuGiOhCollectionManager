@@ -1,0 +1,16 @@
+{
+  "id": 4799,
+  "cardNumber": "25857246",
+  "name": "Nekroz of Valkyrus",
+  "description": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using any Level 8 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Valkyrus\" once per turn.<br>â— When an opponent's monster declares an attack: You can banish 1 \"Nekroz\" card from your Graveyard and discard this card; negate the attack, then end the Battle Phase.<br>â— During your Main Phase: You can Tribute up to 2 monsters from your hand and/or your side of the field, and if you do, draw the same number of cards you Tributed.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

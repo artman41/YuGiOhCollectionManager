@@ -1,0 +1,16 @@
+{
+  "id": 3675,
+  "cardNumber": "33784505",
+  "name": "Jar Robber",
+  "description": "You can only activate this card when \"Pot of Greed\" is activated. Negate the effect of the \"Pot of Greed\" and draw 1 card from your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

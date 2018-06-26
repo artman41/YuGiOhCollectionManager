@@ -1,0 +1,16 @@
+{
+  "id": 8155,
+  "cardNumber": "32344688",
+  "name": "Dark Chimera",
+  "description": "A fire-breathing monster that dwells in the netherworld.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1610,
+  "def": 1460,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

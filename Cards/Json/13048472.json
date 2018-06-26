@@ -1,0 +1,16 @@
+{
+  "id": 5447,
+  "cardNumber": "13048472",
+  "name": "Pre-Preparation of Rites",
+  "description": "Add 1 Ritual Spell Card from your Deck to your hand, and add 1 Ritual Monster from your Deck or Graveyard to your hand whose name is listed on that Ritual Spell Card. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

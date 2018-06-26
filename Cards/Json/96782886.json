@@ -1,0 +1,16 @@
+{
+  "id": 4531,
+  "cardNumber": "96782886",
+  "name": "Mind Master",
+  "description": "You can pay 800 Life Points and Tribute 1 Psychic-Type monster, except \"Mind Master\", to Special Summon 1 Level 4 or lower Psychic-Type monster from your Deck in face-up Attack Position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

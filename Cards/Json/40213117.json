@@ -1,0 +1,16 @@
+{
+  "id": 184,
+  "cardNumber": "40213117",
+  "name": "Amores of Prophecy",
+  "description": "Once per turn: You can reveal 1 \"Spellbook\" Spell Card in your hand; Special Summon 1 Level 4 or lower Spellcaster-Type monster from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

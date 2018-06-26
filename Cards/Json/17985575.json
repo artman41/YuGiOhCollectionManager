@@ -1,0 +1,16 @@
+{
+  "id": 4094,
+  "cardNumber": "17985575",
+  "name": "Lord of D.",
+  "description": "Dragon-Type monsters on the field cannot be targeted by card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

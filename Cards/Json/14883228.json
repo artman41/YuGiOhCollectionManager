@@ -1,0 +1,16 @@
+{
+  "id": 7218,
+  "cardNumber": "14883228",
+  "name": "Typhoon",
+  "description": "Target 1 face-up Spell/Trap Card on the field; destroy it. If your opponent controls 2 or more Spell/Trap Cards and you control no Spell/Trap Cards, you can activate this card from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

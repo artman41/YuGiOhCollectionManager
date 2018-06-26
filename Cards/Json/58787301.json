@@ -1,0 +1,16 @@
+{
+  "id": 1656,
+  "cardNumber": "58787301",
+  "name": "Darklord Descent",
+  "description": "Pay half your LP; Special Summon up to 2 \"Darklord\" monsters from your Graveyard in Defense Position, with the same Level as 1 face-up monster your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

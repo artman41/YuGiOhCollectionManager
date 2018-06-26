@@ -1,0 +1,16 @@
+{
+  "id": 7544,
+  "cardNumber": "68427465",
+  "name": "Wicked-Breaking Flamberge - Baou",
+  "description": "Send 1 card from your hand to the Graveyard; equip this card to a monster. It gains 500 ATK. Negate the effects of monsters destroyed by battle with the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

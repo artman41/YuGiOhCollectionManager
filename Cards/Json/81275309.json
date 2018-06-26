@@ -1,0 +1,16 @@
+{
+  "id": 2868,
+  "cardNumber": "81275309",
+  "name": "General Raiho of the Ice Barrier",
+  "description": "When an effect resolves that was activated by an Effect Monster that was on your opponent's side of the field, they must discard 1 card or the effect is negated (their choice).",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

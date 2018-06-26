@@ -1,0 +1,16 @@
+{
+  "id": 6039,
+  "cardNumber": "32391631",
+  "name": "Savage Colosseum",
+  "description": "If a monster attacks, at the end of the Damage Step: Its controller gains 300 LP. All monsters must attack, if able. During the End Phase: Destroy all face-up Attack Position monsters the turn player controls, that did not declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

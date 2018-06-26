@@ -1,0 +1,16 @@
+{
+  "id": 8284,
+  "cardNumber": "99030164",
+  "name": "Happy Lover",
+  "description": "Enemies become overjoyed when struck by the Heart Ray emitted from the forehead of this tiny cherub.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

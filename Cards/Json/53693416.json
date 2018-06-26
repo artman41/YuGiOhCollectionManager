@@ -1,0 +1,16 @@
+{
+  "id": 2090,
+  "cardNumber": "53693416",
+  "name": "Eagle Eye",
+  "description": "When this card is Normal Summoned successfully, no Trap Cards can be activated.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

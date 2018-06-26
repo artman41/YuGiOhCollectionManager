@@ -1,0 +1,16 @@
+{
+  "id": 655,
+  "cardNumber": "53519297",
+  "name": "Blackboost",
+  "description": "Banish 2 face-up \"Blackwing\" Tuner monsters you control; draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1520,
+  "cardNumber": "46031686",
+  "name": "Damage Polarizer",
+  "description": "Activate only when an effect that inflicts damage is activated. Negate its activation and effect, and each player draws 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

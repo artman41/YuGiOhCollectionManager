@@ -1,0 +1,16 @@
+{
+  "id": 1383,
+  "cardNumber": "76763417",
+  "name": "Cyber Gymnast",
+  "description": "Once per turn: You can discard 1 card, then target 1 face-up Attack Position monster your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

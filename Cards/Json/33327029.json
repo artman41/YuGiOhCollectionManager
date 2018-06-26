@@ -1,0 +1,16 @@
+{
+  "id": 4475,
+  "cardNumber": "33327029",
+  "name": "Metalfoes Counter",
+  "description": "If a card(s) you control is destroyed by battle or card effect: Special Summon 1 \"Metalfoes\" monster from your Deck. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 face-up \"Metalfoes\" Pendulum Monster from your Extra Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

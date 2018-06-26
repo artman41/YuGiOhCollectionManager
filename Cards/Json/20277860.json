@@ -1,0 +1,16 @@
+{
+  "id": 8083,
+  "cardNumber": "20277860",
+  "name": "Armored Zombie",
+  "description": "This warrior blindly swings a deadly blade with devastating force.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

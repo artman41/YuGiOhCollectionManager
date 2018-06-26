@@ -1,0 +1,16 @@
+{
+  "id": 1237,
+  "cardNumber": "66457407",
+  "name": "Copy Plant",
+  "description": "Once per turn: You can target 1 other Plant-Type monster on the field that has a Level; this card's Level becomes that monster's current Level, until the end of this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 61,
+  "cardNumber": "35956022",
+  "name": "Acidic Downpour",
+  "description": "All EARTH monsters lose 500 ATK and gain 400 DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

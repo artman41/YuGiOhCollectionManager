@@ -1,0 +1,16 @@
+{
+  "id": 7849,
+  "cardNumber": "60087721",
+  "name": "Creator of Miracles",
+  "description": "You can shout \"ZEXAL Field!\", then target 1 \"Number C39\" Xyz Monster you control; this turn, it can attack your opponent directly. If you have activated the effects of \"Creator of Hope\" and \"Winning Formula\" previously this Duel, add this additional effect during that direct attack.<br>â— This turn, if it inflicts battle damage to your opponent, you win the Duel.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

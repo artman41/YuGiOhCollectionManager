@@ -1,0 +1,16 @@
+{
+  "id": 1465,
+  "cardNumber": "19580308",
+  "name": "D/D Lamia",
+  "description": "If this card is in your hand or Graveyard: You can send 1 \"D/D\" or \"Dark Contract\" card from your hand or face-up from your field to the Graveyard, except \"D/D Lamia\"; Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"D/D Lamia\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

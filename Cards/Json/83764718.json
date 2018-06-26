@@ -1,0 +1,16 @@
+{
+  "id": 4623,
+  "cardNumber": "83764718",
+  "name": "Monster Reborn",
+  "description": "Target 1 monster in either player's Graveyard; Special Summon it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

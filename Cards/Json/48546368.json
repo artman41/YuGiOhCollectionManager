@@ -1,0 +1,16 @@
+{
+  "id": 3341,
+  "cardNumber": "48546368",
+  "name": "Herald of Ultimateness",
+  "description": "You can Ritual Summon this card with \"Oracle of the Herald\". Must be Ritual Summoned, and cannot be Special Summoned by other ways. During either player's turn, when your opponent would Special Summon a monster(s), OR activates a Spell Card, Trap Card, or monster effect: You can send 1 Fairy-Type monster from your hand to the Graveyard; negate the Special Summon or activation, and if you do, destroy that card.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

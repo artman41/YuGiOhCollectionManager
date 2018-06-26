@@ -1,0 +1,16 @@
+{
+  "id": 5876,
+  "cardNumber": "38815069",
+  "name": "Rinyan, Lightsworn Rogue",
+  "description": "FLIP: Target 1 \"Lightsworn\" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8930,
+  "cardNumber": "89462956",
+  "name": "Dealer's Choice",
+  "description": "Both players shuffle their Decks, and if they do, they each draw 1 card, then each player discards 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

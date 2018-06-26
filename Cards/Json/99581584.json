@@ -1,0 +1,16 @@
+{
+  "id": 3221,
+  "cardNumber": "99581584",
+  "name": "Guard Penguin",
+  "description": "When you take damage from a card effect (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

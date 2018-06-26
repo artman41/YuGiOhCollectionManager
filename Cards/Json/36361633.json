@@ -1,0 +1,16 @@
+{
+  "id": 6986,
+  "cardNumber": "36361633",
+  "name": "Threatening Roar",
+  "description": "Your opponent cannot declare an attack this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

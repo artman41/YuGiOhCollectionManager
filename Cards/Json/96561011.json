@@ -1,0 +1,16 @@
+{
+  "id": 5764,
+  "cardNumber": "96561011",
+  "name": "Red-Eyes Darkness Dragon",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Red-Eyes B. Dragon\" and cannot be Special Summoned by other ways. This card gains 300 ATK for each Dragon-Type monster in your Graveyard.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

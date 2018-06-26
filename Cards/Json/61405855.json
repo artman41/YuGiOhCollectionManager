@@ -1,0 +1,16 @@
+{
+  "id": 6817,
+  "cardNumber": "61405855",
+  "name": "Sword of Dragon's Soul",
+  "description": "This card can only be equipped to a Warrior-Type monster. A monster equipped with this card increases its ATK by 700 points. A Dragon-Type monster that battles with the monster equipped with this card is destroyed at the end of the Battle Phase. (Damage calculation is applied normally.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

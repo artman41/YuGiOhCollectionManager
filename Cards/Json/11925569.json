@@ -1,0 +1,16 @@
+{
+  "id": 3464,
+  "cardNumber": "11925569",
+  "name": "Hunting Instinct",
+  "description": "When a monster(s) is Special Summoned to your opponent's side of the field: Special Summon 1 Dinosaur-Type monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

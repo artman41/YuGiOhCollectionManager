@@ -1,0 +1,16 @@
+{
+  "id": 3752,
+  "cardNumber": "52768103",
+  "name": "KA-2 Des Scissors",
+  "description": "When this card destroys a monster and sends it to the Graveyard as a result of battle, inflict damage to your opponent's Life Points equal to the Level of the monster x 500 points.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

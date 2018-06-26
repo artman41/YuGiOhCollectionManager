@@ -1,0 +1,16 @@
+{
+  "id": 8645,
+  "cardNumber": "35322812",
+  "name": "Woodborg Inpachi",
+  "description": "The new form of the enigmatic Inpachi, remodeled by cutting-edge Dark World technology. Maneuverability has been sacrificed for strong armor, which is considered more important.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

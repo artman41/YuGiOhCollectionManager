@@ -1,0 +1,16 @@
+{
+  "id": 3520,
+  "cardNumber": "9995766",
+  "name": "Imperial Custom",
+  "description": "Face-up Continuous Trap Cards cannot be destroyed, except \"Imperial Custom\". You can control only 1 \"Imperial Custom\".",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

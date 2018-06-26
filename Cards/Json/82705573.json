@@ -1,0 +1,16 @@
+{
+  "id": 466,
+  "cardNumber": "82705573",
+  "name": "Backfire",
+  "description": "When a FIRE monster(s) you control is destroyed and sent to the Graveyard: Inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

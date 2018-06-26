@@ -1,0 +1,16 @@
+{
+  "id": 5171,
+  "cardNumber": "23327298",
+  "name": "Parallel Selection",
+  "description": "Activate only when a Synchro Monster you control is destroyed by your opponent (either by battle or by card effect) and sent to the Graveyard. Select 1 of your removed from play Spell Cards and add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

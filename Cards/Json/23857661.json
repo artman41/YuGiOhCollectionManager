@@ -1,0 +1,16 @@
+{
+  "id": 873,
+  "cardNumber": "23857661",
+  "name": "Bujingi Fox",
+  "description": "During either player's turn: You can banish this card from your Graveyard and send 1 \"Bujin\" monster from your hand to the Graveyard; you take no damage this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

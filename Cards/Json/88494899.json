@@ -1,0 +1,16 @@
+{
+  "id": 4411,
+  "cardNumber": "88494899",
+  "name": "Medium of the Ice Barrier",
+  "description": "If your opponent controls 4 or more cards than you do, you can Special Summon this card (from your hand). Your opponent can only activate 1 Spell/Trap Card each turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

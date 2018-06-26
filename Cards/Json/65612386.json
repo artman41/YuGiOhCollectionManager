@@ -1,0 +1,16 @@
+{
+  "id": 248,
+  "cardNumber": "65612386",
+  "name": "Angmarl the Fiendish Monarch",
+  "description": "When this card is Tribute Summoned: You can banish 1 Spell Card from your Graveyard; add 1 card with the same name as the banished Spell Card from your Deck to your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

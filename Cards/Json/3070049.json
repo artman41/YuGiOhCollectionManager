@@ -1,0 +1,16 @@
+{
+  "id": 6348,
+  "cardNumber": "3070049",
+  "name": "Snow Dragon",
+  "description": "When this card is destroyed by battle or by a card effect and sent to the Graveyard: Place 1 Ice Counter on each face-up monster on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

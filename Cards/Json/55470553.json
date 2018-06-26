@@ -1,0 +1,16 @@
+{
+  "id": 4983,
+  "cardNumber": "55470553",
+  "name": "Number 98: Antitopian",
+  "description": "2 Level 4 monsters<br>When any player's monster declares an attack: You can detach 1 Xyz Material from this card; change that monster to Defense Position. During either player's turn, while this card is in your Graveyard: You can target 1 \"Utopia\" monster on the field; Special Summon this card in Defense Position, and if you do, attach that monster to this card as an Xyz Material. You can only use this effect of \"Number 98: Antitopian\" once per turn.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

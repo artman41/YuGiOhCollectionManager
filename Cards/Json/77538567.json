@@ -1,0 +1,16 @@
+{
+  "id": 1539,
+  "cardNumber": "77538567",
+  "name": "Dark Bribe",
+  "description": "When an opponent's Spell/Trap Card is activated: Your opponent draws 1 card, also negate the Spell/Trap activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

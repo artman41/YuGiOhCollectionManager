@@ -1,0 +1,16 @@
+{
+  "id": 2967,
+  "cardNumber": "45894482",
+  "name": "Gilasaurus",
+  "description": "You can Special Summon this card (from your hand). If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

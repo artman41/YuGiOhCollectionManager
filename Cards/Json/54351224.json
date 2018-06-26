@@ -1,0 +1,16 @@
+{
+  "id": 5909,
+  "cardNumber": "54351224",
+  "name": "Ritual Weapon",
+  "description": "Equip only to a Level 6 or lower Ritual Monster. It gains 1500 ATK and DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 766,
+  "cardNumber": "57409948",
+  "name": "Bombardment Beetle",
+  "description": "FLIP: Pick up and see 1 face-down Defense Position Monster Card on your opponent's side of the field. If it is an Effect Monster, destroy it (its Flip Effect is not activated), and if the card is not, return it to its original position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

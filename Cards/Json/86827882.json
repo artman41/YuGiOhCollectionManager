@@ -1,0 +1,16 @@
+{
+  "id": 4893,
+  "cardNumber": "86827882",
+  "name": "Nordic Relic Megingjord",
+  "description": "Target 1 \"Aesir\" or \"Nordic\" monster you control; its ATK and DEF each become double its original ATK and DEF, until the end of this turn, but it cannot attack your opponent directly this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

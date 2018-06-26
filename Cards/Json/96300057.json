@@ -1,0 +1,16 @@
+{
+  "id": 7454,
+  "cardNumber": "96300057",
+  "name": "W-Wing Catapult",
+  "description": "Once per turn, you can equip this card to a \"V-Tiger Jet\" you control, OR unequip it to Special Summon this card in face-up Attack Position. When equipped to a monster by this card's effect, the equipped monster gains 400 ATK and DEF. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Union\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

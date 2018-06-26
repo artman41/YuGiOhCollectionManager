@@ -1,0 +1,16 @@
+{
+  "id": 5744,
+  "cardNumber": "72318602",
+  "name": "Red Gardna",
+  "description": "During either player's turn, when your opponent activates a card or effect while you control a \"Red Dragon Archfiend\" monster: You can send this card from your hand to the Graveyard; this turn, monsters you control cannot be destroyed by your opponent's card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

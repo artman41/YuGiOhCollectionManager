@@ -1,0 +1,16 @@
+{
+  "id": 5803,
+  "cardNumber": "50185950",
+  "name": "Relinkuriboh",
+  "description": "If this card is Tributed: Draw 1 card. If a monster you control would be destroyed by battle, you can banish this card from your Graveyard instead.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

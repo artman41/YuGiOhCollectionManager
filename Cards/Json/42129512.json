@@ -1,0 +1,16 @@
+{
+  "id": 8107,
+  "cardNumber": "42129512",
+  "name": "Big Koala",
+  "description": "A species of huge Des Koala. He's meek, but people are afraid of him because he's very powerful.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8928,
+  "cardNumber": "19943114",
+  "name": "Cynet Regression",
+  "description": "If you Special Summon a Link Monster(s): Target 1 card on the field; destroy it, then draw 1 card. You can only activate 1 \"Cynet Regression\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

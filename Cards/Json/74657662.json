@@ -1,0 +1,16 @@
+{
+  "id": 7437,
+  "cardNumber": "74657662",
+  "name": "Vylon Material",
+  "description": "Equip only to a \"Vylon\" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

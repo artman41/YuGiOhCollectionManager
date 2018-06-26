@@ -1,0 +1,16 @@
+{
+  "id": 6447,
+  "cardNumber": "84636823",
+  "name": "Spell Canceller",
+  "description": "As long as this card remains face-up on the field, Spell Cards cannot be activated. The effects of all Spell Cards are also negated.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

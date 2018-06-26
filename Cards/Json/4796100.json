@@ -1,0 +1,16 @@
+{
+  "id": 1068,
+  "cardNumber": "4796100",
+  "name": "Chimera the Flying Mythical Beast",
+  "description": "\"Gazelle the King of Mythical Beasts\" + \"Berfomet\"<br>(This card is always treated as a \"Phantom Beast\" card.)<br>When this card is destroyed: You can target 1 \"Berfomet\" or 1 \"Gazelle the King of Mythical Beasts\" in your Graveyard; Special Summon that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

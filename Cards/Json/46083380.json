@@ -1,0 +1,16 @@
+{
+  "id": 429,
+  "cardNumber": "46083380",
+  "name": "Attraffic Control",
+  "description": "If your opponent controls 3 or more monsters, they cannot declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

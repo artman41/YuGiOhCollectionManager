@@ -1,0 +1,16 @@
+{
+  "id": 3193,
+  "cardNumber": "75292259",
+  "name": "Great Poseidon Beetle",
+  "description": "If this card targets an opponent's face-up Attack Position monster for an attack, and that monster is not destroyed by the battle, this card can attack the same monster again in a row. This effect can only be used twice per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

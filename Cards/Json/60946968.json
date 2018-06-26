@@ -1,0 +1,16 @@
+{
+  "id": 5109,
+  "cardNumber": "60946968",
+  "name": "Otherworld - The \"A\" Zone",
+  "description": "If your opponent's monster battles with an \"Alien\" monster you control, the opponent's monster loses 300 ATK and DEF during damage calculation only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

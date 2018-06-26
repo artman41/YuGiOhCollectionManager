@@ -1,0 +1,16 @@
+{
+  "id": 1633,
+  "cardNumber": "32646477",
+  "name": "Dark Strike Fighter",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>During your Main Phase 1: You can Tribute 1 monster; inflict damage to your opponent equal to the Tributed monster's Level on the field x 200. You can only use this effect of \"Dark Strike Fighter\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

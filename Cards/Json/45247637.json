@@ -1,0 +1,16 @@
+{
+  "id": 4331,
+  "cardNumber": "45247637",
+  "name": "Mark of the Rose",
+  "description": "Activate this card by banishing 1 Plant-Type monster from your Graveyard; equip this card to a monster your opponent controls. Take control of the equipped monster. Once per turn, during your End Phase: Give control of the equipped monster to your opponent. Once per turn, during your Standby Phase: Take control of the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

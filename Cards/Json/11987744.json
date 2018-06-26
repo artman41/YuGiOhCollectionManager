@@ -1,0 +1,16 @@
+{
+  "id": 8439,
+  "cardNumber": "11987744",
+  "name": "Nin-Ken Dog",
+  "description": "A Ninja dog who has mastered extreme Ninjutsu. Through hard training, it learned the technique to metamorphose into a human being.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

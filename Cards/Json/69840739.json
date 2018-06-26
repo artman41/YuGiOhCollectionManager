@@ -1,0 +1,16 @@
+{
+  "id": 372,
+  "cardNumber": "69840739",
+  "name": "Artifact Durendal",
+  "description": "2 Level 5 monsters<br>Once per turn, during either player's turn, you can activate 1 of these effects.<br>â— When a monster effect is activated on the field OR when a Normal Spell/Trap Card is activated: You can detach 1 Xyz Material from this card; the activated effect becomes \"Destroy 1 Spell/Trap Card your opponent controls\".<br>â— You can detach 1 Xyz Material from this card; each player with a hand shuffles their entire hand into the Deck, then draws the same number of cards they shuffled into the Deck.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2400,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

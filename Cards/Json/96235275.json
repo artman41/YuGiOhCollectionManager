@@ -1,0 +1,16 @@
+{
+  "id": 3669,
+  "cardNumber": "96235275",
+  "name": "Jain, Lightsworn Paladin",
+  "description": "If this card attacks an opponent's monster, it gains 300 ATK during the Damage Step only. Once per turn, during your End Phase: Send the top 2 cards of your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

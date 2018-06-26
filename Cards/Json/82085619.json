@@ -1,0 +1,16 @@
+{
+  "id": 8519,
+  "cardNumber": "82085619",
+  "name": "Shining Friendship",
+  "description": "The peacemaker among monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

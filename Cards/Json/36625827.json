@@ -1,0 +1,16 @@
+{
+  "id": 1779,
+  "cardNumber": "36625827",
+  "name": "Destiny HERO - Dread Servant",
+  "description": "When this card is Normal Summoned: Place 1 Clock Counter on \"Clock Tower Prison\". When this card is destroyed by battle and sent to the Graveyard: You can target 1 Spell/Trap Card you control; destroy that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

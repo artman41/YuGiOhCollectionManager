@@ -1,0 +1,16 @@
+{
+  "id": 8921,
+  "cardNumber": "20862918",
+  "name": "Cross Breed",
+  "description": "Banish 2 monsters from your hand and/or face-up from your field with the same original Type and Attribute but different names; add 1 monster from your Deck to your hand with the same original Type and Attribute as those monsters, but with a different name. You can only activate 1 \"Cross Breed\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

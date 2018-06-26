@@ -1,0 +1,16 @@
+{
+  "id": 4180,
+  "cardNumber": "74641045",
+  "name": "Madolche Puddingcess",
+  "description": "If this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: Shuffle this card into the Deck. While you have no monsters in your Graveyard, this card gains 800 ATK and DEF. After damage calculation, when this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

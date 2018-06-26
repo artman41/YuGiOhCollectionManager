@@ -1,0 +1,16 @@
+{
+  "id": 7770,
+  "cardNumber": "22858242",
+  "name": "Zeman the Ape King",
+  "description": "1 DARK Tuner + 1 non-Tuner Beast-Type monster<br>If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When an opponent's monster declares an attack, you can select that monster and send 1 monster from your hand or your side of the field to the Graveyard to negate the attack.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

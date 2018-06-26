@@ -1,0 +1,16 @@
+{
+  "id": 3010,
+  "cardNumber": "90957527",
+  "name": "Gladiator Beast Gaiodiaz",
+  "description": "\"Gladiator Beast Spartacus\" + 1 \"Gladiator Beast\" monster<br>This card can only be Special Summoned from your Extra Deck, by returning the above cards you control to the Deck. (You do not use \"Polymerization\".) When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Extra Deck to Special Summon 2 \"Gladiator Beast\" monsters from your Deck, except \"Gladiator Beast Spartacus\".",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

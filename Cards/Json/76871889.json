@@ -1,0 +1,16 @@
+{
+  "id": 7353,
+  "cardNumber": "76871889",
+  "name": "Vendread Nights",
+  "description": "You can discard 1 card; add 1 \"Vendread\" monster from your Deck to your hand. You can only use this effect of \"Vendread Nights\" once per turn. When your \"Vendread\" monster destroys an opponent's monster by battle: You can banish 1 \"Vendread\" monster from your GY; it can attack an opponent's monster again in a row.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

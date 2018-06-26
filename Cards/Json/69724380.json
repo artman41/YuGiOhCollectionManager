@@ -1,0 +1,16 @@
+{
+  "id": 6936,
+  "cardNumber": "69724380",
+  "name": "Terrible Deal",
+  "description": "Activate only by paying 1000 Life Points when your opponent activates a Spell Card. Your opponent discards 1 random card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

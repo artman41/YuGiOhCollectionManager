@@ -1,0 +1,16 @@
+{
+  "id": 6463,
+  "cardNumber": "84117021",
+  "name": "Spell Wall",
+  "description": "Activate 1 of these effects. Your opponent takes no further damage this turn.<br>â— During this turn, no Summon of a Spellcaster-Type monster can be negated, and when a Spellcaster-Type monster is Summoned, your opponent cannot activate cards or effects.<br>â— Target 1 Spellcaster-Type monster you control; if it attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6129,
+  "cardNumber": "23401839",
+  "name": "Senju of the Thousand Hands",
+  "description": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

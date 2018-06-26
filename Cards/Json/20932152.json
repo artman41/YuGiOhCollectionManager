@@ -1,0 +1,16 @@
+{
+  "id": 5596,
+  "cardNumber": "20932152",
+  "name": "Quickdraw Synchron",
+  "description": "You can Special Summon this card (from your hand) by sending 1 monster from your hand to the Graveyard. For a Synchro Summon, you can substitute this card for any 1 \"Synchron\" Tuner monster. Cannot be used as a Synchro Material, except for the Synchro Summon of a monster that lists a \"Synchron\" monster as a Tuner.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

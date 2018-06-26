@@ -1,0 +1,16 @@
+{
+  "id": 1607,
+  "cardNumber": "20522190",
+  "name": "Dark Mirror Force",
+  "description": "When an opponent's monster declares an attack: Banish all Defense Position monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

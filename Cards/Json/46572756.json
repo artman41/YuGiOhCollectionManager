@@ -1,0 +1,16 @@
+{
+  "id": 5607,
+  "cardNumber": "46572756",
+  "name": "R-Genex Ultimum",
+  "description": "When this face-up card on the field is destroyed and sent to the Graveyard, you can select 2 \"Genex\" monsters from your Graveyard, and return them to the Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

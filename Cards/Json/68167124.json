@@ -1,0 +1,16 @@
+{
+  "id": 6626,
+  "cardNumber": "68167124",
+  "name": "Stinging Swordsman",
+  "description": "When this card inflicts Battle Damage to your opponent: Return all face-up cards in your opponent's Spell &amp; Trap Card Zones to the hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 474,
+  "cardNumber": "76004142",
+  "name": "Bad Luck Blast",
+  "description": "Target 1 face-up monster your opponent controls; take damage equal to half its ATK, then inflict damage to your opponent, equal to the damage you took. If this card you control is destroyed by an opponent's card and sent to your Graveyard: Inflict 1000 damage to your opponent. You can only activate 1 \"Bad Luck Blast\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

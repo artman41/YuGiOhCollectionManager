@@ -1,0 +1,16 @@
+{
+  "id": 7722,
+  "cardNumber": "30398342",
+  "name": "Yang Zing Creation",
+  "description": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: You can Special Summon 1 \"Yang Zing\" monster from your Deck. You cannot Special Summon monsters from the Extra Deck, except Synchro Monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

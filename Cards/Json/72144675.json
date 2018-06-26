@@ -1,0 +1,16 @@
+{
+  "id": 7159,
+  "cardNumber": "72144675",
+  "name": "Troposphere",
+  "description": "If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1896,
+  "cardNumber": "89914395",
+  "name": "Divine Relic Mjollnir",
+  "description": "Target 1 \"Aesir\" monster you control; it can make a second attack during each Battle Phase this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

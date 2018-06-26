@@ -1,0 +1,16 @@
+{
+  "id": 3009,
+  "cardNumber": "73285669",
+  "name": "Gladiator Beast Essedarii",
+  "description": "2 \"Gladiator Beast\" monsters<br>Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".)",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

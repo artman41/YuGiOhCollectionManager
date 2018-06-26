@@ -1,0 +1,16 @@
+{
+  "id": 3042,
+  "cardNumber": "18658572",
+  "name": "Goblin Circus",
+  "description": "During each of your End Phases: Reveal the bottom card of your Deck, then place it on the top of the Deck or banish it face-down.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

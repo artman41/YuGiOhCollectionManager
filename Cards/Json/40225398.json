@@ -1,0 +1,16 @@
+{
+  "id": 7210,
+  "cardNumber": "40225398",
+  "name": "Twin-Sword Marauder",
+  "description": "Once per Battle Phase, if this card attacks a Defense Position monster, it can make a second attack in a row. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

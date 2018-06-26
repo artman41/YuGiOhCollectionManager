@@ -1,0 +1,16 @@
+{
+  "id": 7005,
+  "cardNumber": "10097168",
+  "name": "Tiger Dragon",
+  "description": "When this card is Tribute Summoned by Tributing a Dragon-Type monster: You can target up to 2 face-down Spell/Trap Cards your opponent controls; destroy those targets.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

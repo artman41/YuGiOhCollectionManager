@@ -1,0 +1,16 @@
+{
+  "id": 5676,
+  "cardNumber": "9190563",
+  "name": "RAM Clouder",
+  "description": "You can Tribute 1 monster, then target 1 Cyberse monster in your GY; Special Summon it. You can only use this effect of \"RAM Clouder\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

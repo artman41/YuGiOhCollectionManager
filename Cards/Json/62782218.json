@@ -1,0 +1,16 @@
+{
+  "id": 6303,
+  "cardNumber": "62782218",
+  "name": "Skull Conductor",
+  "description": "If this card is face-up on the field at the end of the Battle Phase: Destroy this face-up card. You can send this card from your hand to the Graveyard; Special Summon up to 2 Zombie-Type monsters from your hand whose combined ATK is exactly 2000.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

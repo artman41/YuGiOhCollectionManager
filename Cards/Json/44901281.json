@@ -1,0 +1,16 @@
+{
+  "id": 5979,
+  "cardNumber": "44901281",
+  "name": "Saber Hole",
+  "description": "Activate only while you control a face-up \"X-Saber\" monster. Negate the Summon of a monster and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

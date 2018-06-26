@@ -1,0 +1,16 @@
+{
+  "id": 5739,
+  "cardNumber": "77336644",
+  "name": "Red Dragon Archfiend/Assault Mode",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card attacks, destroy all other monsters after damage calculation. When this card on the field is destroyed, you can Special Summon 1 \"Red Dragon Archfiend\" from your Graveyard.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

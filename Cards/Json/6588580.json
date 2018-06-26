@@ -1,0 +1,16 @@
+{
+  "id": 6972,
+  "cardNumber": "6588580",
+  "name": "Thermal Genex",
+  "description": "\"Genex Controller\" + 1 or more non-Tuner FIRE monsters<br>This card gains 200 ATK for each FIRE monster in your Graveyard. If this card destroys an opponent's monster by battle, inflict damage to your opponent equal to the number of \"Genex\" monsters in your Graveyard x 200.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

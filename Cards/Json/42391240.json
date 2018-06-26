@@ -1,0 +1,16 @@
+{
+  "id": 1200,
+  "cardNumber": "42391240",
+  "name": "Constellar Antares",
+  "description": "When this card is Normal or Special Summoned: You can target 1 \"Constellar\" monster in your Graveyard; add that target to your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

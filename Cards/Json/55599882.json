@@ -1,0 +1,16 @@
+{
+  "id": 890,
+  "cardNumber": "55599882",
+  "name": "Bujintervention",
+  "description": "Target 1 \"Bujin\" monster on the field; apply this effect to it for the rest of this turn. Each time it destroys a monster by battle whose current ATK is greater than or equal to the targeted monster's original ATK, and sends it to the Graveyard: Banish the destroyed monster, and if you do, banish all monsters from your opponent's hand, Main Deck, Extra Deck, and Graveyard with the same name that the destroyed monster had in the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

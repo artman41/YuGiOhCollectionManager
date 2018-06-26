@@ -1,0 +1,16 @@
+{
+  "id": 5302,
+  "cardNumber": "42709949",
+  "name": "Phalanx Pike",
+  "description": "The equipped monster gains 900 ATK for each card in either Graveyard that has the same name it does.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

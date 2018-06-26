@@ -1,0 +1,16 @@
+{
+  "id": 5175,
+  "cardNumber": "50152549",
+  "name": "Paralyzing Potion",
+  "description": "A non Machine-Type monster equipped with this card cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

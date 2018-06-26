@@ -1,0 +1,16 @@
+{
+  "id": 5440,
+  "cardNumber": "76403456",
+  "name": "Power Wall",
+  "description": "During damage calculation, when you would take battle damage from an opponent's attacking monster: Send 1 card from the top of your Deck to the Graveyard for every 500 damage (round up) you are about to take, also you take no battle damage from that battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

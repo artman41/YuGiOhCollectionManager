@@ -1,0 +1,16 @@
+{
+  "id": 998,
+  "cardNumber": "28890974",
+  "name": "Celestial Transformation",
+  "description": "Special Summon 1 Fairy monster from your hand. That monster's ATK is halved, also it is destroyed during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

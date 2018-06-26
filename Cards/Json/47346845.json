@@ -1,0 +1,16 @@
+{
+  "id": 506,
+  "cardNumber": "47346845",
+  "name": "Batteryman AAA",
+  "description": "When this card is Normal Summoned or flipped face-up, you can Special Summon 1 \"Batteryman AAA\" from your hand or Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

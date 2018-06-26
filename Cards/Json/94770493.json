@@ -1,0 +1,16 @@
+{
+  "id": 1958,
+  "cardNumber": "94770493",
+  "name": "Double or Nothing!",
+  "description": "When a monster's attack is negated: Target that monster; during this Battle Phase, it can attack once again, and if it does, its ATK is doubled during the Damage Step only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

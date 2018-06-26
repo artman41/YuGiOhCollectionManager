@@ -1,0 +1,16 @@
+{
+  "id": 557,
+  "cardNumber": "6625096",
+  "name": "Beautunaful Princess",
+  "description": "When this card is Normal or Special Summoned: You can banish this card; Special Summon 1 Level 4 or lower Fish-Type monster from your Deck, except \"Beautunaful Princess\". You can only use this effect of \"Beautunaful Princess\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

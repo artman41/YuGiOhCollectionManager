@@ -1,0 +1,16 @@
+{
+  "id": 48,
+  "cardNumber": "60202749",
+  "name": "Abyss-sphere",
+  "description": "Special Summon 1 \"Mermail\" monster from your Deck. Its effects are negated. You cannot activate any Spell Cards. When this card leaves the field, destroy that monster. Destroy this card during your opponent's next End Phase after activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3722,
+  "cardNumber": "60800381",
+  "name": "Junk Warrior",
+  "description": "\"Junk Synchron\" + 1 or more non-Tuner monsters<br>If this card is Synchro Summoned: It gains ATK equal to the total ATK of all Level 2 or lower monsters you currently control.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

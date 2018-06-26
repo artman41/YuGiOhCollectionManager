@@ -1,0 +1,16 @@
+{
+  "id": 5808,
+  "cardNumber": "61656650",
+  "name": "Remote Revenge",
+  "description": "Activate only when a monster you control is targeted by a Spell, Trap, or Effect Monster's effect that destroys 1 monster on the field. Switch the target to an appropriate monster your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

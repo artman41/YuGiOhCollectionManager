@@ -1,0 +1,16 @@
+{
+  "id": 6793,
+  "cardNumber": "77060848",
+  "name": "Svartalf of the Nordic Alfar",
+  "description": "When this card is Normal Summoned: You can target 1 \"Nordic\" monster in your Graveyard; add that target to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

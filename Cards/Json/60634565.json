@@ -1,0 +1,16 @@
+{
+  "id": 5813,
+  "cardNumber": "60634565",
+  "name": "Reptilianne Hydra",
+  "description": "1 \"Reptilianne\" Tuner + 1 or more non-Tuner monsters<br> When this card is Synchro Summoned, destroy all face-up monsters with 0 ATK that your opponent controls, and draw 1 card for each monster destroyed.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

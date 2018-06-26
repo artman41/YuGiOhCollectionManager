@@ -1,0 +1,16 @@
+{
+  "id": 7484,
+  "cardNumber": "58924378",
+  "name": "Wattcastle",
+  "description": "Any monster that attacks a \"Watt\" monster loses 1000 ATK after damage calculation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

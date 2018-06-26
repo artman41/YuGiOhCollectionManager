@@ -1,0 +1,16 @@
+{
+  "id": 7372,
+  "cardNumber": "66698383",
+  "name": "Vermillion Dragon Mech",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn: You can banish 1 Tuner from your hand, field, or Graveyard, then target 1 card on the field; destroy it. If this Synchro Summoned card is destroyed by card effect and sent to the Graveyard: You can target 1 of your banished Tuners; add it to your hand.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

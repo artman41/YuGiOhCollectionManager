@@ -1,0 +1,16 @@
+{
+  "id": 5301,
+  "cardNumber": "82946847",
+  "name": "Petiteranodon",
+  "description": "If this card is destroyed by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or higher Dinosaur-Type monster from your Deck, but it cannot attack this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

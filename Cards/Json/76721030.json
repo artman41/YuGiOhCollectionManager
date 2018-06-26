@@ -1,0 +1,16 @@
+{
+  "id": 7230,
+  "cardNumber": "76721030",
+  "name": "Tyrant's Tirade",
+  "description": "Tribute 2 monsters. Effects of Effect Monsters that activate in the hand or on the field cannot be activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

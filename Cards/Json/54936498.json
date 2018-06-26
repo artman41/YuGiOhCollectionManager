@@ -1,0 +1,16 @@
+{
+  "id": 3587,
+  "cardNumber": "54936498",
+  "name": "Influence Dragon",
+  "description": "Once per turn: You can target 1 face-up monster you control; it becomes Dragon-Type until the End Phase.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

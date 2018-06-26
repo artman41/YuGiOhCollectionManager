@@ -1,0 +1,16 @@
+{
+  "id": 1996,
+  "cardNumber": "28563545",
+  "name": "Dragon Seeker",
+  "description": "When this card is Normal Summoned or Flip Summoned, destroy 1 face-up Dragon-Type monster on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

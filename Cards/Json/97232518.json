@@ -1,0 +1,16 @@
+{
+  "id": 42,
+  "cardNumber": "97232518",
+  "name": "Abyss Stungray",
+  "description": "Special Summon this card as an Effect Monster (Thunder-Type/LIGHT/Level 5/ATK 1900/DEF 0). (This card is also still a Trap Card.) If Summoned this way, this card cannot be destroyed by battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

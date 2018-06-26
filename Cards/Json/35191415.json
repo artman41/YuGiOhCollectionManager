@@ -1,0 +1,16 @@
+{
+  "id": 4230,
+  "cardNumber": "35191415",
+  "name": "Magician of Dark Illusion",
+  "description": "This card's name becomes \"Dark Magician\" while it is on the field. You can only use each of these effects of \"Magician of Dark Illusion\" once per turn.<br>â— During your opponent's turn, if you activate a Spell/Trap Card or effect (except during the Damage Step): You can Special Summon this card from your hand.<br>â— If you activate a Spell/Trap Card or effect while this card is face-up on your field (except during the Damage Step): You can target 1 \"Dark Magician\" in your Graveyard; Special Summon it. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

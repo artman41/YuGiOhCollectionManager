@@ -1,0 +1,16 @@
+{
+  "id": 1869,
+  "cardNumber": "74582050",
+  "name": "Dinomist Eruption",
+  "description": "If a \"Dinomist\" monster(s) you control is destroyed by battle or card effect: Target 1 card your opponent controls; destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

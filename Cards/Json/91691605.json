@@ -1,0 +1,16 @@
+{
+  "id": 1782,
+  "cardNumber": "91691605",
+  "name": "Destiny HERO - Drilldark",
+  "description": "If this card is Normal or Special Summoned: You can Special Summon 1 \"Destiny HERO\" monster from your hand with ATK less than or equal to this card's ATK on the field. You can only use this effect of \"Destiny HERO - Drilldark\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

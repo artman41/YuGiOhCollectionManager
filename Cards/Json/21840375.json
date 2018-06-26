@@ -1,0 +1,16 @@
+{
+  "id": 3397,
+  "cardNumber": "21840375",
+  "name": "Hidden Spellbook",
+  "description": "During your turn: Target 2 Spell Cards in your Graveyard; shuffle those targets into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

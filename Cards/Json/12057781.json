@@ -1,0 +1,16 @@
+{
+  "id": 8264,
+  "cardNumber": "12057781",
+  "name": "Goblin Calligrapher",
+  "description": "A Goblin who devotes himself to mastering perfect calligraphy of the word \"False\". He gives his all to each stroke.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4654,
+  "cardNumber": "14613029",
+  "name": "Morphtronic Mix-up",
+  "description": "If you control 2 or more face-up \"Morphtronic\" monsters, select 2 cards your opponent controls. Destroy 1 card of your opponent's choice from those 2.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

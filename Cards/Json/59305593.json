@@ -1,0 +1,16 @@
+{
+  "id": 4596,
+  "cardNumber": "59305593",
+  "name": "Mistake",
+  "description": "Neither player can add cards from their Deck to their hand except by drawing them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7766,
+  "cardNumber": "84388461",
+  "name": "Zefrasaber, Swordmaster of the Nekroz",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Nekroz\" and \"Zefra\" monsters. This effect cannot be negated.\n\n Monster Effect\n You can Tribute this card from your hand or face-up from your side of the field; Tribute monsters from your hand or field, then Ritual Summon 1 \"Nekroz\" Ritual Monster from your hand whose Level exactly equals the total Levels of those monsters. You can only use this effect of \"Zefrasaber, Swordmaster of the Nekroz\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

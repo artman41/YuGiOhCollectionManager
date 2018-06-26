@@ -1,0 +1,16 @@
+{
+  "id": 5332,
+  "cardNumber": "51606429",
+  "name": "The Phantom Knights of Tomb Shield",
+  "description": "Special Summon this card in Attack Position as a Normal Monster (Warrior-Type/DARK/Level 3/ATK 0/DEF 0). (This card is NOT treated as a Trap Card.) During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Trap Card your opponent controls; negate its effects until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

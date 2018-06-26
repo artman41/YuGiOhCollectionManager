@@ -1,0 +1,16 @@
+{
+  "id": 8409,
+  "cardNumber": "29054481",
+  "name": "Mist Valley Watcher",
+  "description": "Descendant of a family that has served as Mist Valley watchman over the generations. Never missed a single thing that happened in the valley, no matter how minute.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

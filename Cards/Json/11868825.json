@@ -1,0 +1,16 @@
+{
+  "id": 3054,
+  "cardNumber": "11868825",
+  "name": "Goblin's Secret Remedy",
+  "description": "Increase your Life Points by 600 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

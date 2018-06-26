@@ -1,0 +1,16 @@
+{
+  "id": 8815,
+  "cardNumber": "70975131",
+  "name": "Watch Cat",
+  "description": "If you control no monsters: You can Special Summon this card from your hand. During your End Phase, if this card was Special Summoned this turn: You can banish this card; Set 1 Continuous Spell directly from your Deck to your Spell &amp; Trap Zone. You can only use each effect of \"Watch Cat\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

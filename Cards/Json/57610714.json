@@ -1,0 +1,16 @@
+{
+  "id": 1144,
+  "cardNumber": "57610714",
+  "name": "Cloudian - Eye of the Typhoon",
+  "description": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When this card declares an attack, change the battle positions of all face-up monsters, except \"Cloudian\" monsters.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

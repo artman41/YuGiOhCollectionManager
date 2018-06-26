@@ -1,0 +1,16 @@
+{
+  "id": 5554,
+  "cardNumber": "37038993",
+  "name": "Puralis, the Purple Pyrotile",
+  "description": "1 Tuner + 1 non-Tuner monster<br>When this card is sent from the field to the Graveyard: All monsters your opponent currently controls lose 500 ATK.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Synchro\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

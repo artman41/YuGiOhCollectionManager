@@ -1,0 +1,16 @@
+{
+  "id": 6183,
+  "cardNumber": "28859794",
+  "name": "Shield Wing",
+  "description": "Twice per turn, this card cannot be destroyed by battle.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

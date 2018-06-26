@@ -1,0 +1,16 @@
+{
+  "id": 1918,
+  "cardNumber": "83274244",
+  "name": "Dododo Warrior",
+  "description": "You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent's Graveyard, until the end of the Damage Step.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

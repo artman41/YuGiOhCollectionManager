@@ -1,0 +1,16 @@
+{
+  "id": 8622,
+  "cardNumber": "66836598",
+  "name": "Waterdragon Fairy",
+  "description": "A water fairy that is said to be able to summon a giant sea serpent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

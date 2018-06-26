@@ -1,0 +1,16 @@
+{
+  "id": 8139,
+  "cardNumber": "53713014",
+  "name": "Crazy Fish",
+  "description": "A flying fish that attacks with its pointed head.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

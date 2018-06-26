@@ -1,0 +1,16 @@
+{
+  "id": 6417,
+  "cardNumber": "39984786",
+  "name": "Spawn Alligator",
+  "description": "During the End Phase of the turn this card was Tribute Summoned by Tributing a Reptile-Type monster: Target 1 monster that was used for the Tribute Summon of this card; Special Summon it from the Graveyard.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5101,
+  "cardNumber": "63120904",
+  "name": "Orca Mega-Fortress of Darkness",
+  "description": "By Tributing 1 \"Torpedo Fish\" on your side of the field, destroy 1 monster on the field. By Tributing 1 \"Cannonball Spear Shellfish\" on your side of the field, destroy 1 Spell or Trap Card on the field.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

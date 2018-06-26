@@ -1,0 +1,16 @@
+{
+  "id": 2969,
+  "cardNumber": "36354007",
+  "name": "Gilford the Lightning",
+  "description": "You can Tribute 3 monsters to Tribute Summon (but not Set) this card. If Summoned this way: Destroy all monsters your opponent controls.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

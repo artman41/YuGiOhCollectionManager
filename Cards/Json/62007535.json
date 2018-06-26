@@ -1,0 +1,16 @@
+{
+  "id": 6609,
+  "cardNumber": "62007535",
+  "name": "Steelswarm Longhorn",
+  "description": "Once per turn, if this card was Tribute Summoned by Tributing a \"Steelswarm\" monster(s): You can pay 1000 Life Points to target 1 monster on the field; destroy that target.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

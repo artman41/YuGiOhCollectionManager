@@ -1,0 +1,16 @@
+{
+  "id": 5049,
+  "cardNumber": "93149655",
+  "name": "Odd-Eyes Phantom Dragon",
+  "description": "Pendulum Effect\n Once per turn, when an attack is declared involving your face-up monster and an opponent's monster, if you have an \"Odd-Eyes\" card in your other Pendulum Zone: You can make that monster you control gain 1200 ATK until the end of the Battle Phase (even if this card leaves the field).\n\n Monster Effect\n When this Pendulum Summoned card inflicts battle damage to your opponent by attacking: You can inflict damage to your opponent equal to the number of \"Odd-Eyes\" cards in your Pendulum Zones x 1200. You can only use this effect of \"Odd-Eyes Phantom Dragon\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 292,
+  "cardNumber": "61175706",
+  "name": "Arcana Force IV - The Emperor",
+  "description": "When this card is Summoned, toss a coin:<br>â— Heads: All \"Arcana Force\" monsters you control gain 500 ATK.<br>â— Tails: All \"Arcana Force\" monsters you control lose 500 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

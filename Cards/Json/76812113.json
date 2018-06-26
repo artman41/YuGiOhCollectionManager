@@ -1,0 +1,16 @@
+{
+  "id": 8287,
+  "cardNumber": "76812113",
+  "name": "Harpie Lady",
+  "description": "This human-shaped animal with wings is beautiful to watch but deadly in battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

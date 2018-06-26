@@ -1,0 +1,16 @@
+{
+  "id": 798,
+  "cardNumber": "17313545",
+  "name": "Brain Golem",
+  "description": "Effects of face-up LIGHT monsters are negated. If this card destroys a LIGHT monster by battle, it can attack once again in a row.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

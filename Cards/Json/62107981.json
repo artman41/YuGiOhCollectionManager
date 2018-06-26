@@ -1,0 +1,16 @@
+{
+  "id": 2190,
+  "cardNumber": "62107981",
+  "name": "Elemental HERO Knospe",
+  "description": "Each time this card inflicts Battle Damage to your opponent: It gains 100 ATK and loses 100 DEF. While you control another face-up \"Elemental HERO\" monster, your opponent cannot target this card for an attack, and this card can attack your opponent directly.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

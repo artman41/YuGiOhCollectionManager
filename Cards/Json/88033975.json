@@ -1,0 +1,16 @@
+{
+  "id": 325,
+  "cardNumber": "88033975",
+  "name": "Armades, Keeper of Boundaries",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

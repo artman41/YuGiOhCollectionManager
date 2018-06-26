@@ -1,0 +1,16 @@
+{
+  "id": 5468,
+  "cardNumber": "67503139",
+  "name": "Prediction Princess Crystaldine",
+  "description": "FLIP: You can add 1 Ritual Monster from your Deck or Graveyard to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

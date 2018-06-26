@@ -1,0 +1,16 @@
+{
+  "id": 1259,
+  "cardNumber": "94561645",
+  "name": "Counter Gate",
+  "description": "When an opponent's monster declares a direct attack: Negate the attack, and if you do, draw 1 card, then if it is a monster, immediately after this effect resolves, you can Normal Summon it in face-up Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

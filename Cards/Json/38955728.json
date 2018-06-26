@@ -1,0 +1,16 @@
+{
+  "id": 1982,
+  "cardNumber": "38955728",
+  "name": "Dragon Core Hexer",
+  "description": "Many years of dragonslaying have bathed this huntress in countless amounts of blood. Each drop gave her more power, but at a terrible price, as her cursed body now spreads the dragontaint like an epidemic. No village will take her in, and she no longer even remembers what inspired her crusade in the first place.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

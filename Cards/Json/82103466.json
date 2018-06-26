@@ -1,0 +1,16 @@
+{
+  "id": 7872,
+  "cardNumber": "82103466",
+  "name": "Divine Serpent Geh",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. If a monster you control is destroyed by your opponent's attack or card effect: You can pay half your LP; Special Summon this card from your hand. Cannot be targeted by card effects. If this card attacks and opponent's monster, that monster has its effects negated, also its ATK becomes half its original ATK, during the Damage Step only. Once per battle, if this card battles, during damage calculation (in either player's turn): You can make this card's ATK become equal to the original ATK of the monster on the field with the highest original ATK (your choice, if tied).",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3971,
+  "cardNumber": "88851326",
+  "name": "Legacy of the Duelist",
+  "description": "When your monster declares an attack: You can target 1 Spell/Trap Card your opponent controls; negate the attack, and if you do, destroy that card. Each player can only Set 1 Spell/Trap Card from their hand per turn. Monsters cannot attack the turn they were Special Summoned from the Extra Deck. During your Draw Phase, before your draw: You can give up your normal draw this turn, and if you do, add 1 monster from your Graveyard to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

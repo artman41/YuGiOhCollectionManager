@@ -1,0 +1,16 @@
+{
+  "id": 4713,
+  "cardNumber": "36607978",
+  "name": "Mystical Moon",
+  "description": "Equip only to a Beast-Warrior-Type monster. It gains 300 ATK and DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

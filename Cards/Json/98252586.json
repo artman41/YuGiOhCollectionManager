@@ -1,0 +1,16 @@
+{
+  "id": 2602,
+  "cardNumber": "98252586",
+  "name": "Follow Wind",
+  "description": "Increase the ATK and DEF of a Winged-Beast-Type monster equipped with this card by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

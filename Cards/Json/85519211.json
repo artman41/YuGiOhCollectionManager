@@ -1,0 +1,16 @@
+{
+  "id": 4540,
+  "cardNumber": "85519211",
+  "name": "Minefield Eruption",
+  "description": "Inflict 1000 damage to your opponent for each face-up \"Mine Golem\" on your side of the field. After that, destroy all face-up \"Mine Golem\"(s) on your side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

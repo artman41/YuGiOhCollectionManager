@@ -1,0 +1,16 @@
+{
+  "id": 6089,
+  "cardNumber": "96334243",
+  "name": "Sea Monster of Theseus",
+  "description": "2 Tuners",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Fusion\",\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

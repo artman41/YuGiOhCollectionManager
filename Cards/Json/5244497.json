@@ -1,0 +1,16 @@
+{
+  "id": 943,
+  "cardNumber": "5244497",
+  "name": "Cameraclops",
+  "description": "If this card attacks a face-up monster on the field, at the start of the Damage Step: Destroy that monster. Its DEF must be higher than this card's ATK to activate and to resolve this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

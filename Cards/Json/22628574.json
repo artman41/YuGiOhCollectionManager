@@ -1,0 +1,16 @@
+{
+  "id": 2423,
+  "cardNumber": "22628574",
+  "name": "Fake Feather",
+  "description": "Send 1 \"Blackwing\" monster from your hand to the Graveyard and select 1 Normal Trap Card in your opponent's Graveyard. The effect of this card will be the same as the selected Normal Trap Card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

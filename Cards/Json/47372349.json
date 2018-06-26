@@ -1,0 +1,16 @@
+{
+  "id": 8048,
+  "cardNumber": "47372349",
+  "name": "Acrobat Monkey",
+  "description": "An autonomous monkey type robot which was developed with cutting-edge technology. It moves very acrobatically.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

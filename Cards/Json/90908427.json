@@ -1,0 +1,16 @@
+{
+  "id": 8553,
+  "cardNumber": "90908427",
+  "name": "Steel Ogre Grotto #2",
+  "description": "A mechanized iron doll with tremendous strength.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

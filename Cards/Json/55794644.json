@@ -1,0 +1,16 @@
+{
+  "id": 4369,
+  "cardNumber": "55794644",
+  "name": "Master Hyperion",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or Graveyard. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

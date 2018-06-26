@@ -1,0 +1,16 @@
+{
+  "id": 3561,
+  "cardNumber": "74823665",
+  "name": "Inferno",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing 1 FIRE monster in your Graveyard from play. When this card destroys your opponent's monster and sends it to the Graveyard as a result of battle, inflict 1500 points of damage to your opponent's Life Points.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

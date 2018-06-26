@@ -1,0 +1,16 @@
+{
+  "id": 8249,
+  "cardNumber": "49370026",
+  "name": "Genin",
+  "description": "A creature that defeats its enemies using sleight-of-hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

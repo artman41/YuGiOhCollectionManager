@@ -1,0 +1,16 @@
+{
+  "id": 1931,
+  "cardNumber": "76922029",
+  "name": "Don Zaloog",
+  "description": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:<br>â— Discard 1 random card from their hand.<br>â— Send the top 2 cards of their Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

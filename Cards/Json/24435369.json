@@ -1,0 +1,16 @@
+{
+  "id": 4444,
+  "cardNumber": "24435369",
+  "name": "Mermaid Knight",
+  "description": "While \"Umi\" is face-up on the field, this card can attack twice during the same Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

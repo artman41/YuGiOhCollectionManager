@@ -1,0 +1,16 @@
+{
+  "id": 6443,
+  "cardNumber": "27660735",
+  "name": "Speedroid Tri-Eyed Dice",
+  "description": "During your opponent's turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

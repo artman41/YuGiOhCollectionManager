@@ -1,0 +1,16 @@
+{
+  "id": 2928,
+  "cardNumber": "99795159",
+  "name": "Ghostrick Mansion",
+  "description": "Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. All effect damage, and battle damage inflicted by monsters other than \"Ghostrick\" monsters, is halved.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

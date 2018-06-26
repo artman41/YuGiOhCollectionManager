@@ -1,0 +1,16 @@
+{
+  "id": 978,
+  "cardNumber": "22198672",
+  "name": "Castle Link",
+  "description": "Once per turn: You can target 1 Link Monster on the field; move it to a Main Monster Zone it points to on its controller's field. Once per turn: You can switch the locations of 2 Link Monsters in your Main Monster Zones or 2 Link Monsters in your opponent's Main Monster Zones.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

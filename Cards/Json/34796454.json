@@ -1,0 +1,16 @@
+{
+  "id": 7150,
+  "cardNumber": "34796454",
+  "name": "Triple Star Trion",
+  "description": "During the End Phase, if this card is in the Graveyard because it was sent there this turn as a Tribute for a successful Tribute Summon: You can Special Summon this card from the Graveyard.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

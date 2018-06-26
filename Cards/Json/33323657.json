@@ -1,0 +1,16 @@
+{
+  "id": 5535,
+  "cardNumber": "33323657",
+  "name": "Psychic Soul",
+  "description": "Tribute 1 Psychic-Type monster you control. Gain Life Points equal to the Level of the Tributed monster Ã— 300.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

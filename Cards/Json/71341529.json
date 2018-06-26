@@ -1,0 +1,16 @@
+{
+  "id": 3554,
+  "cardNumber": "71341529",
+  "name": "Infernity Knight",
+  "description": "When this card on the field is destroyed and sent to the Graveyard: You can discard 2 cards; Special Summon this card from your Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

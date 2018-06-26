@@ -1,0 +1,16 @@
+{
+  "id": 8160,
+  "cardNumber": "99261403",
+  "name": "Dark Rabbit",
+  "description": "He leaps up, down, and all around! Nobody can lay a hand on this funny bunny.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

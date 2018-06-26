@@ -1,0 +1,16 @@
+{
+  "id": 316,
+  "cardNumber": "59969392",
+  "name": "Archfiend Zombie-Skull",
+  "description": "\"Plaguespreader Zombie\" + 2+ non-Tuner Zombie monsters<br>Zombie monsters you control cannot be destroyed by card effects.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

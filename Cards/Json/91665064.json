@@ -1,0 +1,16 @@
+{
+  "id": 6116,
+  "cardNumber": "91665064",
+  "name": "Security Block",
+  "description": "Target 1 Cyberse monster on the field; this turn, neither player takes battle damage, also that monster cannot be destroyed by battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

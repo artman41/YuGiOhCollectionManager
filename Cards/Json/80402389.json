@@ -1,0 +1,16 @@
+{
+  "id": 7371,
+  "cardNumber": "80402389",
+  "name": "Verdant Sanctuary",
+  "description": "When a face-up Insect-Type monster is destroyed and sent to the Graveyard, its controller can add 1 Insect-Type monster with the same Level as the destroyed monster from their Deck to their hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

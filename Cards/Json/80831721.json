@@ -1,0 +1,16 @@
+{
+  "id": 5977,
+  "cardNumber": "80831721",
+  "name": "Sabatiel - The Philosopher's Stone",
+  "description": "If you have a \"Winged Kuriboh\" monster in your Graveyard: Pay half your Life Points; add 1 \"Polymerization\" Spell Card or \"Fusion\" Spell Card from your Deck to your hand, except \"Diffusion Wave-Motion\". If this card is in your Graveyard: You can banish 3 copies of \"Sabatiel - The Philosopher's Stone\" from your Graveyard, then target 1 monster on the field; it gains ATK equal to the ATK of the monster on the field with the highest ATK (your choice, if tied), until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8260,
+  "cardNumber": "53776525",
+  "name": "Gigobyte",
+  "description": "He has a tranquil soul, but carries a destiny that one day his heart shall be tainted by evil....",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 350,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "cardNumber": "22371016",
+  "name": "Ally of Justice Unknown Crusher",
+  "description": "When this card battles a LIGHT monster, remove that monster from play after damage calculation.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

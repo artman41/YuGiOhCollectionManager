@@ -1,0 +1,16 @@
+{
+  "id": 2917,
+  "cardNumber": "62015408",
+  "name": "Ghost Reaper &amp; Winter Cherries",
+  "description": "During either player's turn, if your opponent controls more monsters than you do: You can discard this card; reveal 1 card in your Extra Deck, then look at your opponent's Extra Deck, also banish all cards in their Extra Deck with the same name as that revealed card. You can only use this effect of \"Ghost Reaper &amp; Winter Cherries\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

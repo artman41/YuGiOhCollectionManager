@@ -1,0 +1,16 @@
+{
+  "id": 1508,
+  "cardNumber": "10755984",
+  "name": "Daigusto Eguls",
+  "description": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters<br>Once per turn, during your End Phase: You can banish 1 WIND monster from your Graveyard to target 1 face-down card your opponent controls; destroy that target.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

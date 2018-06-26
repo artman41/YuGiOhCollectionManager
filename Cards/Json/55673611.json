@@ -1,0 +1,16 @@
+{
+  "id": 5537,
+  "cardNumber": "55673611",
+  "name": "Psychic Trigger",
+  "description": "Activate only while your Life Points are lower than your opponent's. Select 2 Psychic-Type monsters in your Graveyard. Remove them from play and draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

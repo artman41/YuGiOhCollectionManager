@@ -1,0 +1,16 @@
+{
+  "id": 7883,
+  "cardNumber": "73240432",
+  "name": "Edge Imp Cotton Eater",
+  "description": "Pendulum Effect\n All Fusion Monsters you control gain 300 ATK. Once per turn, if a \"Frightfur\" Fusion Monster is Fusion Summoned to your field: You can draw 1 card.\n\n Monster Effect\n If this card is Special Summoned: You can inflict 200 damage to your opponent for each \"Frightfur\" monster in your GY. You can only use this effect of \"Edge Imp Cotton Eater\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

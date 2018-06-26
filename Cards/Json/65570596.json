@@ -1,0 +1,16 @@
+{
+  "id": 8483,
+  "cardNumber": "65570596",
+  "name": "Red Archery Girl",
+  "description": "A mermaid archer that hides in a protective shell, waiting for the right moment to strike.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

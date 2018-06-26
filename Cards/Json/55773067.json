@@ -1,0 +1,16 @@
+{
+  "id": 2066,
+  "cardNumber": "55773067",
+  "name": "Drop Off",
+  "description": "When your opponent draws for their normal draw in their Draw Phase: Your opponent discards 1 card they just drew.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

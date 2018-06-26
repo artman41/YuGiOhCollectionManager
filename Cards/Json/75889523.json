@@ -1,0 +1,16 @@
+{
+  "id": 8074,
+  "cardNumber": "75889523",
+  "name": "Archfiend Marmot of Nefariousness",
+  "description": "An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

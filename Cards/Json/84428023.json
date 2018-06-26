@@ -1,0 +1,16 @@
+{
+  "id": 7494,
+  "cardNumber": "84428023",
+  "name": "Wattjustment",
+  "description": "Equip only to a Level 3 or lower Thunder-Type monster. It gains 800 ATK and its effects are negated. Each time it inflicts battle damage to your opponent: Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

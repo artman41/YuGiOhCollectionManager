@@ -1,0 +1,16 @@
+{
+  "id": 7640,
+  "cardNumber": "44811425",
+  "name": "Worm Linx",
+  "description": "FLIP: During each End Phase, if this card is face-up, draw 1 card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

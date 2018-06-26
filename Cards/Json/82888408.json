@@ -1,0 +1,16 @@
+{
+  "id": 6961,
+  "cardNumber": "82888408",
+  "name": "The Fabled Cerburrel",
+  "description": "If this card is discarded to the Graveyard: Special Summon it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

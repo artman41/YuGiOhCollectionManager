@@ -1,0 +1,16 @@
+{
+  "id": 8413,
+  "cardNumber": "36121917",
+  "name": "Monster Egg",
+  "description": "A warrior hidden within an egg that attacks enemies by flinging eggshells.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

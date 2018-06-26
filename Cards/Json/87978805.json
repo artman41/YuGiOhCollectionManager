@@ -1,0 +1,16 @@
+{
+  "id": 5177,
+  "cardNumber": "87978805",
+  "name": "Parasitic Ticky",
+  "description": "The ATK and DEF of this card are equal to the number of tokens on the field Ã— 500.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

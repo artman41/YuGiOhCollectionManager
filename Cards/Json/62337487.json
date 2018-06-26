@@ -1,0 +1,16 @@
+{
+  "id": 2634,
+  "cardNumber": "62337487",
+  "name": "Fortress Whale",
+  "description": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Fortress Whale's Oath\".",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2350,
+  "def": 2150,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

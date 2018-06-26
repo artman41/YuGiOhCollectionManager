@@ -1,0 +1,16 @@
+{
+  "id": 343,
+  "cardNumber": "16272453",
+  "name": "Armor Ninjitsu Art of Alchemy",
+  "description": "If you control a \"Ninjitsu Art\" card: Destroy all face-up \"Ninjitsu Art\" cards you control, then draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5903,
+  "cardNumber": "65450690",
+  "name": "Ritual Foregone",
+  "description": "Pay 1000 Life Points. Special Summon 1 Ritual Monster from your hand. The Ritual Monster Special Summoned by this effect cannot attack, and is destroyed during the End Phase. Only 1 \"Ritual Foregone\" can be activated per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8109,
+  "cardNumber": "7670542",
+  "name": "Bio Plant",
+  "description": "A monster created from a major accident in an underground lab.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4306,
+  "cardNumber": "13626450",
+  "name": "Malice Dispersion",
+  "description": "Discard 1 card from your hand. Destroy all face-up Continuous Trap Cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

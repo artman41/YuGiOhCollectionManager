@@ -1,0 +1,16 @@
+{
+  "id": 8362,
+  "cardNumber": "99510761",
+  "name": "Lord of the Lamp",
+  "description": "This spirit emerges from the mystic lamp and obeys the wishes of its summoner.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

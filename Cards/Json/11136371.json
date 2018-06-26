@@ -1,0 +1,16 @@
+{
+  "id": 1311,
+  "cardNumber": "11136371",
+  "name": "Crystal Counter",
+  "description": "Send all cards in your Spell &amp; Trap Card Zone to the Graveyard. Place as many \"Crystal Beast\" monsters as possible from your Graveyard in your Spell &amp; Trap Card Zone, face-up, as Continuous Spell Cards. During the End Phase, destroy all face-up \"Crystal Beast\" cards you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

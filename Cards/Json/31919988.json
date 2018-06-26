@@ -1,0 +1,16 @@
+{
+  "id": 1562,
+  "cardNumber": "31919988",
+  "name": "Dark Diviner",
+  "description": "1 DARK Tuner + 1 non-Tuner Insect-Type monster<br>This card cannot be destroyed by battle. When this card declares an attack, if the ATK of the attack target is higher than this card: The ATK of the attack target becomes equal to this face-up card's current ATK. This change lasts until the end of the Battle Phase. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Send the top 3 cards of your opponent's Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8210,
+  "cardNumber": "2863439",
+  "name": "Fiend Reflection #2",
+  "description": "A bird-beast that summons reinforcements with a hand mirror.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

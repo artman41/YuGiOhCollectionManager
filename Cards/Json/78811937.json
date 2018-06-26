@@ -1,0 +1,16 @@
+{
+  "id": 1278,
+  "cardNumber": "78811937",
+  "name": "Creeping Darkness",
+  "description": "Banish 2 DARK monsters from your Graveyard; add 1 Level 4 DARK monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

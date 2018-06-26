@@ -1,0 +1,16 @@
+{
+  "id": 8159,
+  "cardNumber": "89558090",
+  "name": "Dark Prisoner",
+  "description": "This monster bends light to hide its image from the eyes of opponents.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8121,
+  "cardNumber": "98456117",
+  "name": "Boneheimer",
+  "description": "This monster wanders the seas, sucking dry any creatures it may encounter.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 850,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3197,
+  "cardNumber": "89405199",
+  "name": "Greed",
+  "description": "Each time a player draws cards because of a card effect, they take 500 damage during the End Phase for each card drawn by the card effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

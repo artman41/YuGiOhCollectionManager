@@ -1,0 +1,16 @@
+{
+  "id": 893,
+  "cardNumber": "44947065",
+  "name": "Burden of the Mighty",
+  "description": "Each face-up monster your opponent controls loses 100 ATK x its own Level.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4065,
+  "cardNumber": "78845026",
+  "name": "Lightwave Tuning",
+  "description": "Select 1 Level 4 LIGHT monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

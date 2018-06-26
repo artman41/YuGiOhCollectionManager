@@ -1,0 +1,16 @@
+{
+  "id": 3884,
+  "cardNumber": "15710054",
+  "name": "Krawler Axon",
+  "description": "FLIP: You can target 1 Spell/Trap on the field; destroy it.<br>If this face-up card in its owner's control leaves the field because of an opponent's card effect: You can Special Summon 2 \"Krawler\" monsters with different names from your Deck in face-down Defense Position, except \"Krawler Axon\". You can only use each effect of \"Krawler Axon\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

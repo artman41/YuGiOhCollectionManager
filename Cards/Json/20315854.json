@@ -1,0 +1,16 @@
+{
+  "id": 8203,
+  "cardNumber": "20315854",
+  "name": "Fairy Dragon",
+  "description": "This beautiful Dragon spirit harbors hidden strength.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

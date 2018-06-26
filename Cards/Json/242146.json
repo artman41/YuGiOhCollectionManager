@@ -1,0 +1,16 @@
+{
+  "id": 479,
+  "cardNumber": "242146",
+  "name": "Ballista of Rampart Smashing",
+  "description": "If the equipped monster attacks a face-down Defense Position monster, it gains 1500 ATK during damage calculation only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4821,
+  "cardNumber": "60226558",
+  "name": "Nephe Shaddoll Fusion",
+  "description": "Activate this card by declaring 1 Attribute. Equip only to a \"Shaddoll\" monster, and it becomes that Attribute. During your Main Phase: You can Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials, including the equipped monster. You can only use this effect of \"Nephe Shaddoll Fusion\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

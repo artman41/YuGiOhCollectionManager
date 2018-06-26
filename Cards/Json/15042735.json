@@ -1,0 +1,16 @@
+{
+  "id": 8303,
+  "cardNumber": "15042735",
+  "name": "Hurricail",
+  "description": "A tornado that ravages the wastelands with sharp winds that can cut to the bone.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

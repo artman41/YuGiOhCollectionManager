@@ -1,0 +1,16 @@
+{
+  "id": 8257,
+  "cardNumber": "43793530",
+  "name": "Giga Gagagigo",
+  "description": "In order to fight tremendous evil, he gained formidable power through body reconstruction, but lost his heart and his redemption.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2450,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

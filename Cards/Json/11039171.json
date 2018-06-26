@@ -1,0 +1,16 @@
+{
+  "id": 2671,
+  "cardNumber": "11039171",
+  "name": "Frightfur Wolf",
+  "description": "\"Edge Imp Sabres\" + 1 or more \"Fluffal\" monsters<br>Must be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. This card can attack a number of times each Battle Phase, up to the number of Fusion Materials used for its Fusion Summon.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

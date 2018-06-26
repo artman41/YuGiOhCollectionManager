@@ -1,0 +1,16 @@
+{
+  "id": 5823,
+  "cardNumber": "14878871",
+  "name": "Rescue Cat",
+  "description": "You can send this card to the Graveyard; Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck, but they have their effects negated, also they are destroyed during the End Phase. You can only use this effect of \"Rescue Cat\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 300,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

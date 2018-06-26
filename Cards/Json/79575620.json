@@ -1,0 +1,16 @@
+{
+  "id": 3590,
+  "cardNumber": "79575620",
+  "name": "Injection Fairy Lily",
+  "description": "If this card attacks or is attacked, during damage calculation (in either player's turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

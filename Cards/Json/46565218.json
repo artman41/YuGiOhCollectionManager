@@ -1,0 +1,16 @@
+{
+  "id": 6018,
+  "cardNumber": "46565218",
+  "name": "Santa Claws",
+  "description": "You can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position, by Tributing 1 monster they control. If Summoned this way, during the End Phase of this turn: You can draw 1 card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

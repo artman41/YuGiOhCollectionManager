@@ -1,0 +1,16 @@
+{
+  "id": 1917,
+  "cardNumber": "75421661",
+  "name": "Dododo Swordsman",
+  "description": "While this Flip Summoned card is face-up on the field, it gains 3500 ATK. When this card is flipped face-up: You can target up to 2 face-up monsters on the field; destroy them.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 0,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

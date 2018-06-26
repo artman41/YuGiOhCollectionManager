@@ -1,0 +1,16 @@
+{
+  "id": 251,
+  "cardNumber": "42364257",
+  "name": "Anti Raigeki",
+  "description": "When your opponent activates \"Raigeki\": Negate its effect, and if you do, destroy all monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

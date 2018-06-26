@@ -1,0 +1,16 @@
+{
+  "id": 4364,
+  "cardNumber": "34906152",
+  "name": "Mass Driver",
+  "description": "Tribute 1 monster on your side of the field to inflict 400 points of damage to your opponent's Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

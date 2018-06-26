@@ -1,0 +1,16 @@
+{
+  "id": 5819,
+  "cardNumber": "16008155",
+  "name": "Reptilianne Servant",
+  "description": "Destroy this card if there are face-up monsters on the field other than this card. Destroy this card when it is targeted by the effect of a Spell or Trap Card. Neither player can Normal Summon a monster while this card is face-up on the field.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

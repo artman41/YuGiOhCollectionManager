@@ -1,0 +1,16 @@
+{
+  "id": 5174,
+  "cardNumber": "79707116",
+  "name": "Paralyzing Chain",
+  "description": "When a card(s) is sent from your opponent's Deck to the Graveyard by a card effect, inflict 300 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

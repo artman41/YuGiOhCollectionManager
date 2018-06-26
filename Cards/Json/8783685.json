@@ -1,0 +1,16 @@
+{
+  "id": 8299,
+  "cardNumber": "8783685",
+  "name": "Hourglass of Life",
+  "description": "This creature grants power instead of shortening life.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

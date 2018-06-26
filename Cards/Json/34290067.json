@@ -1,0 +1,16 @@
+{
+  "id": 8136,
+  "cardNumber": "34290067",
+  "name": "Corroding Shark",
+  "description": "A zombie shark that can deliver its lethal curse with a spell.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

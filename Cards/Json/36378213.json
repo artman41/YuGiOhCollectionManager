@@ -1,0 +1,16 @@
+{
+  "id": 181,
+  "cardNumber": "36378213",
+  "name": "Ambulanceroid",
+  "description": "When a \"roid\" monster is added from your Graveyard to your hand, you can Special Summon that monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

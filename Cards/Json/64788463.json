@@ -1,0 +1,16 @@
+{
+  "id": 3823,
+  "cardNumber": "64788463",
+  "name": "King's Knight",
+  "description": "When this card is Normal Summoned while you control \"Queen's Knight\": You can Special Summon 1 \"Jack's Knight\" from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

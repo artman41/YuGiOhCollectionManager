@@ -1,0 +1,16 @@
+{
+  "id": 4658,
+  "cardNumber": "90239723",
+  "name": "Morphtronic Repair Unit",
+  "description": "Send 1 \"Morphtronic\" monster from your hand to the Graveyard and select 1 \"Morphtronic\" monster in your Graveyard. Special Summon the selected monster and equip it with this card. The equipped monster cannot change its Battle Position. When this card is removed from the Field, destroy the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

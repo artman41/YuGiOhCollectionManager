@@ -1,0 +1,16 @@
+{
+  "id": 6868,
+  "cardNumber": "30123142",
+  "name": "Synchro Strike",
+  "description": "Target Synchro Summoned monster gains 500 ATK for each Synchro Material Monster used to Summon it, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

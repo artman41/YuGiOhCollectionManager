@@ -1,0 +1,16 @@
+{
+  "id": 5025,
+  "cardNumber": "29389368",
+  "name": "Nutrient Z",
+  "description": "This card can only be activated during your opponent's Damage Step. During this turn, if you take Battle Damage of 2000 points or more, increase your Life Points by 4000 points before the damage is subtracted from your Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

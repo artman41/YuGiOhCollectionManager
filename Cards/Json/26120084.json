@@ -1,0 +1,16 @@
+{
+  "id": 6695,
+  "cardNumber": "26120084",
+  "name": "Super Double Summon",
+  "description": "Select 1 Gemini monster you control and Normal Summon it. During the End Phase of this turn, return it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

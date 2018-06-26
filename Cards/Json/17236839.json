@@ -1,0 +1,16 @@
+{
+  "id": 2551,
+  "cardNumber": "17236839",
+  "name": "Flash Fusion",
+  "description": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials. Destroy it during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

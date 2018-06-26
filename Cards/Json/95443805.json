@@ -1,0 +1,16 @@
+{
+  "id": 4590,
+  "cardNumber": "95443805",
+  "name": "Mist Valley Shaman",
+  "description": "Once per turn, you can return 1 other monster you control to the hand, to have this card gain 500 ATK until the End Phase.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5579,
+  "cardNumber": "30845999",
+  "name": "Qlipper Launch",
+  "description": "Until the end of this turn, all Normal Summoned/Set \"Qli\" monsters currently on the field gain 300 ATK, but are unaffected by other Spell/Trap effects, also their effects are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

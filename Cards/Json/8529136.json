@@ -1,0 +1,16 @@
+{
+  "id": 6060,
+  "cardNumber": "8529136",
+  "name": "Scrap Fist",
+  "description": "Target 1 \"Junk Warrior\" you control; if it battles an opponent's monster this turn while you control it, apply these effects.<br>â— Your opponent cannot activate cards or effects until the end of the Damage Step.<br>â— If it attacks a Defense Position monster, inflict piercing battle damage to your opponent.<br>â— Double any battle damage your opponent takes.<br>â— It cannot be destroyed by battle.<br>â— Destroy the opponent's monster that battled it at the end of the Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

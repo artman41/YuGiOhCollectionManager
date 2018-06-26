@@ -1,0 +1,16 @@
+{
+  "id": 5745,
+  "cardNumber": "38199696",
+  "name": "Red Medicine",
+  "description": "Increase your Life Points by 500 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

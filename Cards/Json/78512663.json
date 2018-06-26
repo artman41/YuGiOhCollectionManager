@@ -1,0 +1,16 @@
+{
+  "id": 2192,
+  "cardNumber": "78512663",
+  "name": "Elemental HERO Magma Neos",
+  "description": "\"Elemental HERO Neos\" + \"Neo-Spacian Flare Scarab\" + \"Neo-Spacian Grand Mole\"<br>Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) This card gains 400 ATK for each card on the field. During the End Phase: Shuffle this card into the Extra Deck. When this card is shuffled into the Extra Deck this way: Return all cards on the field to the hand.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6624,
+  "cardNumber": "87557188",
+  "name": "The Stern Mystic",
+  "description": "FLIP: All face-down cards on the field are turned face-up, and then returned to their original positions. No card effects are activated when cards are turned face-up.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

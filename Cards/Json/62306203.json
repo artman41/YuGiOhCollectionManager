@@ -1,0 +1,16 @@
+{
+  "id": 6002,
+  "cardNumber": "62306203",
+  "name": "Salvagent Driver",
+  "description": "If a Cyberse Link Monster you control is destroyed by an opponent's card effect while this card is in your hand or GY (except during the Damage Step): You can Special Summon this card. You can discard 1 Spell, then target 1 Cyberse monster in your GY; Special Summon it, but it cannot attack directly this turn. You can only use each effect of \"Salvagent Driver\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

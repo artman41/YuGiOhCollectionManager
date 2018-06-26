@@ -1,0 +1,16 @@
+{
+  "id": 8325,
+  "cardNumber": "68928540",
+  "name": "Kamakiriman",
+  "description": "A man-shaped mantis with two razor-sharp scythes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1150,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

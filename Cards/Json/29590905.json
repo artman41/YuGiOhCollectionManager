@@ -1,0 +1,16 @@
+{
+  "id": 6697,
+  "cardNumber": "29590905",
+  "name": "Super Junior Confrontation",
+  "description": "Activate only when an opponent's monster declares an attack. Negate the battle, and 1 monster with the lowest ATK in face-up Attack Position your opponent controls battles against 1 monster with the lowest DEF in face-up Defense Position you control. After that battle, end the Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

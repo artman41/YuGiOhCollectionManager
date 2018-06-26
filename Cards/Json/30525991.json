@@ -1,0 +1,16 @@
+{
+  "id": 7599,
+  "cardNumber": "30525991",
+  "name": "Witch Doctor of Sparta",
+  "description": "Inflict 500 damage to your opponent each time a monster(s) is Special Summoned from either player's Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

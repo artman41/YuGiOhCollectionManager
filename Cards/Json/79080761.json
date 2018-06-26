@@ -1,0 +1,16 @@
+{
+  "id": 2966,
+  "cardNumber": "79080761",
+  "name": "Gigastone Omega",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 EARTH monsters from your Graveyard. When this face-up card you control is sent to the Graveyard by a card effect, destroy all Spell and Trap Cards your opponent controls.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

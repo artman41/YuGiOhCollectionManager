@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "cardNumber": "64952266",
+  "name": "Against the Wind",
+  "description": "Select 1 \"Blackwing\" monster in your Graveyard. Take damage equal to the ATK of the selected monster, and add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

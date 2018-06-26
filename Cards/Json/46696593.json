@@ -1,0 +1,16 @@
+{
+  "id": 1289,
+  "cardNumber": "46696593",
+  "name": "Crimson Sunbird",
+  "description": "\"Faith Bird\" + \"Skull Red Bird\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

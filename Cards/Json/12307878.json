@@ -1,0 +1,16 @@
+{
+  "id": 3627,
+  "cardNumber": "12307878",
+  "name": "Invoked Purgatrio",
+  "description": "\"Aleister the Invoker\" + 1 FIRE monster<br>This card gains 200 ATK for each card your opponent controls. This card can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

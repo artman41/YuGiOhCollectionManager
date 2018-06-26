@@ -1,0 +1,16 @@
+{
+  "id": 2708,
+  "cardNumber": "37684215",
+  "name": "Fusion Sword Murasame Blade",
+  "description": "Equip only to a Warrior-Type monster. It gains 800 ATK. While equipped to a monster, this card cannot be destroyed by card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

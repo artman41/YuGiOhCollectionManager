@@ -1,0 +1,16 @@
+{
+  "id": 4021,
+  "cardNumber": "37721209",
+  "name": "Levia-Dragon - Daedalus",
+  "description": "You can send 1 face-up \"Umi\" you control to the Graveyard; destroy all other cards on the field.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

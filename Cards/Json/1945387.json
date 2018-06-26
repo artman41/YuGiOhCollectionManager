@@ -1,0 +1,16 @@
+{
+  "id": 2201,
+  "cardNumber": "1945387",
+  "name": "Elemental HERO Nova Master",
+  "description": "1 \"Elemental HERO\" monster + 1 FIRE monster<br>Must be Fusion Summoned. If this card destroys an opponent's monster by battle: Draw 1 card.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

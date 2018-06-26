@@ -1,0 +1,16 @@
+{
+  "id": 6312,
+  "cardNumber": "64306248",
+  "name": "Skull-Mark Ladybug",
+  "description": "When this card is sent to the Graveyard, increase your Life Points by 1000 points.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

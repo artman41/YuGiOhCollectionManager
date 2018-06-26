@@ -1,0 +1,16 @@
+{
+  "id": 4084,
+  "cardNumber": "90790253",
+  "name": "Little-Winguard",
+  "description": "Once per turn, during your End Phase: You can change the battle position of this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

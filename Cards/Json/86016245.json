@@ -1,0 +1,16 @@
+{
+  "id": 5479,
+  "cardNumber": "86016245",
+  "name": "Pride of the Weak",
+  "description": "When a Level 2 or lower monster you control destroys an opponent's monster by battle and sends it to the Graveyard, if you have no cards in your hand, draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

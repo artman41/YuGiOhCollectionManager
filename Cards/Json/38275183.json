@@ -1,0 +1,16 @@
+{
+  "id": 6459,
+  "cardNumber": "38275183",
+  "name": "Spell Shield Type-8",
+  "description": "Activate 1 of these effects.<br>â— When a Spell Card is activated that targets exactly 1 monster on the field: Negate the activation, and if you do, destroy it.<br>â— When a Spell Card is activated: Send 1 Spell Card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

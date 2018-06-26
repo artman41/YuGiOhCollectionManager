@@ -1,0 +1,16 @@
+{
+  "id": 2013,
+  "cardNumber": "32437102",
+  "name": "Dragonic Attack",
+  "description": "This card can only be used to equip Warrior-Type monsters. The equipped monster is treated as a Dragon-Type and increases the ATK and DEF of the equipped monster by 500 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1393,
+  "cardNumber": "76103404",
+  "name": "Cyber Petit Angel",
+  "description": "If this card is Summoned: You can add 1 \"Cyber Angel\" monster or \"Machine Angel Ritual\" from your Deck to your hand. You can only use this effect of \"Cyber Petit Angel\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

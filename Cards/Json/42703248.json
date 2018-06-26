@@ -1,0 +1,16 @@
+{
+  "id": 2956,
+  "cardNumber": "42703248",
+  "name": "Giant Trunade",
+  "description": "Return all Spell and Trap Cards on the field to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

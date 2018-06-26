@@ -1,0 +1,16 @@
+{
+  "id": 4398,
+  "cardNumber": "31533704",
+  "name": "Mecha Phantom Beast Megaraptor",
+  "description": "When a Token(s) is Special Summoned to your side of the field: Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only use this effect of \"Mecha Phantom Beast Megaraptor\" once per turn. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 1 Token; add 1 \"Mecha Phantom Beast\" monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

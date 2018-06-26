@@ -1,0 +1,16 @@
+{
+  "id": 5507,
+  "cardNumber": "29417188",
+  "name": "Psi-Blocker",
+  "description": "Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the End of your opponent's next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

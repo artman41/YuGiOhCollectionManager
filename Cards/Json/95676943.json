@@ -1,0 +1,16 @@
+{
+  "id": 2370,
+  "cardNumber": "95676943",
+  "name": "Extinction on Schedule",
+  "description": "During the Main Phase: Pay 2000 LP; make both players send all cards they control to the Graveyard at the end of the 3rd Battle Phase after this card's activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

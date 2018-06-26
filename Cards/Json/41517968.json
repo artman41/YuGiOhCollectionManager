@@ -1,0 +1,16 @@
+{
+  "id": 2175,
+  "cardNumber": "41517968",
+  "name": "Elemental HERO Darkbright",
+  "description": "\"Elemental HERO Sparkman\" + \"Elemental HERO Necroshade\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this card attacks, change it to Defense Position at the end of the Damage Step. If this card is destroyed: Target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

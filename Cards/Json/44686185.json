@@ -1,0 +1,16 @@
+{
+  "id": 8691,
+  "cardNumber": "44686185",
+  "name": "Secret Six Samurai - Hatsume",
+  "description": "You can banish 2 \"Six Samurai\" monsters from your GY and/or face-up from your field, then target 1 \"Six Samurai\" monster in your GY, except \"Secret Six Samurai - Hatsume\"; Special Summon it. You can only use this effect of \"Secret Six Samurai - Hatsume\" once per turn. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

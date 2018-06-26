@@ -1,0 +1,16 @@
+{
+  "id": 568,
+  "cardNumber": "20374520",
+  "name": "Begone, Knave!",
+  "description": "If a monster inflicts Battle Damage to a player, return the monster to its owner's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

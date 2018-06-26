@@ -1,0 +1,16 @@
+{
+  "id": 8956,
+  "cardNumber": "71344451",
+  "name": "Slash Draw",
+  "description": "Discard 1 card; Send cards from the top of your Deck to the GY equal to the number of cards your opponent controls, then, draw a card, and reveal it. If that card is \"Slash Draw\", send it to the GY, and if you do, destroy every card on the field. Then, inflict 2000 damage to your opponent for each card destroyed this way. If not, return cards from the GY to the deck equal to the number of card sent to GY. You can only activate 1 \"Slash Draw\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

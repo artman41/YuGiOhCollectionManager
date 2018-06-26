@@ -1,0 +1,16 @@
+{
+  "id": 6077,
+  "cardNumber": "48497555",
+  "name": "Scrap-Iron Statue",
+  "description": "When a Spell/Trap Card that is already face-up on your opponent's field activates its effect: Destroy that card, also, after that, Set this card face-down instead of sending it to the GY. If this card is sent to the GY: You can target 1 \"Junk\" monster in your GY; Special Summon it in Defense Position. You can only use each effect of \"Scrap-Iron Statue\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

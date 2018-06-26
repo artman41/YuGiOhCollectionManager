@@ -1,0 +1,16 @@
+{
+  "id": 3279,
+  "cardNumber": "94374859",
+  "name": "Hard-sellin' Zombie",
+  "description": "Each time a monster you control inflicts Battle Damage to your opponent, select 1 card from your opponent's Graveyard and return it to the bottom of their Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

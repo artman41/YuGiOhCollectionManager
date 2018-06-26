@@ -1,0 +1,16 @@
+{
+  "id": 3145,
+  "cardNumber": "17393207",
+  "name": "Gravekeeper's Commandant",
+  "description": "You can discard this card to the Graveyard; add 1 \"Necrovalley\" from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

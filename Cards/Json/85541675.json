@@ -1,0 +1,16 @@
+{
+  "id": 3775,
+  "cardNumber": "85541675",
+  "name": "Karakuri Anatomy",
+  "description": "Each time a \"Karakuri\" monster's battle position is changed, place 1 Karakuri Counter on this card (max. 2). You can send this card from the field to the Graveyard to draw 1 card for each Karakuri Counter on this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5248,
+  "cardNumber": "67808837",
+  "name": "Performapal King Bear",
+  "description": "Pendulum Effect\n Once per turn, during the End Phase, if this card was activated this turn: You can destroy this card, and if you do, add 1 Level 7 or higher monster to your hand, that is either in your Graveyard or face-up in your Extra Deck.\n\n Monster Effect\n Cannot be destroyed by Spell/Trap effects while in face-up Attack Position. This card gains 100 ATK for each \"Performapal\" card you control, during your Battle Phase only.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

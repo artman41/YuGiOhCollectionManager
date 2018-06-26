@@ -1,0 +1,16 @@
+{
+  "id": 4160,
+  "cardNumber": "89222931",
+  "name": "Machine King Prototype",
+  "description": "This card gains 100 ATK and DEF for each Machine-Type monster on the field, except this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

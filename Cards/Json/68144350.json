@@ -1,0 +1,16 @@
+{
+  "id": 538,
+  "cardNumber": "68144350",
+  "name": "Battlin' Boxer Switchitter",
+  "description": "When this card is Normal Summoned: You can target 1 \"Battlin' Boxer\" monster in your Graveyard; Special Summon that target. You cannot Special Summon any monsters during the turn you activate this effect, except \"Battlin' Boxer\" monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1943,
+  "cardNumber": "66395299",
+  "name": "Doppelganger",
+  "description": "When you take damage from the effect of a monster your opponent controls, inflict the same amount of damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

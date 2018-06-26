@@ -1,0 +1,16 @@
+{
+  "id": 88,
+  "cardNumber": "38837163",
+  "name": "Akz, the Pumer",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by removing from play 2 Beast-Warrior-Type monsters in your Graveyard. Once per turn, you can discard 1 Beast-Warrior-Type monster from your hand to activate 1 of the following effects: â— Double this card's ATK until the End Phase. â— This card can attack your opponent directly this turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

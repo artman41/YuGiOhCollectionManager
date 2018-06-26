@@ -1,0 +1,16 @@
+{
+  "id": 791,
+  "cardNumber": "48582558",
+  "name": "Bounzer Guard",
+  "description": "Target 1 face-up \"Bounzer\" monster you control; this turn, it cannot be targeted by other card effects, or be destroyed by battle. This turn, if an opponent's monster attacks, it must target that monster for an attack if it is still on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

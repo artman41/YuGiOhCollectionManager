@@ -1,0 +1,16 @@
+{
+  "id": 5142,
+  "cardNumber": "57902193",
+  "name": "Painful Return",
+  "description": "Your opponent chooses 1 monster in your Graveyard. During the End Phase, add that monster to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

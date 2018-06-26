@@ -1,0 +1,16 @@
+{
+  "id": 7524,
+  "cardNumber": "43487744",
+  "name": "White Hole",
+  "description": "When your opponent activates \"Dark Hole\": Monsters you control cannot be destroyed by that \"Dark Hole's\" effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

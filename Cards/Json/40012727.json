@@ -1,0 +1,16 @@
+{
+  "id": 404,
+  "cardNumber": "40012727",
+  "name": "Assault Slash",
+  "description": "Activate only while you control an \"/Assault Mode\" monster. Destroy all face-up monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

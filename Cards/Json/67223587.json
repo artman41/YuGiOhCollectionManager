@@ -1,0 +1,16 @@
+{
+  "id": 1965,
+  "cardNumber": "67223587",
+  "name": "Double Tag Team",
+  "description": "Activate only when you successfully Special Summon a \"Gladiator Beast\" monster. Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

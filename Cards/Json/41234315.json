@@ -1,0 +1,16 @@
+{
+  "id": 2422,
+  "cardNumber": "41234315",
+  "name": "Fake Explosion",
+  "description": "Activate only when an opponent's monster declares an attack. Monsters cannot be destroyed by this battle. After damage calculation, Special Summon 1 \"Summon Reactorãƒ»SK\" from your hand or Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

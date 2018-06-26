@@ -1,0 +1,16 @@
+{
+  "id": 7946,
+  "cardNumber": "53842431",
+  "name": "Mythical Beast Master Cerberus",
+  "description": "Pendulum Effect\n If you have no cards in your other Pendulum Zone: You can destroy this card, and if you do, add 1 Level 7 or lower \"Mythical Beast\" Effect Monster from your Deck to your hand. You can only use this effect of \"Mythical Beast Master Cerberus\" once per turn.\n\n Monster Effect\n Each time a Spell Card is activated, place 2 Spell Counters on this card when that Spell resolves. Cannot be destroyed by card effects, while 4 or more Spell Counters are on your field. Once per turn: You can remove 4 Spell Counters from your field, then target 1 monster your opponent controls; banish it face-up, and if you do, this card gains ATK equal to the banished monster's original ATK until the end of the opponent's turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

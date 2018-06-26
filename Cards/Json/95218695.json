@@ -1,0 +1,16 @@
+{
+  "id": 6660,
+  "cardNumber": "95218695",
+  "name": "Subterror Behemoth Dragossuary",
+  "description": "FLIP: You can activate this effect; this turn, \"Subterror\" cards you control cannot be destroyed by your opponent's card effects. You can only use this effect of \"Subterror Behemoth Dragossuary\" once per turn.<br>When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

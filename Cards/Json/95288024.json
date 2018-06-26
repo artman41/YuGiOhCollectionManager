@@ -1,0 +1,16 @@
+{
+  "id": 8527,
+  "cardNumber": "95288024",
+  "name": "Sky Dragon",
+  "description": "A flying dragon with four wings housing some very dangerous blades.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

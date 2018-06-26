@@ -1,0 +1,16 @@
+{
+  "id": 2972,
+  "cardNumber": "76543119",
+  "name": "Gimmick Puppet Des Troy",
+  "description": "You can target 1 \"Gimmick Puppet\" monster on the field; destroy it. This effect can only be used once while this card is face-up on the field. When this card is sent from the field to the Graveyard: You can Special Summon 1 or 2 \"Gimmick Puppet\" monsters from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

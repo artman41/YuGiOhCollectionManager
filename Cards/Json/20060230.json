@@ -1,0 +1,16 @@
+{
+  "id": 8285,
+  "cardNumber": "20060230",
+  "name": "Hard Armor",
+  "description": "A living suit of armor that attacks enemies with a bone-jarring tackle.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

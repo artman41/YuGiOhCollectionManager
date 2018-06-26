@@ -1,0 +1,16 @@
+{
+  "id": 8480,
+  "cardNumber": "95788410",
+  "name": "Rabidragon",
+  "description": "It's a snowfield-dwelling, giant-ear-sporting, super-acoustic, snowball-shaped mutant dragon! There's no way anybody can escape.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2950,
+  "def": 2900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

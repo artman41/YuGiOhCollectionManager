@@ -1,0 +1,16 @@
+{
+  "id": 2896,
+  "cardNumber": "67483216",
+  "name": "Genex Searcher",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Genex\" monster with 1500 or less ATK from your Deck in face-up Attack Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8885,
+  "cardNumber": "24010609",
+  "name": "Sky Striker Mecha Modules - Multirole",
+  "description": "Once per turn: You can target 1 other card you control; send that card to the GY, also your opponent cannot activate cards or effects in response to your Spell Card activations for the rest of this turn (even if this cards leaves the field). Once per turn, during the End Phase: You can Set \"Sky Striker\" Spells with different names from your GY, up to the number of \"Sky Striker\" Spell Cards you activated this turn while this card was face-up on the field, but banish them when they leave the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

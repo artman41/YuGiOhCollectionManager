@@ -1,0 +1,16 @@
+{
+  "id": 8140,
+  "cardNumber": "77998771",
+  "name": "Crow Goblin",
+  "description": "A clever long-nosed goblin, he is a force to be reckoned with.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

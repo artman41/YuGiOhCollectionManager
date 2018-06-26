@@ -1,0 +1,16 @@
+{
+  "id": 1721,
+  "cardNumber": "12262393",
+  "name": "Delta The Magnet Warrior",
+  "description": "If this card is Normal or Special Summoned: You can send 1 Level 4 or lower \"Magnet Warrior\" monster from your Deck to the Graveyard. If this card is sent to the Graveyard: You can banish 3 Level 4 or lower \"Magnet Warrior\" monsters from your Graveyard, except \"Delta The Magnet Warrior\"; Special Summon 1 \"Valkyrion the Magna Warrior\" from your hand or Deck, ignoring its Summoning conditions. You can only use each effect of \"Delta The Magnet Warrior\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

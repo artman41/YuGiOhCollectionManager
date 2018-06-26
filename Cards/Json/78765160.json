@@ -1,0 +1,16 @@
+{
+  "id": 6220,
+  "cardNumber": "78765160",
+  "name": "Shiranui Style Samsara",
+  "description": "This card's name becomes \"Shiranui Style Synthesis\" while it is in the Spell &amp; Trap Zone. Once per turn: You can activate 1 of these effects.<br>â— Banish 1 face-up Zombie-Type monster you control; you take no damage this turn (even if this card leaves the field).<br>â— Target 2 of your banished Zombie-Type monsters with 0 DEF; shuffle them both into the Deck, then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

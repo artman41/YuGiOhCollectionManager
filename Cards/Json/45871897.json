@@ -1,0 +1,16 @@
+{
+  "id": 4100,
+  "cardNumber": "45871897",
+  "name": "Lost Guardian",
+  "description": "The original DEF of this card equals the number of your banished Rock-Type monsters Ã— 700.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

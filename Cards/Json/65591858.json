@@ -1,0 +1,16 @@
+{
+  "id": 1104,
+  "cardNumber": "65591858",
+  "name": "Chronomaly Winged Sphinx",
+  "description": "When this card is Normal Summoned: You can target 1 Level 5 \"Chronomaly\" monster in your Graveyard; Special Summon that target. You cannot Special Summon monsters the turn you activate this effect, except \"Chronomaly\" monsters.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7592,
+  "cardNumber": "18430390",
+  "name": "Winged Rhynos",
+  "description": "During either player's turn, when a Trap Card is activated (except during the Damage Step): You can return this face-up card from the field to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4674,
+  "cardNumber": "50913601",
+  "name": "Mountain",
+  "description": "Increase the ATK and DEF of all Dragon, Winged Beast, and Thunder-Type monsters by 200 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

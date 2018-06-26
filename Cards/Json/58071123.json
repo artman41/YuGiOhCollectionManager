@@ -1,0 +1,16 @@
+{
+  "id": 5133,
+  "cardNumber": "58071123",
+  "name": "Oxygeddon",
+  "description": "If this card is destroyed by battle with a Pyro monster and sent to the GY: Each player takes 800 damage.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

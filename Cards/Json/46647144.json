@@ -1,0 +1,16 @@
+{
+  "id": 8816,
+  "cardNumber": "46647144",
+  "name": "World Legacy - \"World Lance\"",
+  "description": "Your opponent's monsters cannot attack \"World Legacy\" monsters you control, except this one. You can only use each of the following effects of \"World Legacy - \"World Lance\"\" once per turn.<br>â— If 2 monsters battle, including a Link Monster, during damage calculation (Quick Effect): You can discard this card; your opponent's battling monster loses 3000 ATK.<br>â— If a monster(s) is Special Summoned from the Extra Deck: Special Summon 1 \"World Legacy Token\" (Machine/DARK/Level 1/ATK 0/DEF 0) to each player's field in Defense Position.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

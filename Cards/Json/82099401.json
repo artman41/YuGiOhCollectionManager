@@ -1,0 +1,16 @@
+{
+  "id": 1317,
+  "cardNumber": "82099401",
+  "name": "Crystal Seer",
+  "description": "FLIP: Excavate the top 2 cards of your Deck, add 1 of them to your hand, then place the other on the bottom of your Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

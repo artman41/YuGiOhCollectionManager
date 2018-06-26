@@ -1,0 +1,16 @@
+{
+  "id": 4136,
+  "cardNumber": "34550857",
+  "name": "Lyrilusc - Cobalt Sparrow",
+  "description": "If this card is Special Summoned: You can add 1 Level 1 Winged Beast-Type monster from your Deck to your hand. You can only use this effect of \"Lyrilusc - Cobalt Sparrow\" once per turn. A WIND Xyz Monster that was Summoned using this card on the field as Xyz Material gains this effect.<br>â— Your opponent cannot target this card with card effects.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

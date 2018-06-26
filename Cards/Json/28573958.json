@@ -1,0 +1,16 @@
+{
+  "id": 6957,
+  "cardNumber": "28573958",
+  "name": "The Agent of Miracles - Jupiter",
+  "description": "Once per turn, you can remove from play 1 \"The Agent\" monster in your Graveyard to select 1 face-up LIGHT Fairy-Type monster you control. The selected monster gains 800 ATK until the End Phase. While \"The Sanctuary in the Sky\" is face-up on the field, once per turn, you can discard 1 Fairy-Type monster to select 1 of your removed from play LIGHT Fairy-Type monsters, and Special Summon it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

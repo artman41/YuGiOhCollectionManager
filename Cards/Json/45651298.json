@@ -1,0 +1,16 @@
+{
+  "id": 4524,
+  "cardNumber": "45651298",
+  "name": "Mimimic",
+  "description": "If your opponent controls a monster and you control a Level 3 monster, you can Special Summon this card (from your hand). You can only Special Summon \"Mimimic\" once per turn this way.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

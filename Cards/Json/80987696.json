@@ -1,0 +1,16 @@
+{
+  "id": 7010,
+  "cardNumber": "80987696",
+  "name": "Time Machine",
+  "description": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same side of the field it was on, in the same battle position it was in when destroyed.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

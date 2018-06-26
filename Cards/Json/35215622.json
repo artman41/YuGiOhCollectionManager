@@ -1,0 +1,16 @@
+{
+  "id": 729,
+  "cardNumber": "35215622",
+  "name": "Blindly Loyal Goblin",
+  "description": "As long as this card remains face-up on the field, control of this card cannot switch.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4911,
+  "cardNumber": "55067058",
+  "name": "Number 19: Freezadon",
+  "description": "2 Level 5 monsters<br>Once per turn, if an Xyz Monster you control would activate an effect by detaching an Xyz Material(s), you can detach 1 Xyz Material from this card instead of 1 of those Xyz Materials.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7429,
+  "cardNumber": "55046718",
+  "name": "Vylon Component",
+  "description": "Equip only to a \"Vylon\" monster. If it attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

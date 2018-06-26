@@ -1,0 +1,16 @@
+{
+  "id": 4016,
+  "cardNumber": "61850482",
+  "name": "Level Modulation",
+  "description": "Your opponent draws 2 cards. Special Summon 1 \"LV\" monster from your Graveyard, ignoring the Summoning conditions. The monster that was Special Summoned by this effect cannot attack, nor activate or apply its effect this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

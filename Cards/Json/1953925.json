@@ -1,0 +1,16 @@
+{
+  "id": 216,
+  "cardNumber": "1953925",
+  "name": "Ancient Gear Engineer",
+  "description": "Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

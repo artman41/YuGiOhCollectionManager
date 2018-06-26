@@ -1,0 +1,16 @@
+{
+  "id": 6483,
+  "cardNumber": "33245030",
+  "name": "Sphere Kuriboh",
+  "description": "When an opponent's monster declares an attack: You can send this card from your hand to the GY; change the attacking monster to Defense Position. When you Ritual Summon a monster, you can banish this card from your GY as 1 of the monsters required for the Ritual Summon.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

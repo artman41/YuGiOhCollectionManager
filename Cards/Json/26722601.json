@@ -1,0 +1,16 @@
+{
+  "id": 6605,
+  "cardNumber": "26722601",
+  "name": "Steelswarm Gatekeeper",
+  "description": "If a \"Steelswarm\" monster is Tribute Summoned face-up while this card is face-up on the field, you can Normal Summon or Set 1 monster in addition to your Normal Summon or Set that turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

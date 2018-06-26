@@ -1,0 +1,16 @@
+{
+  "id": 1699,
+  "cardNumber": "78868119",
+  "name": "Deep Sea Diva",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower Sea Serpent-Type monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

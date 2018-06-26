@@ -1,0 +1,16 @@
+{
+  "id": 8656,
+  "cardNumber": "17115745",
+  "name": "Yormungarde",
+  "description": "An extremely long snake that dwells in the world of myth.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

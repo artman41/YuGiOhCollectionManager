@@ -1,0 +1,16 @@
+{
+  "id": 1615,
+  "cardNumber": "97021916",
+  "name": "Dark Resonator",
+  "description": "The first time this card would be destroyed by battle each turn, it is not destroyed.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6330,
+  "cardNumber": "72885174",
+  "name": "Slip of Fortune",
+  "description": "Activate only when your opponent's monster declares an attack targeting a monster. Negate the attack and remove from play the attack target monster until the next Standby Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

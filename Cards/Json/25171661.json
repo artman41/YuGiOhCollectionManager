@@ -1,0 +1,16 @@
+{
+  "id": 3549,
+  "cardNumber": "25171661",
+  "name": "Infernity Dwarf",
+  "description": "While you have no cards in your hand, during battle between an attacking monster you control and a Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

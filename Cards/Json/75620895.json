@@ -1,0 +1,16 @@
+{
+  "id": 5081,
+  "cardNumber": "75620895",
+  "name": "One-Eyed Skill Gainer",
+  "description": "3 Level 4 monsters<br>You can detach 1 Xyz Material from this card to target 1 face-up Xyz Monster your opponent controls; this card's name and original effect become the same as that monster. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2500,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

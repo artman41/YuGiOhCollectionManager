@@ -1,0 +1,16 @@
+{
+  "id": 8087,
+  "cardNumber": "88819587",
+  "name": "Baby Dragon",
+  "description": "Much more than just a child, this dragon is gifted with untapped power.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3482,
+  "cardNumber": "19337371",
+  "name": "Hysteric Sign",
+  "description": "When this card is activated: Add 1 \"Elegant Egotist\" from your Deck or Graveyard to your hand. During the End Phase of the turn this card was sent from the field or hand to the Graveyard: Add up to 3 \"Harpie\" cards with different names from your Deck to your hand. You can only activate 1 \"Hysteric Sign\" effect per turn, and only once that turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

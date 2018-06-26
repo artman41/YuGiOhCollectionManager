@@ -1,0 +1,16 @@
+{
+  "id": 5476,
+  "cardNumber": "56119752",
+  "name": "Present Card",
+  "description": "Your opponent discards their entire hand, then draws 5 cards. You can only activate 1 \"Present Card\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

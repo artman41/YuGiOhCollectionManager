@@ -1,0 +1,16 @@
+{
+  "id": 7214,
+  "cardNumber": "25578802",
+  "name": "Two-Man Cell Battle",
+  "description": "During each player's End Phase, the turn player can Special Summon 1 Level 4 Normal Monster from their hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

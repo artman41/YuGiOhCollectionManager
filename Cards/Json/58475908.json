@@ -1,0 +1,16 @@
+{
+  "id": 7569,
+  "cardNumber": "58475908",
+  "name": "Wind-Up Snail",
+  "description": "During your Main Phase: You can target 1 Set card on the field; return that target to the hand. This effect can be used only once while this card is face-up on the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

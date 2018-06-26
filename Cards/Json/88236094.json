@@ -1,0 +1,16 @@
+{
+  "id": 411,
+  "cardNumber": "88236094",
+  "name": "Aswan Apparition",
+  "description": "If this card inflicts Battle Damage to your opponent's Life Points, you can return 1 Trap Card from your Graveyard to the top of your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

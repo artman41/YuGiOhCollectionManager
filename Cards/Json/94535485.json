@@ -1,0 +1,16 @@
+{
+  "id": 3273,
+  "cardNumber": "94535485",
+  "name": "Hand-Holding Genie",
+  "description": "Monsters your opponent controls cannot target monsters for attacks, except this one. This card gains DEF equal to the combined original DEF of all other face-up Defense Position monsters you control.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

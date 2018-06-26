@@ -1,0 +1,16 @@
+{
+  "id": 1664,
+  "cardNumber": "67316075",
+  "name": "Darklord Nurse Reficule",
+  "description": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

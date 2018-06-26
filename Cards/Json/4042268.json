@@ -1,0 +1,16 @@
+{
+  "id": 8314,
+  "cardNumber": "4042268",
+  "name": "Island Turtle",
+  "description": "A huge turtle that is often mistaken for an island.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

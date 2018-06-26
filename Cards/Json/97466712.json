@@ -1,0 +1,16 @@
+{
+  "id": 3256,
+  "cardNumber": "97466712",
+  "name": "Hack Worm",
+  "description": "If your opponent controls no monsters, you can Special Summon this card (from your hand).",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

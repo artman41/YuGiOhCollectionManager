@@ -1,0 +1,16 @@
+{
+  "id": 1185,
+  "cardNumber": "40465719",
+  "name": "Common Charity",
+  "description": "Draw 2 cards, then remove from play 1 Normal Monster Card from your hand. If you don't have any Normal Monster Cards in your hand to remove, send all cards in your hand to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

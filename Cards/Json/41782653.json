@@ -1,0 +1,16 @@
+{
+  "id": 8830,
+  "cardNumber": "41782653",
+  "name": "Overtyx Coatlus",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling 5 of your banished Dinosaur monsters into the Deck. Once per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can destroy 1 Dinosaur monster in your hand or field, and if you do, negate that activation, and if you do that, destroy that card. If this card is sent to the GY by a card effect: You can add 1 \"Evolution Pill\" Spell from your Deck to your hand. You can only use this effect of \"Overtyx Coatlus\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

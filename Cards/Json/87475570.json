@@ -1,0 +1,16 @@
+{
+  "id": 7853,
+  "cardNumber": "87475570",
+  "name": "Crystal Vanguard",
+  "description": "Pendulum Effect\n Your opponent cannot target \"Crystal Beast\" cards you control, or \"Ultimate Crystal God\" monsters, \"Rainbow Dragon\", or \"Rainbow Dark Dragon\" in your Monster Zone, with card effects.\n\n Monster Effect\n You can Tribute this card; add 1 \"Crystal Beast\" or \"Ultimate Crystal God\" monster, \"Crystal\" Spell/Trap, \"Rainbow Dragon\", or \"Rainbow Dark Dragon\" from your Deck to your hand, except \"Crystal Counter\" or \"Violet Crystal\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

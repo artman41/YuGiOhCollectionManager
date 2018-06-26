@@ -1,0 +1,16 @@
+{
+  "id": 2058,
+  "cardNumber": "88733579",
+  "name": "Drill Bug",
+  "description": "When this card inflicts Battle Damage to your opponent's Life Points, you can select 1 \"Parasite Paracide\" card from your Deck, shuffle the Deck, and place \"Parasite Paracide\" on top of the Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1749,
+  "cardNumber": "75944053",
+  "name": "Deskbot 003",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Deskbot\" monster from your Deck, except \"Deskbot 003\". Once per turn, during either player's turn: You can target 1 \"Deskbot\" monster you control; it gains 500 ATK and DEF for each \"Deskbot\" card you currently control, until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

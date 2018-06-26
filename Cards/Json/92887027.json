@@ -1,0 +1,16 @@
+{
+  "id": 4883,
+  "cardNumber": "92887027",
+  "name": "Nomadic Force",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Tribute this card to target 1 face-down Defense Position monster your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

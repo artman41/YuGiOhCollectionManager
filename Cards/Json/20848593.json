@@ -1,0 +1,16 @@
+{
+  "id": 8307,
+  "cardNumber": "20848593",
+  "name": "Ice Water",
+  "description": "A very aggressive mermaid that attacks enemies with the spikes growing from its body.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1150,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

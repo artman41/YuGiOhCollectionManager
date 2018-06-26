@@ -1,0 +1,16 @@
+{
+  "id": 1447,
+  "cardNumber": "44792253",
+  "name": "D.D. Destroyer",
+  "description": "When this card on the field is removed from play, you can select 1 face-up card your opponent controls and destroy it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

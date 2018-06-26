@@ -1,0 +1,16 @@
+{
+  "id": 8530,
+  "cardNumber": "68638985",
+  "name": "Slime Toad",
+  "description": "A slime with the head of a frog, it attacks by croaking terribly.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

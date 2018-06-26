@@ -1,0 +1,16 @@
+{
+  "id": 7644,
+  "cardNumber": "54860010",
+  "name": "Worm Prince",
+  "description": "If this card destroys an opponent's monster by battle, you can add 1 Reptile-Type \"Worm\" monster from your Deck to your hand. If you do not control at least 1 other Reptile-Type \"Worm\" monster, destroy this card during the End Phase.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

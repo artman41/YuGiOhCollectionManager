@@ -1,0 +1,16 @@
+{
+  "id": 7009,
+  "cardNumber": "73625877",
+  "name": "Time Escaper",
+  "description": "During either player's turn: You can discard this card, then target 1 Psychic-Type monster you control; banish it until your next Standby Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

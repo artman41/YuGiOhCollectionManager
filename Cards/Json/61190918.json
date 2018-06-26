@@ -1,0 +1,16 @@
+{
+  "id": 7037,
+  "cardNumber": "61190918",
+  "name": "Toon Buster Blader",
+  "description": "Cannot attack the turn it is Summoned. This card gains 500 ATK for each Dragon-Type monster your opponent controls or is in their Graveyard. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Toon\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

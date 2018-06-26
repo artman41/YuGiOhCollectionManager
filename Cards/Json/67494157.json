@@ -1,0 +1,16 @@
+{
+  "id": 8741,
+  "cardNumber": "67494157",
+  "name": "Crawling Dragon",
+  "description": "This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

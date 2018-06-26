@@ -1,0 +1,16 @@
+{
+  "id": 1246,
+  "cardNumber": "26257572",
+  "name": "Corridor of Agony",
+  "description": "Monsters that were Special Summoned from the Main Deck cannot activate their effects, their effects are negated, and they cannot declare an attack, as long as they remain face-up on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

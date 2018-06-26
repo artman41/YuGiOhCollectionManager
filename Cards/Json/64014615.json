@@ -1,0 +1,16 @@
+{
+  "id": 5416,
+  "cardNumber": "64014615",
+  "name": "Pot of Acquisitiveness",
+  "description": "Target 3 banished monsters; shuffle all 3 into the Deck, then draw 1 card. You can only activate 1 \"Pot of Acquisitiveness\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

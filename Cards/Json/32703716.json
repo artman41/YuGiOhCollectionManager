@@ -1,0 +1,16 @@
+{
+  "id": 2518,
+  "cardNumber": "32703716",
+  "name": "Fish and Kicks",
+  "description": "If you have 3 or more banished Fish, Sea Serpent, or Aqua-Type monsters: Target 1 card on the field; banish it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

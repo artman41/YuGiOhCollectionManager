@@ -1,0 +1,16 @@
+{
+  "id": 5951,
+  "cardNumber": "16509093",
+  "name": "Royal Keeper",
+  "description": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, it gains 300 ATK and DEF until the end of the turn. (If attacked, this effect resolves after damage calculation.)",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

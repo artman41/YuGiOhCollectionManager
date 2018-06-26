@@ -1,0 +1,16 @@
+{
+  "id": 6996,
+  "cardNumber": "70797118",
+  "name": "Thunder Nyan Nyan",
+  "description": "If there is a non-LIGHT monster on your side of the field, destroy this face-up card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

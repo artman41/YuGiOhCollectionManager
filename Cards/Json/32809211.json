@@ -1,0 +1,16 @@
+{
+  "id": 3690,
+  "cardNumber": "32809211",
+  "name": "Jinzo #7",
+  "description": "This monster can attack your opponent's Life Points directly.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2220,
+  "cardNumber": "10526791",
+  "name": "Elemental HERO Wildedge",
+  "description": "\"Elemental HERO Wildheart\" + \"Elemental HERO Bladedge\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack every monster your opponent controls (one attack on each monster per Battle Phase).",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

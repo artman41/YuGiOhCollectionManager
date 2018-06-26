@@ -1,0 +1,16 @@
+{
+  "id": 8936,
+  "cardNumber": "32828635",
+  "name": "Endless of the World",
+  "description": "This card is used to Ritual Summon \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\". You must also Tribute monsters you control whose total Levels equal or exceed the Level of the monster you Ritual Summon. During your Main Phase, except the turn this card was sent to the GY: You can shuffle this card from your GY into the Deck; add 1 \"End of the World\" from your Deck to your hand, then you can add 1 \"Ruin, Queen of Oblivion\" or \"Demise, King of Armageddon\" from your GY to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

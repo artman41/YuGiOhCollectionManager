@@ -1,0 +1,16 @@
+{
+  "id": 7240,
+  "cardNumber": "98229575",
+  "name": "U.A. Playmaker",
+  "description": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Playmaker\". You can only Special Summon \"U.A. Playmaker\" once per turn this way. When another \"U.A.\" monster you control declares an attack: You can have this card lose exactly 800 ATK, and if it does, your attacking monster gains 800 ATK.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

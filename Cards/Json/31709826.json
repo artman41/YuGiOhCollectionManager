@@ -1,0 +1,16 @@
+{
+  "id": 5862,
+  "cardNumber": "31709826",
+  "name": "Revival Jam",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 Life Points; Special Summon it in face-up Defense Position during your next turn's Standby Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

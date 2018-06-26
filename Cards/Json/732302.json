@@ -1,0 +1,16 @@
+{
+  "id": 8571,
+  "cardNumber": "732302",
+  "name": "Temple of Skulls",
+  "description": "A mysterious temple of skulls and bones that pulls in unsuspecting enemies.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

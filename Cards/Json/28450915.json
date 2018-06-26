@@ -1,0 +1,16 @@
+{
+  "id": 8313,
+  "cardNumber": "28450915",
+  "name": "Invader from Another Dimension",
+  "description": "An extraterrestrial monster that came from a distant galaxy.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 950,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

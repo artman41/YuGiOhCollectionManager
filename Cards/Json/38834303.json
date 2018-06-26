@@ -1,0 +1,16 @@
+{
+  "id": 1257,
+  "cardNumber": "38834303",
+  "name": "Counter Cleaner",
+  "description": "Pay 500 Life Points. Remove all counters from the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

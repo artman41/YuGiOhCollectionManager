@@ -1,0 +1,16 @@
+{
+  "id": 3198,
+  "cardNumber": "3972721",
+  "name": "Greed Grado",
+  "description": "Activate only if you destroyed a face-up Synchro Monster controlled by your opponent this turn, either by battle or by a card effect. Draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

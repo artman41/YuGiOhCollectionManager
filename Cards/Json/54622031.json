@@ -1,0 +1,16 @@
+{
+  "id": 3190,
+  "cardNumber": "54622031",
+  "name": "Great Mammoth of Goldfine",
+  "description": "\"The Snake Hair\" + \"Dragon Zombie\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

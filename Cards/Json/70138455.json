@@ -1,0 +1,16 @@
+{
+  "id": 710,
+  "cardNumber": "70138455",
+  "name": "Blast Juggler",
+  "description": "You can only activate this effect during your Standby Phase. Tribute this face-up card to select and destroy 2 face-up monsters with an ATK 1000 or less.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

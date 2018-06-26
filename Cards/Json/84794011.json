@@ -1,0 +1,16 @@
+{
+  "id": 8534,
+  "cardNumber": "84794011",
+  "name": "Solitude",
+  "description": "This beast-warrior swings a massive scythe that feeds on the souls of the slain.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1050,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

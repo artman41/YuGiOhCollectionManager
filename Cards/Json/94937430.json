@@ -1,0 +1,16 @@
+{
+  "id": 2371,
+  "cardNumber": "94937430",
+  "name": "Extra Buck",
+  "description": "Each time a card(s) is added to your Extra Deck, place 1 Spell Counter on this card (max. 3). You can send this card with 3 Spell Counters to the Graveyard; draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

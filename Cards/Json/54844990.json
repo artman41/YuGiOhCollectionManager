@@ -1,0 +1,16 @@
+{
+  "id": 8526,
+  "cardNumber": "54844990",
+  "name": "Skull Stalker",
+  "description": "Foist he's gonna grab yer monstah wit' his claws, den attack again wit' his poizin stingah!",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

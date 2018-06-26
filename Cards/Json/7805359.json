@@ -1,0 +1,16 @@
+{
+  "id": 8440,
+  "cardNumber": "7805359",
+  "name": "Niwatori",
+  "description": "Swallows enemies whole and uses their essence as energy.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

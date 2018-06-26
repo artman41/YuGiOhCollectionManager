@@ -1,0 +1,16 @@
+{
+  "id": 4052,
+  "cardNumber": "89185742",
+  "name": "Lightning, Dragon Ruler of Drafts",
+  "description": "You can discard this card AND 1 Dragon-Type or WIND monster; Special Summon 1 \"Tempest, Dragon Ruler of Storms\" from your Deck. It cannot attack this turn. You can only use the effect of \"Lightning, Dragon Ruler of Drafts\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6635,
+  "cardNumber": "5650082",
+  "name": "Storming Mirror Force",
+  "description": "When an opponent's monster declares an attack: Return all your opponent's Attack Position monsters to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

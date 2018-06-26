@@ -1,0 +1,16 @@
+{
+  "id": 6402,
+  "cardNumber": "81510157",
+  "name": "Soul Taker",
+  "description": "Target 1 face-up monster your opponent controls; destroy that target, then your opponent gains 1000 LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

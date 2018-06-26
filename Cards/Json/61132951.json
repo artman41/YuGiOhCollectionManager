@@ -1,0 +1,16 @@
+{
+  "id": 3376,
+  "cardNumber": "61132951",
+  "name": "Heroic Challenger - Night Watchman",
+  "description": "If this card attacks a Defense Position monster your opponent controls, before damage calculation: You can destroy that monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

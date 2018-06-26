@@ -1,0 +1,16 @@
+{
+  "id": 7659,
+  "cardNumber": "37744402",
+  "name": "Wynn the Wind Charmer",
+  "description": "FLIP: While this card is face-up on the field, take control of 1 WIND monster your opponent controls.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

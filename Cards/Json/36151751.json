@@ -1,0 +1,16 @@
+{
+  "id": 8078,
+  "cardNumber": "36151751",
+  "name": "Arma Knight",
+  "description": "An ammonite warrior that has protected the seas throughout history.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

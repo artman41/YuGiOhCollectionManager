@@ -1,0 +1,16 @@
+{
+  "id": 8157,
+  "cardNumber": "53375573",
+  "name": "Dark King of the Abyss",
+  "description": "It's said that this King of the Netherworld once had the power to rule over the dark.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

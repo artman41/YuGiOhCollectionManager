@@ -1,0 +1,16 @@
+{
+  "id": 7108,
+  "cardNumber": "54762426",
+  "name": "Treasure Map",
+  "description": "You can only activate this card in response to the activation of an effect that would return this card from the field to the hand. Draw 2 cards from your Deck and discard 1 card from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

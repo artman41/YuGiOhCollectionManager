@@ -1,0 +1,16 @@
+{
+  "id": 8403,
+  "cardNumber": "62327910",
+  "name": "Mighty Guard",
+  "description": "A machine soldier that was developed as a guard. It is made of rust-proof metal.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

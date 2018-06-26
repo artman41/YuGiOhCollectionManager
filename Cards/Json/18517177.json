@@ -1,0 +1,16 @@
+{
+  "id": 1240,
+  "cardNumber": "18517177",
+  "name": "Core Blast",
+  "description": "You can only activate this card's effect while you control a face-up \"Koa'ki Meiru\" monster. Once per turn, during your Standby Phase, if your opponent controls more monsters than you do, you can destroy a number of cards your opponent controls so that your opponent will control the same number of cards as you control monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

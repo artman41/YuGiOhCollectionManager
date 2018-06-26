@@ -1,0 +1,16 @@
+{
+  "id": 8098,
+  "cardNumber": "84990171",
+  "name": "Bean Soldier",
+  "description": "A plant-warrior that attacks with seeds and sword.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

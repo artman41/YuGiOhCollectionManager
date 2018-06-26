@@ -1,0 +1,16 @@
+{
+  "id": 1763,
+  "cardNumber": "45809008",
+  "name": "Destiny Draw",
+  "description": "Discard 1 \"Destiny HERO\" card; draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

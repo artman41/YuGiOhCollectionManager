@@ -1,0 +1,16 @@
+{
+  "id": 1794,
+  "cardNumber": "59235795",
+  "name": "Destruction Cyclone",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WIND monsters.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

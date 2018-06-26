@@ -1,0 +1,16 @@
+{
+  "id": 7067,
+  "cardNumber": "52823314",
+  "name": "Tour Bus From the Underworld",
+  "description": "When this card is sent to the Graveyard: Target 1 monster in either player's Graveyard, except \"Tour Bus From the Underworld\"; shuffle that target into the Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

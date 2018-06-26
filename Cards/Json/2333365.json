@@ -1,0 +1,16 @@
+{
+  "id": 7219,
+  "cardNumber": "2333365",
+  "name": "Tyr of the Nordic Champions",
+  "description": "Your opponent cannot target \"Nordic\" monsters for attacks, except \"Tyr of the Nordic Champions\". If there is no other face-up \"Nordic\" monster on the field, destroy this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

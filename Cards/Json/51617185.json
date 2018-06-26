@@ -1,0 +1,16 @@
+{
+  "id": 4149,
+  "cardNumber": "51617185",
+  "name": "Machina Megaform",
+  "description": "You can Tribute this card; Special Summon 1 \"Machina\" monster from your hand or Deck, except \"Machina Megaform\". If a face-up \"Machina Fortress\" you control is sent to the Graveyard, while this card is in your Graveyard (except during the Damage Step): You can banish that \"Machina Fortress\" from the Graveyard; Special Summon this card. You can only use 1 \"Machina Megaform\" effect per turn, and only once that turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2086,
+  "cardNumber": "7409792",
+  "name": "Dynatherium",
+  "description": "You can Special Summon this card (from your hand). You can only Special Summon \"Dynatherium\" once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player's Graveyard; they Special Summon that target to their side of the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

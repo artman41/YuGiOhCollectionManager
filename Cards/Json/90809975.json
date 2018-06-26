@@ -1,0 +1,16 @@
+{
+  "id": 7026,
+  "cardNumber": "90809975",
+  "name": "Toadally Awesome",
+  "description": "2 Level 2 Aqua-Type monsters<br>Once per turn, during the Standby Phase: You can detach 1 Xyz Material from this card; Special Summon 1 \"Frog\" monster from your Deck. Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card, or monster effect: You can send 1 Aqua-Type monster from your hand or face-up from your field to the Graveyard; negate the activation, and if you do, destroy that card, then you can Set it to your field. If this card is sent to the Graveyard: You can target 1 WATER monster in your Graveyard; add it to your hand.",
+  "cardLevel": null,
+  "cardRank": 2,
+  "atk": 2200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8646,
+  "cardNumber": "73216412",
+  "name": "Worm Drake",
+  "description": "Once this monster wraps itself around a victim, there is no escape.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

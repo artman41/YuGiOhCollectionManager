@@ -1,0 +1,16 @@
+{
+  "id": 2486,
+  "cardNumber": "48310593",
+  "name": "Finite Cards",
+  "description": "The hand size limit of each player becomes 3.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

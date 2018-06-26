@@ -1,0 +1,16 @@
+{
+  "id": 5274,
+  "cardNumber": "26270847",
+  "name": "Performapal Silver Claw",
+  "description": "Pendulum Effect\n All \"Performapal\" monsters you control gain 300 ATK.\n\n Monster Effect\n When this card declares an attack: All \"Performapal\" monsters you currently control gain 300 ATK, until the end of the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

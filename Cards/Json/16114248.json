@@ -1,0 +1,16 @@
+{
+  "id": 5143,
+  "cardNumber": "16114248",
+  "name": "Pair Cycroid",
+  "description": "2 Machine-Type monsters with the same name<br>This card can attack your opponent directly.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

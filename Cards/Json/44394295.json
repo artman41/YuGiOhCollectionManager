@@ -1,0 +1,16 @@
+{
+  "id": 6147,
+  "cardNumber": "44394295",
+  "name": "Shaddoll Fusion",
+  "description": "Fusion Summon 1 \"Shaddoll\" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If your opponent controls a monster(s) that was Special Summoned from the Extra Deck, you can also use monsters in your Deck as Fusion Material. You can only activate 1 \"Shaddoll Fusion\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

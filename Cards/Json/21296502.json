@@ -1,0 +1,16 @@
+{
+  "id": 7040,
+  "cardNumber": "21296502",
+  "name": "Toon Dark Magician",
+  "description": "Cannot attack the turn it is Summoned. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. Once per turn: You can discard 1 \"Toon\" card, then activate 1 of these effects;<br>â— Special Summon 1 Toon monster from your Deck, except \"Toon Dark Magician\", ignoring its Summoning conditions.<br>â— Add 1 \"Toon\" Spell/Trap Card from your Deck to your hand.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Toon\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

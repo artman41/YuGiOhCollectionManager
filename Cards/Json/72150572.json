@@ -1,0 +1,16 @@
+{
+  "id": 253,
+  "cardNumber": "72150572",
+  "name": "Anti-Fusion Device",
+  "description": "Destroy 1 face-up Fusion Monster on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

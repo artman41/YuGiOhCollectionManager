@@ -1,0 +1,16 @@
+{
+  "id": 183,
+  "cardNumber": "95174353",
+  "name": "Ameba",
+  "description": "When the control of this face-up card on the field shifts to your opponent, inflict 2000 points of damage to your opponent's Life Points. This effect can only be used once as long as this card remains face-up on the field.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 350,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

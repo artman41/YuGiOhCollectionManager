@@ -1,0 +1,16 @@
+{
+  "id": 3080,
+  "cardNumber": "87102774",
+  "name": "Golden Ladybug",
+  "description": "Once per turn, during your Standby Phase, you can reveal this card in your hand to gain 500 Life Points. If you do this, this card remains revealed while it is in your hand, until the End Phase.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

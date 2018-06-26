@@ -1,0 +1,16 @@
+{
+  "id": 1390,
+  "cardNumber": "64268668",
+  "name": "Cyber Ogre",
+  "description": "By discarding this card from your hand to the Graveyard, negate 1 battle involving a \"Cyber Ogre\" on your side of the field, and it gains 2000 ATK until the end of its next battle. This effect can be activated during either player's turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

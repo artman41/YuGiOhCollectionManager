@@ -1,0 +1,16 @@
+{
+  "id": 8851,
+  "cardNumber": "64400161",
+  "name": "Fandora, the Flying Furtress",
+  "description": "During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 monster \"Fur Hire\" from your Deck to your hand. If you control 5 or more monsters \"Fur Hire\" with different names: You can send this card from the Field Zone to the GY; destroy all cards your opponent controls, also, for the rest of this turn, your opponent takes no damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

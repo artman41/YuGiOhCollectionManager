@@ -1,0 +1,16 @@
+{
+  "id": 852,
+  "cardNumber": "80075749",
+  "name": "Bubble Illusion",
+  "description": "You can only activate this card while there is a face-up \"Elemental Hero Bubbleman\" on your side of the field. During this turn, you can activate 1 Trap Card from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

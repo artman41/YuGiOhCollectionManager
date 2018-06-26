@@ -1,0 +1,16 @@
+{
+  "id": 7281,
+  "cardNumber": "65475294",
+  "name": "The Unfriendly Amazon",
+  "description": "Tribute 1 of your monsters on the field (excluding this monster) during each of your Standby Phases. If you do not, this card is destroyed.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

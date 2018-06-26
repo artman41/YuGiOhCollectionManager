@@ -1,0 +1,16 @@
+{
+  "id": 6309,
+  "cardNumber": "98649372",
+  "name": "Skull Kraken",
+  "description": "When this card is Normal Summoned: You can target 1 face-up Spell Card your opponent controls; destroy that target. Once per turn: You can change the battle position of this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

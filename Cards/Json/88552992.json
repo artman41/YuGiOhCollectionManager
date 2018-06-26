@@ -1,0 +1,16 @@
+{
+  "id": 1093,
+  "cardNumber": "88552992",
+  "name": "Chronomaly Golden Jet",
+  "description": "Once per turn: You can increase the Levels of all \"Chronomaly\" monsters you currently control by 1.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

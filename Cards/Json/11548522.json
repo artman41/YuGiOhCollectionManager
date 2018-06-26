@@ -1,0 +1,16 @@
+{
+  "id": 5112,
+  "cardNumber": "11548522",
+  "name": "Outstanding Dog Marron",
+  "description": "When this card is sent to your Graveyard, add it to your Deck and shuffle it.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

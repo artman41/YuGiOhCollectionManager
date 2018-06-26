@@ -1,0 +1,16 @@
+{
+  "id": 2393,
+  "cardNumber": "19439119",
+  "name": "Fabled Krus",
+  "description": "When this card is discarded to the Graveyard, select 1 Level 4 or lower \"Fabled\" monster in your Graveyard, except this card, and Special Summon it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

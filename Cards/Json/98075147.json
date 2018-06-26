@@ -1,0 +1,16 @@
+{
+  "id": 8545,
+  "cardNumber": "98075147",
+  "name": "Spiked Snail",
+  "description": "A very fast, bipedal snail with a pair of lethal arms.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

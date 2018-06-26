@@ -1,0 +1,16 @@
+{
+  "id": 2305,
+  "cardNumber": "79785958",
+  "name": "Evilswarm Castor",
+  "description": "During the turn this card was Normal Summoned, you can Normal Summon 1 \"lswarm\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 550,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

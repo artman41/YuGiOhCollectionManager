@@ -1,0 +1,16 @@
+{
+  "id": 7841,
+  "cardNumber": "36694815",
+  "name": "Bitlooper",
+  "description": "You can send 1 Level 2 or lower monster from your hand to the GY; Special Summon this card from your hand. You can only use this effect of \"Bitlooper\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

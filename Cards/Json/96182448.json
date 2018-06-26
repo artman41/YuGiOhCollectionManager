@@ -1,0 +1,16 @@
+{
+  "id": 4857,
+  "cardNumber": "96182448",
+  "name": "Nitro Synchron",
+  "description": "If this card is sent to the Graveyard for the Synchro Summon of a \"Nitro\" Synchro Monster: Draw 1 card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

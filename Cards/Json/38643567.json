@@ -1,0 +1,16 @@
+{
+  "id": 3645,
+  "cardNumber": "38643567",
+  "name": "Inzektor Orb",
+  "description": "Target 1 face-up \"Inzektor\" monster you control; equip this card to that target. It gains 500 ATK and DEF. When exactly 1 \"Inzektor\" monster you control is targeted by a card effect (except during the Damage Step): You can send this Equip Card to the Graveyard; negate that effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5934,
+  "cardNumber": "1357146",
+  "name": "Ronintoadin",
+  "description": "Cannot be used as a Synchro Material. This card's name becomes \"Des Frog\" while it is on the field. If this card is in your Graveyard: You can banish 1 \"Frog\" monster from your Graveyard; Special Summon this card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2745,
+  "cardNumber": "91949988",
+  "name": "Gaia Dragon, the Thunder Charger",
+  "description": "2 Level 7 monsters<br>You can also Xyz Summon this card by using a Rank 5 or 6 Xyz Monster you control as material. (Transfer its materials to this card.) If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "cardLevel": null,
+  "cardRank": 7,
+  "atk": 2600,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

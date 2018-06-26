@@ -1,0 +1,16 @@
+{
+  "id": 5121,
+  "cardNumber": "81816475",
+  "name": "Overlay Eater",
+  "description": "You can banish this card from your Graveyard; take 1 Xyz Material from a monster your opponent controls and attach it to an Xyz Monster you control as Xyz Material.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

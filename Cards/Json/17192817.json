@@ -1,0 +1,16 @@
+{
+  "id": 8411,
+  "cardNumber": "17192817",
+  "name": "Molten Behemoth",
+  "description": "A giant born from magma, it attacks with a magma punch.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

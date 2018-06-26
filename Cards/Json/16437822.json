@@ -1,0 +1,16 @@
+{
+  "id": 2559,
+  "cardNumber": "16437822",
+  "name": "Flint Missile",
+  "description": "Destroy 1 monster equipped with \"Flint\". You can return this card to your Deck instead of sending it to the Graveyard after it resolves.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

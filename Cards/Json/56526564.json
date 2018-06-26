@@ -1,0 +1,16 @@
+{
+  "id": 806,
+  "cardNumber": "56526564",
+  "name": "Break Off Trap Hole",
+  "description": "When a Link Monster is Link Summoned: Destroy all monsters on the field that are not linked.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3969,
+  "cardNumber": "87010442",
+  "name": "Legacy Hunter",
+  "description": "When this card attacks a face-down Defense Position monster and destroys it and sends it to the Graveyard as a result of battle, your opponent returns 1 random card from their hand to their Deck. Their Deck is then shuffled.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

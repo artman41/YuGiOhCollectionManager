@@ -1,0 +1,16 @@
+{
+  "id": 2556,
+  "cardNumber": "19642774",
+  "name": "Fleur Synchron",
+  "description": "If this card is sent to the Graveyard as a Synchro Material: You can Special Summon 1 Level 2 or lower monster from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

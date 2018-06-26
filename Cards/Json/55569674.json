@@ -1,0 +1,16 @@
+{
+  "id": 997,
+  "cardNumber": "55569674",
+  "name": "Celestial Sword - Eatos",
+  "description": "(This card is always treated as a \"Noble Arms\" card.)<br>The equipped monster gains 500 ATK. When this card is sent from the field to the Graveyard: You can target 1 \"Guardian Eatos\" you control; it gains 500 ATK for each banished monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1096,
+  "cardNumber": "87430304",
+  "name": "Chronomaly Moai",
+  "description": "If you control a face-up \"Chronomaly\" monster, you can Special Summon this card (from your hand) in face-up Defense Position.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

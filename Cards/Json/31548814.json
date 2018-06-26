@@ -1,0 +1,16 @@
+{
+  "id": 7398,
+  "cardNumber": "31548814",
+  "name": "Void Feast",
+  "description": "Send 1 \"Void\" Spell/Trap Card from your hand or face-up from your field to the Graveyard; Special Summon up to 3 \"Infernoid\" monsters from your Deck, whose total Levels exactly equal 8, ignoring their Summoning conditions.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

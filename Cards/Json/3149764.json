@@ -1,0 +1,16 @@
+{
+  "id": 7191,
+  "cardNumber": "3149764",
+  "name": "Tutan Mask",
+  "description": "When a Spell/Trap Card is activated that targets exactly 1 Zombie-Type monster on the field (and no other cards): Negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

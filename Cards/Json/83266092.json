@@ -1,0 +1,16 @@
+{
+  "id": 3136,
+  "cardNumber": "83266092",
+  "name": "Grave of the Super Ancient Organism",
+  "description": "All Level 6 or higher Special Summoned monsters on the field cannot declare attacks or activate their effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

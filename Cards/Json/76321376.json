@@ -1,0 +1,16 @@
+{
+  "id": 4538,
+  "cardNumber": "76321376",
+  "name": "Mine Golem",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

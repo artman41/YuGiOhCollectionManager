@@ -1,0 +1,16 @@
+{
+  "id": 4568,
+  "cardNumber": "43452193",
+  "name": "Mirror Gate",
+  "description": "When an opponent's monster declares an attack targeting a face-up \"Elemental HERO\" monster you control: Switch control of the opponent's attacking monster with the targeted monster you control, then calculate damage. Control of both monsters switches back during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

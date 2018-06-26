@@ -1,0 +1,16 @@
+{
+  "id": 7415,
+  "cardNumber": "69750546",
+  "name": "Volcanic Scattershot",
+  "description": "If this card is sent to the Graveyard: Inflict 500 damage to your opponent. If this card is sent to the Graveyard by the effect of a \"Blaze Accelerator\" card: You can send 2 \"Volcanic Scattershots\" from your hand and/or Deck to the Graveyard; destroy all monsters your opponent controls.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

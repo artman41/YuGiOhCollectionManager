@@ -1,0 +1,16 @@
+{
+  "id": 1915,
+  "cardNumber": "57996334",
+  "name": "Dododo Buster",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). If Summoned this way, its Level becomes 4. When this card is Tribute Summoned: You can target 1 \"Dododo\" monster in your Graveyard; Special Summon that target in face-up Defense Position.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

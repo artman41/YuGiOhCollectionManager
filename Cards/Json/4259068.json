@@ -1,0 +1,16 @@
+{
+  "id": 6449,
+  "cardNumber": "4259068",
+  "name": "Spell Economics",
+  "description": "You do not pay Life Points to activate Spell Cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

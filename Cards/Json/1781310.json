@@ -1,0 +1,16 @@
+{
+  "id": 2682,
+  "cardNumber": "1781310",
+  "name": "Fuh-Rin-Ka-Zan",
+  "description": "When there are face-up WIND, WATER, FIRE and EARTH monster(s) on the field: Apply 1 of these effects.<br>â— Destroy all monsters your opponent controls.<br>â— Destroy all Spell and Trap Cards your opponent controls.<br>â— Discard 2 random cards from your opponent's hand.<br>â— Draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

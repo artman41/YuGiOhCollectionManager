@@ -1,0 +1,16 @@
+{
+  "id": 4655,
+  "cardNumber": "28284902",
+  "name": "Morphtronic Monitron",
+  "description": "When a \"Morphtronic\" monster is Summoned, you can change it to face-up Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

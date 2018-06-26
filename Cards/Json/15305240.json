@@ -1,0 +1,16 @@
+{
+  "id": 1276,
+  "cardNumber": "15305240",
+  "name": "Creature Seizure",
+  "description": "Each player gives their opponent control of 1 of their monsters (controller's choice). You must choose a face-up Normal Monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 935,
+  "cardNumber": "78637313",
+  "name": "Call of Darkness",
+  "description": "All monsters restored with \"Monster Reborn\" are sent to the Graveyard. \"Monster Reborn\" also cannot be played as long as this card remains on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

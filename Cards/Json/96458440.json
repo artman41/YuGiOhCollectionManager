@@ -1,0 +1,16 @@
+{
+  "id": 3975,
+  "cardNumber": "96458440",
+  "name": "Legendary Black Belt",
+  "description": "Equip only to \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". When the equipped monster destroys your opponent's monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the DEF of the destroyed monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

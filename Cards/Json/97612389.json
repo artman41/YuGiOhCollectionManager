@@ -1,0 +1,16 @@
+{
+  "id": 8414,
+  "cardNumber": "97612389",
+  "name": "Monster Tamer",
+  "description": "A master of monsters that exercises control over several creatures.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

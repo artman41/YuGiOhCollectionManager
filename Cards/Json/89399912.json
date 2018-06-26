@@ -1,0 +1,16 @@
+{
+  "id": 6919,
+  "cardNumber": "89399912",
+  "name": "Tempest, Dragon Ruler of Storms",
+  "description": "If this card is in your hand or Graveyard: You can banish a total of 2 WIND and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 WIND monster to the Graveyard; add 1 Dragon-Type monster from your Deck to your hand. If this card is banished: You can add 1 WIND Dragon-Type monster from your Deck to your hand. You can only use 1 \"Tempest, Dragon Ruler of Storms\" effect per turn, and only once that turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

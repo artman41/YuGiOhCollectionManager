@@ -1,0 +1,16 @@
+{
+  "id": 6195,
+  "cardNumber": "59237154",
+  "name": "Shifting Shadows",
+  "description": "Once per turn, by paying 300 Life Points, rearrange the face-down Defense Position monsters in your Main Monster Zones, then return them in face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

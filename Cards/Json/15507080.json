@@ -1,0 +1,16 @@
+{
+  "id": 8509,
+  "cardNumber": "15507080",
+  "name": "Sectarian of Secrets",
+  "description": "This wizard worships the darkness, and is served by a sinister hand that drags its enemies into oblivion.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

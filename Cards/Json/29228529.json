@@ -1,0 +1,16 @@
+{
+  "id": 6457,
+  "cardNumber": "29228529",
+  "name": "Spell Reproduction",
+  "description": "Send 2 Spells from your hand to the GY, then target 1 Spell in your GY; add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

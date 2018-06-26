@@ -1,0 +1,16 @@
+{
+  "id": 3917,
+  "cardNumber": "38480590",
+  "name": "Lady Panther",
+  "description": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the top of your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

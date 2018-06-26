@@ -1,0 +1,16 @@
+{
+  "id": 4562,
+  "cardNumber": "15960641",
+  "name": "Mirage Dragon",
+  "description": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

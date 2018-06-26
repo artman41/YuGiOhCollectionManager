@@ -1,0 +1,16 @@
+{
+  "id": 2722,
+  "cardNumber": "28002611",
+  "name": "Gadget Hauler",
+  "description": "Once per turn, you can send any number of \"Morphtronic\" monsters from your hand to the Graveyard to have this card gain 800 ATK for each.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

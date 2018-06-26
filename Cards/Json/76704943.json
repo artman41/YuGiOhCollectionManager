@@ -1,0 +1,16 @@
+{
+  "id": 8653,
+  "cardNumber": "76704943",
+  "name": "Yamatano Dragon Scroll",
+  "description": "A dragon conjured from the very scroll in which it was depicted.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

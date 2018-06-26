@@ -1,0 +1,16 @@
+{
+  "id": 5721,
+  "cardNumber": "85684223",
+  "name": "Reaper on the Nightmare",
+  "description": "\"Spirit Reaper\" + \"Nightmare Horse\"<br>This card is not destroyed as a result of battle. Destroy this card when it is targeted by the effect of a Spell, Trap or Effect Monster. This card can attack your opponent's Life Points directly even if there is a monster on your opponent's side of the field. If this card successfully attacks your opponent's Life Points directly, your opponent discards 1 card randomly from his/her hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

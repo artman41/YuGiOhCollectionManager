@@ -1,0 +1,16 @@
+{
+  "id": 1799,
+  "cardNumber": "15155568",
+  "name": "Destruction Sword Flash",
+  "description": "If you control a Fusion Monster that lists \"Buster Blader\" as Material: Banish all monsters your opponent controls. When a card or effect is activated that targets a \"Buster Blader\" monster(s) you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

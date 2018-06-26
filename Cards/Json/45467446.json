@@ -1,0 +1,16 @@
+{
+  "id": 1999,
+  "cardNumber": "45467446",
+  "name": "Dragon Spirit of White",
+  "description": "(This card is always treated as a \"Blue-Eyes\" card.)<br>This card is treated as a Normal Monster while in the hand or Graveyard. When this card is Normal or Special Summoned: You can target 1 Spell/Trap Card your opponent controls; banish it. During either player's turn, if your opponent controls a monster: You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

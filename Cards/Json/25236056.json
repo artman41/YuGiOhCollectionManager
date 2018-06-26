@@ -1,0 +1,16 @@
+{
+  "id": 5700,
+  "cardNumber": "25236056",
+  "name": "Rare Metal Dragon",
+  "description": "This card cannot be Normal Summoned or Set.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

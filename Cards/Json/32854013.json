@@ -1,0 +1,16 @@
+{
+  "id": 6715,
+  "cardNumber": "32854013",
+  "name": "Super Rush Recklessly",
+  "description": "Target 1 Beast-Type monster you control and 1 monster your opponent controls; destroy the first target, and if you do, shuffle the second target into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

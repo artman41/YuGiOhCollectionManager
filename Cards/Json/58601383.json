@@ -1,0 +1,16 @@
+{
+  "id": 2746,
+  "cardNumber": "58601383",
+  "name": "Gaia Drake, the Universal Force",
+  "description": "1 \"Gaia Knight, the Force of Earth\" + 1 non-Effect Synchro Monster<br>This card cannot be targeted by, or destroyed by, the effects of Effect Monsters.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

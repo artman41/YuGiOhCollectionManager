@@ -1,0 +1,16 @@
+{
+  "id": 3812,
+  "cardNumber": "13756293",
+  "name": "King Dragun",
+  "description": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"<br>Your opponent cannot select any Dragon-Type monsters as the target(s) of Spell, Trap, or Monster Card effects. Once per turn, you can Special Summon 1 Dragon-Type monster from your hand.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

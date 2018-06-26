@@ -1,0 +1,16 @@
+{
+  "id": 2391,
+  "cardNumber": "60434101",
+  "name": "Fabled Gallabas",
+  "description": "You can discard 1 card to the Graveyard to select and destroy 1 face-up monster your opponent controls with DEF less than or equal to this card's ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5942,
+  "cardNumber": "32485271",
+  "name": "Rose Spectre of Dunn",
+  "description": "\"Feral Imp\" + \"Snakeyashi\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

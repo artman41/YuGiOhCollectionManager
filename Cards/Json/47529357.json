@@ -1,0 +1,16 @@
+{
+  "id": 4584,
+  "cardNumber": "47529357",
+  "name": "Mist Body",
+  "description": "The equipped monster cannot be destroyed by battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

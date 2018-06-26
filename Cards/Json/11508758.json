@@ -1,0 +1,16 @@
+{
+  "id": 4692,
+  "cardNumber": "11508758",
+  "name": "Mutant Mindmaster",
+  "description": "When this card declares an attack, you can take control of 1 face-up Attack Position monster your opponent controls, and attack with it instead of this monster. It cannot attack your opponent directly. Return it to your opponent at the end of the Battle Phase.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

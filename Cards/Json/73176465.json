@@ -1,0 +1,16 @@
+{
+  "id": 2451,
+  "cardNumber": "73176465",
+  "name": "Felis, Lightsworn Archer",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY by a monster effect: Special Summon it. You can Tribute this card, then target 1 monster your opponent controls; destroy that target, then send the top 3 cards of your Deck to the GY.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

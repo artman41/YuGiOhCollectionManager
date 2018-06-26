@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "cardNumber": "12644061",
+  "name": "Advanced Dark",
+  "description": "All \"Crystal Beast\" monsters on the field and in the Graveyard become DARK. If an \"Ultimate Crystal\" monster attacks, negate the effects of the attack target during that Battle Phase. During damage calculation, if a \"Crystal Beast\" monster you control battles and you would take damage: You can send 1 \"Crystal Beast\" monster from your Deck to the Graveyard; you take no Battle Damage from that battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

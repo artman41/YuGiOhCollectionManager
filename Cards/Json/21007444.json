@@ -1,0 +1,16 @@
+{
+  "id": 1968,
+  "cardNumber": "21007444",
+  "name": "Double-Edged Sword Technique",
+  "description": "Target 2 \"Six Samurai\" monsters in your GY; Special Summon those targets in Attack Position. During the End Phase of this turn, destroy them, and if you do, take damage equal to those destroyed monsters' ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

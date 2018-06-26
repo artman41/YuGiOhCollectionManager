@@ -1,0 +1,16 @@
+{
+  "id": 5415,
+  "cardNumber": "52860176",
+  "name": "Possessed Dark Soul",
+  "description": "You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

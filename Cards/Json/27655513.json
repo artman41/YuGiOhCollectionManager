@@ -1,0 +1,16 @@
+{
+  "id": 6301,
+  "cardNumber": "27655513",
+  "name": "Skreech",
+  "description": "If this card is destroyed by battle: Send 2 WATER monsters from your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

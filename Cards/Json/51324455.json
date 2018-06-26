@@ -1,0 +1,16 @@
+{
+  "id": 7275,
+  "cardNumber": "51324455",
+  "name": "Underworld Egg Clutch",
+  "description": "When a face-up Fish, Sea Serpent, or Aqua-Type monster you control is banished: Add 1 Level 4 or lower Fish, Sea Serpent, or Aqua-Type monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

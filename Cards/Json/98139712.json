@@ -1,0 +1,16 @@
+{
+  "id": 6307,
+  "cardNumber": "98139712",
+  "name": "Skull Invitation",
+  "description": "Each time a card(s) is sent to the Graveyard, inflict 300 damage to its owner for each card sent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3260,
+  "cardNumber": "73048641",
+  "name": "Half Shut",
+  "description": "Target 1 face-up monster on the field; it cannot be destroyed by battle this turn, but its ATK is halved until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

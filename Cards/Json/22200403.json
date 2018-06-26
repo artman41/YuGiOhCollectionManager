@@ -1,0 +1,16 @@
+{
+  "id": 3479,
+  "cardNumber": "22200403",
+  "name": "Hypnosister",
+  "description": "This card gains effects based on the total number of cards in both players' Pendulum Zones.<br>â— 1 or more: This card gains 800 ATK and DEF.<br>â— 2 or more: At the start of the Damage Step, if this card battles a Pendulum Summoned monster: Destroy that monster.<br>â— 3 or more: Monsters your opponent controls must attack this card, if able.<br>â— 4: If this card destroys a monster by battle or by its own effect: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

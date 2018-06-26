@@ -1,0 +1,16 @@
+{
+  "id": 247,
+  "cardNumber": "87979586",
+  "name": "Angel Trumpeter",
+  "description": "This beautiful, fairy-like flower generates a delusional mist to keep intruders away from the deepest parts of the forest, where sacred beasts dwell.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

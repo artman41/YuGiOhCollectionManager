@@ -1,0 +1,16 @@
+{
+  "id": 2410,
+  "cardNumber": "22419772",
+  "name": "Fairy Guardian",
+  "description": "Tribute this face-up card to return 1 Spell Card sent to your Graveyard by your opponent's card effect during this turn to the bottom of your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

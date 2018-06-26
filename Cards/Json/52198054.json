@@ -1,0 +1,16 @@
+{
+  "id": 718,
+  "cardNumber": "52198054",
+  "name": "Blaze Accelerator Reload",
+  "description": "This card's name becomes \"Tri-Blaze Accelerator\" while in the Spell &amp; Trap Zone. During either player's Main Phase: You can send 1 \"Volcanic\" card from your hand to the Graveyard, and if you do, draw 1 card. You can only use this effect of \"Blaze Accelerator Reload\" once per turn. During either player's Main Phase: You can banish this card from your Graveyard; send 1 \"Volcanic\" card from your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

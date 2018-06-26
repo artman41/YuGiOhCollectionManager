@@ -1,0 +1,16 @@
+{
+  "id": 8071,
+  "cardNumber": "89904598",
+  "name": "Anthrosaurus",
+  "description": "Dis man-like dinosawz gotta high I.Q., even tho he's lackin' in da strength depawtment. (Kinda like yooz, if ya had a high I.Q.! Nyaah!)",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 850,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

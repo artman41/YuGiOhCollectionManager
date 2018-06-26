@@ -1,0 +1,16 @@
+{
+  "id": 8476,
+  "cardNumber": "7892180",
+  "name": "Psychic Kappa",
+  "description": "An amphibian with a myriad of powers to shield it from enemy attacks.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

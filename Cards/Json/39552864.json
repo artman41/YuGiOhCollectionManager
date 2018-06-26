@@ -1,0 +1,16 @@
+{
+  "id": 4717,
+  "cardNumber": "39552864",
+  "name": "Mystical Shine Ball",
+  "description": "A soul of light covered by mystical shine. When you see its beautiful shape, your dream will come true.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

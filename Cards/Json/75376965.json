@@ -1,0 +1,16 @@
+{
+  "id": 8200,
+  "cardNumber": "75376965",
+  "name": "Enchanting Mermaid",
+  "description": "A beautiful mermaid that lures voyagers to a watery grave.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

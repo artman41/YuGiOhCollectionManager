@@ -1,0 +1,16 @@
+{
+  "id": 6204,
+  "cardNumber": "52900000",
+  "name": "Shinobaron Peacock",
+  "description": "You can Ritual Summon this card with \"Shinobird's Calling\". Must be Ritual Summoned, and cannot be Special Summoned by other ways. If this card is Ritual Summoned: You can return up to 3 monsters your opponent controls to the hand, then you can Special Summon 1 Level 4 or lower Spirit monster from your hand, ignoring its Summoning conditions. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return it to the hand, and if you do, Special Summon 2 \"Shinobird Tokens\" (Winged Beast-Type/WIND/Level 4/ATK 1500/DEF 1500).",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\",\"Spirit\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5433,
+  "cardNumber": "89547299",
+  "name": "Power Injector",
+  "description": "Once per turn you can pay 600 Life Points to have all face-up Psychic-Type monsters gain 500 ATK during this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

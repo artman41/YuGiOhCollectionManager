@@ -1,0 +1,16 @@
+{
+  "id": 6414,
+  "cardNumber": "97362768",
+  "name": "Spark Blaster",
+  "description": "Equip only to \"Elemental HERO Sparkman\". During your Main Phase: You can target 1 face-up monster; change the battle position of that target. After you use this effect 3 times, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

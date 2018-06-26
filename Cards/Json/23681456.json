@@ -1,0 +1,16 @@
+{
+  "id": 4186,
+  "cardNumber": "23681456",
+  "name": "Madolchepalooza",
+  "description": "Special Summon any number of \"Madolche\" monsters from your hand, but shuffle them into the Deck during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

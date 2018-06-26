@@ -1,0 +1,16 @@
+{
+  "id": 7360,
+  "cardNumber": "26046205",
+  "name": "Vengeful Shinobi",
+  "description": "When this face-up Attack Position card is targeted for an attack: Draw 1 card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

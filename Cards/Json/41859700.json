@@ -1,0 +1,16 @@
+{
+  "id": 897,
+  "cardNumber": "41859700",
+  "name": "Burning Algae",
+  "description": "When this card is sent to the Graveyard, increase your opponent's Life Points by 1000 points.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

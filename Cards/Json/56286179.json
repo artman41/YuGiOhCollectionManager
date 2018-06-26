@@ -1,0 +1,16 @@
+{
+  "id": 2059,
+  "cardNumber": "56286179",
+  "name": "Drill Synchron",
+  "description": "If a Warrior-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, when you inflict battle damage to your opponent with this effect: You can draw 1 card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

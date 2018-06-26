@@ -1,0 +1,16 @@
+{
+  "id": 3295,
+  "cardNumber": "6924874",
+  "name": "Harpie's Pet Baby Dragon",
+  "description": "This card gains effects based on the number of \"Harpie\" monsters you control, except \"Harpie's Pet Baby Dragon\".<br>â— 1 or more: Your opponent cannot target \"Harpie\" monsters you control for attacks, except \"Harpie's Pet Baby Dragon\".<br>â— 2 or more: Double the original ATK and DEF of this card.<br>â— 3 or more: Once per turn: You can target 1 card your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

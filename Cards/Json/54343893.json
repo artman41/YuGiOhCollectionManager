@@ -1,0 +1,16 @@
+{
+  "id": 7377,
+  "cardNumber": "54343893",
+  "name": "Vice Dragon",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand), but its original ATK and DEF become halved.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

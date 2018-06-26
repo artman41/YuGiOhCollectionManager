@@ -1,0 +1,16 @@
+{
+  "id": 5970,
+  "cardNumber": "21502796",
+  "name": "Ryko, Lightsworn Hunter",
+  "description": "FLIP: Apply these effects (simultaneously).<br>â— You can destroy 1 card on the field.<br>â— Send the top 3 cards of your Deck to the GY.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

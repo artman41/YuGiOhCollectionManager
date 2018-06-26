@@ -1,0 +1,16 @@
+{
+  "id": 8764,
+  "cardNumber": "23002292",
+  "name": "Red Reboot",
+  "description": "When your opponent activates a Trap Card: Negate the activation, and if you do, Set that card face-down, then they can Set 1 Trap directly from their Deck. For the rest of this turn after this card resolves, your opponent cannot activate Trap Cards. You can activate this card from your hand by paying half your LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

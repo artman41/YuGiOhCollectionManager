@@ -1,0 +1,16 @@
+{
+  "id": 3230,
+  "cardNumber": "9633505",
+  "name": "Guardian Kay'est",
+  "description": "Cannot be Summoned unless you control a face-up \"Rod of Silence - Kay'est\". This card is unaffected by Spell effects and cannot be targeted for attacks, but does not prevent your opponent from attacking you directly.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

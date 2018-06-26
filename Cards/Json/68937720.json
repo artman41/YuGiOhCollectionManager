@@ -1,0 +1,16 @@
+{
+  "id": 4529,
+  "cardNumber": "68937720",
+  "name": "Mind Drain",
+  "description": "Activate this card by paying 1000 LP. Effects of monsters in the hand cannot be activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

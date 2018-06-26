@@ -1,0 +1,16 @@
+{
+  "id": 5068,
+  "cardNumber": "90140980",
+  "name": "Ojama King",
+  "description": "\"Ojama Green\" + \"Ojama Yellow\" + \"Ojama Black\"<br>Select up to 3 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

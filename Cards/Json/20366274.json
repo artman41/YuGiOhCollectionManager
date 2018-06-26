@@ -1,0 +1,16 @@
+{
+  "id": 2138,
+  "cardNumber": "20366274",
+  "name": "El Shaddoll Construct",
+  "description": "1 \"Shaddoll\" monster + 1 LIGHT monster<br>Must first be Fusion Summoned. If this card is Special Summoned: You can send 1 \"Shaddoll\" card from your Deck to the Graveyard. At the start of the Damage Step, if this card battles a Special Summoned monster: Destroy that monster. If this card is sent to the Graveyard: You can target 1 \"Shaddoll\" Spell/Trap Card in your Graveyard; add it to your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

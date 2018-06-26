@@ -1,0 +1,16 @@
+{
+  "id": 691,
+  "cardNumber": "55610595",
+  "name": "Blackwing - Pinaki the Waxing Moon",
+  "description": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Blackwing\" Synchro Monster. During the End Phase, if this card is in the Graveyard because it was sent there from the field this turn: You can add 1 \"Blackwing\" monster from your Deck to your hand, except \"Blackwing - Pinaki the Waxing Moon\". You can only use this effect of \"Blackwing - Pinaki the Waxing Moon\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

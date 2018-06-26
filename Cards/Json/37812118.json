@@ -1,0 +1,16 @@
+{
+  "id": 1341,
+  "cardNumber": "37812118",
+  "name": "Cup of Ace",
+  "description": "Toss a coin: â— Heads: Draw 2 cards. â— Tails: Your opponent draws 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8271,
+  "cardNumber": "27094595",
+  "name": "Graveyard and the Hand of Invitation",
+  "description": "A graveyard that serves as a power source for zombies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

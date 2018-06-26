@@ -1,0 +1,16 @@
+{
+  "id": 3919,
+  "cardNumber": "48940337",
+  "name": "Lancephorhynchus",
+  "description": "Pendulum Effect\n If a Normal Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n Monster Effect\n This primordial species survived extinction by evolving an offensive lance than can pierce anything, although its diet still consists mainly of fish.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

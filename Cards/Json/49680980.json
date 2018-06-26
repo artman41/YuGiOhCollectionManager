@@ -1,0 +1,16 @@
+{
+  "id": 3850,
+  "cardNumber": "49680980",
+  "name": "Koa'ki Meiru Sandman",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player's turn, when your opponent activates a Trap Card: You can Tribute this card; negate the activation, and if you do, destroy that card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

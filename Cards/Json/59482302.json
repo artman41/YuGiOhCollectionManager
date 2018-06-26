@@ -1,0 +1,16 @@
+{
+  "id": 138,
+  "cardNumber": "59482302",
+  "name": "Ally Salvo",
+  "description": "When this card is destroyed by battle with a LIGHT monster and sent to the Graveyard, select 2 cards on the field and destroy them.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

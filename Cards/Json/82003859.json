@@ -1,0 +1,16 @@
+{
+  "id": 7032,
+  "cardNumber": "82003859",
+  "name": "Toll",
+  "description": "Each player must pay 500 Life Points to declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

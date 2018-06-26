@@ -1,0 +1,16 @@
+{
+  "id": 4043,
+  "cardNumber": "37231841",
+  "name": "Lighten the Load",
+  "description": "Once per turn, you can add 1 Level 7 or higher monster from your hand to your Deck and shuffle it, then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

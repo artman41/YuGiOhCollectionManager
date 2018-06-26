@@ -1,0 +1,16 @@
+{
+  "id": 407,
+  "cardNumber": "29311166",
+  "name": "Assault Wyvern",
+  "description": "When this card destroys an opponent's monster by battle: You can Tribute this card; Special Summon 1 Dragon-Type monster from your hand or Graveyard, except \"Assault Wyvern\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

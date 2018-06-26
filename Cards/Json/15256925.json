@@ -1,0 +1,16 @@
+{
+  "id": 1044,
+  "cardNumber": "15256925",
+  "name": "Chaos Scepter Blast",
+  "description": "If you control a Level 8 or higher Spellcaster-Type monster: Banish 1 card on the field face-down. If this card in its owner's Spell &amp; Trap Zone is destroyed by an opponent's card effect: You can Special Summon 1 \"Magician of Black Chaos\" or \"Dark Magician of Chaos\" from your Deck, ignoring its Summoning conditions.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

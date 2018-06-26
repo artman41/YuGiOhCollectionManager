@@ -1,0 +1,16 @@
+{
+  "id": 6269,
+  "cardNumber": "14989021",
+  "name": "Simorgh, Bird of Divinity",
+  "description": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

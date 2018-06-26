@@ -1,0 +1,16 @@
+{
+  "id": 5215,
+  "cardNumber": "46066477",
+  "name": "Performance Hurricane",
+  "description": "Target cards your opponent controls, up to the number of \"Performapal\" monsters you control; return them to the hand. You can only activate 1 \"Performance Hurricane\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

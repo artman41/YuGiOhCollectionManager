@@ -1,0 +1,16 @@
+{
+  "id": 2910,
+  "cardNumber": "84046493",
+  "name": "Ghost Beef",
+  "description": "Pendulum Effect\n Once per turn: You can roll a six-sided die. Until the end of this turn, increase this card's Pendulum Scale by that number (max. 10).\n\n Monster Effect\n The Ghost of Christmas Dinner.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

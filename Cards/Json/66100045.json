@@ -1,0 +1,16 @@
+{
+  "id": 7083,
+  "cardNumber": "66100045",
+  "name": "Transmigration Break",
+  "description": "Any cards that would be returned to the Deck from the Graveyard are removed from play instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

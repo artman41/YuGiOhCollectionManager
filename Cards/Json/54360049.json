@@ -1,0 +1,16 @@
+{
+  "id": 990,
+  "cardNumber": "54360049",
+  "name": "Catoblepas and the Witch of Fate",
+  "description": "When your opponent Special Summons a monster(s), you can remove from play 1 monster with&#160;? ATK from your Graveyard to destroy that Special Summoned monster(s).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

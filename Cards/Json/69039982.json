@@ -1,0 +1,16 @@
+{
+  "id": 8951,
+  "cardNumber": "69039982",
+  "name": "Reunite Palladion",
+  "description": "All \"Palladion\" Link Monsters on the field gain 500 ATK. Once per turn: You can target 1 \"Palladion\" Link Monster you control; this turn, that monster can attack all monsters your opponent controls, once each, also other monsters cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

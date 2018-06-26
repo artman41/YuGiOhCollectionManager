@@ -1,0 +1,16 @@
+{
+  "id": 3296,
+  "cardNumber": "52040216",
+  "name": "Harpie's Pet Dragon",
+  "description": "This card gains 300 ATK and DEF for each \"Harpie Lady\" on the field.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7892,
+  "cardNumber": "49033797",
+  "name": "Forbidden Trapezohedron",
+  "description": "Apply this effect, depending on the Extra Deck monster card types (Fusion, Synchro, or Xyz) of monsters you control. You must control exactly 2 different monster card types to activate and to resolve this effect.<br>â— Fusion and Synchro: Special Summon 1 \"Outer Entity\" Xyz Monster from your Extra Deck, and if you do, attach this card to it as Xyz Material.<br>â— Synchro and Xyz: Special Summon 1 \"Elder Entity\" Fusion Monster from your Extra Deck.<br>â— Xyz and Fusion: Special Summon 1 \"Old Entity\" Synchro Monster from your Extra Deck.<br>You can only activate 1 \"Forbidden Trapezohedron\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

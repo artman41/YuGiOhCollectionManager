@@ -1,0 +1,16 @@
+{
+  "id": 4519,
+  "cardNumber": "33225925",
+  "name": "Milla the Temporal Magician",
+  "description": "When this card is Normal Summoned: Target 1 Set card your opponent controls; look at it. Your opponent cannot activate Spell/Trap Cards in response to this effect's activation.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

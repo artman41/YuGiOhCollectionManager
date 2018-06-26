@@ -1,0 +1,16 @@
+{
+  "id": 4450,
+  "cardNumber": "96682430",
+  "name": "Mermail Abysshilde",
+  "description": "If this card is sent to the Graveyard: You can Special Summon 1 \"Mermail\" monster from your hand, except \"Mermail Abysshilde\". You can only use the effect of \"Mermail Abysshilde\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

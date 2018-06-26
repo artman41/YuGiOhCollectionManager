@@ -1,0 +1,16 @@
+{
+  "id": 5076,
+  "cardNumber": "4857085",
+  "name": "Omega Goggles",
+  "description": "Equip only to a monster you control. Once per turn, you can look at 1 random card in your opponent's hand. The equipped monster cannot attack the turn you activate this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

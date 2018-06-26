@@ -1,0 +1,16 @@
+{
+  "id": 922,
+  "cardNumber": "17597059",
+  "name": "Byser Shock",
+  "description": "When this card is Normal Summoned, Flip Summoned, or Special Summoned, return all Set cards on the field to their owner's respective hands.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

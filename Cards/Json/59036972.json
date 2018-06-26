@@ -1,0 +1,16 @@
+{
+  "id": 4381,
+  "cardNumber": "59036972",
+  "name": "Mavelus",
+  "description": "\"Tyhone\" + \"Wings of Wicked Flame\"",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

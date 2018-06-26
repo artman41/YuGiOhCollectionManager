@@ -1,0 +1,16 @@
+{
+  "id": 2585,
+  "cardNumber": "66457138",
+  "name": "Fluffal Leo",
+  "description": "When this card declares an attack: It gains 500 ATK until the end of the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

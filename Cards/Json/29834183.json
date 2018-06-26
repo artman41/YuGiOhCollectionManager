@@ -1,0 +1,16 @@
+{
+  "id": 3180,
+  "cardNumber": "29834183",
+  "name": "Graydle Eagle",
+  "description": "If this card in your Monster Zone is destroyed by battle or monster effect and sent to your Graveyard: You can target 1 face-up monster your opponent controls; equip this card to that target. While this card is equipped to a monster by this effect, take control of that monster. When this card leaves the field, destroy the equipped monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

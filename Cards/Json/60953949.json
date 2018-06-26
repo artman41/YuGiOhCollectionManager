@@ -1,0 +1,16 @@
+{
+  "id": 211,
+  "cardNumber": "60953949",
+  "name": "Ancient Gear Box",
+  "description": "If this card is added from the Deck or Graveyard to your hand, except by drawing it: You can add 1 EARTH Machine-Type monster with 500 ATK and/or DEF from your Deck to your hand, except \"Ancient Gear Box\". You can only use this effect of \"Ancient Gear Box\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

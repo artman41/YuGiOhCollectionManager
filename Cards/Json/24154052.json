@@ -1,0 +1,16 @@
+{
+  "id": 8781,
+  "cardNumber": "24154052",
+  "name": "Protron",
+  "description": "An original species found in electronic space. The amount of information on it is unknown.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8330,
+  "cardNumber": "20541432",
+  "name": "Key Mace #2",
+  "description": "This fiend brings out the worst in everyone.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1050,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

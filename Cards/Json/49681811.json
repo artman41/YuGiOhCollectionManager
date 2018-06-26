@@ -1,0 +1,16 @@
+{
+  "id": 2654,
+  "cardNumber": "49681811",
+  "name": "Freed the Matchless General",
+  "description": "Negate any Spell effects that target this card, and if you do, destroy that Spell Card. During your Draw Phase, instead of conducting your normal draw: You can add 1 Level 4 or lower Warrior-Type monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6242,
+  "cardNumber": "65422840",
+  "name": "Shutendoji",
+  "description": "Once per turn: You can activate 1 of these effects.<br>â— Banish 2 Zombie-Type monsters from your Graveyard; draw 1 card.<br>â— Target 1 of your banished Zombie-Type monsters; place that target on the top of your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

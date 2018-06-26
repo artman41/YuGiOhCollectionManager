@@ -1,0 +1,16 @@
+{
+  "id": 5446,
+  "cardNumber": "33691040",
+  "name": "Pragtical",
+  "description": "\"Trakodon\" + \"Flame Viper\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

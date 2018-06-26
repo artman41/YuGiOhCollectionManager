@@ -1,0 +1,16 @@
+{
+  "id": 8273,
+  "cardNumber": "55691901",
+  "name": "Great Bill",
+  "description": "Nothing escapes from this beast's massive mouth.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1250,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

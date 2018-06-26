@@ -1,0 +1,16 @@
+{
+  "id": 2200,
+  "cardNumber": "72926163",
+  "name": "Elemental HERO Neos Knight",
+  "description": "\"Elemental HERO Neos\" + 1 Warrior-Type monster<br>This card cannot be Special Summoned except by Fusion Summon. This card gains ATK equal to half the ATK of the Warrior-Type Fusion Material Monster used to Fusion Summon this card, other than \"Elemental HERO Neos\". This card can attack twice during each Battle Phase. If this card attacks or is attacked, your opponent takes no Battle Damage.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8384,
+  "cardNumber": "63545455",
+  "name": "Mech Mole Zombie",
+  "description": "This creature attacks by launching missile-like arms.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

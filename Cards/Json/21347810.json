@@ -1,0 +1,16 @@
+{
+  "id": 5665,
+  "cardNumber": "21347810",
+  "name": "Rainbow Flower",
+  "description": "This monster may attack your opponent's Life Points directly.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

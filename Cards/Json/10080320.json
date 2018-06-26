@@ -1,0 +1,16 @@
+{
+  "id": 3727,
+  "cardNumber": "10080320",
+  "name": "Jurassic World",
+  "description": "All Dinosaur-Type monsters gain 300 ATK and DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

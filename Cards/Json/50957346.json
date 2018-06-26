@@ -1,0 +1,16 @@
+{
+  "id": 5619,
+  "cardNumber": "50957346",
+  "name": "Raging Earth",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-EARTH monsters.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1345,
+  "cardNumber": "84970821",
+  "name": "Curse of Darkness",
+  "description": "Each time a Spell Card is activated, immediately after it resolves, the player that activated it takes 1000 damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

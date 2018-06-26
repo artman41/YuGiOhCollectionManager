@@ -1,0 +1,16 @@
+{
+  "id": 7588,
+  "cardNumber": "57116033",
+  "name": "Winged Kuriboh",
+  "description": "If this card on the field is destroyed and sent to the Graveyard: For the rest of this turn, you take no battle damage.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

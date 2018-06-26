@@ -1,0 +1,16 @@
+{
+  "id": 3131,
+  "cardNumber": "32907538",
+  "name": "Grapple Blocker",
+  "description": "When this card is Normal Summoned, you can select 1 monster your opponent controls. The selected monster cannot attack or be Tributed, while this card remains face-up on the field. During each of your End Phases, pay 500 Life Points or destroy this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

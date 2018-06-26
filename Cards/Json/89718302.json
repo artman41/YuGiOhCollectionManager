@@ -1,0 +1,16 @@
+{
+  "id": 16,
+  "cardNumber": "89718302",
+  "name": "Abare Ushioni",
+  "description": "Once per turn, you can toss a coin and call it. If you call it right, inflict 1000 damage to your opponent. If you call it wrong, you take 1000 damage.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 808,
+  "cardNumber": "22923081",
+  "name": "Breaker the Dark Magical Warrior",
+  "description": "If this card is Normal Summoned: Place 2 Spell Counters on it. If this card is Pendulum Summoned: Place 3 Spell Counters on it. This card gains 400 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy it. You can only use this effect of \"Breaker the Dark Magical Warrior\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

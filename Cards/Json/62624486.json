@@ -1,0 +1,16 @@
+{
+  "id": 4357,
+  "cardNumber": "62624486",
+  "name": "Masked HERO Dian",
+  "description": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 Level 4 or lower \"HERO\" monster from your Deck.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

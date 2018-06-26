@@ -1,0 +1,16 @@
+{
+  "id": 8463,
+  "cardNumber": "75356564",
+  "name": "Petit Dragon",
+  "description": "A very small dragon known for its vicious attacks.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

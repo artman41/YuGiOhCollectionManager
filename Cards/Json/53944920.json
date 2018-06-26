@@ -1,0 +1,16 @@
+{
+  "id": 2891,
+  "cardNumber": "53944920",
+  "name": "Genex Furnace",
+  "description": "If you control a face-up \"Genex Controller\", you can Normal Summon this card without Tributing.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

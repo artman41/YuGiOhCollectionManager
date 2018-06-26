@@ -1,0 +1,16 @@
+{
+  "id": 120,
+  "cardNumber": "8822710",
+  "name": "Ally of Justice Cosmic Gateway",
+  "description": "If your opponent controls 2 or more monsters, including a LIGHT monster, you can Special Summon this card from your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

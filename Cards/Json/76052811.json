@@ -1,0 +1,16 @@
+{
+  "id": 3333,
+  "cardNumber": "76052811",
+  "name": "Helpoemer",
+  "description": "Cannot be Special Summoned from the Graveyard. If this card was destroyed by battle and sent to the Graveyard, this effect activates at the end of each of your opponent's Battle Phases: Discard 1 random card from your opponent's hand. This card must be in the Graveyard to activate and to resolve this effect.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

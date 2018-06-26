@@ -1,0 +1,16 @@
+{
+  "id": 8122,
+  "cardNumber": "68963107",
+  "name": "Boo Koo",
+  "description": "A book-like wizard with a wealth of magic written inside.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 650,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

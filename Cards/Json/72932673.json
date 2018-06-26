@@ -1,0 +1,16 @@
+{
+  "id": 46,
+  "cardNumber": "72932673",
+  "name": "Abyss-scale of the Mizuchi",
+  "description": "Equip only to a \"Mermail\" monster. It gains 800 ATK. When a Spell effect that was activated on your opponent's side of the field resolves, negate that effect, then send this card to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

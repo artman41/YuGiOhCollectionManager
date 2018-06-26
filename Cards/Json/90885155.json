@@ -1,0 +1,16 @@
+{
+  "id": 5577,
+  "cardNumber": "90885155",
+  "name": "Qliphort Shell",
+  "description": "Pendulum Effect\n You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.\n\n Monster Effect\n You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Normal Summoned by Tributing a \"Qli\" monster(s), it can make a second attack during each Battle Phase, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

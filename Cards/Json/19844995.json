@@ -1,0 +1,16 @@
+{
+  "id": 5430,
+  "cardNumber": "19844995",
+  "name": "Power Filter",
+  "description": "Neither player can Special Summon monsters with 1000 or less ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

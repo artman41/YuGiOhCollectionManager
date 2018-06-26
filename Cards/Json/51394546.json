@@ -1,0 +1,16 @@
+{
+  "id": 1002,
+  "cardNumber": "51394546",
+  "name": "Cemetary Bomb",
+  "description": "Inflict 100 damage to your opponent for each card in their Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

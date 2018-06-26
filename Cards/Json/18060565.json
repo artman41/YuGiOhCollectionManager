@@ -1,0 +1,16 @@
+{
+  "id": 2044,
+  "cardNumber": "18060565",
+  "name": "Dragunity Primus Pilus",
+  "description": "When this card is Normal or Special Summoned, you can select 1 face-up Winged Beast-Type \"Dragunity\" monster you control. Equip it with 1 Level 3 or lower Dragon-Type \"Dragunity\" monster from your Deck.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

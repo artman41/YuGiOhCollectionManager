@@ -1,0 +1,16 @@
+{
+  "id": 7981,
+  "cardNumber": "96157835",
+  "name": "Raidraptor - Arsenal Falcon",
+  "description": "2 Level 7 monsters<br>Once per turn: You can detach 1 material from this card; Special Summon 1 Level 4 Winged Beast monster from your Deck. If this card has a \"Raidraptor\" monster(s) as Xyz Material, it can attack a number of times each Battle Phase, up to the number of materials attached to it. If this card is sent to the GY while it has a \"Raidraptor\" monster as material: You can Special Summon 1 \"Raidraptor\" Xyz Monster from your Extra Deck, except \"Raidraptor - Arsenal Falcon\", and if you do, attach this card from the GY to that Xyz Monster as material.",
+  "cardLevel": null,
+  "cardRank": 7,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

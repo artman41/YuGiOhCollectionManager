@@ -1,0 +1,16 @@
+{
+  "id": 3779,
+  "cardNumber": "2924048",
+  "name": "Karakuri Cash Shed",
+  "description": "Activate only if you control a \"Karakuri\" monster in face-up Defense Position. Negate the activation of an opponent's Spell/Trap Card and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7505,
+  "cardNumber": "63665606",
+  "name": "Wave-Motion Inferno",
+  "description": "While you have no cards in your hand, face-up \"Infernity\" monsters you control gain 400 ATK and DEF. You can send this face-up card from the field to the Graveyard to send all cards from your hand to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

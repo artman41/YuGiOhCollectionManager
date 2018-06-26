@@ -1,0 +1,16 @@
+{
+  "id": 4403,
+  "cardNumber": "67922702",
+  "name": "Mecha Phantom Beast Tetherwolf",
+  "description": "When this card is Normal Summoned: Special Summon 1 \"Mecha Phantom Beast Token\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. During the Damage Step of either player's turn, if this card battles an opponent's monster: You can Tribute 1 Token once per battle; this card gains 800 ATK, until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

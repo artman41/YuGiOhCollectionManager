@@ -1,0 +1,16 @@
+{
+  "id": 169,
+  "cardNumber": "53162898",
+  "name": "Amazoness Sage",
+  "description": "At the end of the Damage Step, if this card attacked and is still on the field: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

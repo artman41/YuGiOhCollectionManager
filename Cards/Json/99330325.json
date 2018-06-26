@@ -1,0 +1,16 @@
+{
+  "id": 3611,
+  "cardNumber": "99330325",
+  "name": "Interrupted Kaiju Slumber",
+  "description": "Destroy as many monsters on the field as possible, then Special Summon in Attack Position, 2 \"Kaiju\" monsters with different names from your Deck (1 on each side), but they cannot change their battle positions, and must attack, if able. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard; add 1 \"Kaiju\" monster from your Deck to your hand. You can only activate 1 \"Interrupted Kaiju Slumber\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

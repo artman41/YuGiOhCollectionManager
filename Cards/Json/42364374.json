@@ -1,0 +1,16 @@
+{
+  "id": 364,
+  "cardNumber": "42364374",
+  "name": "Arsenal Bug",
+  "description": "If you control no other Insect-Type monsters, this card's ATK and DEF become 1000.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

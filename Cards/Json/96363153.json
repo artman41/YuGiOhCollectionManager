@@ -1,0 +1,16 @@
+{
+  "id": 7179,
+  "cardNumber": "96363153",
+  "name": "Tuning",
+  "description": "Add 1 \"Synchron\" Tuner monster from your Deck to your hand, then send the top card of your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

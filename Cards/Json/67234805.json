@@ -1,0 +1,16 @@
+{
+  "id": 5445,
+  "cardNumber": "67234805",
+  "name": "Powersink Stone",
+  "description": "Each time a monster effect is activated, place 1 Spellstone Counter on this card (max. 2). While this card has 2 Spellstone Counters, face-up monsters on the field cannot activate their effects, and their effects are negated. During each End Phase, remove all Spellstone Counters on this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

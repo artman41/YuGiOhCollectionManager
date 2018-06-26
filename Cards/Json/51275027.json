@@ -1,0 +1,16 @@
+{
+  "id": 7283,
+  "cardNumber": "51275027",
+  "name": "The Unhappy Maiden",
+  "description": "When this card is sent to the Graveyard as a result of battle, the Battle Phase for that turn ends immediately.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

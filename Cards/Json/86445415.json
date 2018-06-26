@@ -1,0 +1,16 @@
+{
+  "id": 5743,
+  "cardNumber": "86445415",
+  "name": "Red Gadget",
+  "description": "When this card is Normal or Special Summoned: You can add 1 \"Yellow Gadget\" from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

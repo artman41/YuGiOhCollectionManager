@@ -1,0 +1,16 @@
+{
+  "id": 814,
+  "cardNumber": "24707869",
+  "name": "Bright Future",
+  "description": "Target 2 of your banished Psychic-Type monsters; return both those targets to the Graveyard and draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

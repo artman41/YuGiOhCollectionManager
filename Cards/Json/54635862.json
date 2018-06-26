@@ -1,0 +1,16 @@
+{
+  "id": 2903,
+  "cardNumber": "54635862",
+  "name": "Gentlemander",
+  "description": "When an opponent's monster declares an attack: You can Special Summon this card from your hand. Your opponent cannot attack any monsters except this one.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3153,
+  "cardNumber": "93023479",
+  "name": "Gravekeeper's Recruiter",
+  "description": "When this card you control is sent to your Graveyard: Add 1 \"Gravekeeper's\" monster with 1500 or less DEF from your Deck to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

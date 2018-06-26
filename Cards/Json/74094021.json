@@ -1,0 +1,16 @@
+{
+  "id": 3994,
+  "cardNumber": "74094021",
+  "name": "Legendary Six Samurai - Mizuho",
+  "description": "If you control \"Legendary Six Samurai - Shinai\", you can Special Summon this card (from your hand). Once per turn: You can Tribute another face-up \"Six Samurai\" monster, then target 1 card on the field; destroy that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

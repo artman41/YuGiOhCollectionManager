@@ -1,0 +1,16 @@
+{
+  "id": 3897,
+  "cardNumber": "56514812",
+  "name": "Kunoichi",
+  "description": "When control of this face-up card changes, its new controller discards 1 random card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4834,
+  "cardNumber": "36107810",
+  "name": "Night's End Sorcerer",
+  "description": "When this card is Special Summoned: You can target up to 2 cards in your opponent's Graveyard; banish them.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

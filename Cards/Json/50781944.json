@@ -1,0 +1,16 @@
+{
+  "id": 204,
+  "cardNumber": "50781944",
+  "name": "Ancient Crimson Ape",
+  "description": "When a monster(s) you control is destroyed and sent to the Graveyard, gain 1000 Life Points.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

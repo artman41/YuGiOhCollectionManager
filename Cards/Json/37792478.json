@@ -1,0 +1,16 @@
+{
+  "id": 4467,
+  "cardNumber": "37792478",
+  "name": "Metabo-Shark",
+  "description": "When this card is Normal Summoned: You can target 2 Fish-Type monsters in your Graveyard; shuffle those targets into your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

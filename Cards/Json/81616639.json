@@ -1,0 +1,16 @@
+{
+  "id": 7792,
+  "cardNumber": "81616639",
+  "name": "Zombina",
+  "description": "If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 Level 4 or lower monster in your GY, except \"Zombina\"; Special Summon it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

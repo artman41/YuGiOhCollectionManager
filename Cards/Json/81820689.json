@@ -1,0 +1,16 @@
+{
+  "id": 3533,
+  "cardNumber": "81820689",
+  "name": "The Inexperienced Spy",
+  "description": "Select and see 1 card in your opponent's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

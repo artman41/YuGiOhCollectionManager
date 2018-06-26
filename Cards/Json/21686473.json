@@ -1,0 +1,16 @@
+{
+  "id": 1486,
+  "cardNumber": "21686473",
+  "name": "D/D/D Destiny King Zero Laplace",
+  "description": "Pendulum Effect\n During your Main Phase: You can add 1 face-up \"D/D/D\" Pendulum Monster from your Extra Deck to your hand, except \"D/D/D Destiny King Zero Laplace\". You can only use this effect of \"D/D/D Destiny King Zero Laplace\" once per turn.\n\n Monster Effect\n You can Special Summon this card (from your hand) by Tributing 1 \"D/D/D\" monster. If this card battles an opponent's monster, before damage calculation: You can make this card's ATK become double the original ATK of the opponent's monster it is battling, until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. The first time this card would be destroyed by battle each turn, it is not destroyed, also you take no battle damage from that battle.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

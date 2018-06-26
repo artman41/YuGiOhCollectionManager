@@ -1,0 +1,16 @@
+{
+  "id": 387,
+  "cardNumber": "14558127",
+  "name": "Ash Blossom &amp; Joyous Spring",
+  "description": "During either player's turn, when a card or effect is activated that includes any of these effects: You can discard this card; negate that effect.<br>â— Add a card from the Deck to the hand.<br>â— Special Summon from the Deck.<br>â— Send a card from the Deck to the Graveyard.<br>You can only use this effect of \"Ash Blossom &amp; Joyous Spring\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

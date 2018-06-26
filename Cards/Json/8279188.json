@@ -1,0 +1,16 @@
+{
+  "id": 1728,
+  "cardNumber": "8279188",
+  "name": "Depth Amulet",
+  "description": "When your opponent's monster declares an attack, you can discard 1 card to negate the attack. Destroy this card during your opponent's 3rd End Phase after activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

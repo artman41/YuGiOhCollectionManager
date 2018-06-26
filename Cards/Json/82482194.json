@@ -1,0 +1,16 @@
+{
+  "id": 4520,
+  "cardNumber": "82482194",
+  "name": "Millennium Scorpion",
+  "description": "Each time this card destroys 1 monster on your opponent's side of the field by battle and sends it to the Graveyard, this card gains 500 ATK.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

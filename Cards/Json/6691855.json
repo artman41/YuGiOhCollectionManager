@@ -1,0 +1,16 @@
+{
+  "id": 6489,
+  "cardNumber": "6691855",
+  "name": "Spikeshield with Chain",
+  "description": "Target 1 face-up monster on the field; equip this card to that target. It gains 500 ATK. If the equipped monster attacks or is attacked while in Defense Position, it gains DEF equal to its ATK during damage calculation only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

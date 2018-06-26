@@ -1,0 +1,16 @@
+{
+  "id": 2876,
+  "cardNumber": "20127343",
+  "name": "Genex Ally Changer",
+  "description": "Once per turn, you can select 1 face-up monster on the field and declare 1 Attribute. The selected monster's Attribute becomes the declared Attribute until the End Phase.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

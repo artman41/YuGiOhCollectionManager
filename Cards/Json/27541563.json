@@ -1,0 +1,16 @@
+{
+  "id": 147,
+  "cardNumber": "27541563",
+  "name": "Altergeist Protocol",
+  "description": "The activation and effects of \"Altergeist\" cards activated on your field cannot be negated. When your opponent activates a monster effect: You can send 1 other face-up \"Altergeist\" card you control to the GY; Negate the activation, and if you do, destroy it. You can only use this effect of \"Altergeist Protocol\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

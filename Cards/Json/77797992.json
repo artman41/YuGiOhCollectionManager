@@ -1,0 +1,16 @@
+{
+  "id": 139,
+  "cardNumber": "77797992",
+  "name": "Alpacaribou, Mystical Beast of the Forest",
+  "description": "â— While in Attack Position: Attack Position Winged Beast, Insect and Plant-Type monsters you control cannot be destroyed by battle.<br>â— While in Defense Position: Defense Position Winged Beast, Insect and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

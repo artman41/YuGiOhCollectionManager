@@ -1,0 +1,16 @@
+{
+  "id": 7643,
+  "cardNumber": "28465301",
+  "name": "Worm Opera",
+  "description": "FLIP: All face-up monsters on the field lose 500 ATK, except Reptile-Type \"Worm\" monsters.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

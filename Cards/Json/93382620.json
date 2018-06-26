@@ -1,0 +1,16 @@
+{
+  "id": 5935,
+  "cardNumber": "93382620",
+  "name": "Rope of Life",
+  "description": "When a monster(s) is destroyed by battle and sent to your Graveyard: Discard your entire hand (min.1), then target 1 of those monsters; Special Summon it, and if you do, it gains 800 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1081,
+  "cardNumber": "98076754",
+  "name": "Chosen of Zefra",
+  "description": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.<br>â— 3 or more: Monsters you control gain 100 ATK for each face-up monster in any Extra Deck.<br>â— 5 or more: Monsters you control cannot be destroyed by an opponent's card effects.<br>â— 8 or more: Monsters you control cannot be targeted by an opponent's card effects.<br>â— 10: You can send this card to the Graveyard; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

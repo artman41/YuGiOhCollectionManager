@@ -1,0 +1,16 @@
+{
+  "id": 7211,
+  "cardNumber": "82035781",
+  "name": "Twinheaded Beast",
+  "description": "This card can attack twice during the same Battle Phase.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

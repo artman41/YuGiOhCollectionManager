@@ -1,0 +1,16 @@
+{
+  "id": 1926,
+  "cardNumber": "99721536",
+  "name": "Dokurorider",
+  "description": "This monster can only be Ritual Summoned with the Ritual Magic Card, \"Revival of Dokurorider\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from your field or your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1850,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

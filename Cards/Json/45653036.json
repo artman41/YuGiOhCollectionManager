@@ -1,0 +1,16 @@
+{
+  "id": 5662,
+  "cardNumber": "45653036",
+  "name": "Rain Storm",
+  "description": "Select 1 \"Cloudian\" monster you control. Reduce that monster's ATK by 1000 or 2000 and apply the appropriate effect:<br>â— 1000 points: Destroy 1 Spell or Trap Card your opponent controls.<br>â— 2000 points: Destroy 2 cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

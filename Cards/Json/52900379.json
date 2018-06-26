@@ -1,0 +1,16 @@
+{
+  "id": 666,
+  "cardNumber": "52900379",
+  "name": "Blackwing - Brisote the Tailwind",
+  "description": "If 2 or more face-up \"Blackwing\" monsters you control were destroyed this turn, you can Special Summon this card (from your hand). If this card is sent to the Graveyard as a Synchro Material: Gain 600 LP.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6415,
+  "cardNumber": "76103675",
+  "name": "Sparks",
+  "description": "Inflict 200 points of damage to your opponent's Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

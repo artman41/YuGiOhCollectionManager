@@ -1,0 +1,16 @@
+{
+  "id": 8417,
+  "cardNumber": "45909477",
+  "name": "Moon Envoy",
+  "description": "Many have fallen victim to this lunar warrior's crescent pike.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

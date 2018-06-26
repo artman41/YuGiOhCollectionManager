@@ -1,0 +1,16 @@
+{
+  "id": 3483,
+  "cardNumber": "53567095",
+  "name": "Icarus Attack",
+  "description": "Tribute 1 Winged Beast-Type monster, then target 2 cards on the field; destroy them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1100,
+  "cardNumber": "26345570",
+  "name": "Chronomaly Pyramid Eye Tablet",
+  "description": "All \"Chronomaly\" monsters you control gain 800 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2605,
+  "cardNumber": "81439173",
+  "name": "Foolish Burial",
+  "description": "Send 1 monster from your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

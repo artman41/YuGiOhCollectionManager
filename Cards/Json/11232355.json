@@ -1,0 +1,16 @@
+{
+  "id": 1803,
+  "cardNumber": "11232355",
+  "name": "Destructotron",
+  "description": "During the End Phase, if this card is the only Psychic-Type monster you control: Destroy it. You can pay 1000 LP, then target 1 Set Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

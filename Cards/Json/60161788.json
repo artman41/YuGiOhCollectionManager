@@ -1,0 +1,16 @@
+{
+  "id": 735,
+  "cardNumber": "60161788",
+  "name": "Blizzed, Defender of the Ice Barrier",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

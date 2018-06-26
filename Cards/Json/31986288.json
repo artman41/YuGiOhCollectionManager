@@ -1,0 +1,16 @@
+{
+  "id": 5784,
+  "cardNumber": "31986288",
+  "name": "Regenerating Rose",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 2 \"Regenerating Rose Tokens\" (Plant-Type/DARK/Level 3/ATK 1200/DEF 1200).",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

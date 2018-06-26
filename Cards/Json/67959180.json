@@ -1,0 +1,16 @@
+{
+  "id": 3057,
+  "cardNumber": "67959180",
+  "name": "Goddess of Whim",
+  "description": "Once per turn: You can toss a coin and call Heads or Tails. If you call it right, double this card's ATK during this turn. If you call it wrong, halve its ATK during this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 950,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1815,
+  "cardNumber": "98643358",
+  "name": "Diamond Dust",
+  "description": "Destroy as many WATER monsters on the field as possible, then inflict 500 damage to your opponent for each WATER monster destroyed and sent to the Graveyard by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

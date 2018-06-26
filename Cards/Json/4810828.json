@@ -1,0 +1,16 @@
+{
+  "id": 6037,
+  "cardNumber": "4810828",
+  "name": "Sauravis, the Ancient and Ascended",
+  "description": "You can Ritual Summon this card with \"Sprite's Blessing\". During either player's turn, when your opponent activates a card or effect that targets a monster you control: You can discard this card; negate the activation. During either player's turn, when your opponent would Special Summon a monster(s): You can return this card from your field to the hand; negate the Special Summon, and if you do, banish that monster(s).",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

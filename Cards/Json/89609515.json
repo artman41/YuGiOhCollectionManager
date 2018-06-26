@@ -1,0 +1,16 @@
+{
+  "id": 3952,
+  "cardNumber": "89609515",
+  "name": "Laval Phlogis",
+  "description": "When this card is sent to the Graveyard: All \"Laval\" monsters you currently control gain 300 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

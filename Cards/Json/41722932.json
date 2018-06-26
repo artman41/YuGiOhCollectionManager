@@ -1,0 +1,16 @@
+{
+  "id": 1603,
+  "cardNumber": "41722932",
+  "name": "Dark Mambele",
+  "description": "If you control 3 or more DARK monsters: Target 1 face-up card on the field; banish that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

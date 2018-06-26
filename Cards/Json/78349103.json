@@ -1,0 +1,16 @@
+{
+  "id": 4150,
+  "cardNumber": "78349103",
+  "name": "Machina Peacekeeper",
+  "description": "When this card on the field is destroyed and sent to the Graveyard: You can add 1 Union monster from your Deck to your hand. Once per turn, you can either: Target 1 Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. (A monster can only by equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Union\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

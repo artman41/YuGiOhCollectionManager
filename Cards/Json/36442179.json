@@ -1,0 +1,16 @@
+{
+  "id": 681,
+  "cardNumber": "36442179",
+  "name": "Blackwing - Hurricane the Tornado",
+  "description": "Once per turn: You can target 1 Synchro Monster on the field; this card's ATK becomes that monster's current ATK, until the end of this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

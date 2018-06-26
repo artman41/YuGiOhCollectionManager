@@ -1,0 +1,16 @@
+{
+  "id": 6634,
+  "cardNumber": "39188539",
+  "name": "Storm Shooter",
+  "description": "Once per turn, you can select and activate 1 of these effects: â— Move this card to an adjacent (horizontal) unoccupied Monster Card Zone. â— Return 1 Spell, Trap or Monster Card on your opponent's side of the field in the same column as this card to its owner's hand.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

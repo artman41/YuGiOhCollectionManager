@@ -1,0 +1,16 @@
+{
+  "id": 4284,
+  "cardNumber": "59951714",
+  "name": "Majiosheldon",
+  "description": "Cannot be Special Summoned, except by its own effect. If this card is Tributed for a Tribute Summon, during your next Standby Phase: You can Special Summon this card from your Graveyard. You cannot Special Summon monsters from the Extra Deck during the turn you activate this effect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

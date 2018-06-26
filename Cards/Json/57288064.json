@@ -1,0 +1,16 @@
+{
+  "id": 6214,
+  "cardNumber": "57288064",
+  "name": "Shiranui Samuraisaga",
+  "description": "1 Zombie-Type Tuner + 1 or more non-Tuner Zombie-Type monsters<br>Once per turn, during either player's turn: You can target 1 of your banished Zombie-Type monsters; shuffle it into the Deck, and if you do, change to Defense Position all monsters your opponent controls with ATK less than or equal to that monster's. If this card is banished: You can target 1 face-up monster your opponent controls; it loses 500 ATK. You can only Special Summon \"Shiranui Samuraisaga(s)\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

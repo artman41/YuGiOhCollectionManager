@@ -1,0 +1,16 @@
+{
+  "id": 3243,
+  "cardNumber": "55321970",
+  "name": "Gust Fan",
+  "description": "A WIND monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

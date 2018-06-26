@@ -1,0 +1,16 @@
+{
+  "id": 3581,
+  "cardNumber": "90934570",
+  "name": "Infestation Terminus",
+  "description": "Target 1 \"lswarm\" monster you control and 2 cards your opponent controls; banish the first target, and if you do, return the second targets to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

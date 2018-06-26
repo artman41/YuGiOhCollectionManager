@@ -1,0 +1,16 @@
+{
+  "id": 2163,
+  "cardNumber": "61411502",
+  "name": "Elemental Burst",
+  "description": "Tribute 1 each of WIND, WATER, FIRE, and EARTH monsters to activate this card. Destroy all cards on your opponent's side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

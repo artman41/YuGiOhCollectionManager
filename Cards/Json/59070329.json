@@ -1,0 +1,16 @@
+{
+  "id": 7315,
+  "cardNumber": "59070329",
+  "name": "Utopian Aura",
+  "description": "Detach 1 Xyz Material from a monster you control; the face-up Xyz Monsters you currently control cannot be destroyed by card effects until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

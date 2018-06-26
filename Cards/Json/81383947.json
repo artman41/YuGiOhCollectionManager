@@ -1,0 +1,16 @@
+{
+  "id": 7526,
+  "cardNumber": "81383947",
+  "name": "White Magician Pikeru",
+  "description": "During your Standby Phase, increase your Life Points by 400 points for each monster on your side of the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

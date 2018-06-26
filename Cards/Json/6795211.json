@@ -1,0 +1,16 @@
+{
+  "id": 6914,
+  "cardNumber": "6795211",
+  "name": "Teleport",
+  "description": "Once per turn, if your opponent controls a monster and you control no monsters, you can pay 800 Life Points to Special Summon 1 Psychic-Type monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

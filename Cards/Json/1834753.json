@@ -1,0 +1,16 @@
+{
+  "id": 5118,
+  "cardNumber": "1834753",
+  "name": "Overdrive Teleporter",
+  "description": "This card cannot be Special Summoned. You can pay 2000 Life Points to Special Summon 2 Level 3 Psychic-Type monsters from your Deck. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

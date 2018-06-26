@@ -1,0 +1,16 @@
+{
+  "id": 8343,
+  "cardNumber": "9430387",
+  "name": "LaLa Li-Oon",
+  "description": "An electric cloud creature, its acid rain makes it very dangerous.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

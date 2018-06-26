@@ -1,0 +1,16 @@
+{
+  "id": 5084,
+  "cardNumber": "90470931",
+  "name": "Oni-Gami Combo",
+  "description": "Target 1 face-up Xyz Monster you control and detach all of its Xyz Material; this turn, that target can attack twice during the same Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

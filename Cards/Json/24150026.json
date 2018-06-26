@@ -1,0 +1,16 @@
+{
+  "id": 3784,
+  "cardNumber": "24150026",
+  "name": "Karakuri Muso mdl 818 \"Haipa\"",
+  "description": "This card must attack if able. When this face-up Attack Position card is selected as an attack target, change it to Defense Position. If this card attacks, change it to Defense Position at the end of the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8275,
+  "cardNumber": "22910685",
+  "name": "Green Phantom King",
+  "description": "This youthful king of the forests lives in a green world, abundant with trees and wildlife.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

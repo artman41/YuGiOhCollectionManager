@@ -1,0 +1,16 @@
+{
+  "id": 856,
+  "cardNumber": "86643777",
+  "name": "Bug Matrix",
+  "description": "All Insect-Type monsters you control gain 300 ATK and DEF. You can target 1 Insect-Type Xyz Monster you control; attach 1 Insect-Type monster from your hand to that monster as Xyz Material. You can only use this effect of \"Bug Matrix\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

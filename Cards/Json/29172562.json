@@ -1,0 +1,16 @@
+{
+  "id": 8552,
+  "cardNumber": "29172562",
+  "name": "Steel Ogre Grotto #1",
+  "description": "A steel idol worshipped in the Land of Machines.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

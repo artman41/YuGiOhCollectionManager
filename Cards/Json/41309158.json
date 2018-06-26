@@ -1,0 +1,16 @@
+{
+  "id": 1362,
+  "cardNumber": "41309158",
+  "name": "CXyz Mechquipped Djinn Angeneral",
+  "description": "3 Level 4 monsters<br>When this card is Xyz Summoned: You can target 1 Defense Position monster on the field; change that target to face-up Attack Position. If this card has \"Mechquipped Angineer\" as an Xyz Material, it gains this effect.<br>â— When this card inflicts battle damage to your opponent: You can detach 1 Xyz Material from this card; inflict 1000 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

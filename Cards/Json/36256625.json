@@ -1,0 +1,16 @@
+{
+  "id": 6724,
+  "cardNumber": "36256625",
+  "name": "Super Vehicroid Jumbo Drill",
+  "description": "\"Steamroid\" + \"Drillroid\" + \"Submarineroid\"<br>A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

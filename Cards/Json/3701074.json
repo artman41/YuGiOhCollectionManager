@@ -1,0 +1,16 @@
+{
+  "id": 1558,
+  "cardNumber": "3701074",
+  "name": "Dark Cure",
+  "description": "When your opponent Summons a monster(s), they gain Life Points equal to half the ATK of 1 of the Summoned monsters of your choice.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

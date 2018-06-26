@@ -1,0 +1,16 @@
+{
+  "id": 4247,
+  "cardNumber": "17841166",
+  "name": "Magnet Force",
+  "description": "This turn, all monsters on the field whose original Types are Machine or Rock, are unaffected by your opponent's monster effects (except their own).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

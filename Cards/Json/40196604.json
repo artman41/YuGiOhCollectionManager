@@ -1,0 +1,16 @@
+{
+  "id": 8161,
+  "cardNumber": "40196604",
+  "name": "Dark Shade",
+  "description": "A crystal monster that unleashes a brilliant light to blind enemies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

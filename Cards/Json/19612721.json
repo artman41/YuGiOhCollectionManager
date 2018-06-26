@@ -1,0 +1,16 @@
+{
+  "id": 1881,
+  "cardNumber": "19612721",
+  "name": "Disc Fighter",
+  "description": "If this card attacks a Defense Position monster with DEF 2000 or more, destroy that monster with this card's effect without applying damage calculation.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

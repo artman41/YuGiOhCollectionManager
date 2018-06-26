@@ -1,0 +1,16 @@
+{
+  "id": 8730,
+  "cardNumber": "33508719",
+  "name": "Morphing Jar",
+  "description": "FLIP: Both players discard their entire hands, then draw 5 cards.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

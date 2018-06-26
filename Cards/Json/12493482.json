@@ -1,0 +1,16 @@
+{
+  "id": 8187,
+  "cardNumber": "12493482",
+  "name": "Dunames Dark Witch",
+  "description": "Even when all odds are against this brave fairy, she will press onwards in battle and never retreat.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1050,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

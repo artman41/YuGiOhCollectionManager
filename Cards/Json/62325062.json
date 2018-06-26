@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "cardNumber": "62325062",
+  "name": "Adhesion Trap Hole",
+  "description": "When your opponent Summons a monster(s): Halve that monster(s)'s original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

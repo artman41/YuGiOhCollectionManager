@@ -1,0 +1,16 @@
+{
+  "id": 4844,
+  "cardNumber": "22567609",
+  "name": "Nimble Momonga",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Gain 1000 Life Points, then you can Special Summon any number of \"Nimble Momongas\" from your Deck in face-down Defense Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

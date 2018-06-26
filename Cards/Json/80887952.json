@@ -1,0 +1,16 @@
+{
+  "id": 3329,
+  "cardNumber": "80887952",
+  "name": "Helios Duo Megistus",
+  "description": "You can Special Summon this card by Tributing 1 \"Helios - The Primordial Sun\". This card's ATK and DEF are equal to the number of removed from play monsters x 200. If this card is destroyed by battle and sent to the Graveyard, Special Summon it during the End Phase, and it gains 300 ATK and DEF.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1023,
+  "cardNumber": "22205600",
+  "name": "Chain Whirlwind",
+  "description": "Activate only when a card on the field is destroyed by a card effect. Select 2 Spell/Trap Cards on the field and destroy them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

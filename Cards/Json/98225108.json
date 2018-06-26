@@ -1,0 +1,16 @@
+{
+  "id": 4008,
+  "cardNumber": "98225108",
+  "name": "Leotaur",
+  "description": "If this card battles a non-Normal Monster, this card gains 500 ATK during the Damage Step only.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

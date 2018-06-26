@@ -1,0 +1,16 @@
+{
+  "id": 3308,
+  "cardNumber": "37803172",
+  "name": "Hazy Flame Peryton",
+  "description": "Cannot be Special Summoned, except by a \"Hazy Flame\" monster's effect. Your opponent cannot target this card with card effects. You can send 1 FIRE monster from your hand to the Graveyard and Tribute this card; Special Summon 2 \"Hazy Flame\" monsters from your Deck. You can only use this effect of \"Hazy Flame Peryton\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

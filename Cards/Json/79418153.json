@@ -1,0 +1,16 @@
+{
+  "id": 3920,
+  "cardNumber": "79418153",
+  "name": "Lancer Archfiend",
+  "description": "Once per turn, when a monster you control declares an attack targeting a Defense Position monster your opponent controls, you can activate this effect. If you do, during this battle, if the ATK of the attacking monster is greater than the DEF of the Defense Position monster it battles, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

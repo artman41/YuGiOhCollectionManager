@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "cardNumber": "65064143",
+  "name": "Anti-Aircraft Flower",
+  "description": "By Tributing 1 Insect-Type monster on your side of the field, inflict 800 points of damage to your opponent's Life Points.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 972,
+  "cardNumber": "39701395",
+  "name": "Cards of Consonance",
+  "description": "Discard 1 Dragon Tuner with 1000 or less ATK; draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

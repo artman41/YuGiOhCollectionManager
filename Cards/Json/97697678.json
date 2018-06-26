@@ -1,0 +1,16 @@
+{
+  "id": 2599,
+  "cardNumber": "97697678",
+  "name": "Flying Saucer Muusik'i",
+  "description": "While this card is face-up on the field, you can select and add 1 \"Alien\" card from your Deck to your hand instead of conducting your normal draw during your Draw Phase.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

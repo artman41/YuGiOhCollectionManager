@@ -1,0 +1,16 @@
+{
+  "id": 3146,
+  "cardNumber": "50712728",
+  "name": "Gravekeeper's Curse",
+  "description": "When this card is Summoned: Inflict 500 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

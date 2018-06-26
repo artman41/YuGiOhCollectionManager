@@ -1,0 +1,16 @@
+{
+  "id": 660,
+  "cardNumber": "22835145",
+  "name": "Blackwing - Blizzard the Far North",
+  "description": "Cannot be Special Summoned. When this card is Normal Summoned: You can target 1 Level 4 or lower \"Blackwing\" monster in your Graveyard; Special Summon that target in Defense Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

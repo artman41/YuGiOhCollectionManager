@@ -1,0 +1,16 @@
+{
+  "id": 483,
+  "cardNumber": "94853057",
+  "name": "Banisher of the Radiance",
+  "description": "Any card sent to the Graveyard is banished instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

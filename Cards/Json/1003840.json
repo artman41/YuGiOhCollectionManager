@@ -1,0 +1,16 @@
+{
+  "id": 6587,
+  "cardNumber": "1003840",
+  "name": "Starlight Junktion",
+  "description": "You can Tribute 1 Tuner monster; Special Summon 1 \"Synchron\" monster from your Deck with a different Level than the Tributed monster had on the field. During your opponent's turn, if you Special Summon a Synchro Monster from your Extra Deck: Target 1 card on the field; shuffle it into the Deck. You can only use each effect of \"Starlight Junktion\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 190,
+  "cardNumber": "50554729",
+  "name": "Amorphage Infection",
+  "description": "All \"Amorphage\" monsters on the field gain 100 ATK and DEF for each \"Amorphage\" card on the field. If a monster(s) in your hand or you control is Tributed, or destroyed by battle or card effect: You can add 1 \"Amorphage\" card from your Deck to your hand. You can only use this effect of \"Amorphage Infection\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

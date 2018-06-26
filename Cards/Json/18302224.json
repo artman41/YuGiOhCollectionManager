@@ -1,0 +1,16 @@
+{
+  "id": 5857,
+  "cardNumber": "18302224",
+  "name": "Reverse of Neos",
+  "description": "Activate only when a face-up \"Neos\" Fusion Monster you control is destroyed. Special Summon 1 \"Elemental Hero Neos\" from your Deck in Attack Position. It gains 1000 ATK and is destroyed during the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

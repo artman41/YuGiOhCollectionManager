@@ -1,0 +1,16 @@
+{
+  "id": 3870,
+  "cardNumber": "20849090",
+  "name": "Kozmo Forerunner",
+  "description": "Cannot be targeted by an opponent's card effects. During your Standby Phase: Gain 1000 LP. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 6 or lower \"Kozmo\" monster from your Deck.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6582,
+  "cardNumber": "95403418",
+  "name": "Starduston",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending any number of \"Duston\" monsters you control to the Graveyard, and cannot be Special Summoned by other ways. This card's ATK and DEF each become equal to the number of monsters sent for its Summon x 1000. Your opponent cannot Flip or Special Summon any monsters, or activate any Set Spell/Trap Cards on the field. If you control more monsters than your opponent does, destroy this card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

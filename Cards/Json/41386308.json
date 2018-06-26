@@ -1,0 +1,16 @@
+{
+  "id": 4378,
+  "cardNumber": "41386308",
+  "name": "Mathematician",
+  "description": "When this card is Normal Summoned: You can send 1 Level 4 or lower monster from your Deck to the GY. When this card is destroyed by battle and sent to the GY: You can draw 1 card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

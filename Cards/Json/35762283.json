@@ -1,0 +1,16 @@
+{
+  "id": 3314,
+  "cardNumber": "35762283",
+  "name": "Heart of the Underdog",
+  "description": "During your Draw Phase, when you draw a Normal Monster(s): You can reveal it; draw 1 more card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

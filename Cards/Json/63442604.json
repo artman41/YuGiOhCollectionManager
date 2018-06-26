@@ -1,0 +1,16 @@
+{
+  "id": 5373,
+  "cardNumber": "63442604",
+  "name": "Physical Double",
+  "description": "During your opponent's turn: Target 1 face-up monster your opponent controls; Special Summon 1 \"Mirage Token\" with the same Level, Type, Attribute, ATK, and DEF as that target. Destroy this Token during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8213,
+  "cardNumber": "52800428",
+  "name": "Fiend's Hand",
+  "description": "Arms that reach out from the Swamp of Chaos to drag down the damned.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1359,
+  "cardNumber": "88754763",
+  "name": "CXyz Coach Lord Ultimatrainer",
+  "description": "4 Level 9 monsters<br>This card cannot be targeted by card effects. If this card has an Xyz Monster as an Xyz Material, it gains this effect.<br>â— Once per turn: You can detach 1 Xyz Material from this card; draw 1 card and reveal it, then if it was a monster, inflict 800 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": 9,
+  "atk": 3800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

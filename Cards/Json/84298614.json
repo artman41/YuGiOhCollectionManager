@@ -1,0 +1,16 @@
+{
+  "id": 5444,
+  "cardNumber": "84298614",
+  "name": "Powerful Rebirth",
+  "description": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon that target. Increase its Level by 1 and ATK and DEF by 100. When that monster is destroyed, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

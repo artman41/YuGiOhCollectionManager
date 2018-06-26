@@ -1,0 +1,16 @@
+{
+  "id": 8529,
+  "cardNumber": "40200834",
+  "name": "Sleeping Lion",
+  "description": "A ferocious animal that sleeps all day. Sometimes it's better to let Sleeping Lions lie.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

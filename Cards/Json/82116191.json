@@ -1,0 +1,16 @@
+{
+  "id": 2963,
+  "cardNumber": "82116191",
+  "name": "Gigantic Cephalotus",
+  "description": "This card gains 200 ATK each time a Plant-Type monster is sent from the field to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

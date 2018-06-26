@@ -1,0 +1,16 @@
+{
+  "id": 5805,
+  "cardNumber": "54248491",
+  "name": "Relinquished Spider",
+  "description": "If you have 4 or more Insect-Type monsters in your Graveyard, you can Tribute this card to destroy all face-up Defense Position monsters your opponent controls.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

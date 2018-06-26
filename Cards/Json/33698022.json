@@ -1,0 +1,16 @@
+{
+  "id": 642,
+  "cardNumber": "33698022",
+  "name": "Black Rose Moonlight Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card is Special Summoned, or a Level 5 or higher monster(s) is Special Summoned to your opponent's side of the field: Target 1 Special Summoned monster your opponent controls; return that target to the hand. You can only use this effect of \"Black Rose Moonlight Dragon\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

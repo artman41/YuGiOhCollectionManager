@@ -1,0 +1,16 @@
+{
+  "id": 8315,
+  "cardNumber": "90876561",
+  "name": "Jack's Knight",
+  "description": "A strong master swordsman. His loyalty is to justice, his duty to protect the weak.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

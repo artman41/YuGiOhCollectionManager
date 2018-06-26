@@ -1,0 +1,16 @@
+{
+  "id": 6638,
+  "cardNumber": "50032342",
+  "name": "Strategist of the Ice Barrier",
+  "description": "Once per turn, you can send 1 \"Ice Barrier\" monster from your hand to the Graveyard to draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

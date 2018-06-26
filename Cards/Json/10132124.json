@@ -1,0 +1,16 @@
+{
+  "id": 7594,
+  "cardNumber": "10132124",
+  "name": "Wingtortoise",
+  "description": "When a face-up Fish, Sea Serpent, or Aqua-Type monster(s) you control is banished: You can Special Summon this card from your hand or Graveyard. (The banished monster(s) must be Fish, Sea Serpent, or Aqua-Type even after being banished.)",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

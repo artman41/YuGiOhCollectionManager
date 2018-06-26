@@ -1,0 +1,16 @@
+{
+  "id": 5179,
+  "cardNumber": "17988746",
+  "name": "Parry Knights",
+  "description": "When you take battle damage from an opponent's attacking monster: You can Special Summon this card from your hand, then you can Special Summon 1 monster from your hand with ATK less than or equal to the damage you took.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

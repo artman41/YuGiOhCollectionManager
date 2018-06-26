@@ -1,0 +1,16 @@
+{
+  "id": 3755,
+  "cardNumber": "19353570",
+  "name": "Kagemucha Knight",
+  "description": "When you Normal Summon a Level 3 monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

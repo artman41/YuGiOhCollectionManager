@@ -1,0 +1,16 @@
+{
+  "id": 5313,
+  "cardNumber": "7576264",
+  "name": "Phantom Beast Wild-Horn",
+  "description": "During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7618,
+  "cardNumber": "61654098",
+  "name": "World Legacy Discovery",
+  "description": "All \"World Chalice\" monsters on the field gain 300 ATK and DEF. Once per turn, if a face-up \"World Chalice\" monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can target 1 \"World Chalice\" monster in your GY; Special Summon it in Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

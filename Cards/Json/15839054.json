@@ -1,0 +1,16 @@
+{
+  "id": 6863,
+  "cardNumber": "15839054",
+  "name": "Synchro Fusionist",
+  "description": "If this card is sent to the Graveyard as a Synchro Material Monster, you can add 1 Spell Card from your Deck to your hand with \"Polymerization\" or \"Fusion\" in the card name, except \"Diffusion Wave-Motion\".",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

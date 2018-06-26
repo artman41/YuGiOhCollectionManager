@@ -1,0 +1,16 @@
+{
+  "id": 8081,
+  "cardNumber": "16246527",
+  "name": "Armored Rat",
+  "description": "The fur on this monster rat is tough enough to repel swords.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 950,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

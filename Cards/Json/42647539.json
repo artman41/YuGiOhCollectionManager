@@ -1,0 +1,16 @@
+{
+  "id": 5975,
+  "cardNumber": "42647539",
+  "name": "Ryu-Kishin Clown",
+  "description": "When this card is Summoned (including Flip Summon and Special Summon), select 1 face-up monster on the field and change its battle position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

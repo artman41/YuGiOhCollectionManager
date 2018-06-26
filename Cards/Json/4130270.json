@@ -1,0 +1,16 @@
+{
+  "id": 2716,
+  "cardNumber": "4130270",
+  "name": "G.B. Hunter",
+  "description": "Cards on the field cannot be returned to the Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

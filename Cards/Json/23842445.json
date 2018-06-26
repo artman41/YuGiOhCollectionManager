@@ -1,0 +1,16 @@
+{
+  "id": 4858,
+  "cardNumber": "23842445",
+  "name": "Nitro Unit",
+  "description": "Equip only to a monster on your opponent's side of the field. When the equipped monster is destroyed by battle and sent to the Graveyard, inflict damage to your opponent equal to the ATK of the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2869,
+  "cardNumber": "87890143",
+  "name": "Generation Force",
+  "description": "If you control an Xyz Monster: Add 1 \"Xyz\" card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

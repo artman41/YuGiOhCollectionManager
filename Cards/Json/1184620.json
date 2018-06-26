@@ -1,0 +1,16 @@
+{
+  "id": 8334,
+  "cardNumber": "1184620",
+  "name": "Kojikocy",
+  "description": "A man-hunter with powerful arms that can crush boulders.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

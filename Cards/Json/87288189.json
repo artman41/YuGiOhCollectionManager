@@ -1,0 +1,16 @@
+{
+  "id": 929,
+  "cardNumber": "87288189",
+  "name": "Caius the Mega Monarch",
+  "description": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 card on the field; banish it, and if you do, inflict 1000 damage to your opponent, then, if it is a DARK Monster Card, banish all cards with that name from the hand, Main Deck, Extra Deck, and Graveyard of the player who controlled it. If this card was Tribute Summoned by Tributing a DARK monster, add this additional effect.<br>â— You can target 2 cards, instead.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

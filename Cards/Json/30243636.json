@@ -1,0 +1,16 @@
+{
+  "id": 3460,
+  "cardNumber": "30243636",
+  "name": "Hungry Burger",
+  "description": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Hamburger Recipe\". You must also Tribute monsters whose total Level Stars equal 6 or more from the field or your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1850,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

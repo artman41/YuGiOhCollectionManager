@@ -1,0 +1,16 @@
+{
+  "id": 6219,
+  "cardNumber": "99423156",
+  "name": "Shiranui Spiritmaster",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Shiranui\" monster from your hand or Graveyard, except \"Shiranui Spiritmaster\", but banish it when it leaves the field. If this card is banished: You can target 1 face-up card your opponent controls; destroy it. You can only use this effect of \"Shiranui Spiritmaster\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3989,
+  "cardNumber": "12338068",
+  "name": "Legendary Maju Garzett",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all monsters you control, and cannot be Special Summoned by other ways. This card's ATK becomes the combined original ATK of the Tributed monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

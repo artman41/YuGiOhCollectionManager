@@ -1,0 +1,16 @@
+{
+  "id": 5812,
+  "cardNumber": "43426903",
+  "name": "Reptilianne Gorgon",
+  "description": "If this card attacks a monster, after damage calculation: The ATK of that monster becomes 0, also it cannot change its battle position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

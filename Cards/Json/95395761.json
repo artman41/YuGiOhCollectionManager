@@ -1,0 +1,16 @@
+{
+  "id": 3629,
+  "cardNumber": "95395761",
+  "name": "Inzektor Ant",
+  "description": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. While this card is equipped to a monster, that monster's Level is increased by 3, also it gains ATK and DEF equal to this card's ATK and DEF. If the equipped monster would be destroyed, you can destroy this Equip Card instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 239,
+  "cardNumber": "10667321",
+  "name": "Ancient Rules",
+  "description": "Special Summon 1 Level 5 or higher Normal Monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4980,
+  "cardNumber": "62070231",
+  "name": "Number 94: Crystalzero",
+  "description": "2 Level 5 WATER monsters<br>During either player's turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; its ATK becomes half its current ATK until the end of your turn.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

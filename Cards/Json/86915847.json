@@ -1,0 +1,16 @@
+{
+  "id": 347,
+  "cardNumber": "86915847",
+  "name": "Armored Bee",
+  "description": "Once per turn: You can target 1 face-up monster your opponent controls; halve that target's ATK until the End Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1534,
+  "cardNumber": "65192027",
+  "name": "Dark Armed Dragon",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your Graveyard, and cannot be Special Summoned by other ways. You can banish 1 DARK monster from your Graveyard, then target 1 card on the field; destroy that target.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

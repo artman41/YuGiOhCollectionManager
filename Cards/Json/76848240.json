@@ -1,0 +1,16 @@
+{
+  "id": 4884,
+  "cardNumber": "76848240",
+  "name": "Non Aggression Area",
+  "description": "You can only activate this card during your Standby Phase. Discard 1 card from your hand. Your opponent cannot Normal Summon, Set and/or Special Summon during his/her next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

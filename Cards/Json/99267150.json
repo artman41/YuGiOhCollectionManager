@@ -1,0 +1,16 @@
+{
+  "id": 2529,
+  "cardNumber": "99267150",
+  "name": "Five-Headed Dragon",
+  "description": "5 Dragon-Type monsters<br>Must be Fusion Summoned, and cannot be Special Summoned by other ways. Cannot be destroyed by battle with a DARK, EARTH, WATER, FIRE, or WIND monster.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 5000,
+  "def": 5000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

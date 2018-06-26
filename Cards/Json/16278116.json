@@ -1,0 +1,16 @@
+{
+  "id": 2002,
+  "cardNumber": "16278116",
+  "name": "Dragon's Bind",
+  "description": "Activate this card by targeting 1 Dragon-Type monster you control with 2500 or less ATK and DEF; neither player can Special Summon monsters with ATK less than or equal to the original ATK of that monster. When that monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

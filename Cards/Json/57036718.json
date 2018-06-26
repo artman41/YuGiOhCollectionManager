@@ -1,0 +1,16 @@
+{
+  "id": 7812,
+  "cardNumber": "57036718",
+  "name": "Zubaba Buster",
+  "description": "If this card inflicts battle damage to your opponent, at the end of that Damage Step: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied), and if you do, this card loses 800 ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

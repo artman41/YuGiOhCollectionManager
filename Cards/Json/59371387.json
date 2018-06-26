@@ -1,0 +1,16 @@
+{
+  "id": 5830,
+  "cardNumber": "59371387",
+  "name": "The Resolute Meklord Army",
+  "description": "All Attack Position \"Meklord Army\" monsters you control cannot be destroyed by battle, also their effects are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6322,
+  "cardNumber": "40522482",
+  "name": "Skydive Scorcher",
+  "description": "Target 1 \"Elemental HERO\" Fusion Monster you control; destroy as many monsters your opponent controls as possible, with ATK higher than that monster's, then inflict damage to your opponent equal to the highest original ATK among those destroyed monsters in the Graveyard (your choice, if tied). If a \"Skyscraper\" Field Spell Card is in your Field Zone, inflict damage to your opponent equal to the combined original ATK of those destroyed monsters in the Graveyard, instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

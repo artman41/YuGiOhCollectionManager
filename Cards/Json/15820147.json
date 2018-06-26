@@ -1,0 +1,16 @@
+{
+  "id": 8416,
+  "cardNumber": "15820147",
+  "name": "Monsturtle",
+  "description": "Protected by a spiked shell, this turtle has a very nasty disposition.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

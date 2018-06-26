@@ -1,0 +1,16 @@
+{
+  "id": 5338,
+  "cardNumber": "98431356",
+  "name": "Phantom Knights' Wing",
+  "description": "Target 1 face-up monster on the field; it gains 500 ATK, also the first time that target would be destroyed by battle or card effect this turn, it is not destroyed. You can banish this card from your Graveyard, then target 1 \"The Phantom Knights\" monster in your Graveyard; Special Summon it, but banish it when it leaves the field. You can only use this effect of \"Phantom Knights' Wing\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

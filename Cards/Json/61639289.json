@@ -1,0 +1,16 @@
+{
+  "id": 3494,
+  "cardNumber": "61639289",
+  "name": "Igknight Crusader",
+  "description": "Pendulum Effect\n If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n Monster Effect\n This impulsive Igknight warrior is fanatical about the causes he fights for. Because of this passion, his comrades try to keep him at arm's length.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

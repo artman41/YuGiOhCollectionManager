@@ -1,0 +1,16 @@
+{
+  "id": 6897,
+  "cardNumber": "80190753",
+  "name": "Talaya, Princess of Cherry Blossoms",
+  "description": "This card gains 100 ATK for each Plant-Type monster you control. Other Plant-Type monsters on the field cannot be destroyed by card effects.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8043,
+  "cardNumber": "32864",
+  "name": "The 13th Grave",
+  "description": "A zombie that suddenly appeared from plot #13 - an empty grave.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

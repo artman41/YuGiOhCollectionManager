@@ -1,0 +1,16 @@
+{
+  "id": 3797,
+  "cardNumber": "54541900",
+  "name": "Karbonala Warrior",
+  "description": "\"M-Warrior #1\" + \"M-Warrior #2\"",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

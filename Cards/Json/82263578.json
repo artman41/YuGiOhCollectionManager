@@ -1,0 +1,16 @@
+{
+  "id": 79,
+  "cardNumber": "82263578",
+  "name": "After the Storm",
+  "description": "If there are no other cards on the field: Target 1 WATER or WIND monster in your Graveyard; add that target to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

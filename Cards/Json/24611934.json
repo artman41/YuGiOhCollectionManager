@@ -1,0 +1,16 @@
+{
+  "id": 8499,
+  "cardNumber": "24611934",
+  "name": "Ryu-Kishin Powered",
+  "description": "A gargoyle enhanced by the powers of darkness. Very sharp talons make it a worthy opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

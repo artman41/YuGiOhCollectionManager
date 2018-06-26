@@ -1,0 +1,16 @@
+{
+  "id": 386,
+  "cardNumber": "27821104",
+  "name": "Asceticism of the Six Samurai",
+  "description": "Target 1 \"Six Samurai\" monster you control; Special Summon 1 \"Six Samurai\" monster from your Deck with the same ATK but a different name, and if you do, destroy it during the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

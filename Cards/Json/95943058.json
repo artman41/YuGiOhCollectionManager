@@ -1,0 +1,16 @@
+{
+  "id": 2294,
+  "cardNumber": "95943058",
+  "name": "Evil HERO Infernal Gainer",
+  "description": "During your Main Phase 1: You can banish this card, then target 1 Fiend-Type monster you control; that target can make a second attack during each Battle Phase. During your second Standby Phase after this effect was activated: Special Summon this banished card in Attack Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

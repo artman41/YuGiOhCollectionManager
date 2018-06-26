@@ -1,0 +1,16 @@
+{
+  "id": 8580,
+  "cardNumber": "15510988",
+  "name": "Thunder Kid",
+  "description": "This monster stores electricity within his body, and can unleash it with catastrophic power.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

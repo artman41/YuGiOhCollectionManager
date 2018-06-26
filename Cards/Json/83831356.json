@@ -1,0 +1,16 @@
+{
+  "id": 5965,
+  "cardNumber": "83831356",
+  "name": "Runaway Karakuri",
+  "description": "Select 1 face-up \"Karakuri\" monster on the field. Until the End Phase, it gains 1000 ATK, but its effect(s) is negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5884,
+  "cardNumber": "45778932",
+  "name": "Rising Air Current",
+  "description": "All WIND monsters gain 500 ATK and lose 400 DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

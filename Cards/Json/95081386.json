@@ -1,0 +1,16 @@
+{
+  "id": 6988,
+  "cardNumber": "95081386",
+  "name": "Three Strikes Barrier",
+  "description": "If your opponent controls exactly 3 cards: Activate 1 of these effects;<br>â— this turn, your monsters cannot be destroyed by battle.<br>â— this turn, you take no battle damage.<br>â— this turn, each time your monster inflicts battle damage to your opponent, you gain the same amount of LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1443,
+  "cardNumber": "60912752",
+  "name": "D.D. Borderline",
+  "description": "When there are no Spell Cards in your Graveyard, neither player can conduct their Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

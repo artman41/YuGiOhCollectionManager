@@ -1,0 +1,16 @@
+{
+  "id": 5564,
+  "cardNumber": "77044671",
+  "name": "Pyramid Turtle",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Zombie-Type monster with 2000 or less DEF from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

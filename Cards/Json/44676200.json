@@ -1,0 +1,16 @@
+{
+  "id": 3355,
+  "cardNumber": "44676200",
+  "name": "Hero Barrier",
+  "description": "Negate 1 attack from an opponent's monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5498,
+  "cardNumber": "89770167",
+  "name": "Prominence, Molten Swordsman",
+  "description": "Once per turn, during either player's turn: You can banish 1 \"Laval\" monster from your Graveyard; this card gains 300 ATK until the End Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

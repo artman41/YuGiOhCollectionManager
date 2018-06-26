@@ -1,0 +1,16 @@
+{
+  "id": 602,
+  "cardNumber": "84677654",
+  "name": "BIG Win!?",
+  "description": "Declare a Level between 1 and 12; each player tosses a coin, and if both are Heads, the Levels of all face-up monsters you currently control become the declared Level. If both are tails, you lose Life Points equal to the declared Level x 500.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

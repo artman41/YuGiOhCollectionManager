@@ -1,0 +1,16 @@
+{
+  "id": 4868,
+  "cardNumber": "47120245",
+  "name": "Noble Knight Borz",
+  "description": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes an Effect Monster with these effects.<br>â— This card becomes DARK and its Level is increased by 1. During your Main Phase: You can reveal 3 \"Noble Arms\" cards from your Deck, have your opponent randomly add 1 of them to your hand, and send the rest to the Graveyard. You can only use this effect of \"Noble Knight Borz\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

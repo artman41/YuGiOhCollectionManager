@@ -1,0 +1,16 @@
+{
+  "id": 8386,
+  "cardNumber": "34442949",
+  "name": "Mechanical Snail",
+  "description": "A cyborg snail that still travels at a slow pace.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

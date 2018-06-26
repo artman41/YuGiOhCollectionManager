@@ -1,0 +1,16 @@
+{
+  "id": 267,
+  "cardNumber": "64977888",
+  "name": "Apprentice Piper",
+  "description": "FLIP: You can Special Summon 1 monster from your hand.<br>If this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

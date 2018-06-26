@@ -1,0 +1,16 @@
+{
+  "id": 2918,
+  "cardNumber": "33347467",
+  "name": "Ghost Ship",
+  "description": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT monster from your Graveyard.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2499,
+  "cardNumber": "69000994",
+  "name": "Fire King Avatar Barong",
+  "description": "If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Add 1 \"Fire King\" card from your Deck to your hand, except \"Fire King Avatar Barong\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

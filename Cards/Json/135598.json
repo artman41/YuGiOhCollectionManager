@@ -1,0 +1,16 @@
+{
+  "id": 3807,
+  "cardNumber": "135598",
+  "name": "Key Mouse",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can add 1 Level 3 or lower Beast-Type monster from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

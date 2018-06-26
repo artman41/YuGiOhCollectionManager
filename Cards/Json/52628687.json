@@ -1,0 +1,16 @@
+{
+  "id": 6473,
+  "cardNumber": "52628687",
+  "name": "Spellbook of Life",
+  "description": "Banish 1 Spellcaster-Type monster from your Graveyard and reveal 1 other \"Spellbook\" Spell Card in your hand to target 1 Spellcaster-Type monster in your Graveyard; Special Summon that target in face-up Attack Position and equip it with this card. The equipped monster's Level is increased by the Level of the monster that was banished for this card's activation. You can only activate 1 \"Spellbook of Life\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

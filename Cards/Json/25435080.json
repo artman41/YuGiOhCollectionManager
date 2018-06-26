@@ -1,0 +1,16 @@
+{
+  "id": 661,
+  "cardNumber": "25435080",
+  "name": "Blackwing - Bombardment",
+  "description": "Tribute 1 \"Blackwing\" monster to select 1 face-up Synchro Monster you control. That Synchro Monster gains ATK equal to the Tributed monster's ATK, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

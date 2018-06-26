@@ -1,0 +1,16 @@
+{
+  "id": 7496,
+  "cardNumber": "53193261",
+  "name": "Wattkey",
+  "description": "Face-up \"Watt\" monsters you control can attack your opponent directly this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

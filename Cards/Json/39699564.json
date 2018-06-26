@@ -1,0 +1,16 @@
+{
+  "id": 834,
+  "cardNumber": "39699564",
+  "name": "Brotherhood of the Fire Fist - Leopard",
+  "description": "During your Main Phase, if this card was Normal or Special Summoned this turn: You can Tribute 1 \"Fire Fist\" monster; Set 1 \"Fire Formation\" Spell/Trap Card directly from your Deck. You can only use the effect of \"Brotherhood of the Fire Fist - Leopard\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

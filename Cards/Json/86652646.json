@@ -1,0 +1,16 @@
+{
+  "id": 8522,
+  "cardNumber": "86652646",
+  "name": "Skull Dog Marron",
+  "description": "A lost dog that wandered off 1000 years ago. He's still waiting for his master to come for him.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

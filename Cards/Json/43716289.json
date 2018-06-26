@@ -1,0 +1,16 @@
+{
+  "id": 5402,
+  "cardNumber": "43716289",
+  "name": "Poison Mummy",
+  "description": "FLIP: Inflict 500 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

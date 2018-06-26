@@ -1,0 +1,16 @@
+{
+  "id": 1756,
+  "cardNumber": "12215894",
+  "name": "Deskbot Base",
+  "description": "All \"Deskbot\" monsters on the field gain 500 ATK and DEF. Once per turn: You can reveal any number of \"Deskbot\" cards in your hand and shuffle them into the Deck, then draw the same number of cards. You can banish 9 \"Deskbot\" cards with different names from your field and/or Graveyard, except \"Deskbot Base\"; shuffle all cards from your opponent's hand, field and Graveyard into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

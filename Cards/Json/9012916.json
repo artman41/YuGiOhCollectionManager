@@ -1,0 +1,16 @@
+{
+  "id": 652,
+  "cardNumber": "9012916",
+  "name": "Black-Winged Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn: You can remove all Black Feather Counters on this card, then target 1 face-up monster your opponent controls; that target loses 700 ATK for each Black Feather Counter you removed, and if it does, inflict damage to your opponent equal to the ATK lost by this effect.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

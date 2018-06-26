@@ -1,0 +1,16 @@
+{
+  "id": 2747,
+  "cardNumber": "97204936",
+  "name": "Gaia Knight, the Force of Earth",
+  "description": "1 Tuner + 1 or more non-Tuner monsters",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

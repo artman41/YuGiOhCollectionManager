@@ -1,0 +1,16 @@
+{
+  "id": 254,
+  "cardNumber": "97120394",
+  "name": "Anti-Magic Arrows",
+  "description": "At the start of the Battle Phase: For the rest of this turn after this card resolves, Spell/Trap Cards, and their effects, cannot be activated. Cards and effects cannot be activated in response to this card's activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

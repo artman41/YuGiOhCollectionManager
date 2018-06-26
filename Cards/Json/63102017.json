@@ -1,0 +1,16 @@
+{
+  "id": 6631,
+  "cardNumber": "63102017",
+  "name": "Stop Defense",
+  "description": "Select 1 Defense Position monster on your opponent's side of the field and change it to Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

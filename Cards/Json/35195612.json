@@ -1,0 +1,16 @@
+{
+  "id": 2077,
+  "cardNumber": "35195612",
+  "name": "Dust Knight",
+  "description": "FLIP: Send 1 EARTH monster from your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

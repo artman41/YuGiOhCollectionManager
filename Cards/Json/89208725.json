@@ -1,0 +1,16 @@
+{
+  "id": 4503,
+  "cardNumber": "89208725",
+  "name": "Metaverse",
+  "description": "Take 1 Field Spell from your Deck, and either activate it or add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5841,
+  "cardNumber": "47247413",
+  "name": "Return",
+  "description": "When your opponent adds a card(s) from the Graveyard to their hand: They must shuffle 1 of those cards into their Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

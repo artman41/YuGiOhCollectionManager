@@ -1,0 +1,16 @@
+{
+  "id": 7581,
+  "cardNumber": "43722862",
+  "name": "Windwitch - Ice Bell",
+  "description": "If you control no monsters: You can Special Summon this card from your hand, then you can Special Summon 1 \"Windwitch\" monster from your Deck, but it cannot be Tributed. You cannot Special Summon monsters from the Extra Deck the turn you activate this effect, except Level 5 or higher WIND monsters. If this card is Normal or Special Summoned: You can inflict 500 damage to your opponent. You can only use each effect of \"Windwitch - Ice Bell\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

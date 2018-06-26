@@ -1,0 +1,16 @@
+{
+  "id": 4323,
+  "cardNumber": "24037702",
+  "name": "March of the Dark Brigade",
+  "description": "Target 1 \"Lightsworn\" monster in your GY that has a Level; add it to your hand, then banish a number of cards from the top of your Deck equal to the original Level of that monster in your hand. You can only activate 1 \"March of the Dark Brigade\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

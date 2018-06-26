@@ -1,0 +1,16 @@
+{
+  "id": 2698,
+  "cardNumber": "98336111",
+  "name": "Fusion Devourer",
+  "description": "When this card battles a Fusion Monster, the ATK of the Fusion Monster becomes 0 during the Damage Step only.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

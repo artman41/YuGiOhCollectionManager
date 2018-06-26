@@ -1,0 +1,16 @@
+{
+  "id": 1675,
+  "cardNumber": "34659866",
+  "name": "Darksea Rescue",
+  "description": "If this card is used for a Synchro Summon and sent to the Graveyard, the owner of this card draws 1 card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

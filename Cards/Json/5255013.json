@@ -1,0 +1,16 @@
+{
+  "id": 7761,
+  "cardNumber": "5255013",
+  "name": "Zefra Path",
+  "description": "Activate this card only if you have 2 \"Zefra\" cards in your Pendulum Zones, with active Pendulum Scales of 1 and 7. If this card is activated: Shuffle all monsters you control into the Deck, except \"Zefra\" monsters. Neither player can Special Summon monsters, except from the hand or Extra Deck. While you have a card(s) in your Pendulum Zone, this card cannot be targeted by card effects. Destroy this card if a card(s) in your Pendulum Zone is destroyed.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

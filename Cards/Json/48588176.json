@@ -1,0 +1,16 @@
+{
+  "id": 1528,
+  "cardNumber": "48588176",
+  "name": "Danipon",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 Insect-Type monster with 1000 DEF or less from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

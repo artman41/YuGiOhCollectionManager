@@ -1,0 +1,16 @@
+{
+  "id": 4164,
+  "cardNumber": "31034919",
+  "name": "Mad Reloader",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Send 2 cards from your hand to the Graveyard, and if you do, draw 2 cards.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

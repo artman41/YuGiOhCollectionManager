@@ -1,0 +1,16 @@
+{
+  "id": 1850,
+  "cardNumber": "80560728",
+  "name": "Dimension Mirage",
+  "description": "Activate this card by targeting 1 face-up Attack Position monster your opponent controls. At the end of the Damage Step, when it attacks a monster, but the attack target was not destroyed by the battle: You can banish 1 monster from your Graveyard; it must attack again in a row. If the targeted monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

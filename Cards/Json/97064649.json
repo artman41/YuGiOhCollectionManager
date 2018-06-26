@@ -1,0 +1,16 @@
+{
+  "id": 6113,
+  "cardNumber": "97064649",
+  "name": "Secret Sect Druid Wid",
+  "description": "If this card is sent from the field to the Graveyard: You can target 1 Continuous Spell Card in your Graveyard; Set that target. That Set card cannot be activated this turn. You can only use the effect of \"Secret Sect Druid Wid\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4251,
+  "cardNumber": "84877802",
+  "name": "Magnum Shield",
+  "description": "Equip only to a Warrior-Type monster. Apply this effect, depending on its battle position.<br>â— Attack Position: It gains ATK equal to its original DEF.<br>â— Defense Position: It gains DEF equal to its original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

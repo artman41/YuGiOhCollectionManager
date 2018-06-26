@@ -1,0 +1,16 @@
+{
+  "id": 1065,
+  "cardNumber": "7392745",
+  "name": "Chewbone",
+  "description": "FLIP: Special Summon 3 \"Chewbone Jr. Tokens\" (Zombie-Type/EARTH/Level 1/ATK 100/DEF 300) to your opponent's field in Defense Position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

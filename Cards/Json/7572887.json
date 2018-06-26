@@ -1,0 +1,16 @@
+{
+  "id": 1459,
+  "cardNumber": "7572887",
+  "name": "D.D. Warrior Lady",
+  "description": "After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

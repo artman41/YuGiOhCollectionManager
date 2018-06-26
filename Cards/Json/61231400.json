@@ -1,0 +1,16 @@
+{
+  "id": 5567,
+  "cardNumber": "61231400",
+  "name": "Pyrotech Mech - Shiryu",
+  "description": "You can Normal Summon this card with 1 Tribute. If Summoned this way, during each End Phase: You take 1000 damage. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

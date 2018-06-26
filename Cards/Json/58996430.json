@@ -1,0 +1,16 @@
+{
+  "id": 7658,
+  "cardNumber": "58996430",
+  "name": "Wulf, Lightsworn Beast",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. If this card is sent from your Deck to the GY: Special Summon it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

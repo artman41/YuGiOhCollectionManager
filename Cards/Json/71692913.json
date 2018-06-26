@@ -1,0 +1,16 @@
+{
+  "id": 7669,
+  "cardNumber": "71692913",
+  "name": "Xiangke Magician",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up Xyz Monster you control; this turn, you can use it as an Xyz Material for an Xyz Summon using its Rank as if it were a Level (even if this card leaves the field).\n\n Monster Effect\n Once per turn, during either player's turn: You can target 1 LIGHT monster on the field; that face-up monster has its effects negated until the end of this turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1004,
+  "cardNumber": "20228463",
+  "name": "Ceremonial Bell",
+  "description": "As long as this card remains face-up on the field, both players must show their respective hands.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1850,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

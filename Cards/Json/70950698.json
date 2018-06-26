@@ -1,0 +1,16 @@
+{
+  "id": 7843,
+  "cardNumber": "70950698",
+  "name": "Boot Stagguard",
+  "description": "When a Cyberse monster is Normal Summoned to your field: You can Special Summon this card from your hand. You can only use this effect of \"Boot Stagguard\" once per turn. When this card inflicts battle damage to your opponent: You can Special Summon 1 \"Stag Token\" (Cyberse/EARTH/Level 1/ATK 0/DEF 0).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

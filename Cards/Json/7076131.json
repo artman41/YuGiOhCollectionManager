@@ -1,0 +1,16 @@
+{
+  "id": 4827,
+  "cardNumber": "7076131",
+  "name": "Next to be Lost",
+  "description": "Select 1 face-up monster you control. Send 1 card from your Deck to the Graveyard with the same name as the selected card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

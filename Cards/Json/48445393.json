@@ -1,0 +1,16 @@
+{
+  "id": 6078,
+  "cardNumber": "48445393",
+  "name": "Scrapstorm",
+  "description": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

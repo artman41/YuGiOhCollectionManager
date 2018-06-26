@@ -1,0 +1,16 @@
+{
+  "id": 7506,
+  "cardNumber": "31222701",
+  "name": "Wavering Eyes",
+  "description": "Destroy as many cards in each player's Pendulum Zones as possible, then apply these effects, in sequence, depending on the number of cards destroyed by this effect.<br>â— 1 or more: Inflict 500 damage to your opponent.<br>â— 2 or more: You can add 1 Pendulum Monster from your Main Deck to your hand.<br>â— 3 or more: You can banish 1 card on the field.<br>â— 4: You can add 1 \"Wavering Eyes\" from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

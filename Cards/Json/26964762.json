@@ -1,0 +1,16 @@
+{
+  "id": 1769,
+  "cardNumber": "26964762",
+  "name": "Destiny HERO - Dark Angel",
+  "description": "If you have 3 or more \"Destiny HERO\" monsters in your Graveyard: You can discard this card, then target 1 \"Destiny HERO\" monster in your Graveyard; Special Summon it to your opponent's field in Defense Position. When a Spell Card or effect you activate resolves, negate that effect, and if you do, or if it did not have an effect, destroy that card. During your Standby Phase: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; each player chooses 1 Normal Spell Card from their Deck, and places it on top of their Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 736,
+  "cardNumber": "25880422",
+  "name": "Block Attack",
+  "description": "Select 1 face-up Attack Position monster on your opponent's side of the field and change it to Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

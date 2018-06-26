@@ -1,0 +1,16 @@
+{
+  "id": 1385,
+  "cardNumber": "34124316",
+  "name": "Cyber Jar",
+  "description": "FLIP: Destroy all monsters on the field, then both players reveal the top 5 cards from their Decks, then Special Summon all revealed Level 4 or lower monsters in face-up Attack Position or face-down Defense Position, also add any remaining cards to their hand. (If either player has less than 5 cards in their Deck, reveal as many as possible.)",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

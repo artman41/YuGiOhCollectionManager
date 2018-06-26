@@ -1,0 +1,16 @@
+{
+  "id": 8116,
+  "cardNumber": "41396436",
+  "name": "Blue-Winged Crown",
+  "description": "With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

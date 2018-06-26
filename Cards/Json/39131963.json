@@ -1,0 +1,16 @@
+{
+  "id": 1730,
+  "cardNumber": "39131963",
+  "name": "Des Counterblow",
+  "description": "Destroy any monster that inflicts Battle Damage to a player's Life Points by attacking directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8336,
+  "cardNumber": "67724379",
+  "name": "Koumori Dragon",
+  "description": "A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

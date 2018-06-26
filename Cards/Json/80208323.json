@@ -1,0 +1,16 @@
+{
+  "id": 3609,
+  "cardNumber": "80208323",
+  "name": "Interplanetarypurplythorny Beast",
+  "description": "When a monster you control is destroyed by battle and sent to the Graveyard, while this card is in the Graveyard: You can Special Summon this card from your Graveyard. If Summoned this way, banish this card when it leaves the field. You can only use the effect of \"Interplanetarypurplythorny Beast\" once per turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

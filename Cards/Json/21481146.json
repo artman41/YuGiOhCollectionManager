@@ -1,0 +1,16 @@
+{
+  "id": 5612,
+  "cardNumber": "21481146",
+  "name": "Radiant Mirror Force",
+  "description": "When an opponent's monster declares an attack while they control 3 or more Attack Position monsters: Destroy all Attack Position monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

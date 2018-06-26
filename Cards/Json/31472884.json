@@ -1,0 +1,16 @@
+{
+  "id": 7290,
+  "cardNumber": "31472884",
+  "name": "Unified Front",
+  "description": "Discard 1 monster, then target 1 face-up monster on the field; its ATK and DEF becomes the discarded monster's ATK and DEF, until the end of this turn. Monsters you control cannot attack directly during the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

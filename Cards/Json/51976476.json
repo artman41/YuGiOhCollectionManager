@@ -1,0 +1,16 @@
+{
+  "id": 1967,
+  "cardNumber": "51976476",
+  "name": "Double Trap Hole",
+  "description": "If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

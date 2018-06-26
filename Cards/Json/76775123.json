@@ -1,0 +1,16 @@
+{
+  "id": 5186,
+  "cardNumber": "76775123",
+  "name": "Patrol Robo",
+  "description": "During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

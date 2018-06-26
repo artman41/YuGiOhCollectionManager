@@ -1,0 +1,16 @@
+{
+  "id": 4328,
+  "cardNumber": "29929832",
+  "name": "Marine Beast",
+  "description": "\"Water Magician\" + \"Behegon\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

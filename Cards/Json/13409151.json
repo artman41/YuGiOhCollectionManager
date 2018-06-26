@@ -1,0 +1,16 @@
+{
+  "id": 1745,
+  "cardNumber": "13409151",
+  "name": "Desertapir",
+  "description": "FLIP: Flip 1 face-up monster on the field into face-down Defense Position. You cannot select \"Desertapir\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

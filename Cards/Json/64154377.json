@@ -1,0 +1,16 @@
+{
+  "id": 8197,
+  "cardNumber": "64154377",
+  "name": "Embryonic Beast",
+  "description": "An imperfect monster with a belly vortex that sucks in opponents of any size.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 750,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

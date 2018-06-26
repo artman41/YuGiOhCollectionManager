@@ -1,0 +1,16 @@
+{
+  "id": 530,
+  "cardNumber": "4549095",
+  "name": "Battlin' Boxer Counterpunch",
+  "description": "During the Damage Step of either player's turn, when a \"Battlin' Boxer\" monster you control is attacking or being attacked: You can banish this card from your hand or Graveyard; that monster gains 1000 ATK, until the end of this turn. You can only use the effect of \"Battlin' Boxer Counterpunch\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

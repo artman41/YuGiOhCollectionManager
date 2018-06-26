@@ -1,0 +1,16 @@
+{
+  "id": 5757,
+  "cardNumber": "39357122",
+  "name": "Red-Eyes Archfiend of Lightning",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.<br>â— Once per turn: You can destroy all face-up monsters your opponent controls with DEF lower than this card's ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Gemini\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

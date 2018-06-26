@@ -1,0 +1,16 @@
+{
+  "id": 8508,
+  "cardNumber": "2468169",
+  "name": "Sealmaster Meisei",
+  "description": "One of the few people who has a good command of Talismans. His history is a mystery.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

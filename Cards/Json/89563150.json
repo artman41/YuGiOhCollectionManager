@@ -1,0 +1,16 @@
+{
+  "id": 6203,
+  "cardNumber": "89563150",
+  "name": "Shining Silver Force",
+  "description": "Activate only when your opponent activates a Trap Card that inflicts damage. Negate the activation of that card and destroy it and all face-up Spell/Trap Cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

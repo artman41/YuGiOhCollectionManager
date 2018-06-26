@@ -1,0 +1,16 @@
+{
+  "id": 1719,
+  "cardNumber": "59839761",
+  "name": "Delta Crow - Anti Reverse",
+  "description": "If you control a \"Blackwing\" monster: Destroy all face-down Spell and Trap Cards your opponent controls. If you control exactly 3 \"Blackwing\" monsters, you can activate this card from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

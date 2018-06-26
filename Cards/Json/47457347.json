@@ -1,0 +1,16 @@
+{
+  "id": 5077,
+  "cardNumber": "47457347",
+  "name": "Omega Summon",
+  "description": "Target any number of your banished \"Invoked\" monsters with different names; Special Summon them in Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

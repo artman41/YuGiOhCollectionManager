@@ -1,0 +1,16 @@
+{
+  "id": 1551,
+  "cardNumber": "46372010",
+  "name": "Dark Contract with the Gate",
+  "description": "During your Main Phase: You can add 1 \"D/D\" monster from your Deck to your hand. You can only use this effect of \"Dark Contract with the Gate\" once per turn. Once per turn, during your Standby Phase: Take 1000 damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

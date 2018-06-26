@@ -1,0 +1,16 @@
+{
+  "id": 3030,
+  "cardNumber": "99013397",
+  "name": "Gladiator Beast's Battle Halberd",
+  "description": "Equip only to a \"Gladiator Beast\" monster. When it attacks, destroy 1 Spell or Trap Card at the end of the Damage Step. When the equipped monster is returned from your side of the field to the Deck and this card is sent to the Graveyard, return this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

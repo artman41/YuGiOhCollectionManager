@@ -1,0 +1,16 @@
+{
+  "id": 4103,
+  "cardNumber": "34968834",
+  "name": "Lucent, Netherlord of Dark World",
+  "description": "If this card is discarded to the Graveyard by a card effect: Special Summon this card from the Graveyard, then, if it was discarded from your hand to your Graveyard by an opponent's card effect, you can Special Summon 1 Fiend-Type monster from your Deck to either side of the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

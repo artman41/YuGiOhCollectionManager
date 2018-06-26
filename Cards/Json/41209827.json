@@ -1,0 +1,16 @@
+{
+  "id": 6590,
+  "cardNumber": "41209827",
+  "name": "Starving Venom Fusion Dragon",
+  "description": "2 DARK monsters on the field, except Tokens<br>If this card is Fusion Summoned: You can make this card gain ATK equal to 1 opponent's Special Summoned monster, until the end of this turn. Once per turn: You can target 1 Level 5 or higher monster your opponent controls; until the end of this turn, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this Fusion Summoned card is destroyed: You can destroy all your opponent's Special Summoned monsters.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

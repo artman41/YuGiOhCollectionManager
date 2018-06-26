@@ -1,0 +1,16 @@
+{
+  "id": 1522,
+  "cardNumber": "98535702",
+  "name": "Damage Vaccine Î© MAX",
+  "description": "When you take damage by battle or by a card effect: Gain Life Points equal to the damage you took.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

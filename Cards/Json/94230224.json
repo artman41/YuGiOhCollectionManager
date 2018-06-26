@@ -1,0 +1,16 @@
+{
+  "id": 4776,
+  "cardNumber": "94230224",
+  "name": "Needle Ball",
+  "description": "FLIP: You can pay 2000 Life Points to inflict 1000 damage to your opponent.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 750,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

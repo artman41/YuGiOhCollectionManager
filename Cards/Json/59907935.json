@@ -1,0 +1,16 @@
+{
+  "id": 1370,
+  "cardNumber": "59907935",
+  "name": "Cyber Archfiend",
+  "description": "At the beginning of your Draw Phase, if you have no cards in your hand, draw 1 more card in addition to the normal draw. During your End Phase, if you have 1 or more card(s) in your hand, destroy this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

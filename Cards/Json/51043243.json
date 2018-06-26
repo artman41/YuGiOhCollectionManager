@@ -1,0 +1,16 @@
+{
+  "id": 7631,
+  "cardNumber": "51043243",
+  "name": "Worm Cartaros",
+  "description": "FLIP: Add 1 Level 4 or lower Reptile-Type \"Worm\" monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

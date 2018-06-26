@@ -1,0 +1,16 @@
+{
+  "id": 1540,
+  "cardNumber": "44341034",
+  "name": "Dark Bug",
+  "description": "When this card is Normal Summoned, select and Special Summon 1 Level 3 Tuner monster from your Graveyard. The effect(s) of that monster is negated.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

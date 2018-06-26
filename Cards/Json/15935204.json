@@ -1,0 +1,16 @@
+{
+  "id": 6633,
+  "cardNumber": "15935204",
+  "name": "Storm Caller",
+  "description": "You can put your opponent's monsters that are destroyed by battle with other Psychic-Type monsters on top of their owner's Deck instead of sending them to the Graveyard. When this card is destroyed by a card effect, this card's controller takes damage equal to its original ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

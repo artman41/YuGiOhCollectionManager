@@ -1,0 +1,16 @@
+{
+  "id": 8941,
+  "cardNumber": "45072394",
+  "name": "Iron Cage",
+  "description": "When this card is activated: Send 1 monster you control to the GY, or, if \"Golden Castle of Stromberg\" is in the Field Zone, you can send 1 monster your opponent controls to the GY, instead. Once per turn, during your Standby Phase: You can target 1 monster in the GY that was sent there by this card's effect; destroy this card, and if you do, Special Summon that monster to your field. You can only activate 1 \"Iron Cage\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

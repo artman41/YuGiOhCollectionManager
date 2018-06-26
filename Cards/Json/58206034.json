@@ -1,0 +1,16 @@
+{
+  "id": 1590,
+  "cardNumber": "58206034",
+  "name": "Dark Lucius LV8",
+  "description": "If this card was Special Summoned by the effect of \"Dark Lucius LV6\", your opponent's monsters that this card destroys by battle are removed from play, and their effects are negated.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

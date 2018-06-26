@@ -1,0 +1,16 @@
+{
+  "id": 8329,
+  "cardNumber": "81179446",
+  "name": "Kattapillar",
+  "description": "Attacks enemies by spitting thin, sticky webs.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 250,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

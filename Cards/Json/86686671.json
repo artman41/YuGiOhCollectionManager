@@ -1,0 +1,16 @@
+{
+  "id": 1397,
+  "cardNumber": "86686671",
+  "name": "Cyber Repair Plant",
+  "description": "If \"Cyber Dragon\" is in your GY: You can activate 1 of these effects. If you have 3 or more \"Cyber Dragon\" in your GY at activation, you can activate both effects and resolve in sequence. You can only activate 1 \"Cyber Repair Plant\" per turn.<br>â— Add 1 LIGHT Machine monster from your Deck to your hand.<br>â— Target 1 LIGHT Machine monster in your GY; shuffle that target into your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

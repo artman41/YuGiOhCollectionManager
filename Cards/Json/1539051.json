@@ -1,0 +1,16 @@
+{
+  "id": 6410,
+  "cardNumber": "1539051",
+  "name": "Space Gift",
+  "description": "Draw 1 card for each different \"Neo-Spacian\" name on the monsters you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

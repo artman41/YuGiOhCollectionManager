@@ -1,0 +1,16 @@
+{
+  "id": 5699,
+  "cardNumber": "80516007",
+  "name": "Rare Fish",
+  "description": "\"Fusionist\" + \"Enchanting Mermaid\"",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

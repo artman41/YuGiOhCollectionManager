@@ -1,0 +1,16 @@
+{
+  "id": 4220,
+  "cardNumber": "43930492",
+  "name": "Magical Something",
+  "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card's Level is increased by the number of Spell Counters on this card. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell Card in your Graveyard; Set that card to your Spell &amp; Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

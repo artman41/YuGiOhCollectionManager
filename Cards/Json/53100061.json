@@ -1,0 +1,16 @@
+{
+  "id": 7661,
+  "cardNumber": "53100061",
+  "name": "X-Saber Axel",
+  "description": "While you control this face-up card, when a \"Saber\" monster is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

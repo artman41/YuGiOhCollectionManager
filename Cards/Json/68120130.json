@@ -1,0 +1,16 @@
+{
+  "id": 3714,
+  "cardNumber": "68120130",
+  "name": "Junk Defender",
+  "description": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player's turn: You can have this card gain 300 DEF until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

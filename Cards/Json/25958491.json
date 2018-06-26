@@ -1,0 +1,16 @@
+{
+  "id": 240,
+  "cardNumber": "25958491",
+  "name": "Ancient Sacred Wyvern",
+  "description": "1 LIGHT Tuner + 1 or more non-Tuner monsters<br>While your LP are higher than your opponent's, this card gains ATK equal to the difference. While your LP are lower than your opponent's, this card loses ATK equal to the difference. When this card is destroyed by battle and sent to the Graveyard: You can pay 1000 LP; Special Summon this card.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

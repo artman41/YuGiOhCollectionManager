@@ -1,0 +1,16 @@
+{
+  "id": 5083,
+  "cardNumber": "93104632",
+  "name": "One-Time Passcode",
+  "description": "Special Summon 1 \"Security Token\" (Cyberse/LIGHT/Level 4/ATK 2000/DEF 2000) in Defense Position. You can only activate 1 \"One-Time Passcode\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

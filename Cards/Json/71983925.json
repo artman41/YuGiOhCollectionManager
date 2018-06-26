@@ -1,0 +1,16 @@
+{
+  "id": 6898,
+  "cardNumber": "71983925",
+  "name": "Talisman of Spell Sealing",
+  "description": "You can only activate this card while there is a face-up \"Sealmaster Meisei\" on your side of the field. While this card is face-up on the field, Spell Cards cannot be activated and the effects of face-up Spell Cards on the field are negated. When \"Sealmaster Meisei\" is removed from the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

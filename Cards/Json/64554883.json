@@ -1,0 +1,16 @@
+{
+  "id": 4917,
+  "cardNumber": "64554883",
+  "name": "Number 25: Force Focus",
+  "description": "2 Level 6 monsters<br>Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 Level 5 or higher Effect Monster your opponent controls; negate the effects of that opponent's face-up monster, until the end of the turn.",
+  "cardLevel": null,
+  "cardRank": 6,
+  "atk": 2800,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

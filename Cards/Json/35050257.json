@@ -1,0 +1,16 @@
+{
+  "id": 1387,
+  "cardNumber": "35050257",
+  "name": "Cyber Larva",
+  "description": "If this face-up card is targeted for an attack: You take no battle damage for the rest of this turn. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Cyber Larva\" from your Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

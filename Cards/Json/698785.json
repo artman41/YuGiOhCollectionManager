@@ -1,0 +1,16 @@
+{
+  "id": 6993,
+  "cardNumber": "698785",
+  "name": "Thunder End Dragon",
+  "description": "2 Level 8 Normal Monsters<br>Once per turn: You can detach 1 Xyz Material from this card; destroy all other monsters on the field.",
+  "cardLevel": null,
+  "cardRank": 8,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8466,
+  "cardNumber": "77603950",
+  "name": "Phantom Dewan",
+  "description": "A sorcerer that can paralyze an enemy with a single curse.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

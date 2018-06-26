@@ -1,0 +1,16 @@
+{
+  "id": 6166,
+  "cardNumber": "43434803",
+  "name": "The Shallow Grave",
+  "description": "Each player selects 1 monster in their Graveyard and Special Summons it in face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

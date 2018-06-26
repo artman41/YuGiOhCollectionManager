@@ -1,0 +1,16 @@
+{
+  "id": 2400,
+  "cardNumber": "47217354",
+  "name": "Fabled Raven",
+  "description": "Once per turn: You can discard any number of cards, and if you do, this card gains 1 Level and 400 ATK for each discarded card, until the end of this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

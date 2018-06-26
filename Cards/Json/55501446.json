@@ -1,0 +1,16 @@
+{
+  "id": 4060,
+  "cardNumber": "55501446",
+  "name": "Lightserpent",
+  "description": "If this card is sent from the hand to your Graveyard: You can Special Summon it from the Graveyard. This card cannot be used as a Synchro Material Monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

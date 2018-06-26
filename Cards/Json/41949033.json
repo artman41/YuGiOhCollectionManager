@@ -1,0 +1,16 @@
+{
+  "id": 8152,
+  "cardNumber": "41949033",
+  "name": "Dark Assailant",
+  "description": "Armed with the Psycho Sword, this sinister assassin rules the bad land.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

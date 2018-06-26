@@ -1,0 +1,16 @@
+{
+  "id": 7186,
+  "cardNumber": "67270095",
+  "name": "Turbo Synchron",
+  "description": "When this card declares an attack: You can change the attack target to Defense Position. When you take battle damage while this card is attacking: You can Special Summon 1 monster from your hand with ATK less than or equal to the battle damage you took.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

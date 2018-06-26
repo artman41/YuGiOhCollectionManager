@@ -1,0 +1,16 @@
+{
+  "id": 3255,
+  "cardNumber": "74825788",
+  "name": "H - Heated Heart",
+  "description": "Target 1 face-up monster you control; until the end of this turn, it gains 500 ATK, and if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

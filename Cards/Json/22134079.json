@@ -1,0 +1,16 @@
+{
+  "id": 3141,
+  "cardNumber": "22134079",
+  "name": "Gravekeeper's Ambusher",
+  "description": "When this card is flipped face-up: You can target 1 card in your opponent's Graveyard; place that target on the bottom of their Deck. If this card is sent from the field to the Graveyard after being flipped face-up: You can target 1 \"Necrovalley\" card in your Graveyard; add that target to your hand. This card's effects cannot be negated by the effect of \"Necrovalley\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

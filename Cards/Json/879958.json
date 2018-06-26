@@ -1,0 +1,16 @@
+{
+  "id": 7962,
+  "cardNumber": "879958",
+  "name": "Parallel Port Armor",
+  "description": "Target 1 Link Monster you control; equip it with this card. Your opponent cannot target the equipped monster with card effects, also it cannot be destroyed by battle. You can banish this card and 2 Link Monsters from your GY, then target 1 Link Monster you control; it can make a second attack during each Battle Phase this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

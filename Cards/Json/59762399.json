@@ -1,0 +1,16 @@
+{
+  "id": 5256,
+  "cardNumber": "59762399",
+  "name": "Performapal Odd-Eyes Light Phoenix",
+  "description": "Pendulum Effect\n When an opponent's monster declares a direct attack while you have a card in your other Pendulum Zone: You can destroy the card in your other Pendulum Zone, and if you do, Special Summon this card.\n\n Monster Effect\n (Quick Effect): You can Tribute this card, then target 1 \"Performapal\" monster you control; it gains 1000 ATK until the end of this turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1136,
+  "cardNumber": "77087109",
+  "name": "Clock Resonator",
+  "description": "Once per turn, this face-up Defense Position card cannot be destroyed by battle or by card effects.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

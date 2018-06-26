@@ -1,0 +1,16 @@
+{
+  "id": 4727,
+  "cardNumber": "62896588",
+  "name": "Natural Tune",
+  "description": "Select 1 face-up Level 4 or lower Normal Monster you control. It is treated as a Tuner monster while it is face-up on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

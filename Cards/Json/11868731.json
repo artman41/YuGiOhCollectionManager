@@ -1,0 +1,16 @@
+{
+  "id": 4175,
+  "cardNumber": "11868731",
+  "name": "Madolche Magileine",
+  "description": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal or Flip Summoned: You can add 1 \"Madolche\" monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

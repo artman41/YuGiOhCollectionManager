@@ -1,0 +1,16 @@
+{
+  "id": 3603,
+  "cardNumber": "59695933",
+  "name": "Intercept",
+  "description": "Activate only when a monster is Tribute Summoned with 1 Tribute. Take control of that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

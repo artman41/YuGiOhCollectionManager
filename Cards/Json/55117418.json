@@ -1,0 +1,16 @@
+{
+  "id": 4785,
+  "cardNumber": "55117418",
+  "name": "Nega-Ton Corepanel",
+  "description": "Activate only if you control a face-up \"Koa'ki Meiru\" monster and have \"Iron Core of Koa'ki Meiru\" in your Graveyard. Negate the activation of an Effect Monster's effect, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

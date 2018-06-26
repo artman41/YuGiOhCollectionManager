@@ -1,0 +1,16 @@
+{
+  "id": 3553,
+  "cardNumber": "14550855",
+  "name": "Infernity Inferno",
+  "description": "Discard up to 2 cards and send the same number of \"Infernity\" cards from your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

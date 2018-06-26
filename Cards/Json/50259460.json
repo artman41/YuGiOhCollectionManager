@@ -1,0 +1,16 @@
+{
+  "id": 7374,
+  "cardNumber": "50259460",
+  "name": "Versago the Destroyer",
+  "description": "You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s).",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

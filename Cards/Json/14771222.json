@@ -1,0 +1,16 @@
+{
+  "id": 6235,
+  "cardNumber": "14771222",
+  "name": "Shore Knight",
+  "description": "Once per turn, when the battle position of this face-up card on the field is changed: Send 1 WATER monster from your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

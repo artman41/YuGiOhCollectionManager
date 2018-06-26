@@ -1,0 +1,16 @@
+{
+  "id": 4092,
+  "cardNumber": "35514096",
+  "name": "Lord British Space Fighter",
+  "description": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects:<br>â— You can attack once again in a row. â— Select and destroy 1 Set card on the field. â— Special Summon 1 \"Multi Token\" (Machine-Type/LIGHT/Level 4/ATK 1200/DEF 1200).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

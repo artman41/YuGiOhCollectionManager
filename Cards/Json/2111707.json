@@ -1,0 +1,16 @@
+{
+  "id": 7683,
+  "cardNumber": "2111707",
+  "name": "XY-Dragon Cannon",
+  "description": "\"X-Head Cannon\" + \"Y-Dragon Head\"<br>Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-up Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

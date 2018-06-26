@@ -1,0 +1,16 @@
+{
+  "id": 2845,
+  "cardNumber": "39512984",
+  "name": "Gem-Knight Master Diamond",
+  "description": "3 \"Gem-Knight\" monsters<br>Must first be Fusion Summoned. This card gains 100 ATK for each \"Gem-\" monster in your Graveyard. Once per turn: You can banish 1 Level 7 or lower \"Gem-Knight\" Fusion Monster from your Graveyard; until the End Phase, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

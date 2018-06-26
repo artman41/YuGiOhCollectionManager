@@ -1,0 +1,16 @@
+{
+  "id": 1568,
+  "cardNumber": "81755371",
+  "name": "Dark Effigy",
+  "description": "If you Tribute Summon a DARK Normal Monster, you can treat this 1 monster as 2 Tributes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

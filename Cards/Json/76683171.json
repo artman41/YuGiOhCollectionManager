@@ -1,0 +1,16 @@
+{
+  "id": 7649,
+  "cardNumber": "76683171",
+  "name": "Worm Ugly",
+  "description": "When you Tribute Summon a Reptile-Type \"Worm\" monster by Tributing this card, you can Special Summon this card from your Graveyard to your opponent's side of the field, in face-up Attack Position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

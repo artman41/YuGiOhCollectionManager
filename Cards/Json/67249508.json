@@ -1,0 +1,16 @@
+{
+  "id": 7721,
+  "cardNumber": "67249508",
+  "name": "Yang Zing Brutality",
+  "description": "If a \"Yang Zing\" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK and DEF each become double its original ATK and DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

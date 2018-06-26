@@ -1,0 +1,16 @@
+{
+  "id": 3249,
+  "cardNumber": "336369",
+  "name": "Gusto Squirro",
+  "description": "When this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 Level 5 or higher \"Gusto\" monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

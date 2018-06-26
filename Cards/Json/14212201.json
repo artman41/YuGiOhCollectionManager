@@ -1,0 +1,16 @@
+{
+  "id": 6161,
+  "cardNumber": "14212201",
+  "name": "Shadow Vampire",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 DARK \"Vampire\" monster from your hand or Deck, except \"Shadow Vampire\", but if you do, only that monster can attack for the rest of this turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

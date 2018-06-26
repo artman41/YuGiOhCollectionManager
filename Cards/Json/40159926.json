@@ -1,0 +1,16 @@
+{
+  "id": 4574,
+  "cardNumber": "40159926",
+  "name": "Mirror Resonator",
+  "description": "If your opponent controls a face-up monster(s) that was Special Summoned from the Extra Deck and you do not, while this card is in your hand or Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Mirror Resonator\" once per turn. Once per turn: You can target 1 face-up monster your opponent controls; treat this card's Level as that monster's original Level if this card is used for a Synchro Summon this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

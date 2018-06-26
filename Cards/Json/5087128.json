@@ -1,0 +1,16 @@
+{
+  "id": 8004,
+  "cardNumber": "5087128",
+  "name": "Shellrokket Dragon",
+  "description": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy 1 monster in the same column as the zone this card was in, and if there is a monster(s) in the zones adjacent (horizontal) to that destroyed monster, destroy that monster(s). During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Shellrokket Dragon\". You can only use each effect of \"Shellrokket Dragon\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

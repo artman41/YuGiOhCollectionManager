@@ -1,0 +1,16 @@
+{
+  "id": 5848,
+  "cardNumber": "10537981",
+  "name": "Return Soul",
+  "description": "Activate only during the End Phase. You can return up to 3 monsters destroyed this turn from the Graveyard to their owners' Decks.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

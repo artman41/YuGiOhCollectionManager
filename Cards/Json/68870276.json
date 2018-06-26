@@ -1,0 +1,16 @@
+{
+  "id": 8209,
+  "cardNumber": "68870276",
+  "name": "Fiend Reflection #1",
+  "description": "This monster can draw its enemies into a mirror world that renders them helpless.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

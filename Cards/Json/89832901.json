@@ -1,0 +1,16 @@
+{
+  "id": 8086,
+  "cardNumber": "89832901",
+  "name": "B. Dragon Jungle King",
+  "description": "A jet-black dragon found in the deepest jungles who normally devours trees.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

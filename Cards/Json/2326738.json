@@ -1,0 +1,16 @@
+{
+  "id": 1737,
+  "cardNumber": "2326738",
+  "name": "Des Lacooda",
+  "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Draw 1 card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

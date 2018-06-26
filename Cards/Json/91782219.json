@@ -1,0 +1,16 @@
+{
+  "id": 1263,
+  "cardNumber": "91782219",
+  "name": "Crab Turtle",
+  "description": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Turtle Oath\". You must also offer monsters whose total Level Stars equal 8 or more as a Tribute from the field or your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2550,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

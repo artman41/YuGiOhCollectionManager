@@ -1,0 +1,16 @@
+{
+  "id": 2838,
+  "cardNumber": "67985943",
+  "name": "Gem-Knight Citrine",
+  "description": "1 \"Gem-Knight\" monster + 1 Pyro-Type monster<br>Must first be Fusion Summoned. If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1950,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8010,
+  "cardNumber": "97792247",
+  "name": "Stardust Assault Warrior",
+  "description": "1 Tuner + 1+ non-Tuner monsters<br>When this card is Synchro Summoned while you control no other monsters: You can target 1 \"Junk\" monster in your GY; Special Summon it. You can only use this effect of \"Stardust Assault Warrior\" once per turn. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

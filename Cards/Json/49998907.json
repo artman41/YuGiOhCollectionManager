@@ -1,0 +1,16 @@
+{
+  "id": 2681,
+  "cardNumber": "49998907",
+  "name": "Fruits of Kozaky's Studies",
+  "description": "Look at the top 3 cards of your Deck and return those cards to the top of the Deck in any order.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

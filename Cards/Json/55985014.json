@@ -1,0 +1,16 @@
+{
+  "id": 4555,
+  "cardNumber": "55985014",
+  "name": "Miracle Kids",
+  "description": "Target 1 monster your opponent controls; that target loses 400 ATK for each \"Hero Kid\" in your Graveyard, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

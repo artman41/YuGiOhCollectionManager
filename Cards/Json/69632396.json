@@ -1,0 +1,16 @@
+{
+  "id": 3049,
+  "cardNumber": "69632396",
+  "name": "Goblin Out of the Frying Pan",
+  "description": "Pay 500 Life Points. Negate the activation of a Spell Card and return it to the owner's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8191,
+  "cardNumber": "6367785",
+  "name": "Eldeen",
+  "description": "The cane of this monster is the source of many powerful spells.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 950,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

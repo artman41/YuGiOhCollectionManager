@@ -1,0 +1,16 @@
+{
+  "id": 4673,
+  "cardNumber": "70222318",
+  "name": "Mount Sylvania",
+  "description": "You can send 1 Plant-Type monster from your hand or face-up from your side of the field to the Graveyard; choose 1 \"Sylvan\" card from your Deck and place it on top of the Deck. You can only use this effect of \"Mount Sylvania\" once per turn. Once per turn, during your opponent's End Phase: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on either the top or bottom of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

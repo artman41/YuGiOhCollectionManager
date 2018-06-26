@@ -1,0 +1,16 @@
+{
+  "id": 504,
+  "cardNumber": "60549248",
+  "name": "Batteryman 9-Volt",
+  "description": "When this card is Summoned: You can add 1 \"Batteryman\" monster from your Deck to your hand, and if you do, this card's ATK and DEF become double its original ATK and DEF. You can only use this effect of \"Batteryman 9-Volt\" once per turn. During your End Phase: Destroy this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

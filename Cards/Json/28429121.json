@@ -1,0 +1,16 @@
+{
+  "id": 2610,
+  "cardNumber": "28429121",
+  "name": "Forbidden Arts of the Gishki",
+  "description": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also Tribute face-up monsters from anywhere on the field, whose total Levels equal the Level of the Ritual Monster you Ritual Summon. Halve the ATK of the monster Ritual Summoned by this effect. You cannot conduct your Battle Phase the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

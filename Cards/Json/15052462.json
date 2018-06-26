@@ -1,0 +1,16 @@
+{
+  "id": 7386,
+  "cardNumber": "15052462",
+  "name": "Violet Crystal",
+  "description": "(This card is not treated as a \"Crystal\" card.)<br>A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

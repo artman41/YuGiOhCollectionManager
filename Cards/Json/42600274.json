@@ -1,0 +1,16 @@
+{
+  "id": 1404,
+  "cardNumber": "42600274",
+  "name": "Cyber Tutubon",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 Warrior or Fairy-Type monster from your hand or field. If this card is Tributed for a Ritual Summon: You can target 1 Ritual Spell Card in your Graveyard; add it to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

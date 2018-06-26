@@ -1,0 +1,16 @@
+{
+  "id": 753,
+  "cardNumber": "98884569",
+  "name": "Blue Rose Dragon",
+  "description": "When this card on the field is destroyed and sent to the Graveyard: You can target 1 \"Black Rose Dragon\" or 1 Plant-Type monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

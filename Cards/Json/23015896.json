@@ -1,0 +1,16 @@
+{
+  "id": 2503,
+  "cardNumber": "23015896",
+  "name": "Fire King High Avatar Garunix",
+  "description": "During the next Standby Phase after this card was destroyed by a card effect and sent to the Graveyard: Special Summon this card from the Graveyard. When you do: Destroy all other monsters on the field. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"Fire King\" monster from your Deck, except \"Fire King High Avatar Garunix\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8677,
+  "cardNumber": "66149377",
+  "name": "Magical Musket - Dancing Needle",
+  "description": "If you control a \"Magical Musket\" monster: Target up to 3 cards in the GYs; banish them. You can only activate 1 \"Magical Musket - Dancing Needle\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

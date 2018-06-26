@@ -1,0 +1,16 @@
+{
+  "id": 1183,
+  "cardNumber": "12197543",
+  "name": "Commander of Swords",
+  "description": "When your opponent draws for their normal draw in their Draw Phase: They reveal the card(s) they drew, then if any is a Spell/Trap Card, you apply 1 of these effects.<br>â— Discard all cards they drew.<br>â— Destroy 1 Spell/Trap Card they control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

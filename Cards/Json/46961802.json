@@ -1,0 +1,16 @@
+{
+  "id": 1292,
+  "cardNumber": "46961802",
+  "name": "Cross Attack",
+  "description": "Target 2 face-up Attack Position monsters you control with the same ATK; this turn, one of them can attack your opponent directly and the other cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

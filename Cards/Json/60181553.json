@@ -1,0 +1,16 @@
+{
+  "id": 4548,
+  "cardNumber": "60181553",
+  "name": "Mira the Star-Bearer",
+  "description": "3 Level 1 monsters<br>If this face-up card would be destroyed, you can detach 1 Xyz Material from this card instead. Level 4 or lower monsters you control cannot be destroyed by card effects.",
+  "cardLevel": null,
+  "cardRank": 1,
+  "atk": 1100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

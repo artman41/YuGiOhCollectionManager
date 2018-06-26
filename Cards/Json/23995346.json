@@ -1,0 +1,16 @@
+{
+  "id": 762,
+  "cardNumber": "23995346",
+  "name": "Blue-Eyes Ultimate Dragon",
+  "description": "\"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\" + \"Blue-Eyes White Dragon\"",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 4500,
+  "def": 3800,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

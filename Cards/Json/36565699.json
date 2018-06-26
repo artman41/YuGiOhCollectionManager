@@ -1,0 +1,16 @@
+{
+  "id": 4441,
+  "cardNumber": "36565699",
+  "name": "Mental Seeker",
+  "description": "When this removed from play card is Special Summoned, reveal the top 3 cards of your opponent's Deck. Choose 1 of those cards and remove it from play. Then, shuffle the others into the Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

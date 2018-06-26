@@ -1,0 +1,16 @@
+{
+  "id": 4483,
+  "cardNumber": "69351984",
+  "name": "Metalfoes Volflame",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 other face-up card you control; destroy it, and if you do, Set 1 \"Metalfoes\" Spell/Trap Card directly from your Deck.\n\n Monster Effect\n Roasting red rockets boost its blazing, bright-blast burners to liquified lava levels. Vanquisher of the Vanisher!",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

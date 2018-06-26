@@ -1,0 +1,16 @@
+{
+  "id": 8009,
+  "cardNumber": "36730805",
+  "name": "Speedrift",
+  "description": "If you control exactly 1 Tuner (and no other monsters): Special Summon 1 Level 4 or lower \"Speedroid\" monster from your Deck. When that monster is Special Summoned, cards and effects cannot be activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

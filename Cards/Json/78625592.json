@@ -1,0 +1,16 @@
+{
+  "id": 6522,
+  "cardNumber": "78625592",
+  "name": "Spiritual Swords of Revealing Light",
+  "description": "Once per attack, when an opponent's monster declares an attack: You can pay 1000 LP; negate that attack. During your opponent's turn: You can banish this card from your Graveyard; this turn, your opponent's monsters cannot attack directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

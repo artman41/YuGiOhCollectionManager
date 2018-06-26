@@ -1,0 +1,16 @@
+{
+  "id": 4509,
+  "cardNumber": "33767325",
+  "name": "Meteor of Destruction",
+  "description": "If your opponent's Life Points are higher than 3000: Inflict 1000 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

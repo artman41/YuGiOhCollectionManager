@@ -1,0 +1,16 @@
+{
+  "id": 7607,
+  "cardNumber": "38568567",
+  "name": "Wonder Clover",
+  "description": "Select 1 face-up monster you control and send 1 Level 4 Plant-Type monster from your hand to the Graveyard. During the turn, the selected monster can attack twice, but other monsters you control cannot declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

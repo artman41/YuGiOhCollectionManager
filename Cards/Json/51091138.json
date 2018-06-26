@@ -1,0 +1,16 @@
+{
+  "id": 2693,
+  "cardNumber": "51091138",
+  "name": "Fuse Line",
+  "description": "While this card is Set: Target 1 card on the field in this card's column; destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

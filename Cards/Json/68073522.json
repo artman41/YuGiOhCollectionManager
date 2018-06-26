@@ -1,0 +1,16 @@
+{
+  "id": 6385,
+  "cardNumber": "68073522",
+  "name": "Soul Absorption",
+  "description": "If a card(s) is banished: Gain 500 LP for each.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2355,
+  "cardNumber": "17484499",
+  "name": "Exchange of the Spirit",
+  "description": "If both players have 15 or more cards in their Graveyards: Pay 1000 LP; each player swaps the cards in their Graveyard with the cards in their Deck, then shuffles their Deck. You can only activate 1 \"Exchange of the Spirit\" per Duel.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

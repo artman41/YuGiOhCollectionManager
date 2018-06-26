@@ -1,0 +1,16 @@
+{
+  "id": 4601,
+  "cardNumber": "45159319",
+  "name": "Moai Interceptor Cannons",
+  "description": "Once per turn, you can flip this card into face-down Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

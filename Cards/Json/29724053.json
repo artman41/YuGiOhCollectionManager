@@ -1,0 +1,16 @@
+{
+  "id": 6678,
+  "cardNumber": "29724053",
+  "name": "Summon Gate",
+  "description": "Each player can Special Summon a maximum of 3 monsters from the Extra Deck each turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

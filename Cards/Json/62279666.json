@@ -1,0 +1,16 @@
+{
+  "id": 8819,
+  "cardNumber": "62279666",
+  "name": "World Legacy End",
+  "description": "Once per turn, if a face-up Link Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect: You can Special Summon 1 \"World Legacy\" monster from your hand or Deck in Defense Position. You can only control 1 \"World Legacy End\".",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

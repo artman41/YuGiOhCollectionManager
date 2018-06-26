@@ -1,0 +1,16 @@
+{
+  "id": 1725,
+  "cardNumber": "72575145",
+  "name": "Demotion",
+  "description": "Downgrade the monster equipped with this card by 2 Levels.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

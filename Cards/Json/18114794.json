@@ -1,0 +1,16 @@
+{
+  "id": 6676,
+  "cardNumber": "18114794",
+  "name": "Summon Breaker",
+  "description": "During Main Phase 1, if the turn player successfully conducts their third Summon of a monster(s) this turn: It becomes the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

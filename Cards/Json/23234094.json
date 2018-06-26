@@ -1,0 +1,16 @@
+{
+  "id": 2334,
+  "cardNumber": "23234094",
+  "name": "Evolsaur Elias",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: You can Special Summon 1 Level 6 or lower FIRE Dinosaur-Type monster from your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

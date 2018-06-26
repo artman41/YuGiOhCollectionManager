@@ -1,0 +1,16 @@
+{
+  "id": 4744,
+  "cardNumber": "90555947",
+  "name": "Naturia Gaiastrio",
+  "description": "2 EARTH Synchro Monsters<br>During either player's turn, when a card or effect is activated that targets exactly 1 card on the field (and no other cards): You can send 1 card from your hand to the Graveyard; negate the activation, and if you do, destroy that card.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

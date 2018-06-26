@@ -1,0 +1,16 @@
+{
+  "id": 7737,
+  "cardNumber": "65247798",
+  "name": "Yosenju Kama 1",
+  "description": "If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 \"Yosenju\" monster from your hand, except \"Yosenju Kama 1\". If you control another \"Yosenju\" monster: You can target 1 face-up card your opponent controls; return it to the hand. This effect can only be used once while this card is face-up on the field. Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

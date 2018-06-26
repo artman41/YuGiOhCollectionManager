@@ -1,0 +1,16 @@
+{
+  "id": 4595,
+  "cardNumber": "27315304",
+  "name": "Mist Wurm",
+  "description": "1 Tuner + 2 or more non-Tuner monsters<br>If this card is Synchro Summoned: Target up to 3 cards your opponent controls; return those targets to the hand.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

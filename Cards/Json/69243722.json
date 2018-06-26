@@ -1,0 +1,16 @@
+{
+  "id": 2839,
+  "cardNumber": "69243722",
+  "name": "Gem-Knight Emerald",
+  "description": "You can banish this face-up card you control and 1 face-up Normal Monster you control to target 1 \"Gem-Knight\" Fusion Monster in your Graveyard; Special Summon it from the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

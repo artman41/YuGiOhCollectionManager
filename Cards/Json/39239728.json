@@ -1,0 +1,16 @@
+{
+  "id": 8496,
+  "cardNumber": "39239728",
+  "name": "Royal Guard",
+  "description": "A mechanized soldier created to protect royalty.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

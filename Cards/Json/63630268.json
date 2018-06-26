@@ -1,0 +1,16 @@
+{
+  "id": 919,
+  "cardNumber": "63630268",
+  "name": "Butterspy Protection",
+  "description": "Target 1 face-up Attack Position monster on the field; change it to face-up Defense Position, also any damage you take for the rest of this turn is halved.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

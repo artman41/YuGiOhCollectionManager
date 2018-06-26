@@ -1,0 +1,16 @@
+{
+  "id": 8554,
+  "cardNumber": "63432835",
+  "name": "Stone Armadiller",
+  "description": "Dis stone crittah's got rock-hahd fur. Dat gives him some really good dee-fense!",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

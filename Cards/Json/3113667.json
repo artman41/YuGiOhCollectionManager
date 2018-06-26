@@ -1,0 +1,16 @@
+{
+  "id": 8707,
+  "cardNumber": "3113667",
+  "name": "Heavy Metal Raiders",
+  "description": "The first time each DARK Machine monster you control would be destroyed by battle each turn, it is not destroyed, and if you took battle damage from that battle, it gains that much ATK after damage calculation, and keeps that ATK gain as long as this card is on the field. Once per turn, if a monster you control that was originally a DARK Machine destroys a card(s) on the field by battle or by card effect: You can Special Summon 1 DARK Machine monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

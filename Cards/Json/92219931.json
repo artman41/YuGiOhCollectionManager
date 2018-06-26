@@ -1,0 +1,16 @@
+{
+  "id": 6270,
+  "cardNumber": "92219931",
+  "name": "Simultaneous Loss",
+  "description": "Each player sends the top card from their Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

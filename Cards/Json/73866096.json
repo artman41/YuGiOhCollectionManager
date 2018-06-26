@@ -1,0 +1,16 @@
+{
+  "id": 1920,
+  "cardNumber": "73866096",
+  "name": "Dodododraw",
+  "description": "Send 1 \"Dododo\" monster from your hand or face-up from your side of the field to the Graveyard; draw 2 cards. You can only activate 1 \"Dodododraw\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

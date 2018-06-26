@@ -1,0 +1,16 @@
+{
+  "id": 8531,
+  "cardNumber": "3797883",
+  "name": "Slot Machine",
+  "description": "The machine's ability is said to vary according to its slot results.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

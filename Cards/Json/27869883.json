@@ -1,0 +1,16 @@
+{
+  "id": 6164,
+  "cardNumber": "27869883",
+  "name": "Shadowpriestess of Ohm",
+  "description": "You can Tribute 1 face-up DARK monster you control to inflict 800 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

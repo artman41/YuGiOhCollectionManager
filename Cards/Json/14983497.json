@@ -1,0 +1,16 @@
+{
+  "id": 4587,
+  "cardNumber": "14983497",
+  "name": "Mist Valley Baby Roc",
+  "description": "When this card is sent directly from the hand to the Graveyard, you can Special Summon it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

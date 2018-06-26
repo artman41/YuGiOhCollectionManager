@@ -1,0 +1,16 @@
+{
+  "id": 8594,
+  "cardNumber": "72929454",
+  "name": "Turtle Bird",
+  "description": "An unusual turtle that not only swims at tremendous speed, but can also sail across the skies.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

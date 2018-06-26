@@ -1,0 +1,16 @@
+{
+  "id": 6870,
+  "cardNumber": "36643046",
+  "name": "Synchron Explorer",
+  "description": "When this card is Normal Summoned: You can target 1 \"Synchron\" monster in your Graveyard; Special Summon that target, but its effects are negated.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

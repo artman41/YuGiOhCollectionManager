@@ -1,0 +1,16 @@
+{
+  "id": 6163,
+  "cardNumber": "9603356",
+  "name": "Shadowknight Archfiend",
+  "description": "The controller of this card pays 900 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. The Battle Damage this card inflicts to your opponent is halved.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

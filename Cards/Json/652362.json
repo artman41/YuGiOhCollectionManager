@@ -1,0 +1,16 @@
+{
+  "id": 96,
+  "cardNumber": "652362",
+  "name": "Alien Ammonite",
+  "description": "When this card is Normal Summoned, you can Special Summon 1 Level 4 or lower \"Alien\" monster from your Graveyard. Destroy it during the End Phase.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

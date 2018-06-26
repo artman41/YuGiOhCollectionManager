@@ -1,0 +1,16 @@
+{
+  "id": 932,
+  "cardNumber": "51196174",
+  "name": "The Calculator",
+  "description": "The ATK of this card is the combined Levels of all face-up monsters you control x 300.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

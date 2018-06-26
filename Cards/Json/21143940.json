@@ -1,0 +1,16 @@
+{
+  "id": 4338,
+  "cardNumber": "21143940",
+  "name": "Mask Change",
+  "description": "Target 1 \"HERO\" monster you control; send it to the Graveyard, also, after that, if it left the field by this effect, Special Summon 1 \"Masked HERO\" monster from your Extra Deck with the same Attribute that the sent monster had when it was on the field (its original Attribute, if face-down).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

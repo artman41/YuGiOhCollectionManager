@@ -1,0 +1,16 @@
+{
+  "id": 7375,
+  "cardNumber": "904185",
+  "name": "Vertical Landing",
+  "description": "Tribute any number of WIND monsters, except Tokens; Special Summon an equal number of \"Mecha Phantom Beast Tokens\" (Machine-Type/WIND/Level 3/ATK 0/DEF 0). You can only activate 1 \"Vertical Landing\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

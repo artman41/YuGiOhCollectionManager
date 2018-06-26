@@ -1,0 +1,16 @@
+{
+  "id": 4730,
+  "cardNumber": "20174189",
+  "name": "Naturia Bamboo Shoot",
+  "description": "If this card is Tribute Summoned by Tributing a \"Naturia\" monster, while this card remains face-up on the field, your opponent cannot activate Spell or Trap Cards.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

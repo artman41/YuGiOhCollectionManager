@@ -1,0 +1,16 @@
+{
+  "id": 2948,
+  "cardNumber": "95178994",
+  "name": "Giant Germ",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Inflict 500 damage to your opponent, then you can Special Summon any number of \"Giant Germs\" from your Deck in face-up Attack Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

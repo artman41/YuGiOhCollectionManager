@@ -1,0 +1,16 @@
+{
+  "id": 6114,
+  "cardNumber": "68462976",
+  "name": "Secret Village of the Spellcasters",
+  "description": "If only you control a Spellcaster monster, your opponent cannot activate Spell Cards. If you control no Spellcaster monsters, you cannot activate Spell Cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

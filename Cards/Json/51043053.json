@@ -1,0 +1,16 @@
+{
+  "id": 3331,
+  "cardNumber": "51043053",
+  "name": "Heliosphere Dragon",
+  "description": "While your opponent has 4 or less cards in their hand and this card is the only monster you control, your opponent cannot declare an attack. Once per turn, if you control a Level 8 Dragon-Type monster: You can make this card become Level 8 until the end of this turn",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

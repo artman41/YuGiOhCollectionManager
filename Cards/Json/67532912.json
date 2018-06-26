@@ -1,0 +1,16 @@
+{
+  "id": 8504,
+  "cardNumber": "67532912",
+  "name": "Science Soldier",
+  "description": "Soldiers equipped with state-of-the-art weaponry to face unknown creatures.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

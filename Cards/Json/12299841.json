@@ -1,0 +1,16 @@
+{
+  "id": 7570,
+  "cardNumber": "12299841",
+  "name": "Wind-Up Soldier",
+  "description": "During your Main Phase: You can increase this card's Level by 1 and ATK by 400, until the End Phase. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

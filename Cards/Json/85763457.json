@@ -1,0 +1,16 @@
+{
+  "id": 8818,
+  "cardNumber": "85763457",
+  "name": "World Legacy Echo",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, while you control a co-linked monster: Negate the activation, and if you do, destroy that card. You can only activate 1 \"World Legacy Echo\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

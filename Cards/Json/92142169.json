@@ -1,0 +1,16 @@
+{
+  "id": 610,
+  "cardNumber": "92142169",
+  "name": "Bite Bug",
+  "description": "If your opponent controls a face-up Xyz Monster, you can Special Summon this card (from your hand). When you do: Target 1 monster your opponent controls; that monster loses 300 ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2344,
+  "cardNumber": "20855340",
+  "name": "Evoltile Pleuro",
+  "description": "If this card you control is destroyed and sent to your Graveyard: You can Special Summon 1 \"Evolsaur\" monster from your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

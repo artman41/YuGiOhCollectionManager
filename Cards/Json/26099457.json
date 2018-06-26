@@ -1,0 +1,16 @@
+{
+  "id": 2429,
+  "cardNumber": "26099457",
+  "name": "Falling Current",
+  "description": "Target 1 face-up monster you control and declare a Level between 1 and 3; it becomes that Level.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

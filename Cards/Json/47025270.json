@@ -1,0 +1,16 @@
+{
+  "id": 3332,
+  "cardNumber": "47025270",
+  "name": "Helping Robo for Combat",
+  "description": "When this card destroys an opponent's monster by battle: Draw 1 card, then return 1 card from your hand to the bottom of the Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

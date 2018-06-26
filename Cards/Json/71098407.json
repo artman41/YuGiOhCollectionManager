@@ -1,0 +1,16 @@
+{
+  "id": 4439,
+  "cardNumber": "71098407",
+  "name": "Memory Loss",
+  "description": "When a face-up Attack Position monster your opponent controls just activated an effect (except during the Damage Step): Negate that effect, and if you do, change that monster to face-up Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

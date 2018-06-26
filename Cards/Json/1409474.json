@@ -1,0 +1,16 @@
+{
+  "id": 3309,
+  "cardNumber": "1409474",
+  "name": "Hazy Flame Sphynx",
+  "description": "Your opponent cannot target this card with card effects. You can declare 1 card type (Monster, Spell, or Trap); send the top card of your Deck to the Graveyard, then if it was the declared card type, you can Special Summon 1 FIRE monster from your hand or Graveyard. You can only use this effect of \"Hazy Flame Sphynx\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

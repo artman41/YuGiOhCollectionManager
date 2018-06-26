@@ -1,0 +1,16 @@
+{
+  "id": 1342,
+  "cardNumber": "85802526",
+  "name": "Cure Mermaid",
+  "description": "As long as this card remains face-up on your side of the field, increase your Life Points by 800 points during each of your Standby Phases.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

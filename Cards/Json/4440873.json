@@ -1,0 +1,16 @@
+{
+  "id": 2048,
+  "cardNumber": "4440873",
+  "name": "Drastic Drop Off",
+  "description": "When your opponent adds a card(s) from their Deck to their hand, including drawing: They must discard 1 of those cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

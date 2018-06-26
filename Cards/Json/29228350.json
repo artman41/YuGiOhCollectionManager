@@ -1,0 +1,16 @@
+{
+  "id": 1989,
+  "cardNumber": "29228350",
+  "name": "Dragon Laser",
+  "description": "Send 1 \"Trigon\" equipped to a face-up \"Delta Tri\" you control to the Graveyard, and destroy all monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

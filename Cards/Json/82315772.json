@@ -1,0 +1,16 @@
+{
+  "id": 3346,
+  "cardNumber": "82315772",
+  "name": "Heraldic Beast Eale",
+  "description": "If you control 2 or more \"Heraldic Beast\" monsters, you can Special Summon this card (from your hand).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

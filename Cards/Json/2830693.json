@@ -1,0 +1,16 @@
+{
+  "id": 5667,
+  "cardNumber": "2830693",
+  "name": "Rainbow Kuriboh",
+  "description": "You can only use each effect of \"Rainbow Kuriboh\" once per turn.<br>â— When an opponent's monster declares an attack: You can target that attacking monster; equip this card from your hand to that monster. It cannot attack.<br>â— When an opponent's monster declares a direct attack while this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3454,
+  "cardNumber": "95642274",
+  "name": "The Humble Sentry",
+  "description": "Reveal your hand, choose 1 card from it, and shuffle it into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

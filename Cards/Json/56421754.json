@@ -1,0 +1,16 @@
+{
+  "id": 7237,
+  "cardNumber": "56421754",
+  "name": "U.A. Mighty Slugger",
+  "description": "You can Special Summon this card (from your hand) by returning 1 \"U.A.\" monster you control to the hand, except \"U.A. Mighty Slugger\". You can only Special Summon \"U.A. Mighty Slugger\" once per turn this way. If this card attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

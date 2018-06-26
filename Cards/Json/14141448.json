@@ -1,0 +1,16 @@
+{
+  "id": 3191,
+  "cardNumber": "14141448",
+  "name": "Great Moth",
+  "description": "This monster cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing \"Petit Moth\" during your 4th turn after \"Petit Moth\" has been equipped with \"Cocoon of Evolution\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

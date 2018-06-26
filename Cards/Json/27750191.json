@@ -1,0 +1,16 @@
+{
+  "id": 7733,
+  "cardNumber": "27750191",
+  "name": "Yokotuner",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Tuner from your hand or Graveyard, but it has its effects negated.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

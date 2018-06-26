@@ -1,0 +1,16 @@
+{
+  "id": 4408,
+  "cardNumber": "22512237",
+  "name": "Mechanical Hound",
+  "description": "While you have no cards in your hand, your opponent cannot activate Spell Cards.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6603,
+  "cardNumber": "84488827",
+  "name": "Steelswarm Caucastag",
+  "description": "When this card is Tribute Summoned by Tributing 2 \"Steelswarm\" monsters: Activate 1 of these effects. <br>â— Destroy all monsters on the field, except this card. <br>â— Destroy all Spell and Trap Cards on the field.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

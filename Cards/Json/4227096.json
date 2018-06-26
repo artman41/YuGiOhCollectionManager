@@ -1,0 +1,16 @@
+{
+  "id": 4598,
+  "cardNumber": "4227096",
+  "name": "Mistaken Arrest",
+  "description": "Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

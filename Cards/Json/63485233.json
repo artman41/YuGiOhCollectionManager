@@ -1,0 +1,16 @@
+{
+  "id": 6557,
+  "cardNumber": "63485233",
+  "name": "Star Changer",
+  "description": "Target 1 face-up monster on the field and activate 1 of these effects;<br>â— Increase that target's Level by 1.<br>â— Reduce that target's Level by 1.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

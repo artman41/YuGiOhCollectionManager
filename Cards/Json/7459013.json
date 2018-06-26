@@ -1,0 +1,16 @@
+{
+  "id": 8660,
+  "cardNumber": "7459013",
+  "name": "Zure, Knight of Dark World",
+  "description": "The name of this illustrious knight is known by all residents of Dark World. He never oppresses the commoners.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

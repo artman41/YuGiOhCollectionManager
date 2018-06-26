@@ -1,0 +1,16 @@
+{
+  "id": 7206,
+  "cardNumber": "43586926",
+  "name": "Twin-Headed Behemoth",
+  "description": "During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can Special Summon this card, but its ATK and DEF become 1000. You can only use this effect of \"Twin-Headed Behemoth\" once per Duel.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4473,
+  "cardNumber": "81612598",
+  "name": "Metalfoes Adamante",
+  "description": "1 \"Metalfoes\" monster + 1 monster with 2500 or less ATK",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

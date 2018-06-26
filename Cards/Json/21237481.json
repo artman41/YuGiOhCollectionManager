@@ -1,0 +1,16 @@
+{
+  "id": 7217,
+  "cardNumber": "21237481",
+  "name": "Type Zero Magic Crusher",
+  "description": "Discard 1 Spell Card from your hand to inflict 500 points of damage to your opponent's Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3207,
+  "cardNumber": "51232472",
+  "name": "Gren, Tactician of Dark World",
+  "description": "If this card is discarded to the Graveyard by a card effect: Target 1 Spell/Trap Card on the field; destroy that target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

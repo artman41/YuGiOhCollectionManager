@@ -1,0 +1,16 @@
+{
+  "id": 1951,
+  "cardNumber": "75652080",
+  "name": "Double Cyclone",
+  "description": "Target 1 Spell/Trap Card you control and 1 Spell/Trap Card your opponent controls; destroy them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

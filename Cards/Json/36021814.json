@@ -1,0 +1,16 @@
+{
+  "id": 3817,
+  "cardNumber": "36021814",
+  "name": "King of the Skull Servants",
+  "description": "The original ATK of this card is the combined number of \"King of the Skull Servants\" and \"Skull Servant\" in your Graveyard x 1000. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other \"King of the Skull Servants\" or 1 \"Skull Servant\" from your Graveyard; Special Summon this card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

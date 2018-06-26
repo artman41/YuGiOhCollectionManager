@@ -1,0 +1,16 @@
+{
+  "id": 4082,
+  "cardNumber": "25109950",
+  "name": "The Little Swordsman of Aile",
+  "description": "Offer 1 monster on your side of the field as a Tribute to increase this monster's ATK by 700 points until the end of the turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

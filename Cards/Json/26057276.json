@@ -1,0 +1,16 @@
+{
+  "id": 6026,
+  "cardNumber": "26057276",
+  "name": "Satellarknight Betelgeuse",
+  "description": "If this card is Summoned: You can target 1 \"tellarknight\" card in your Graveyard, except \"Satellarknight Betelgeuse\"; send this card to the Graveyard, and if you do, add that target to your hand. You can only use this effect of \"Satellarknight Betelgeuse\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8385,
+  "cardNumber": "94412545",
+  "name": "Mechaleon",
+  "description": "A large chameleon with the ability to alter its body coloring. Using this ability, it can conceal itself in any location.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

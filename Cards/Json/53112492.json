@@ -1,0 +1,16 @@
+{
+  "id": 256,
+  "cardNumber": "53112492",
+  "name": "Anti-Spell",
+  "description": "Remove 2 Spell Counters on your side of the field to negate the activation of a Spell Card and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "cardNumber": "70832512",
+  "name": "Absolute Crusader",
+  "description": "If a Level 5 or higher monster(s) is Special Summoned: Tribute this face-up card; destroy that Level 5 or higher monster(s).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

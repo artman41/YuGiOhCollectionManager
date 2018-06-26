@@ -1,0 +1,16 @@
+{
+  "id": 6857,
+  "cardNumber": "89974904",
+  "name": "Synchro Call",
+  "description": "Target 1 monster in your Graveyard; Special Summon it, but it has its effects negated (if any), and if you do, immediately after this effect resolves, Synchro Summon 1 DARK Dragon or Fiend-Type Synchro Monster using only monsters you control as Materials, including the Summoned monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

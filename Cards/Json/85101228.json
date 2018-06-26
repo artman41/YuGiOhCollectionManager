@@ -1,0 +1,16 @@
+{
+  "id": 4640,
+  "cardNumber": "85101228",
+  "name": "Morphtronic Bind",
+  "description": "While you control a face-up \"Morphtronic\" monster, all Level 4 or higher monsters your opponent controls cannot attack or change their battle positions.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

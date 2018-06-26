@@ -1,0 +1,16 @@
+{
+  "id": 6271,
+  "cardNumber": "68661341",
+  "name": "Single Purchase",
+  "description": "If you have 3 or more cards in your hand (other than this card), and none of them are monsters: Banish your entire hand face-up; add 1 monster from your Deck to your hand. If you do, you cannot Normal or Special Summon any monsters for the rest of this turn, except monsters with that name.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

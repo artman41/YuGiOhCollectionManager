@@ -1,0 +1,16 @@
+{
+  "id": 4304,
+  "cardNumber": "6137095",
+  "name": "Malfunction",
+  "description": "Pay 500 Life Points. Negate the activation of a Trap Card and return it to its original position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

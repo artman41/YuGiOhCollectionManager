@@ -1,0 +1,16 @@
+{
+  "id": 1417,
+  "cardNumber": "96428622",
+  "name": "Cybernetic Cyclopean",
+  "description": "While you have no cards in your hand, this card gains 1000 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

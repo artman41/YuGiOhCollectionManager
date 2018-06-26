@@ -1,0 +1,16 @@
+{
+  "id": 4062,
+  "cardNumber": "66194206",
+  "name": "Lightsworn Judgment",
+  "description": "Place this card on top of the Deck. If this card is sent from the Deck to the Graveyard by a \"Lightsworn\" monster's effect: You can add 1 \"Judgment Dragon\" from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2658,
+  "cardNumber": "85545073",
+  "name": "Frightfur Bear",
+  "description": "\"Edge Imp Sabres\" + \"Fluffal Bear\"<br>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can equip that monster to this card as an Equip Spell Card with this effect.<br>â— The equipped monster gains 1000 ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

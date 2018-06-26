@@ -1,0 +1,16 @@
+{
+  "id": 8947,
+  "cardNumber": "29649320",
+  "name": "Mirror Force Launcher",
+  "description": "Once per turn, during your Main Phase: You can discard 1 monster; add 1 \"Mirror Force\" from your Deck or GY to your hand. If this Set card is destroyed by your opponent's card effect and sent to the GY: You can Set this card from your GY and 1 \"Mirror Force\" from your hand, Deck, or GY to your field, also they can be activated this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

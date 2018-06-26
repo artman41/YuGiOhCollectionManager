@@ -1,0 +1,16 @@
+{
+  "id": 4586,
+  "cardNumber": "29587993",
+  "name": "Mist Valley Apex Avian",
+  "description": "When an effect is activated, you can select 1 face-up \"Mist Valley\" card you control. Return that \"Mist Valley\" card to its owner's hand, negate the effect's activation, and destroy the card whose effect was activated.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

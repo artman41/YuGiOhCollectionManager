@@ -1,0 +1,16 @@
+{
+  "id": 400,
+  "cardNumber": "80280737",
+  "name": "Assault Mode Activate",
+  "description": "Tribute 1 Synchro Monster. Special Summon 1 \"/Assault Mode\" monster whose name includes the Tributed monster's name from your Deck in Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

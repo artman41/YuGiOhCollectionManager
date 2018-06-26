@@ -1,0 +1,16 @@
+{
+  "id": 802,
+  "cardNumber": "59258334",
+  "name": "Brainwashing Beam",
+  "description": "Select 1 monster with at least 1 A-Counter on your opponent's side of the field, and take control of that monster. During each of your End Phases, remove 1 A-Counter from that controlled monster. If all A-Counters are removed from that monster, or that monster is destroyed, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

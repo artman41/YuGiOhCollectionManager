@@ -1,0 +1,16 @@
+{
+  "id": 7560,
+  "cardNumber": "93451636",
+  "name": "Wind-Up Honeybee",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 4 or lower \"Wind-Up\" monster from your Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

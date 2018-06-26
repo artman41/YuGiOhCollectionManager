@@ -1,0 +1,16 @@
+{
+  "id": 3734,
+  "cardNumber": "16111820",
+  "name": "Jurrac Herra",
+  "description": "When a Defense Position \"Jurrac\" monster you control, except \"Jurrac Herra\", is destroyed by battle and sent to the Graveyard, you can Special Summon this card from your hand or Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

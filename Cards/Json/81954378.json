@@ -1,0 +1,16 @@
+{
+  "id": 5722,
+  "cardNumber": "81954378",
+  "name": "Reaper Scythe - Dreadscythe",
+  "description": "Equip only to \"Guardian Dreadscythe\". It gains 500 ATK for each monster in the Graveyards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

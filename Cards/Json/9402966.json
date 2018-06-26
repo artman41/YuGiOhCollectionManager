@@ -1,0 +1,16 @@
+{
+  "id": 6734,
+  "cardNumber": "9402966",
+  "name": "Superheavy Samurai Battleball",
+  "description": "If all monsters you control are \"Superheavy Samurai\" monsters, and you have no Spell/Trap Cards in your Graveyard: You can target 1 face-up monster your opponent controls that has a Level; send both it and this card from the field to the Graveyard, then Special Summon from your Extra Deck 1 \"Superheavy Samurai\" Synchro Monster whose Level equals the total original Levels of those 2 monsters in the Graveyard. (This Special Summon is treated as a Synchro Summon.) You can only use this effect of \"Superheavy Samurai Battleball\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8798,
+  "cardNumber": "10158145",
+  "name": "Destroymare Iblee",
+  "description": "When this card is Normal Summoned: You can target 1 Link Monster in your GY; Special Summon it linked to this card, but change its ATK to 0, also it has its effects negated. You cannot Special Summon monsters, except Link Monsters. If this card you control is sent to your GY: You can Special Summon this card to your opponent's field in Defense Position. You can only use this effect of \"Destroymare Iblee\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

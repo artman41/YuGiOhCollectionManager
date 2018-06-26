@@ -1,0 +1,16 @@
+{
+  "id": 5595,
+  "cardNumber": "11287364",
+  "name": "Quick-Span Knight",
+  "description": "If this card is sent to the Graveyard for a Synchro Summon: Target 1 face-up monster your opponent controls; that target loses 500 ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

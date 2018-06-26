@@ -1,0 +1,16 @@
+{
+  "id": 4151,
+  "cardNumber": "23782705",
+  "name": "Machina Sniper",
+  "description": "\"Machina\" monsters cannot be attacked, except \"Machina Sniper\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

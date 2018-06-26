@@ -1,0 +1,16 @@
+{
+  "id": 567,
+  "cardNumber": "73680966",
+  "name": "The Beginning of the End",
+  "description": "If there are 7 or more DARK monsters in your Graveyard: Banish 5 DARK monsters from your Graveyard; draw 3 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1059,
+  "cardNumber": "41142615",
+  "name": "The Cheerful Coffin",
+  "description": "Discard up to 3 Monster Cards from your hand to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

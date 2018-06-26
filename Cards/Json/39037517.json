@@ -1,0 +1,16 @@
+{
+  "id": 3833,
+  "cardNumber": "39037517",
+  "name": "Koa'ki Meiru Beetle",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Insect-Type monster in your hand. If a LIGHT or DARK monster is Special Summoned in Attack Position: Change that monster to Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

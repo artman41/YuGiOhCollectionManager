@@ -1,0 +1,16 @@
+{
+  "id": 3147,
+  "cardNumber": "30213599",
+  "name": "Gravekeeper's Descendant",
+  "description": "You can Tribute 1 other face-up \"Gravekeeper's\" monster to target 1 card your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

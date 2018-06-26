@@ -1,0 +1,16 @@
+{
+  "id": 8185,
+  "cardNumber": "97973387",
+  "name": "Droll Bird",
+  "description": "This monster stuns its enemies with a massive beak and ear-piercing wails.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7244,
+  "cardNumber": "19814508",
+  "name": "U.A. Stadium",
+  "description": "If a \"U.A.\" monster is Normal Summoned to your side of the field: You can add 1 \"U.A.\" monster from your Deck to your hand. Once per turn, if a \"U.A.\" monster(s) is Special Summoned to your side of the field: All monsters you currently control gain 500 ATK (even if this card leaves the field).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

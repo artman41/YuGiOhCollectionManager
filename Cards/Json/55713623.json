@@ -1,0 +1,16 @@
+{
+  "id": 6239,
+  "cardNumber": "55713623",
+  "name": "Shrink",
+  "description": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

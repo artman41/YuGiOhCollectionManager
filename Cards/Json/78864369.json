@@ -1,0 +1,16 @@
+{
+  "id": 6399,
+  "cardNumber": "78864369",
+  "name": "Soul Reversal",
+  "description": "Return 1 Flip Effect Monster from your Graveyard to the top of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

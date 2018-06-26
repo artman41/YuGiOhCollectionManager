@@ -1,0 +1,16 @@
+{
+  "id": 8612,
+  "cardNumber": "78556320",
+  "name": "Vishwar Randi",
+  "description": "This lady warrior with unquenchable bloodlust serves the forces of darkness.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4195,
+  "cardNumber": "77414722",
+  "name": "Magic Jammer",
+  "description": "When a Spell Card is activated: Discard 1 card; negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

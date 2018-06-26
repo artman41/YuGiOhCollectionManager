@@ -1,0 +1,16 @@
+{
+  "id": 3583,
+  "cardNumber": "18816758",
+  "name": "Infestation Wave",
+  "description": "Return 1 face-up Tribute Summoned \"Steelswarm\" monster you control to the hand to target 1 card your opponent controls; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

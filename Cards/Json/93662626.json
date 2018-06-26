@@ -1,0 +1,16 @@
+{
+  "id": 3502,
+  "cardNumber": "93662626",
+  "name": "Igknight Veteran",
+  "description": "Pendulum Effect\n If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n Monster Effect\n This grizzled leader of the bodyguards division acts as chaperone to the Cavalier, and is one of the few complainers about her recklessness (mostly to the Gallant, the only one who understands him).",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 2700,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

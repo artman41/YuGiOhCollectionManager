@@ -1,0 +1,16 @@
+{
+  "id": 8305,
+  "cardNumber": "2118022",
+  "name": "Hyosube",
+  "description": "This amphibian is strong on the attack, but leaves much to be desired when defending.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

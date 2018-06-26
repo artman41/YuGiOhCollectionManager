@@ -1,0 +1,16 @@
+{
+  "id": 1582,
+  "cardNumber": "53129443",
+  "name": "Dark Hole",
+  "description": "Destroy all monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

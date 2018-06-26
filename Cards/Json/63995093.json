@@ -1,0 +1,16 @@
+{
+  "id": 4157,
+  "cardNumber": "63995093",
+  "name": "Machine Duplication",
+  "description": "Target 1 Machine-Type monster you control with 500 or less ATK; Special Summon up to 2 monsters from your Deck with the same name as that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

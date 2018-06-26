@@ -1,0 +1,16 @@
+{
+  "id": 7655,
+  "cardNumber": "52098461",
+  "name": "Wrath of Neos",
+  "description": "Select 1 face-up \"Elemental HERO Neos\" you control. Return it to the Deck and destroy all cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

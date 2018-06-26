@@ -1,0 +1,16 @@
+{
+  "id": 7390,
+  "cardNumber": "54591086",
+  "name": "Virus Cannon",
+  "description": "Tribute any number of monsters, except Tokens; your opponent sends an equal number of Spells from their Deck to the GY (or all their Spells, if lower than the number of Tributes).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

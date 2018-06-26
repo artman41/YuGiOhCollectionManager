@@ -1,0 +1,16 @@
+{
+  "id": 7053,
+  "cardNumber": "53623827",
+  "name": "Top Runner",
+  "description": "All face-up Synchro Monsters you control gain 600 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7539,
+  "cardNumber": "21208154",
+  "name": "The Wicked Avatar",
+  "description": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Your opponent cannot activate Spell or Trap Cards until the end of their 2nd turn after this card is Normal Summoned. The ATK and DEF of this card are each 100 points higher than the highest face-up monster's ATK on the field (except \"The Wicked Avatar\").",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

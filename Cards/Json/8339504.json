@@ -1,0 +1,16 @@
+{
+  "id": 7703,
+  "cardNumber": "8339504",
+  "name": "Xyz Shift",
+  "description": "Tribute 1 Xyz Monster; Special Summon from your Extra Deck, 1 monster with the same Type, Attribute, and Rank as that Tributed monster had on the field, but with a different name, and if you do, attach this card to it as an Xyz Material. During the End Phase, send it to the Graveyard. You can only activate 1 \"Xyz Shift\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

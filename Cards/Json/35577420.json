@@ -1,0 +1,16 @@
+{
+  "id": 4040,
+  "cardNumber": "35577420",
+  "name": "Light Spiral",
+  "description": "Each time a card(s) is sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" monster, remove from play the top card of your opponent's Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

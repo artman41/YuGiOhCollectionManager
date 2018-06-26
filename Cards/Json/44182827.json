@@ -1,0 +1,16 @@
+{
+  "id": 6003,
+  "cardNumber": "44182827",
+  "name": "Samsara",
+  "description": "Monster Cards Tributed for a Ritual Summon are returned to the owner's Deck instead of being sent to the Graveyard. Then shuffle the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

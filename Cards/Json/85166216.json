@@ -1,0 +1,16 @@
+{
+  "id": 2225,
+  "cardNumber": "85166216",
+  "name": "Elephant Statue of Blessing",
+  "description": "When this card is sent from your hand to your Graveyard by an opponent's card effect: You gain 2000 Life Points.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

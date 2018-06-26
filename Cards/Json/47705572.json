@@ -1,0 +1,16 @@
+{
+  "id": 4129,
+  "cardNumber": "47705572",
+  "name": "Lunalight Wolf",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Lunalight\" monsters. This effect cannot be negated. Once per turn: You can Fusion Summon 1 \"Lunalight\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard.\n\n Monster Effect\n If a \"Lunalight\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

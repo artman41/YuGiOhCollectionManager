@@ -1,0 +1,16 @@
+{
+  "id": 2793,
+  "cardNumber": "59019082",
+  "name": "Garoth, Lightsworn Warrior",
+  "description": "Each time a card(s) is sent from your Deck to the GY by the effect of a \"Lightsworn\" monster you control, except \"Garoth, Lightsworn Warrior\": Send the top 2 cards of your Deck to the GY, then draw 1 card for each \"Lightsworn\" monster sent to the GY by this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

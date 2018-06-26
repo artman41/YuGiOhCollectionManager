@@ -1,0 +1,16 @@
+{
+  "id": 2105,
+  "cardNumber": "29934351",
+  "name": "Earthbound Wave",
+  "description": "When your opponent activates a Spell/Trap Card while you control a \"Earthbound Immortal\" monster: Negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

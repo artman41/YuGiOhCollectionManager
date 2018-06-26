@@ -1,0 +1,16 @@
+{
+  "id": 8181,
+  "cardNumber": "93346024",
+  "name": "The Dragon Dwelling in the Cave",
+  "description": "A huge dragon dwelling in a cave. It is horrible when it gets angry, although it is usually quiet. It is said to preserve certain treasures.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

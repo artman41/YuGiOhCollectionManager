@@ -1,0 +1,16 @@
+{
+  "id": 1107,
+  "cardNumber": "16241441",
+  "name": "Chrysalis Larva",
+  "description": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Flare Scarab\" from your hand or Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

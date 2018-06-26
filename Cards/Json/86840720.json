@@ -1,0 +1,16 @@
+{
+  "id": 2390,
+  "cardNumber": "86840720",
+  "name": "Fabled Dyf",
+  "description": "When a \"Fabled\" monster(s) is sent from the hand to your Graveyard, you can Tribute this card to select 1 of those monster(s) and Special Summon it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

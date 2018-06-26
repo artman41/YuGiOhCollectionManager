@@ -1,0 +1,16 @@
+{
+  "id": 4659,
+  "cardNumber": "20686759",
+  "name": "Morphtronic Rusty Engine",
+  "description": "Equip only to a \"Morphtronic\" monster. If the equipped monster is destroyed, inflict damage to each player equal to its original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

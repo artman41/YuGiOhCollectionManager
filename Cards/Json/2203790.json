@@ -1,0 +1,16 @@
+{
+  "id": 7681,
+  "cardNumber": "2203790",
+  "name": "XX-Saber Hyunlei",
+  "description": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters<br>When this card is Synchro Summoned, you can select and destroy up to 3 Spell or Trap Cards on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

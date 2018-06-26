@@ -1,0 +1,16 @@
+{
+  "id": 4367,
+  "cardNumber": "25727454",
+  "name": "Master Craftsman Gamil",
+  "description": "During either player's Damage Step, when a face-up monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 300 ATK until the end of this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

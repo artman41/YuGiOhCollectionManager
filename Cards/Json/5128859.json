@@ -1,0 +1,16 @@
+{
+  "id": 2193,
+  "cardNumber": "5128859",
+  "name": "Elemental HERO Marine Neos",
+  "description": "\"Elemental HERO Neos\" + \"Neo-Spacian Marine Dolphin\"<br>Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) Once per turn: You can destroy 1 random card in your opponent's hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

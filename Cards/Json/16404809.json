@@ -1,0 +1,16 @@
+{
+  "id": 3899,
+  "cardNumber": "16404809",
+  "name": "Kuribandit",
+  "description": "During the End Phase, if this card was Normal Summoned this turn: You can Tribute this card; excavate the top 5 cards of your Deck, you can add 1 excavated Spell/Trap to your hand, also send the remaining cards to the GY.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

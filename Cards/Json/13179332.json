@@ -1,0 +1,16 @@
+{
+  "id": 8131,
+  "cardNumber": "13179332",
+  "name": "Charcoal Inpachi",
+  "description": "A wicked wooden spirit that has burned out. The barbecue grilled with this charcoal is so awesome that everybody thinks it's priceless.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

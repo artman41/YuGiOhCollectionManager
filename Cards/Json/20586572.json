@@ -1,0 +1,16 @@
+{
+  "id": 2362,
+  "cardNumber": "20586572",
+  "name": "Exploder Dragon",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed it. Neither player takes any battle damage from attacks involving this attacking card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

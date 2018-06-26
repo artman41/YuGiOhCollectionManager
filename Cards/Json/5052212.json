@@ -1,0 +1,16 @@
+{
+  "id": 520,
+  "cardNumber": "5052212",
+  "name": "Battle Tuned",
+  "description": "Remove from play 1 Tuner monster from your Graveyard. Target face-up monster you control gains ATK equal to the removed monster's ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

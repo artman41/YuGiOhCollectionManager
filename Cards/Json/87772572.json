@@ -1,0 +1,16 @@
+{
+  "id": 5581,
+  "cardNumber": "87772572",
+  "name": "Quantum Cat",
+  "description": "Activate this card by declaring 1 Monster Type and 1 Attribute; Special Summon this card as a Normal Monster (Level 4/ATK 0/DEF 2200) with that Type and Attribute. (This card is also still a Trap Card.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

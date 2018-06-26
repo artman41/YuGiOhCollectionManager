@@ -1,0 +1,16 @@
+{
+  "id": 503,
+  "cardNumber": "61181383",
+  "name": "Battery Charger",
+  "description": "Pay 500 Life Points. Special Summon 1 \"Batteryman\" monster from your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

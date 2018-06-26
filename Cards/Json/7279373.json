@@ -1,0 +1,16 @@
+{
+  "id": 7825,
+  "cardNumber": "7279373",
+  "name": "Abyss Actor - Twinkle Littlestar",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Abyss Actor\" monsters. This effect cannot be negated. Once per turn: You can target 1 \"Abyss Actor\" monster you control; this turn, it can make up to 3 attacks on monsters during each Battle Phase, also your other monsters cannot attack (even if this card leaves the field).\n\n Monster Effect\n Cannot be destroyed by battle during your turn. This card can make up to 3 attacks on monsters during each Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

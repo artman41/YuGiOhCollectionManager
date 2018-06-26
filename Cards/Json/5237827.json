@@ -1,0 +1,16 @@
+{
+  "id": 7439,
+  "cardNumber": "5237827",
+  "name": "Vylon Ohm",
+  "description": "If this card is Normal Summoned: Target 1 Equip Spell Card in your Graveyard; banish that target, and if you do, add it to your hand during your next Standby Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

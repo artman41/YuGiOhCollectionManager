@@ -1,0 +1,16 @@
+{
+  "id": 822,
+  "cardNumber": "88086137",
+  "name": "Broken Line",
+  "description": "When a Spell/Trap Card, or monster effect, is activated in this card's column, while this card is Set: Negate the activation, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

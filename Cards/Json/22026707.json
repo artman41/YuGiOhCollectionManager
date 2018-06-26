@@ -1,0 +1,16 @@
+{
+  "id": 8142,
+  "cardNumber": "22026707",
+  "name": "Curtain of the Dark Ones",
+  "description": "A curtain that a spellcaster made, it is said to raise a dark power.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

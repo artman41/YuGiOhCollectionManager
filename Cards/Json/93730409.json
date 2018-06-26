@@ -1,0 +1,16 @@
+{
+  "id": 7517,
+  "cardNumber": "93730409",
+  "name": "Whirlwind Weasel",
+  "description": "FLIP: Your opponent cannot activate any Spell or Trap Cards for the rest of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8420,
+  "cardNumber": "31477025",
+  "name": "Mr. Volcano",
+  "description": "This seemingly mild-mannered creature has an extremely volatile temper.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

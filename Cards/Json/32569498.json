@@ -1,0 +1,16 @@
+{
+  "id": 8335,
+  "cardNumber": "32569498",
+  "name": "Korogashi",
+  "description": "A high-powered dung beetle that can roll dung larger than itself. It crushes its foes with its massive ball of dung.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 550,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

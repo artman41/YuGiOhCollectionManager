@@ -1,0 +1,16 @@
+{
+  "id": 3501,
+  "cardNumber": "97024987",
+  "name": "Igknight Templar",
+  "description": "Pendulum Effect\n If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n Monster Effect\n An experienced Igknight warrior who fights for justice and despises the corrupt. He even questions his own weapon these days, due to his absolute quest for righteousness.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

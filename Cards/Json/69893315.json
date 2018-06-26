@@ -1,0 +1,16 @@
+{
+  "id": 8169,
+  "cardNumber": "69893315",
+  "name": "Dice Armadillo",
+  "description": "An armadillo monster that rolls up to form a dice-like shape.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1650,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

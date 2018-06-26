@@ -1,0 +1,16 @@
+{
+  "id": 8536,
+  "cardNumber": "38942059",
+  "name": "Sonic Maid",
+  "description": "A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8261,
+  "cardNumber": "38445524",
+  "name": "Gil Garth",
+  "description": "This steel-armored terror machine ruthlessly strikes down enemies with its giant katana.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

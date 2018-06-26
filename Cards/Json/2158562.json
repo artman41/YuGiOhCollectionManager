@@ -1,0 +1,16 @@
+{
+  "id": 1395,
+  "cardNumber": "2158562",
+  "name": "Cyber Prima",
+  "description": "If this card is Tribute Summoned: Destroy all face-up Spell Cards on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

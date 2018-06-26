@@ -1,0 +1,16 @@
+{
+  "id": 4740,
+  "cardNumber": "37349495",
+  "name": "Naturia Eggplant",
+  "description": "When this card is sent from the field to the Graveyard, you can select 1 \"Naturia\" monster in your Graveyard, except \"Naturia Eggplant\", and add it to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

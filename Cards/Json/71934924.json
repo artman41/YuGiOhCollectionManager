@@ -1,0 +1,16 @@
+{
+  "id": 6806,
+  "cardNumber": "71934924",
+  "name": "Swift Samurai Storm!",
+  "description": "Each turn, after the first time a \"Six Samurai\" monster you control battles, all \"Six Samurai\" monsters you control gain 300 ATK until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 745,
+  "cardNumber": "13438207",
+  "name": "Blossom Bombardment",
+  "description": "When a Plant-Type monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the destroyed monster's ATK in the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

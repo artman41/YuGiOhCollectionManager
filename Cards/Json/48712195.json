@@ -1,0 +1,16 @@
+{
+  "id": 967,
+  "cardNumber": "48712195",
+  "name": "Card Trader",
+  "description": "Once per turn, during your Standby Phase: You can shuffle 1 card from your hand into the Deck; draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

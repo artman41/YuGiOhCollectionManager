@@ -1,0 +1,16 @@
+{
+  "id": 3764,
+  "cardNumber": "52824910",
+  "name": "Kaiser Glider",
+  "description": "Cannot be destroyed by battle with a monster that has the same ATK. If this card is destroyed and sent to the Graveyard: Target 1 monster on the field; return that target to the hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

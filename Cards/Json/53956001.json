@@ -1,0 +1,16 @@
+{
+  "id": 7845,
+  "cardNumber": "53956001",
+  "name": "Cloudy Weathery Pattern",
+  "description": "You can only control 1 \"Cloudy Weathery Pattern\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card, and Main Monster Zones adjacent to that zone, gain this effect.<br>â— (Quick Effect, except during the Damage Step): You can banish this card, then target 1 face-up monster on the field; this turn, its ATK becomes half its current ATK, also it can attack directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

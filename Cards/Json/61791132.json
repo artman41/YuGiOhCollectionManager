@@ -1,0 +1,16 @@
+{
+  "id": 4308,
+  "cardNumber": "61791132",
+  "name": "Malicevorous Fork",
+  "description": "You can send 1 other Fiend-Type monster from your hand to the Graveyard; Special Summon this card from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

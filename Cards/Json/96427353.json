@@ -1,0 +1,16 @@
+{
+  "id": 269,
+  "cardNumber": "96427353",
+  "name": "Aqua Armor Ninja",
+  "description": "When your opponent's monster declares a direct attack, if you have another \"Ninja\" monster in your Graveyard: You can banish this card from your Graveyard to target the attacking monster; negate that attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

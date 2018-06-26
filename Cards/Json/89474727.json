@@ -1,0 +1,16 @@
+{
+  "id": 6570,
+  "cardNumber": "89474727",
+  "name": "Stardust Chronicle Spark Dragon",
+  "description": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters<br>Must be Synchro Summoned. Once per turn (Quick Effect): You can banish 1 Synchro Monster from your GY; this card is unaffected by other cards' effects for the rest of this turn. If this card in its owner's possession is destroyed by an opponent's card (by battle or card effect): You can target 1 of your banished Dragon Synchro Monsters; Special Summon it.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

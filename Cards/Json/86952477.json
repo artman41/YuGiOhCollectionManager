@@ -1,0 +1,16 @@
+{
+  "id": 6198,
+  "cardNumber": "86952477",
+  "name": "Shine Knight",
+  "description": "This card is Level 4 while in face-up Defense Position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

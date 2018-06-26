@@ -1,0 +1,16 @@
+{
+  "id": 3960,
+  "cardNumber": "3989465",
+  "name": "Lavalval Ignis",
+  "description": "2 Level 3 monsters<br>If this card attacks or is attacked, during the Damage Step (in either player's turn): You can detach 1 Xyz Material from this card once per battle; this card gains 500 ATK until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 1800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

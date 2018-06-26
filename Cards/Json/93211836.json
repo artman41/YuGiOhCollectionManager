@@ -1,0 +1,16 @@
+{
+  "id": 2887,
+  "cardNumber": "93211836",
+  "name": "Genex Army",
+  "description": "When this card is Tribute Summoned by Tributing a \"Genex\" monster, you can destroy 1 card your opponent controls.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

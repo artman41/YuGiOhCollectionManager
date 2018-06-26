@@ -1,0 +1,16 @@
+{
+  "id": 828,
+  "cardNumber": "49785720",
+  "name": "Brotherhood of the Fire Fist - Coyote",
+  "description": "If you control a \"Fire Formation\" Spell/Trap Card, and no monsters, you can Special Summon this card (from your hand).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

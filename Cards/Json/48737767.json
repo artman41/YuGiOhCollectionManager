@@ -1,0 +1,16 @@
+{
+  "id": 4332,
+  "cardNumber": "48737767",
+  "name": "Marmiting Captain",
+  "description": "When this card is Normal Summoned: You can shuffle 1 card from your hand into the Deck, then draw 1 card, then you can Special Summon it if it is a monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

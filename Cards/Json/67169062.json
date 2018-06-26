@@ -1,0 +1,16 @@
+{
+  "id": 5417,
+  "cardNumber": "67169062",
+  "name": "Pot of Avarice",
+  "description": "Target 5 monsters in your Graveyard; shuffle all 5 into the Deck, then draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

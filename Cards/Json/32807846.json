@@ -1,0 +1,16 @@
+{
+  "id": 5792,
+  "cardNumber": "32807846",
+  "name": "Reinforcement of the Army",
+  "description": "Add 1 Level 4 or lower Warrior monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

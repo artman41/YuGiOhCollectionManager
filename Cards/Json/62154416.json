@@ -1,0 +1,16 @@
+{
+  "id": 2656,
+  "cardNumber": "62154416",
+  "name": "Frequency Magician",
+  "description": "When this card is Normal Summoned, place 1 Spell Counter on it (max. 1). You can remove 1 Spell Counter from this card to have 1 face-up monster you control gain 500 ATK, until the End Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7288,
+  "cardNumber": "95352218",
+  "name": "Unification",
+  "description": "Once per turn, during each player's Standby Phase: The turn player declares a Level from among the face-up monsters they control, then sends all face-up monsters they control with a different Level to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

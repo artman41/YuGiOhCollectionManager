@@ -1,0 +1,16 @@
+{
+  "id": 8174,
+  "cardNumber": "97843505",
+  "name": "Djinn the Watcher of the Wind",
+  "description": "This creature generates gale-force winds and tornadoes to blow its enemies away.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

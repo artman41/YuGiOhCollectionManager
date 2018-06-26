@@ -1,0 +1,16 @@
+{
+  "id": 1248,
+  "cardNumber": "2561846",
+  "name": "Corruption Cell \"A\"",
+  "description": "Place 1 A-Counter on 1 face-up monster on your opponent's side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

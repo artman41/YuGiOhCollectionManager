@@ -1,0 +1,16 @@
+{
+  "id": 1365,
+  "cardNumber": "77235086",
+  "name": "Cyber Angel Benten",
+  "description": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to that monster's original DEF in the Graveyard. If this card is Tributed: You can add 1 LIGHT Fairy-Type monster from your Deck to your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

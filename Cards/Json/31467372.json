@@ -1,0 +1,16 @@
+{
+  "id": 2284,
+  "cardNumber": "31467372",
+  "name": "Everliving Underworld Cannon",
+  "description": "Once per turn, when a Zombie-Type monster is Special Summoned to your side of the field: Inflict 800 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

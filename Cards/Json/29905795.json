@@ -1,0 +1,16 @@
+{
+  "id": 6962,
+  "cardNumber": "29905795",
+  "name": "The Fabled Chawa",
+  "description": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

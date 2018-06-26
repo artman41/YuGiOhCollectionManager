@@ -1,0 +1,16 @@
+{
+  "id": 8310,
+  "cardNumber": "83764996",
+  "name": "The Illusory Gentleman",
+  "description": "Wearing odd fashions, this gentleman is very fickle. He sometimes saves people and at other times commits crimes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

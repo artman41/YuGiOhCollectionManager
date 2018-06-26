@@ -1,0 +1,16 @@
+{
+  "id": 1961,
+  "cardNumber": "17643265",
+  "name": "Double Shark",
+  "description": "When this card is Normal Summoned: You can reduce the Levels of all Level 4 Fish-Type monsters you currently control by 1. This card can make a second attack during each Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

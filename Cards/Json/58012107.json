@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "cardNumber": "58012107",
+  "name": "Alien Psychic",
+  "description": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Monsters with A-Counters cannot declare an attack.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

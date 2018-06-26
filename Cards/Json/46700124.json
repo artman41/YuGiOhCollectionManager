@@ -1,0 +1,16 @@
+{
+  "id": 4158,
+  "cardNumber": "46700124",
+  "name": "Machine King",
+  "description": "This card gains 100 ATK for each Machine-Type monster on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5723,
+  "cardNumber": "58577036",
+  "name": "Reasoning",
+  "description": "Your opponent declares a monster Level. Excavate cards from the top of your Deck until you excavate a monster that can be Normal Summoned/Set. If that monster is the same Level as the one declared by your opponent, send all excavated cards to the Graveyard. If not, Special Summon the excavated monster, also send the remaining cards to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 374,
+  "cardNumber": "29223325",
+  "name": "Artifact Ignition",
+  "description": "Target 1 Spell/Trap Card on the field; destroy that target, and if you do, Set 1 \"Artifact\" monster directly from your Deck to your Spell &amp; Trap Zone as a Spell Card. If this card in its owner's possession is destroyed by an opponent's card: Your opponent skips their next Battle Phase. (You must have an \"Artifact\" monster in your Main Deck to activate this card.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6253,
+  "cardNumber": "62950604",
+  "name": "Silent Psychic Wizard",
+  "description": "When this card is Normal Summoned: You can target 1 Psychic-Type monster in your Graveyard; banish that target. If this card is sent from the field to the Graveyard: Special Summon that monster banished by this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

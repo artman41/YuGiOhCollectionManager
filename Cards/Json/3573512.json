@@ -1,0 +1,16 @@
+{
+  "id": 8564,
+  "cardNumber": "3573512",
+  "name": "Swordsman of Landstar",
+  "description": "An amateur with a sword, this fairy warrior relies on its mysterious powers.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6416,
+  "cardNumber": "20644748",
+  "name": "Spatial Collapse",
+  "description": "You can only activate this card when both you and your opponent each have 5 or less cards on the field. As long as this card remains face-up on the field, the total number of cards that each player can have on the field is 5.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

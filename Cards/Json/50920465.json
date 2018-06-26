@@ -1,0 +1,16 @@
+{
+  "id": 733,
+  "cardNumber": "50920465",
+  "name": "Blizzard Thunderbird",
+  "description": "You can discard 1 card; Special Summon 2 WATER Winged Beast-Type monsters, 1 from your hand and 1 from your Graveyard, except \"Blizzard Thunderbird\", then return this card from the field to the hand. You can only use this effect of \"Blizzard Thunderbird\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

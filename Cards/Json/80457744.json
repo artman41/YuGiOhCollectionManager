@@ -1,0 +1,16 @@
+{
+  "id": 782,
+  "cardNumber": "80457744",
+  "name": "Boost Warrior",
+  "description": "If you control a face-up Tuner monster, you can Special Summon this card from your hand in face-up Defense Position. All Warrior-Type monsters you control gain 300 ATK.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

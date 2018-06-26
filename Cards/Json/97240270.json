@@ -1,0 +1,16 @@
+{
+  "id": 8371,
+  "cardNumber": "97240270",
+  "name": "Mad Lobster",
+  "description": "A gourmet food renowned by the Dark World upper crust. It has sensational flavor.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2578,
+  "cardNumber": "30786387",
+  "name": "Flower Stacking",
+  "description": "Choose 3 \"Flower Cardian\" monsters with different names from your Deck, and place them on top of your Deck in any order. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Flower Cardian\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Flower Stacking\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4795,
+  "cardNumber": "74122412",
+  "name": "Nekroz of Gungnir",
+  "description": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned, without using any Level 7 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Gungnir\" once per turn.<br>â— During either player's turn: You can discard this card, then target 1 \"Nekroz\" monster you control; it cannot be destroyed by battle or by card effects this turn.<br>â— During either player's turn: You can discard 1 \"Nekroz\" card, then target 1 card on the field; destroy it.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

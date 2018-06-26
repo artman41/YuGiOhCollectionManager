@@ -1,0 +1,16 @@
+{
+  "id": 8637,
+  "cardNumber": "42418084",
+  "name": "Winged Egg of New Life",
+  "description": "Legend has it that this creature can foretell the birth of children.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

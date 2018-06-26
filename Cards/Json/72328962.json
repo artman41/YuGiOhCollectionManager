@@ -1,0 +1,16 @@
+{
+  "id": 2401,
+  "cardNumber": "72328962",
+  "name": "Fabled Soulkius",
+  "description": "If this card is in your Graveyard: You can send 2 cards, except \"Fabled Soulkius\", from your hand to the Graveyard; Special Summon this card from the Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

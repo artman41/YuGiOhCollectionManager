@@ -1,0 +1,16 @@
+{
+  "id": 7690,
+  "cardNumber": "57836546",
+  "name": "Xyz Double Back",
+  "description": "During the turn a face-up Xyz Monster you control was destroyed, if you control no monsters: Target 1 Xyz Monster in your Graveyard that was destroyed this turn and 1 monster in your Graveyard with ATK less than or equal to that Xyz Monster's; Special Summon these targets, but they are destroyed during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

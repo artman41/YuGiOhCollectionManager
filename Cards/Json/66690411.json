@@ -1,0 +1,16 @@
+{
+  "id": 4532,
+  "cardNumber": "66690411",
+  "name": "Mind on Air",
+  "description": "Your opponent must play with their hand revealed.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

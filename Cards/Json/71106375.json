@@ -1,0 +1,16 @@
+{
+  "id": 3735,
+  "cardNumber": "71106375",
+  "name": "Jurrac Iguanon",
+  "description": "If this card destroys an opponent's monster by battle, you can select 1 Set card your opponent controls, and return it to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

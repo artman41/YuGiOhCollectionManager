@@ -1,0 +1,16 @@
+{
+  "id": 8634,
+  "cardNumber": "39175982",
+  "name": "Winged Cleaver",
+  "description": "Few can withstand the scythe-like arms of this dangerous creature.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

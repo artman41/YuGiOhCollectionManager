@@ -1,0 +1,16 @@
+{
+  "id": 7553,
+  "cardNumber": "47766694",
+  "name": "Wild Tornado",
+  "description": "Select 1 face-up card in the Spell &amp; Trap Card Zones and destroy it. The controller of the destroyed card can then Set 1 Spell or Trap Card from their hand. If this Set card is destroyed and sent to the Graveyard, select and destroy 1 face-up card on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

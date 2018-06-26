@@ -1,0 +1,16 @@
+{
+  "id": 5674,
+  "cardNumber": "73125233",
+  "name": "Raiza the Storm Monarch",
+  "description": "If this card is Tribute Summoned: Target 1 card on the field; place that target on the top of the Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

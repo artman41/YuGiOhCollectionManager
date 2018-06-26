@@ -1,0 +1,16 @@
+{
+  "id": 795,
+  "cardNumber": "16507828",
+  "name": "Bracchio-raidus",
+  "description": "\"Two-Headed King Rex\" + \"Crawling Dragon #2\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

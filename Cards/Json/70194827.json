@@ -1,0 +1,16 @@
+{
+  "id": 703,
+  "cardNumber": "70194827",
+  "name": "Blade Bounzer",
+  "description": "Once per turn, if this card attacks and your opponent controls a monster at the end of the Damage Step: You can discard 1 card; this card can attack an opponent's monster once again during this Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

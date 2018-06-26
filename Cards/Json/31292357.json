@@ -1,0 +1,16 @@
+{
+  "id": 5209,
+  "cardNumber": "31292357",
+  "name": "Performage Hat Tricker",
+  "description": "If 2 or more monsters are on the field, you can Special Summon this card (from your hand). During either player's turn, when a card or effect is activated that would inflict damage to you: You can place 1 Performage Counter on this card (max. 3), then make that effect damage to you 0. When the 3rd Performage Counter is placed on this card, it's ATK and DEF become 3300.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

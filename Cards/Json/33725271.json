@@ -1,0 +1,16 @@
+{
+  "id": 7413,
+  "cardNumber": "33725271",
+  "name": "Volcanic Recharge",
+  "description": "Return up to 3 \"Volcanic\" Monster Cards from your Graveyard to your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

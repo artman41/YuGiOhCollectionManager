@@ -1,0 +1,16 @@
+{
+  "id": 3656,
+  "cardNumber": "63018036",
+  "name": "Iron Core Immediate Disposal",
+  "description": "Select and send 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

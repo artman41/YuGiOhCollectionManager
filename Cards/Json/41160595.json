@@ -1,0 +1,16 @@
+{
+  "id": 6446,
+  "cardNumber": "41160595",
+  "name": "Spell Calling",
+  "description": "When this face-down card is destroyed and sent to the Graveyard by the effect of a Spell or Trap Card controlled by your opponent, select 1 Quick-Play Spell Card from your Deck and Set it after showing it to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

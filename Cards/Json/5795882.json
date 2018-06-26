@@ -1,0 +1,16 @@
+{
+  "id": 8897,
+  "cardNumber": "5795882",
+  "name": "Vampire's Domain",
+  "description": "Once per turn: You can pay 500 LP; during your Main Phase this turn, you can Normal Summon 1 \"Vampire\" monster, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) Each time your \"Vampire\" monster inflicts battle damage to your opponent: Gain the same amont of LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

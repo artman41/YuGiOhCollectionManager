@@ -1,0 +1,16 @@
+{
+  "id": 5487,
+  "cardNumber": "98154550",
+  "name": "Primitive Butterfly",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). Once per turn: You can increase the Levels of all Insect-Type monsters you currently control by 1.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

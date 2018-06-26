@@ -1,0 +1,16 @@
+{
+  "id": 5073,
+  "cardNumber": "98259197",
+  "name": "Ojamuscle",
+  "description": "(This card is always treated as a \"Ojama\" card.)<br>Select 1 face-up \"Ojama King\". Destroy all \"Ojama\" monsters on the field, except the selected \"Ojama King\". It gains 1000 ATK for each monster destroyed this way.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

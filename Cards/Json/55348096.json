@@ -1,0 +1,16 @@
+{
+  "id": 365,
+  "cardNumber": "55348096",
+  "name": "Arsenal Robber",
+  "description": "Your opponent selects 1 Equip Spell Card from his/her Deck and sends it to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

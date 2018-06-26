@@ -1,0 +1,16 @@
+{
+  "id": 7278,
+  "cardNumber": "911883",
+  "name": "Unexpected Dai",
+  "description": "If you control no monsters: Special Summon 1 Level 4 or lower Normal Monster from the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

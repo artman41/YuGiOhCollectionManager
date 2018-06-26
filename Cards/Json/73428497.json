@@ -1,0 +1,16 @@
+{
+  "id": 2823,
+  "cardNumber": "73428497",
+  "name": "Geargiarsenal",
+  "description": "This card gains 200 ATK for each \"Geargia\" monster you control. You can Tribute this card; Special Summon 1 \"Geargia\" monster from your Deck in Defense Position, except \"Geargiarsenal\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

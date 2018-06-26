@@ -1,0 +1,16 @@
+{
+  "id": 2600,
+  "cardNumber": "63741331",
+  "name": "Fog Control",
+  "description": "Tribute 1 face-up \"Cloudian\" monster you control. Place 3 Fog Counters on 1 face-up monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

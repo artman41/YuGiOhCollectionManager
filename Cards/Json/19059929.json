@@ -1,0 +1,16 @@
+{
+  "id": 2490,
+  "cardNumber": "19059929",
+  "name": "Fire Formation - Gyokkou",
+  "description": "Activate this card by targeting 1 Set Spell/Trap Card your opponent controls. Your opponent cannot activate the targeted card in response to this card's activation. While this card is face-up on the field, that Set card cannot be activated. All Beast-Warrior-Type monsters you control gain 100 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1899,
+  "cardNumber": "49010598",
+  "name": "Divine Wrath",
+  "description": "When a monster effect is activated: Discard 1 card; negate the activation, and if you do, destroy that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

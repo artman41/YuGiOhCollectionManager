@@ -1,0 +1,16 @@
+{
+  "id": 4679,
+  "cardNumber": "46657337",
+  "name": "Muka Muka",
+  "description": "This card gains 300 ATK and DEF for each card in your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

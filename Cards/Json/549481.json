@@ -1,0 +1,16 @@
+{
+  "id": 8473,
+  "cardNumber": "549481",
+  "name": "Prevent Rat",
+  "description": "This creature is shielded with a tough hide of hair and is excellent at defending itself.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

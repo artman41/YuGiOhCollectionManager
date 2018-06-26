@@ -1,0 +1,16 @@
+{
+  "id": 6342,
+  "cardNumber": "81791932",
+  "name": "Snake Whistle",
+  "description": "Activate only when a Reptile-Type monster you control is destroyed. Special Summon 1 Level 4 or lower Reptile-Type monster from your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

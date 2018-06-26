@@ -1,0 +1,16 @@
+{
+  "id": 3301,
+  "cardNumber": "21015833",
+  "name": "Hayabusa Knight",
+  "description": "This card can make a second attack during each Battle Phase.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5325,
+  "cardNumber": "24212820",
+  "name": "The Phantom Knights of Dark Gauntlets",
+  "description": "Send 1 \"Phantom Knights\" Spell/Trap Card from your Deck to the Graveyard. When an opponent's monster declares a direct attack while you control no cards and this card is in your Graveyard: Special Summon this card in Defense Position as an Effect Monster (Warrior-Type/DARK/Level 4/ATK 300/DEF 600), but banish it when it leaves the field. (This card is NOT treated as a Trap Card.) If Summoned this way, this card gains 300 DEF for each \"Phantom Knights\" Spell/Trap Card in your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

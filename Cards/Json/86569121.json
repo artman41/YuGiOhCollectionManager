@@ -1,0 +1,16 @@
+{
+  "id": 8394,
+  "cardNumber": "86569121",
+  "name": "Melchid the Four-Face Beast",
+  "description": "This monster has four different masks for four different attacks.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

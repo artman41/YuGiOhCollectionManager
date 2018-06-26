@@ -1,0 +1,16 @@
+{
+  "id": 6801,
+  "cardNumber": "41872150",
+  "name": "Swarm of Locusts",
+  "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

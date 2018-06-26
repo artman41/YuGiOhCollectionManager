@@ -1,0 +1,16 @@
+{
+  "id": 4018,
+  "cardNumber": "74741494",
+  "name": "Level Tuning",
+  "description": "Reduce the Level of all face-up monsters you control by 1 until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4045,
+  "cardNumber": "55226821",
+  "name": "Lightning Blade",
+  "description": "Equip only to a Warrior-Type monster. It gains 800 ATK. All WATER monsters lose 500 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7213,
+  "cardNumber": "83228073",
+  "name": "Two Thousand Needles",
+  "description": "When this Defense Position card is attacked and the ATK of the attacking monster is lower than the DEF of this card, destroy the attacking monster at the end of the Damage Step.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

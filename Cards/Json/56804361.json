@@ -1,0 +1,16 @@
+{
+  "id": 77,
+  "cardNumber": "56804361",
+  "name": "Aether, the Empowering Dragon",
+  "description": "When this card is Pendulum Summoned: You can target 1 card on the field; return it to the hand. You can only use this effect of \"Aether, the Empowering Dragon\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

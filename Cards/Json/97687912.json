@@ -1,0 +1,16 @@
+{
+  "id": 2414,
+  "cardNumber": "97687912",
+  "name": "Fairy Meteor Crush",
+  "description": "If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

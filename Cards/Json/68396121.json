@@ -1,0 +1,16 @@
+{
+  "id": 5016,
+  "cardNumber": "68396121",
+  "name": "Number C107: Neo Galaxy-Eyes Tachyon Dragon",
+  "description": "3 Level 9 monsters<br>Once per turn: You can detach 1 Xyz Material from this card; until the end of this turn, negate the effects of all other face-up cards currently on the field, also your opponent cannot activate cards or effects on the field. If this card has \"Number 107: Galaxy-Eyes Tachyon Dragon\" as an Xyz Material, it gains this effect.<br>â— You can Tribute 2 monsters; this card can make up to 3 attacks on monsters during each Battle Phase this turn.",
+  "cardLevel": null,
+  "cardRank": 9,
+  "atk": 4500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7185,
+  "cardNumber": "6142213",
+  "name": "Turbo Rocket",
+  "description": "While attacking, this card cannot be destroyed by battle. If this card attacks, after damage calculation, inflict damage equal to half the ATK of the attack target to your opponent.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

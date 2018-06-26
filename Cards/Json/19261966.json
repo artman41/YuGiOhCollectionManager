@@ -1,0 +1,16 @@
+{
+  "id": 2137,
+  "cardNumber": "19261966",
+  "name": "El Shaddoll Anoyatyllis",
+  "description": "1 \"Shaddoll\" monster + 1 WATER monster<br>Must first be Fusion Summoned. Neither player can Special Summon monsters from the hand or Graveyard with Spell/Trap effects. If this card is sent to the Graveyard: You can target 1 \"Shaddoll\" Spell/Trap Card in your Graveyard; add it to your hand.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

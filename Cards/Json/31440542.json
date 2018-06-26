@@ -1,0 +1,16 @@
+{
+  "id": 5615,
+  "cardNumber": "31440542",
+  "name": "Rafflesia Seduction",
+  "description": "FLIP: Take control of 1 face-up monster on your opponent's side of the field until the end of this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

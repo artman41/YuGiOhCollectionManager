@@ -1,0 +1,16 @@
+{
+  "id": 7024,
+  "cardNumber": "18063928",
+  "name": "Tin Goldfish",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 monster from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

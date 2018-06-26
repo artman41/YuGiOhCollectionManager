@@ -1,0 +1,16 @@
+{
+  "id": 4491,
+  "cardNumber": "46500985",
+  "name": "Metamorformation",
+  "description": "All \"Metalfoes\" monsters you control gain 300 ATK and DEF. While a \"Metalfoes\" card is in your Pendulum Zone, \"Metalfoes\" monsters you control, except Effect Monsters, are unaffected by your opponent's card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

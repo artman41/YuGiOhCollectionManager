@@ -1,0 +1,16 @@
+{
+  "id": 7490,
+  "cardNumber": "46897277",
+  "name": "Wattfox",
+  "description": "If this card is destroyed by your opponent's card (either by battle or by card effect), your opponent cannot Special Summon a monster, or activate Spells, Traps, Spell/Trap card effects, or Monster Card effects, for the rest of this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

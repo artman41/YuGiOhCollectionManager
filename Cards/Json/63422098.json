@@ -1,0 +1,16 @@
+{
+  "id": 2964,
+  "cardNumber": "63422098",
+  "name": "Giganticastle",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>This card gains 200 ATK and DEF for each non-Tuner Synchro Material Monster used to Synchro Summon this card.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

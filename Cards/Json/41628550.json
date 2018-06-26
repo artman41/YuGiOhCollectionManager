@@ -1,0 +1,16 @@
+{
+  "id": 6739,
+  "cardNumber": "41628550",
+  "name": "Superheavy Samurai Blue Brawler",
+  "description": "When this card is Normal or Special Summoned: You can change its battle position. Cannot be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

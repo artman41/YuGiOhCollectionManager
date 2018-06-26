@@ -1,0 +1,16 @@
+{
+  "id": 435,
+  "cardNumber": "58990631",
+  "name": "Automatic Laser",
+  "description": "When your opponent Normal or Special Summons a monster(s) with 1000 or more ATK, reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand to activate this card. Destroy that Summoned monster(s).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

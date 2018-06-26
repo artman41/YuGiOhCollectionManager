@@ -1,0 +1,16 @@
+{
+  "id": 8075,
+  "cardNumber": "15150371",
+  "name": "Archfiend Mirror",
+  "description": "A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

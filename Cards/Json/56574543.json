@@ -1,0 +1,16 @@
+{
+  "id": 881,
+  "cardNumber": "56574543",
+  "name": "Bujingi Sinyou",
+  "description": "During either player's Damage Step, if a Beast-Warrior-Type \"Bujin\" monster you control battles an opponent's monster: You can banish this card from your Graveyard; that monster you control gains ATK equal to the current ATK of the opponent's monster it is battling until the end of the Damage Step, and if it does, all battle damage your opponent takes from that battle is halved. You can only use this effect of \"Bujingi Sinyou\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

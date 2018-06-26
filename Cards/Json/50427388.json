@@ -1,0 +1,16 @@
+{
+  "id": 6952,
+  "cardNumber": "50427388",
+  "name": "That Wacky Magic!",
+  "description": "Banish all Spell Cards from your Graveyard; destroy all face-up monsters your opponent controls with DEF less than or equal to the number of Spell Cards you banished Ã— 300.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7512,
+  "cardNumber": "2084239",
+  "name": "Wetlands",
+  "description": "All Aqua-Type/WATER/Level 2 or lower monsters gain 1200 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2049,
+  "cardNumber": "41367003",
+  "name": "Draw Muscle",
+  "description": "Target 1 Defense Position monster you control with 1000 or less DEF; draw 1 card, also that monster cannot be destroyed by battle this turn. You can only activate 1 \"Draw Muscle\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

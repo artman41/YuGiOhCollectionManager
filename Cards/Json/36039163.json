@@ -1,0 +1,16 @@
+{
+  "id": 5201,
+  "cardNumber": "36039163",
+  "name": "Penguin Knight",
+  "description": "When this card is sent directly from your Deck to the Graveyard by an effect of a card controlled by your opponent, unite your Graveyard cards and your own Deck, shuffle them and form a new Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1346,
+  "cardNumber": "7241272",
+  "name": "Curse of Dragonfire",
+  "description": "If this card is Normal or Special Summoned: You can target 1 Field Spell Card on the field; destroy it. Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

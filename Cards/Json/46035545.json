@@ -1,0 +1,16 @@
+{
+  "id": 1479,
+  "cardNumber": "46035545",
+  "name": "D/D Savant Nikola",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once per turn: You can discard 1 \"D/D/D\" monster, then target 1 Level 6 or lower \"D/D\" monster you control; it gains 2000 ATK and DEF until the end of this turn (even if this card leaves the field).\n\n Monster Effect\n If this card in the Pendulum Zone is destroyed: You can target 1 \"D/D/D\" monster you control; return it to the hand, and if you do, place up to 2 face-up \"D/D\" Pendulum Monsters from your Extra Deck in your Pendulum Zones, but they cannot activate their Pendulum Effects this turn. You can only use this effect of \"D/D Savant Nikola\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

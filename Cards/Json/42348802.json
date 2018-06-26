@@ -1,0 +1,16 @@
+{
+  "id": 8588,
+  "cardNumber": "42348802",
+  "name": "Trakodon",
+  "description": "A tiger-striped dragon that is often seen racing across the wasteland at tremendous speeds.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

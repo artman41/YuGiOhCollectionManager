@@ -1,0 +1,16 @@
+{
+  "id": 1955,
+  "cardNumber": "64319467",
+  "name": "Double Fin Shark",
+  "description": "When this card is Normal Summoned: You can target 1 Level 3 or 4 WATER Fish-Type monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated. You cannot Special Summon any monsters during the turn you activate this effect, except WATER monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

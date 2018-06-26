@@ -1,0 +1,16 @@
+{
+  "id": 5089,
+  "cardNumber": "58861941",
+  "name": "Ooguchi",
+  "description": "This monster may attack your opponent's Life Points directly.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 250,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

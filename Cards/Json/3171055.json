@@ -1,0 +1,16 @@
+{
+  "id": 1012,
+  "cardNumber": "3171055",
+  "name": "Chain Dispel",
+  "description": "When a Spell/Trap Card is activated: Destroy all cards in the controller's Deck with the same name as the activated card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

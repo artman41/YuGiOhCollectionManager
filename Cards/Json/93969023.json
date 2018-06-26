@@ -1,0 +1,16 @@
+{
+  "id": 635,
+  "cardNumber": "93969023",
+  "name": "Black Metal Dragon",
+  "description": "You can target 1 \"Red-Eyes\" monster you control; equip this monster from your hand or field to that target. It gains 600 ATK. If this card is sent from the field to the GY: You can add 1 \"Red-Eyes\" card from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

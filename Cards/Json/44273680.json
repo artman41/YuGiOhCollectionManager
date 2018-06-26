@@ -1,0 +1,16 @@
+{
+  "id": 6562,
+  "cardNumber": "44273680",
+  "name": "Star Seraph Sage",
+  "description": "Once per turn: You can send 1 Spell Card from your hand to the Graveyard; Special Summon 1 \"Star Seraph\" monster from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

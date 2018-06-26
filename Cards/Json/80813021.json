@@ -1,0 +1,16 @@
+{
+  "id": 8587,
+  "cardNumber": "80813021",
+  "name": "Torike",
+  "description": "Although a poor defender, this monster's sharp horn gives it an edge when attacking.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

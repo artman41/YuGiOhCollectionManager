@@ -1,0 +1,16 @@
+{
+  "id": 1797,
+  "cardNumber": "5616412",
+  "name": "Destruction Punch",
+  "description": "If the ATK of an attacking monster your opponent controls is lower than the DEF of the attacked Defense Position monster, destroy the attacking monster at the end of the Damage Step. (Damage calculation is applied normally.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

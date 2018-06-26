@@ -1,0 +1,16 @@
+{
+  "id": 1492,
+  "cardNumber": "6766208",
+  "name": "D/D/D Gust High King Alexander",
+  "description": "1 Tuner + 1+ non-Tuner monsters<br>If 3 or more \"D/D/D\" monsters are on the field, this card gains 3000 ATK. If another \"D/D\" monster(s) is Normal or Special Summoned to your field while this monster is on the field (except during the Damage Step): You can target 1 \"D/D\" monster in your GY; Special Summon it. You can only use this effect of \"D/D/D Gust High King Alexander\" once per turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

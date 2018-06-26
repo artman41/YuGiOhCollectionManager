@@ -1,0 +1,16 @@
+{
+  "id": 2894,
+  "cardNumber": "30399511",
+  "name": "Genex Power Planner",
+  "description": "When this card is Normal Summoned, you can add 1 Level 3 \"Genex\" Effect Monster from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

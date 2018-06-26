@@ -1,0 +1,16 @@
+{
+  "id": 1018,
+  "cardNumber": "13764881",
+  "name": "Chain Resonator",
+  "description": "When this card is Normal Summoned while a Synchro Monster is on the field: You can Special Summon 1 \"Resonator\" monster from your Deck, except \"Chain Resonator\".",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

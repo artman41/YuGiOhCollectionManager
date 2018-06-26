@@ -1,0 +1,16 @@
+{
+  "id": 7359,
+  "cardNumber": "21702241",
+  "name": "Vengeful Servant",
+  "description": "When control of the equipped monster changes, inflict damage equal to its original ATK to its new controller.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

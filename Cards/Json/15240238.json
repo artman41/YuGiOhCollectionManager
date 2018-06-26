@@ -1,0 +1,16 @@
+{
+  "id": 4583,
+  "cardNumber": "15240238",
+  "name": "Mist Bird Clausolas",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes 0, and if it does, its effects are negated. These changes last until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

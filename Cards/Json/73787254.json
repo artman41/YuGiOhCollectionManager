@@ -1,0 +1,16 @@
+{
+  "id": 5983,
+  "cardNumber": "73787254",
+  "name": "Saber Vault",
+  "description": "Each face-up \"X-Saber\" monster on the field gains 100 ATK x its Level, and loses 100 DEF x its Level.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

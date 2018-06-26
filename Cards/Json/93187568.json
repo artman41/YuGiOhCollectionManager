@@ -1,0 +1,16 @@
+{
+  "id": 6461,
+  "cardNumber": "93187568",
+  "name": "Spell Striker",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 Spell Card from your Graveyard. This card can attack directly. You take no battle damage from attacks involving this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

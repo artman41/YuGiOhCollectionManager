@@ -1,0 +1,16 @@
+{
+  "id": 3381,
+  "cardNumber": "60645181",
+  "name": "Heroic Champion - Excalibur",
+  "description": "2 Level 4 Warrior-Type monsters<br>Once per turn: You can detach 2 Xyz Materials from this card; this card's ATK becomes double its original ATK until your opponent's next End Phase.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

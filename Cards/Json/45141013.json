@@ -1,0 +1,16 @@
+{
+  "id": 3316,
+  "cardNumber": "45141013",
+  "name": "Heat Wave",
+  "description": "This card can only be activated at the start of Main Phase 1. Neither player can Normal or Special Summon an Effect Monster, until your next Draw Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8517,
+  "cardNumber": "4035199",
+  "name": "Shapesnatch",
+  "description": "A bow tie with horrible power, it attacks an opponent by controlling others.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

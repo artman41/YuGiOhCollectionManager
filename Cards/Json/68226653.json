@@ -1,0 +1,16 @@
+{
+  "id": 2541,
+  "cardNumber": "68226653",
+  "name": "Flamvell Dragnov",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, inflict 500 damage to your opponent. You can remove from play this card in your Graveyard, along with 1 face-up FIRE monster you control, to add 1 \"Flamvell Dragnov\" from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

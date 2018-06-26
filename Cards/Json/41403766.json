@@ -1,0 +1,16 @@
+{
+  "id": 8254,
+  "cardNumber": "41403766",
+  "name": "Giant Scorpion of the Tundra",
+  "description": "An extraordinary blue scorpion found in the tundra, not in the desert.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

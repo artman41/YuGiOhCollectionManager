@@ -1,0 +1,16 @@
+{
+  "id": 4724,
+  "cardNumber": "70948327",
+  "name": "Nanobreaker",
+  "description": "If this card attacks a face-up Level 3 or lower monster, destroy the monster with this card's effect without applying damage calculation.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

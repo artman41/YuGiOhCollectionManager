@@ -1,0 +1,16 @@
+{
+  "id": 3075,
+  "cardNumber": "74029853",
+  "name": "Golden Bamboo Sword",
+  "description": "Activate only if you control a \"Bamboo Sword\" Equip Spell Card. Draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

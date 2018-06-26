@@ -1,0 +1,16 @@
+{
+  "id": 8610,
+  "cardNumber": "22499463",
+  "name": "Venom Cobra",
+  "description": "Hard scales cover all parts of this gigantic cobra. It hunts by shooting large amounts of venom, but because of its large size, its attack pattern is easily predicted.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

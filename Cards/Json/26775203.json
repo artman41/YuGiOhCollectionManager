@@ -1,0 +1,16 @@
+{
+  "id": 674,
+  "cardNumber": "26775203",
+  "name": "Blackwing - Ghibli the Searing Wind",
+  "description": "When your opponent declares a direct attack: You can Special Summon this card from your hand. Once per turn: You can switch the original ATK and DEF of this card, until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

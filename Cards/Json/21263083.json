@@ -1,0 +1,16 @@
+{
+  "id": 8457,
+  "cardNumber": "21263083",
+  "name": "Pale Beast",
+  "description": "With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2603,
+  "cardNumber": "42776855",
+  "name": "Follow Wing",
+  "description": "Activate this card by targeting 1 Synchro Monster you control; it cannot be destroyed by battle or your opponent's card effects. At the start of the Damage Step, if it battles an opponent's Level 5 or higher monster: You can destroy that opponent's monster, and if you do, the targeted Synchro Monster gains ATK equal to the original ATK of the destroyed monster, until the end of this turn. When that monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

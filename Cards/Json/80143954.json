@@ -1,0 +1,16 @@
+{
+  "id": 143,
+  "cardNumber": "80143954",
+  "name": "Altergeist Camouflage",
+  "description": "Target 1 \"Altergeist\" monster you control; equip this card to it. Your opponent cannot target it for attacks, but it does not prevent your opponent from attacking you directly. Negate an opponent's monster effect that activates by targeting the equipped monster. If an \"Altergeist\" card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

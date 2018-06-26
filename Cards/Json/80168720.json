@@ -1,0 +1,16 @@
+{
+  "id": 1670,
+  "cardNumber": "80168720",
+  "name": "Darkness Approaches",
+  "description": "Discard 2 cards from your hand. Select 1 face-up monster and change it to face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

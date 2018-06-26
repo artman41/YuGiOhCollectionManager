@@ -1,0 +1,16 @@
+{
+  "id": 1600,
+  "cardNumber": "50725996",
+  "name": "Dark Magician Knight",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Knight's Title\" and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 card on the field; destroy that target.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

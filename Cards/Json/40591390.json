@@ -1,0 +1,16 @@
+{
+  "id": 1780,
+  "cardNumber": "40591390",
+  "name": "Destiny HERO - Dreadmaster",
+  "description": "If this card is Special Summoned by \"Clock Tower Prison\": Destroy all monsters you control, except face-up \"Destiny HERO\" monsters, then you can Special Summon up to 2 \"Destiny HERO\" monsters from your Graveyard. During any turn this card is Special Summoned, \"Destiny HERO\" monsters you control cannot be destroyed, and you take no Battle Damage when they battle. The ATK and DEF of this card are equal to the combined original ATK of all other \"Destiny HERO\" monsters you control.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

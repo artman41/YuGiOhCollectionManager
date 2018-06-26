@@ -1,0 +1,16 @@
+{
+  "id": 7632,
+  "cardNumber": "88438982",
+  "name": "Worm Dimikles",
+  "description": "FLIP: This card gains 300 ATK and DEF.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

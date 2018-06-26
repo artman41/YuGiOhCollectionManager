@@ -1,0 +1,16 @@
+{
+  "id": 3794,
+  "cardNumber": "33184236",
+  "name": "Karakuri Trick House",
+  "description": "Activate only when the battle position of a face-up \"Karakuri\" monster you control is changed. Select 1 card on the field, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

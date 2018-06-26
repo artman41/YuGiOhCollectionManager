@@ -1,0 +1,16 @@
+{
+  "id": 7879,
+  "cardNumber": "18789533",
+  "name": "Dotscaper",
+  "description": "If this card is sent to the GY: You can Special Summon it. If this card is banished: You can Special Summon it. You can only use 1 \"Dotscaper\" effect per turn. You can only use each effect of \"Dotscaper\" once per Duel.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

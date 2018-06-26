@@ -1,0 +1,16 @@
+{
+  "id": 5082,
+  "cardNumber": "36042825",
+  "name": "One-Shot Wand",
+  "description": "Equip only to a Spellcaster-Type monster. It gains 800 ATK. If the equipped monster attacks or is attacked, after damage calculation: You can destroy this card, and if you do, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

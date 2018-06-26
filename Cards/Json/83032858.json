@@ -1,0 +1,16 @@
+{
+  "id": 8775,
+  "cardNumber": "83032858",
+  "name": "Elementsaber Aina",
+  "description": "Once per turn: You can send 1 \"Elementsaber\" monster from your hand to the GY, then target 1 \"Elementsaber\" or \"Elemental Lord\" monster in your GY, except \"Elementsaber Aina\"; Special Summon it, ignoring its Summoning conditions. Once per turn, if this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

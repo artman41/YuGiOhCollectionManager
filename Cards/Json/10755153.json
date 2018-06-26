@@ -1,0 +1,16 @@
+{
+  "id": 3225,
+  "cardNumber": "10755153",
+  "name": "Guardian Ceal",
+  "description": "Cannot be Summoned unless you control a face-up \"Shooting Star Bow - Ceal\". You can send 1 Equip Spell Card you control that is equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

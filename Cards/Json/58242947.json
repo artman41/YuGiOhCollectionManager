@@ -1,0 +1,16 @@
+{
+  "id": 7910,
+  "cardNumber": "58242947",
+  "name": "Junk Collector",
+  "description": "(Quick Effect): You can banish this card you control and 1 Normal Trap that meets its activation conditions from your GY; this effect becomes that Trap's effect when that card is activated.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

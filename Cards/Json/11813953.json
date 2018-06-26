@@ -1,0 +1,16 @@
+{
+  "id": 8272,
+  "cardNumber": "11813953",
+  "name": "Great Angus",
+  "description": "A very violent beast, it is always berserk. People say that they have never seen it silent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

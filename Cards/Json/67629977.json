@@ -1,0 +1,16 @@
+{
+  "id": 3439,
+  "cardNumber": "67629977",
+  "name": "Hoshiningen",
+  "description": "As long as this card remains face-up on the field, increase the ATK of all LIGHT monsters by 500 points and decrease the ATK of all DARK monsters by 400 points.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

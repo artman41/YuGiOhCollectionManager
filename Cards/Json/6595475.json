@@ -1,0 +1,16 @@
+{
+  "id": 5086,
+  "cardNumber": "6595475",
+  "name": "Onomatopaira",
+  "description": "You can only activate 1 \"Onomatopaira\" per turn. Send 1 card from your hand to the Graveyard; add up to 2 of these monsters from your Deck to your hand (you cannot add 2 from the same category).<br>â— 1 \"Zubaba\" monster<br>â— 1 \"Gagaga\" monster<br>â— 1 \"Gogogo\" monster<br>â— 1 \"Dododo\" monster",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

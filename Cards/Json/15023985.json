@@ -1,0 +1,16 @@
+{
+  "id": 8557,
+  "cardNumber": "15023985",
+  "name": "Stone Ogre Grotto",
+  "description": "A behemoth shaped by giant boulders.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

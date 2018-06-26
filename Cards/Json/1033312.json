@@ -1,0 +1,16 @@
+{
+  "id": 5140,
+  "cardNumber": "1033312",
+  "name": "Painful Decision",
+  "description": "Send 1 Level 4 or lower Normal Monster from your Deck to the Graveyard, and if you do, add 1 card with the same name as that card from your Deck to your hand. You can only activate 1 \"Painful Decision\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

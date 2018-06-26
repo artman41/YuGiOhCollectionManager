@@ -1,0 +1,16 @@
+{
+  "id": 6628,
+  "cardNumber": "54359696",
+  "name": "Stoic of Prophecy",
+  "description": "When this card is sent to the Graveyard: Add 1 Level 3 \"Prophecy\" monster from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8049,
+  "cardNumber": "8353769",
+  "name": "Air Eater",
+  "description": "A monster that feeds on oxygen, suffocating any who stand near.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

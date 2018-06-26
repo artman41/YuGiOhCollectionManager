@@ -1,0 +1,16 @@
+{
+  "id": 7694,
+  "cardNumber": "72355441",
+  "name": "Xyz Gift",
+  "description": "If you control 2 or more face-up Xyz Monsters: Detach 2 Xyz Materials from a monster you control and draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5237,
+  "cardNumber": "91449532",
+  "name": "Performapal Flip Hippo",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Performapal\" monster from your hand, but it has its effects negated until the end of this turn. Once per turn: You can change all monsters you control to Defense Position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

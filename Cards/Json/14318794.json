@@ -1,0 +1,16 @@
+{
+  "id": 4026,
+  "cardNumber": "14318794",
+  "name": "Life Absorbing Machine",
+  "description": "During your Standby Phase, gain Life Points equal to half of the total Life Points you paid during your last turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7665,
+  "cardNumber": "63612442",
+  "name": "X-Saber Souza",
+  "description": "1 Tuner + 1 or more non-Tuner \"X-Saber\" monsters<br>You can Tribute 1 \"X-Saber\" monster, then choose 1 of these effects; this card gains that effect until the end of this turn.<br>â— At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster.<br>â— This card cannot be destroyed by Trap effects.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

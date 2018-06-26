@@ -1,0 +1,16 @@
+{
+  "id": 5276,
+  "cardNumber": "40318957",
+  "name": "Performapal Skullcrobat Joker",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Performapal\" monsters, \"Magician\" Pendulum Monsters, and \"Odd-Eyes\" monsters. This effect cannot be negated.\n\n Monster Effect\n When this card is Normal Summoned: You can add 1 \"Performapal\" monster, \"Magician\" Pendulum Monster, or \"Odd-Eyes\" monster from your Deck to your hand, except \"Performapal Skullcrobat Joker\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

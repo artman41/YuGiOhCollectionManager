@@ -1,0 +1,16 @@
+{
+  "id": 2080,
+  "cardNumber": "38049934",
+  "name": "Dustflame Blast",
+  "description": "Banish all \"Laval\" monsters from your Graveyard; destroy any number of cards on the field, up to the number of monsters banished for this card's activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5210,
+  "cardNumber": "71578874",
+  "name": "Performage Mirror Conductor",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up Special Summoned monster on the field; its ATK and DEF become equal to its current ATK or DEF (whichever is lower) until the end of this turn (even if this card leaves the field).\n\n Monster Effect\n Once per turn, during either player's turn: You can target 1 face-up monster on the field; switch its current ATK and DEF, then take 500 damage. This ATK and DEF change lasts until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7955,
+  "cardNumber": "12948099",
+  "name": "Old Entity Chthugha",
+  "description": "1 Tuner + 1+ non-Tuner monsters<br>If this card is Synchro Summoned: You can return all Rank 4 Xyz Monsters on the field to the Extra Deck. If this card is used as a Fusion Material for a Fusion Summon: Draw 1 card. An Xyz Monster that was Summoned using this card on the field as material gains this effect.<br>â— If it is Xyz Summoned: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

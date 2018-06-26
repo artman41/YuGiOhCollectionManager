@@ -1,0 +1,16 @@
+{
+  "id": 3442,
+  "cardNumber": "36857073",
+  "name": "Hot Red Dragon Archfiend Bane",
+  "description": "1 Tuner +  1 non-Tuner DARK Dragon-Type Synchro Monster<br>You can Tribute 1 monster, then target 1 \"Red Dragon Archfiend\" monster in your Graveyard; Special Summon it. When this card inflicts battle damage to your opponent: You can Special Summon 2 Tuner monsters with the same Level (1 from your Deck and 1 from your Graveyard) in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Bane\" once per turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

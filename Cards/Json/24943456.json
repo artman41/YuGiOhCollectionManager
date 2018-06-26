@@ -1,0 +1,16 @@
+{
+  "id": 6884,
+  "cardNumber": "24943456",
+  "name": "T.G. Power Gladiator",
+  "description": "1 Tuner + 1 or more non-Tuner \"T.G.\" monsters<br>If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card on the field is destroyed: Draw 1 card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

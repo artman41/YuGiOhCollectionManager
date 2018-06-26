@@ -1,0 +1,16 @@
+{
+  "id": 8516,
+  "cardNumber": "63125616",
+  "name": "The Shadow Who Controls the Dark",
+  "description": "A shadow that dwells in the dark, paralyzing its opponents and rendering them harmless.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

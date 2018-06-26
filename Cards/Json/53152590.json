@@ -1,0 +1,16 @@
+{
+  "id": 3651,
+  "cardNumber": "53152590",
+  "name": "Iron Chain Coil",
+  "description": "Once per turn, you can select 1 \"Iron Chain\" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8643,
+  "cardNumber": "17511156",
+  "name": "Wood Clown",
+  "description": "A creature with a wicked smile and a lethal sickle.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 879,
+  "cardNumber": "69723159",
+  "name": "Bujingi Quilin",
+  "description": "If you control a Beast-Warrior-Type \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up card your opponent controls; destroy that target. You can only use the effect of \"Bujingi Quilin\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

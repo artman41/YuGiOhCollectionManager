@@ -1,0 +1,16 @@
+{
+  "id": 8597,
+  "cardNumber": "59053232",
+  "name": "Turu-Purun",
+  "description": "A strange, one-eyed monster that can fell an enemy with a single stab of its spear.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 450,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

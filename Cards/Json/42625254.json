@@ -1,0 +1,16 @@
+{
+  "id": 8358,
+  "cardNumber": "42625254",
+  "name": "Little D",
+  "description": "Yo, this tyrannosaurus tot's got a terrible temper.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7691,
+  "cardNumber": "58628539",
+  "name": "Xyz Effect",
+  "description": "When you Xyz Summon a monster: You can target 1 card on the field; destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

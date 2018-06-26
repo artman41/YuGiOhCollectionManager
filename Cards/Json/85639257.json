@@ -1,0 +1,16 @@
+{
+  "id": 8072,
+  "cardNumber": "85639257",
+  "name": "Aqua Madoor",
+  "description": "A wizard of the waters that conjures a liquid wall to crush any enemies that oppose him.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

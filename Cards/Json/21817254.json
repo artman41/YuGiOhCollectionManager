@@ -1,0 +1,16 @@
+{
+  "id": 8389,
+  "cardNumber": "21817254",
+  "name": "Mega Thunderball",
+  "description": "Rolls along the ground releasing bolts of electricity to attack its enemies.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 750,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

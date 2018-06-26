@@ -1,0 +1,16 @@
+{
+  "id": 3759,
+  "cardNumber": "34627841",
+  "name": "Kaibaman",
+  "description": "You can Tribute this card; Special Summon 1 \"Blue-Eyes White Dragon\" from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 200,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

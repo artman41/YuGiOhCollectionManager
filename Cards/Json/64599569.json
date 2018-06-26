@@ -1,0 +1,16 @@
+{
+  "id": 1071,
+  "cardNumber": "64599569",
+  "name": "Chimeratech Overdragon",
+  "description": "\"Cyber Dragon\" + 1+ Machine monsters<br>Must be Fusion Summoned. If this card is Fusion Summoned: Send all other cards you control to the GY. The original ATK/DEF of this card each become equal to the number of Fusion Materials used for its Fusion Summon x 800. Each turn, this card can attack your opponent's monsters a number of times equal to the number of Fusion Materials used for its Fusion Summon.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6437,
+  "cardNumber": "80559548",
+  "name": "Speedroid Razorang",
+  "description": "Cannot attack the turn it is Normal Summoned. Once per turn: You can target 1 face-up monster on the field; change this card to Defense Position, and if you do, that target loses 800 ATK until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

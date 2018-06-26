@@ -1,0 +1,16 @@
+{
+  "id": 4466,
+  "cardNumber": "49808196",
+  "name": "Metabo Globster",
+  "description": "When you Tribute this card for the Tribute Summon of a DARK monster, Special Summon 3 \"Metabo Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

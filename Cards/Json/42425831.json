@@ -1,0 +1,16 @@
+{
+  "id": 6096,
+  "cardNumber": "42425831",
+  "name": "Sealing Ceremony of Raiton",
+  "description": "Once per turn: You can return 1 face-up WIND monster you control to the bottom of the Main Deck to target up to 2 cards in your opponent's Graveyard; banish those targets.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

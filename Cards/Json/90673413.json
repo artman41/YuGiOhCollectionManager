@@ -1,0 +1,16 @@
+{
+  "id": 2739,
+  "cardNumber": "90673413",
+  "name": "Gagagarevenge",
+  "description": "Target 1 \"Gagaga\" monster in your Graveyard; Special Summon it and equip it with this card. When this card leaves the field, destroy the equipped monster. When this card is sent to the Graveyard because the equipped monster was used as an Xyz Material: All Xyz Monsters you currently control gain 300 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

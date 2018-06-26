@@ -1,0 +1,16 @@
+{
+  "id": 4882,
+  "cardNumber": "45620686",
+  "name": "Noisy Gnat",
+  "description": "You can send this card from your hand to the Graveyard to target 1 face-up monster on the field; increase that target's Level by 1, until the End Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

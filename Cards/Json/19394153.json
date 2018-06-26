@@ -1,0 +1,16 @@
+{
+  "id": 2445,
+  "cardNumber": "19394153",
+  "name": "Feather Shot",
+  "description": "Target 1 face-up \"Elemental HERO Avian\" you control; during this turn, that target can attack a number of times equal to the number of monsters you control when this card resolves, but cannot attack directly, and other monsters you control cannot attack this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

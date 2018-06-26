@@ -1,0 +1,16 @@
+{
+  "id": 1115,
+  "cardNumber": "50916353",
+  "name": "Chthonian Soldier",
+  "description": "When this card is destroyed by an opponent's attacking monster and sent to the Graveyard, the Battle Damage you took from this battle is also inflicted to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

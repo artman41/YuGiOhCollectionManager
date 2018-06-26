@@ -1,0 +1,16 @@
+{
+  "id": 8148,
+  "cardNumber": "45945685",
+  "name": "Cycroid",
+  "description": "The most lovable and friendly of all the Vehicroids. It can arm itself with training wheels!",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

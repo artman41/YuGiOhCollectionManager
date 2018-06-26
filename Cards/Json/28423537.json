@@ -1,0 +1,16 @@
+{
+  "id": 308,
+  "cardNumber": "28423537",
+  "name": "Archfiend Emperor, the First Lord of Horror",
+  "description": "You can Normal Summon this card without Tributing, but its original ATK and DEF become halved. If Summoned this way, it is destroyed during the End Phase. You cannot Special Summon any monsters, except Fiend-Type monsters. Once per turn: You can banish 1 \"Archfiend\" card from your hand or Graveyard, then target 1 card on the field; destroy that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

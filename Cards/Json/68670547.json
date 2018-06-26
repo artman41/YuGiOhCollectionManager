@@ -1,0 +1,16 @@
+{
+  "id": 5147,
+  "cardNumber": "68670547",
+  "name": "Paladin of the Cursed Dragon",
+  "description": "Once per turn: You can target 1 Level 4 or lower Zombie-Type monster in your opponent's Graveyard, that was destroyed by battle; Special Summon that target to your side of the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

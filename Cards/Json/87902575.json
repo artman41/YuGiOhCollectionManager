@@ -1,0 +1,16 @@
+{
+  "id": 2715,
+  "cardNumber": "87902575",
+  "name": "Future Visions",
+  "description": "When a monster is Normal Summoned, remove from play that monster. During the next Standby Phase of the controller who Summoned that monster, return it to the field in face-up Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

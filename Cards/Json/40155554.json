@@ -1,0 +1,16 @@
+{
+  "id": 117,
+  "cardNumber": "40155554",
+  "name": "Ally Mind",
+  "description": "A high-performance unit developed to enhance the Artificial Intelligence program of the Allies of Justice. Loaded with elements collected from a meteor found in the Worm Nebula, it allows for highly tuned performance. But its full capacity is not yet determined.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

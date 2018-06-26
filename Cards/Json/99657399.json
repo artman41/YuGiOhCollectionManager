@@ -1,0 +1,16 @@
+{
+  "id": 388,
+  "cardNumber": "99657399",
+  "name": "Asleep at the Switch",
+  "description": "When your opponent gains Life Points: Target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

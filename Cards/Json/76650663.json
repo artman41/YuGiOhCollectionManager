@@ -1,0 +1,16 @@
+{
+  "id": 128,
+  "cardNumber": "76650663",
+  "name": "Ally of Justice Nullfier",
+  "description": "Effects of LIGHT monsters that battled this card are negated.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 690,
+  "cardNumber": "73652465",
+  "name": "Blackwing - Oroshi the Squall",
+  "description": "If you control a \"Blackwing\" monster other than \"Blackwing - Oroshi the Squall\", you can Special Summon this card (from your hand). You can only Special Summon \"Blackwing - Oroshi the Squall\" once per turn this way. If this card is sent to the Graveyard as a Synchro Material Monster: You can target 1 monster on the field; change that target's battle position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

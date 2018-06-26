@@ -1,0 +1,16 @@
+{
+  "id": 926,
+  "cardNumber": "74440055",
+  "name": "Cactus Fighter",
+  "description": "If this card destroys an opponent's monster by battle, Special Summon 1 \"Needle Token\" (Plant/EARTH/Level 1/ATK 500/DEF 500) to your opponent's side of the field in Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

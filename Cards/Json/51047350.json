@@ -1,0 +1,16 @@
+{
+  "id": 955,
+  "cardNumber": "51047350",
+  "name": "Card Breaker",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned, in face-up Attack Position, by sending 1 card from your Spell &amp; Trap Card Zone to the Graveyard.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

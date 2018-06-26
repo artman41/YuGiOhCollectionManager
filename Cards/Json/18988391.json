@@ -1,0 +1,16 @@
+{
+  "id": 151,
+  "cardNumber": "18988391",
+  "name": "Amarylease",
+  "description": "During your Main Phase: You can banish this card from your Graveyard; you can Normal Summon 1 monster this turn for 1 less Tribute. You can only use the effect of \"Amarylease\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

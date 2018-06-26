@@ -1,0 +1,16 @@
+{
+  "id": 8250,
+  "cardNumber": "95265975",
+  "name": "Ghoul with an Appetite",
+  "description": "A monster with a heavy appetite that has never been satisfied.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

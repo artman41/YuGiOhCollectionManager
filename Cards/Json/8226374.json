@@ -1,0 +1,16 @@
+{
+  "id": 2976,
+  "cardNumber": "8226374",
+  "name": "Gimmick Puppet Humpty Dumpty",
+  "description": "When this card is Normal or Special Summoned: You can Special Summon 1 \"Gimmick Puppet\" monster from your hand. You can only use this effect of \"Gimmick Puppet Humpty Dumpty\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

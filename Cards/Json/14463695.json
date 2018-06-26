@@ -1,0 +1,16 @@
+{
+  "id": 5464,
+  "cardNumber": "14463695",
+  "name": "Predapruning",
+  "description": "Activate this card by targeting 1 \"Predaplant\" monster in your Graveyard; Special Summon it and equip it with this card. When this card leaves the field, destroy that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

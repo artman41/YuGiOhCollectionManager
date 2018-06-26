@@ -1,0 +1,16 @@
+{
+  "id": 7574,
+  "cardNumber": "54455435",
+  "name": "Winda, Priestess of Gusto",
+  "description": "When this card is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 \"Gusto\" Tuner monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

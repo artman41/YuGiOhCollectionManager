@@ -1,0 +1,16 @@
+{
+  "id": 4078,
+  "cardNumber": "4611269",
+  "name": "Lion Alligator",
+  "description": "While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

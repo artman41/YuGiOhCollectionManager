@@ -1,0 +1,16 @@
+{
+  "id": 8583,
+  "cardNumber": "33878931",
+  "name": "Togex",
+  "description": "An agile monster that rolls up to ram its opponents.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

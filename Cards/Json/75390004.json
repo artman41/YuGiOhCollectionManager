@@ -1,0 +1,16 @@
+{
+  "id": 8392,
+  "cardNumber": "75390004",
+  "name": "Megazowler",
+  "description": "Nothing stands in the way of this spike-covered dinosaur!",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

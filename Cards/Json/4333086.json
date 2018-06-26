@@ -1,0 +1,16 @@
+{
+  "id": 6221,
+  "cardNumber": "4333086",
+  "name": "Shiranui Style Swallow's Slash",
+  "description": "Tribute 1 Zombie-Type monster, then target 2 cards on the field; destroy them, then banish 1 \"Shiranui\" monster from your Deck. You can only activate 1 \"Shiranui Style Swallow's Slash\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

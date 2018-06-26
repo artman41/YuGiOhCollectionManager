@@ -1,0 +1,16 @@
+{
+  "id": 4468,
+  "cardNumber": "74530899",
+  "name": "Metaion, the Timelord",
+  "description": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this Attack Position card. At the end of the Battle Phase, if this card attacked or was attacked: Return as many monsters on the field as possible to the hand (other than this card), and if you do, inflict 300 damage to your opponent for each card returned. During your Standby Phase: Shuffle this card into the Deck.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

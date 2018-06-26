@@ -1,0 +1,16 @@
+{
+  "id": 7348,
+  "cardNumber": "69512157",
+  "name": "Vector Pendulum, the Dracoverlord",
+  "description": "Pendulum Effect\n Negate all card effects in your opponent's Pendulum Zones.\n\n Monster Effect\n This Overlord overran an entire world with his army of Dracofiends, using his Dragon Alchemy to convert all life into his terrible minions. The source of this power is unidentified, and probably extra-dimensional.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

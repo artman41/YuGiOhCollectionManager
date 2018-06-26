@@ -1,0 +1,16 @@
+{
+  "id": 6577,
+  "cardNumber": "89181369",
+  "name": "Stardust Shimmer",
+  "description": "Select 1 Dragon-Type Synchro Monster in your Graveyard. Remove from play other monsters in your Graveyard whose total Levels equal the Level of the selected monster, and Special Summon it from the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

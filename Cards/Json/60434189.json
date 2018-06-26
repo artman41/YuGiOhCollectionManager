@@ -1,0 +1,16 @@
+{
+  "id": 5194,
+  "cardNumber": "60434189",
+  "name": "Pendulum Impenetrable",
+  "description": "This turn, cards in Pendulum Zones cannot be destroyed by your opponent's card effects, also negate any effect activated by your opponent that targeted a card(s) in the Pendulum Zones.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

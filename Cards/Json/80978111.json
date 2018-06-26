@@ -1,0 +1,16 @@
+{
+  "id": 2596,
+  "cardNumber": "80978111",
+  "name": "Flying \"C\"",
+  "description": "When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to the opponent's field in Defense Position. The controller of this card cannot Xyz Summon.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

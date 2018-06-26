@@ -1,0 +1,16 @@
+{
+  "id": 2999,
+  "cardNumber": "47106439",
+  "name": "Gishki Vision",
+  "description": "If you Ritual Summon exactly 1 WATER Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. You can discard this card; add 1 \"Gishki\" Ritual Monster from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

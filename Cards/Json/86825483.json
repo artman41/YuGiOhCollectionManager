@@ -1,0 +1,16 @@
+{
+  "id": 1201,
+  "cardNumber": "86825483",
+  "name": "Constellar Belt",
+  "description": "The activation of LIGHT monsters' effects cannot be negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

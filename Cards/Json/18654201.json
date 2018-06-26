@@ -1,0 +1,16 @@
+{
+  "id": 1290,
+  "cardNumber": "18654201",
+  "name": "Criosphinx",
+  "description": "When a monster is returned from the field to the owner's hand, the owner of the returned monster selects and sends 1 card in their hand to the Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

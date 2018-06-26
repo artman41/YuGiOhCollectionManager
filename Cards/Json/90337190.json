@@ -1,0 +1,16 @@
+{
+  "id": 7059,
+  "cardNumber": "90337190",
+  "name": "Torpedo Fish",
+  "description": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

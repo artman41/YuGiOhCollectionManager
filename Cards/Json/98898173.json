@@ -1,0 +1,16 @@
+{
+  "id": 8395,
+  "cardNumber": "98898173",
+  "name": "The Melting Red Shadow",
+  "description": "This monster melts away to materialize under its enemies, taking them by surprise.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

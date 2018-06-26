@@ -1,0 +1,16 @@
+{
+  "id": 965,
+  "cardNumber": "72767833",
+  "name": "Card Rotator",
+  "description": "Send 1 card from your hand to the Graveyard. Change the battle positions of all monsters your opponent controls. (Face-down Defense Position monsters are flipped to face-up Attack Position.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

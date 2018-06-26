@@ -1,0 +1,16 @@
+{
+  "id": 2707,
+  "cardNumber": "74335036",
+  "name": "Fusion Substitute",
+  "description": "(This card's name is always treated as \"Polymerization\".)<br>Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials. You can banish this card from your Graveyard, then target 1 Fusion Monster in your Graveyard; return it to the Extra Deck, then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

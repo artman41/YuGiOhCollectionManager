@@ -1,0 +1,16 @@
+{
+  "id": 8598,
+  "cardNumber": "60589682",
+  "name": "Twin Long Rods #1",
+  "description": "With whip-like arms, this creature can attack enemies from a distance.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

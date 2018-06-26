@@ -1,0 +1,16 @@
+{
+  "id": 8513,
+  "cardNumber": "82742611",
+  "name": "Serpent Marauder",
+  "description": "A snake with a single eye that blows an icy breath to freeze its opponents.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

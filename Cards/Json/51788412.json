@@ -1,0 +1,16 @@
+{
+  "id": 1032,
+  "cardNumber": "51788412",
+  "name": "Chaos Ancient Gear Giant",
+  "description": "4 \"Ancient Gear\" monsters<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. Unaffected by Spell/Trap effects. Your opponent's monsters cannot activate their effects during the Battle Phase. This card can attack all monsters your opponent controls, once each. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

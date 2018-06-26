@@ -1,0 +1,16 @@
+{
+  "id": 312,
+  "cardNumber": "66540884",
+  "name": "Archfiend Heiress",
+  "description": "If this card is sent to the Graveyard because of a card effect or being destroyed by battle: You can add 1 \"Archfiend\" card from your Deck to your hand, except \"Archfiend Heiress\". You can only use the effect of \"Archfiend Heiress\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6328,
+  "cardNumber": "78636495",
+  "name": "Slate Warrior",
+  "description": "FLIP: This card gains 500 ATK and DEF.<br>If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

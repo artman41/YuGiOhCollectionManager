@@ -1,0 +1,16 @@
+{
+  "id": 5184,
+  "cardNumber": "19153634",
+  "name": "Patrician of Darkness",
+  "description": "You choose the attack targets for your opponent's attacks.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

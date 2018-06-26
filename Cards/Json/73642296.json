@@ -1,0 +1,16 @@
+{
+  "id": 8822,
+  "cardNumber": "73642296",
+  "name": "Yashiki Warashi",
+  "description": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate the activation.<br>â— Add a card from the GY to the hand, Deck, or Extra Deck.<br>â— Special Summon from the GY.<br>â— Banish a card from the GY.<br>You can only use this effect of \"Yashiki Warashi\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

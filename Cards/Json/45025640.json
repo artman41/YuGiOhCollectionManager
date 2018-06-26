@@ -1,0 +1,16 @@
+{
+  "id": 8793,
+  "cardNumber": "45025640",
+  "name": "Boycotton",
+  "description": "You take any battle damage your opponent would have taken from attacks involving this card instead. If you take battle damage from an attack involving this card, but this card was not destroyed by the battle: Return this card to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

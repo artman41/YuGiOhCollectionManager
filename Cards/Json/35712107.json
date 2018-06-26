@@ -1,0 +1,16 @@
+{
+  "id": 8415,
+  "cardNumber": "35712107",
+  "name": "Monstrous Bird",
+  "description": "Few have set eyes on this dive-bombing bird and lived to tell the tale.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

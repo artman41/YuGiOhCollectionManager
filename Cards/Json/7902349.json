@@ -1,0 +1,16 @@
+{
+  "id": 8350,
+  "cardNumber": "7902349",
+  "name": "Left Arm of the Forbidden One",
+  "description": "A forbidden left arm sealed by magic. Whosoever breaks this seal will know infinite power.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

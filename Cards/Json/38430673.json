@@ -1,0 +1,16 @@
+{
+  "id": 3120,
+  "cardNumber": "38430673",
+  "name": "Grand Convergence",
+  "description": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent and destroy all monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3420,
+  "cardNumber": "759393",
+  "name": "Hiita the Fire Charmer",
+  "description": "FLIP: Target 1 face-up FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1787,
+  "cardNumber": "80744121",
+  "name": "Destiny HERO - Fear Monger",
+  "description": "During your Standby Phase, if this card is in your Graveyard because it was destroyed by battle and sent there since your last Standby Phase: Target 1 \"Destiny HERO\" monster in your Graveyard, except a \"Destiny HERO - Fear Monger\"; Special Summon that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

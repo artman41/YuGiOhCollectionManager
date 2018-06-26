@@ -1,0 +1,16 @@
+{
+  "id": 2250,
+  "cardNumber": "30531525",
+  "name": "Enchanting Fitting Room",
+  "description": "Pay 800 Life Points. Pick up 4 cards from the top of your Deck and Special Summon to your side of the field all Level 3 or lower Normal Monsters among the picked-up cards. Return all the other picked-up cards to your Deck and the Deck is then shuffled.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

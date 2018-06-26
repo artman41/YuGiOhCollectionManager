@@ -1,0 +1,16 @@
+{
+  "id": 1489,
+  "cardNumber": "8463720",
+  "name": "D/D/D Dragonbane King Beowulf",
+  "description": "1 \"D/D/D\" monster + 1 \"D/D\" monster<br>If a \"D/D\" monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent. Once per turn, during your Standby Phase: You can destroy all cards in the Spell &amp; Trap Zones.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

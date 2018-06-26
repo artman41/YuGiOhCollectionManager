@@ -1,0 +1,16 @@
+{
+  "id": 8437,
+  "cardNumber": "78402798",
+  "name": "Night Lizard",
+  "description": "A lizard warrior protected by a hide of very tough emerald scales.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1150,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

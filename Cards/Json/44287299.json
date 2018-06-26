@@ -1,0 +1,16 @@
+{
+  "id": 8379,
+  "cardNumber": "44287299",
+  "name": "Masaki the Legendary Swordsman",
+  "description": "Legendary swordmaster Masaki is a veteran of over 100 battles.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 947,
+  "cardNumber": "95614612",
+  "name": "Cannonball Spear Shellfish",
+  "description": "While \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

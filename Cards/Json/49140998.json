@@ -1,0 +1,16 @@
+{
+  "id": 2444,
+  "cardNumber": "49140998",
+  "name": "A Feather of the Phoenix",
+  "description": "Discard 1 card, then target 1 card in your Graveyard; return that target to the top of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5178,
+  "cardNumber": "52228131",
+  "name": "Parry",
+  "description": "Return 1 \"Gladiator Beast\" card from your hand to the Deck, and negate the activation and effect of a Trap Card, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

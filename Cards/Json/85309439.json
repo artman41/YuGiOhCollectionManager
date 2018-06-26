@@ -1,0 +1,16 @@
+{
+  "id": 8482,
+  "cardNumber": "85309439",
+  "name": "Ray &amp; Temperature",
+  "description": "The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

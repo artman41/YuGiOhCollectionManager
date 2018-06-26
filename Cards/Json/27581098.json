@@ -1,0 +1,16 @@
+{
+  "id": 4885,
+  "cardNumber": "27581098",
+  "name": "Non-Fusion Area",
+  "description": "Neither player can Fusion Summon.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

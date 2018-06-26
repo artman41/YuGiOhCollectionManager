@@ -1,0 +1,16 @@
+{
+  "id": 4833,
+  "cardNumber": "49826746",
+  "name": "Night Wing Sorceress",
+  "description": "You can activate \"Assault Mode Activate\" the turn it is Set.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

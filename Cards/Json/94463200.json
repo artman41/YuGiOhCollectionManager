@@ -1,0 +1,16 @@
+{
+  "id": 522,
+  "cardNumber": "94463200",
+  "name": "Battle-Scarred",
+  "description": "Select 1 Archfiend monster on your side of the field to activate this card. Your opponent also pays the same Life Points that you pay for the selected monster during the Standby Phase. If this card is removed from the field, destroy the selected monster. When the selected monster is removed from the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

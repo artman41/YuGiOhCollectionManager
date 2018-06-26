@@ -1,0 +1,16 @@
+{
+  "id": 7387,
+  "cardNumber": "62379337",
+  "name": "Violet Witch",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Add 1 Plant-Type monster with 1500 or less DEF from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

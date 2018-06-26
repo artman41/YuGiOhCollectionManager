@@ -1,0 +1,16 @@
+{
+  "id": 7051,
+  "cardNumber": "89997728",
+  "name": "Toon Table of Contents",
+  "description": "Add 1 \"Toon\" card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

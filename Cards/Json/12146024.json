@@ -1,0 +1,16 @@
+{
+  "id": 8118,
+  "cardNumber": "12146024",
+  "name": "Bolt Escargot",
+  "description": "After rendering an opponent immobile by spitting a sticky goo, this monster closes in for the attack.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

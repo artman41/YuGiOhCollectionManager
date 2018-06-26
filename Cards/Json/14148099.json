@@ -1,0 +1,16 @@
+{
+  "id": 452,
+  "cardNumber": "14148099",
+  "name": "B.E.S. Big Core",
+  "description": "If this card is Normal Summoned: Place 3 counters on it. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

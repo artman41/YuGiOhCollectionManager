@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "cardNumber": "76224717",
+  "name": "Advance Zone",
+  "description": "Once per turn, during the End Phase of any turn in which you Tribute Summoned a monster(s): You can apply these effects, in sequence, based on the number of monsters you Tributed for Tribute Summons this turn.<br>â— 1 or more: Destroy 1 Set card your opponent controls.<br>â— 2 or more: Draw 1 card.<br>â— 3 or more: Add 1 monster from your Graveyard to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

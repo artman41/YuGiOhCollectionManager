@@ -1,0 +1,16 @@
+{
+  "id": 3997,
+  "cardNumber": "61854111",
+  "name": "Legendary Sword",
+  "description": "A Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

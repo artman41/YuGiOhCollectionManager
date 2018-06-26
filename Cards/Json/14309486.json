@@ -1,0 +1,16 @@
+{
+  "id": 3846,
+  "cardNumber": "14309486",
+  "name": "Koa'ki Meiru Overload",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player's turn, when your opponent would Summon a monster(s): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

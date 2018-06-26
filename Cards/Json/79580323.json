@@ -1,0 +1,16 @@
+{
+  "id": 3023,
+  "cardNumber": "79580323",
+  "name": "Gladiator Beast Spartacus",
+  "description": "This card cannot be Special Summoned except by the effect of \"Gladiator Beast Hoplomus\". When this card is Special Summoned, add 1 \"Gladiator Beast\" Equip Spell Card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Spartacus\".",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

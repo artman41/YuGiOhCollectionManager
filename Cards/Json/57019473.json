@@ -1,0 +1,16 @@
+{
+  "id": 6278,
+  "cardNumber": "57019473",
+  "name": "Sishunder",
+  "description": "When this card is Normal Summoned: You can target 1 Level 4 LIGHT Thunder-Type monster with 1600 or less ATK in your Graveyard, except \"Sishunder\"; banish that target. During the End Phase of this turn, add that card to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 900,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6022,
+  "cardNumber": "1127737",
+  "name": "Sargasso the D.D. Battlefield",
+  "description": "Each time a monster is Xyz Summoned: The Summoning player takes 500 damage. During each player's End Phase, the turn player takes 500 damage if they control a face-up Xyz Monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

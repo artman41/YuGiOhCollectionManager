@@ -1,0 +1,16 @@
+{
+  "id": 6871,
+  "cardNumber": "61032879",
+  "name": "Synchronized Realm",
+  "description": "Each time you Synchro Summon a Synchro Monster, inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

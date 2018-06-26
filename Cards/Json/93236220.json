@@ -1,0 +1,16 @@
+{
+  "id": 7617,
+  "cardNumber": "93236220",
+  "name": "World Legacy Clash",
+  "description": "Banish 1 face-up monster you control (until the End Phase), then target 1 face-up monster your opponent controls; that target loses ATK/DEF equal to the original ATK/DEF of that banished monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

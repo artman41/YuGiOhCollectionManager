@@ -1,0 +1,16 @@
+{
+  "id": 491,
+  "cardNumber": "6840573",
+  "name": "Barox",
+  "description": "\"Frenzied Panda\" + \"Ryu-Kishin\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1380,
+  "def": 1530,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

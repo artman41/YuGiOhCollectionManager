@@ -1,0 +1,16 @@
+{
+  "id": 1238,
+  "cardNumber": "26376390",
+  "name": "Copycat",
+  "description": "When this card is Summoned: Target 1 face-up monster your opponent controls; this card's ATK and DEF become equal to that monster's original ATK and DEF.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

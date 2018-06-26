@@ -1,0 +1,16 @@
+{
+  "id": 7203,
+  "cardNumber": "21900719",
+  "name": "Twin Swords of Flashing Light - Tryce",
+  "description": "Send 1 card from your hand to the Graveyard; equip this card to a monster. It loses 500 ATK, but it can make a second attack during each Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3903,
+  "cardNumber": "35112613",
+  "name": "Kuriphoton",
+  "description": "During either player's turn: You can send this card from your hand to the Graveyard and pay 2000 Life Points; you take no damage this turn. If this card is in your Graveyard: You can send 1 \"Photon\" monster from your hand to the Graveyard, except \"Kuriphoton\"; add this card from your Graveyard to your hand. You can only use this effect of \"Kuriphoton\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

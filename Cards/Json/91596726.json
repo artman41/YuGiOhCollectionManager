@@ -1,0 +1,16 @@
+{
+  "id": 1557,
+  "cardNumber": "91596726",
+  "name": "Dark Crusader",
+  "description": "You can send 1 DARK monster from your hand to the Graveyard; this card gains 400 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

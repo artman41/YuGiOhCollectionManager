@@ -1,0 +1,16 @@
+{
+  "id": 266,
+  "cardNumber": "9156135",
+  "name": "Apprentice Magician",
+  "description": "If this card is Summoned: Target 1 face-up card on the field that you can place a Spell Counter on; place 1 Spell Counter on that target. If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Spellcaster-Type monster from your Deck in face-down Defense Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

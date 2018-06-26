@@ -1,0 +1,16 @@
+{
+  "id": 7300,
+  "cardNumber": "15310033",
+  "name": "Unknown Synchron",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon \"Unknown Synchron\" once per Duel this way.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

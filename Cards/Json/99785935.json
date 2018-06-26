@@ -1,0 +1,16 @@
+{
+  "id": 8059,
+  "cardNumber": "99785935",
+  "name": "Alpha The Magnet Warrior",
+  "description": "Alpha, Beta, and Gamma meld as one to form a powerful monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

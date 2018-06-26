@@ -1,0 +1,16 @@
+{
+  "id": 5574,
+  "cardNumber": "37991342",
+  "name": "Qliphort Helix",
+  "description": "Pendulum Effect\n You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK.\n\n Monster Effect\n You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. If this card is Tributed: You can target 1 Spell/Trap Card on the field; destroy it.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

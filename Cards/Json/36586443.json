@@ -1,0 +1,16 @@
+{
+  "id": 2224,
+  "cardNumber": "36586443",
+  "name": "Elemental Recharge",
+  "description": "Gain 1000 Life Points for each face-up \"Elemental HERO\" monster you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 399,
+  "cardNumber": "77036039",
+  "name": "Assault Mercenary",
+  "description": "Once per turn, you can return 1 \"Assault Mode Activate\" from your hand or Graveyard to the Deck to destroy 1 Spell or Trap Card your opponent controls.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

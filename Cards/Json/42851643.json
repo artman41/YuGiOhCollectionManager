@@ -1,0 +1,16 @@
+{
+  "id": 3705,
+  "cardNumber": "42851643",
+  "name": "Jumbo Drill",
+  "description": "When this card is Normal Summoned: You can increase the Levels of all Machine-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

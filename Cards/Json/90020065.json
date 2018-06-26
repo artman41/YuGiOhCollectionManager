@@ -1,0 +1,16 @@
+{
+  "id": 3689,
+  "cardNumber": "90020065",
+  "name": "Jigen Bakudan",
+  "description": "FLIP: After this card is flipped, Tribute it during your Standby Phase to destroy all monsters on your side of the field and inflict damage equal to half of the total ATK of the destroyed cards (excluding this monster) to your opponent's Life Points.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

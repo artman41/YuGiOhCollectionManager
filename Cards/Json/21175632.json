@@ -1,0 +1,16 @@
+{
+  "id": 6551,
+  "cardNumber": "21175632",
+  "name": "St. Joan",
+  "description": "\"The Forgiving Maiden\" + \"Darklord Marie\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

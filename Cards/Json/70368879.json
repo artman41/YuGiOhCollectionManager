@@ -1,0 +1,16 @@
+{
+  "id": 7308,
+  "cardNumber": "70368879",
+  "name": "Upstart Goblin",
+  "description": "Draw 1 card, then your opponent gains 1000 Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

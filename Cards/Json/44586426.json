@@ -1,0 +1,16 @@
+{
+  "id": 8782,
+  "cardNumber": "44586426",
+  "name": "Solar Batteryman",
+  "description": "If this card is Normal or Special Summoned: You can send 1 Thunder monster from your Deck to the GY. If a Thunder monster(s) is Normal or Special Summoned: Special Summon 1 \"Batteryman Token\" (Thunder/LIGHT/Level 1/ATK 0/DEF 0). You can target 1 Effect Monster you control or in your GY whose original name includes \"Batteryman\"; until the End Phase, this card's name becomes that monster's original name. You can only use each effect of \"Solar Batteryman\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

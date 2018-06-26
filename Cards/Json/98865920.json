@@ -1,0 +1,16 @@
+{
+  "id": 57,
+  "cardNumber": "98865920",
+  "name": "Achacha Archer",
+  "description": "When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

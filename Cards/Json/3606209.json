@@ -1,0 +1,16 @@
+{
+  "id": 8448,
+  "cardNumber": "3606209",
+  "name": "One Who Hunts Souls",
+  "description": "This dangerous creature brandishes a soul-sucking sword.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

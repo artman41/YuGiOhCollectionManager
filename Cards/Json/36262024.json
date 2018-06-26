@@ -1,0 +1,16 @@
+{
+  "id": 621,
+  "cardNumber": "36262024",
+  "name": "Black Dragon's Chick",
+  "description": "You can send this face-up card you control to the Graveyard; Special Summon 1 \"Red-Eyes B. Dragon\" from your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

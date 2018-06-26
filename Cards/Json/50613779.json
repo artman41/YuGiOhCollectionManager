@@ -1,0 +1,16 @@
+{
+  "id": 1519,
+  "cardNumber": "50613779",
+  "name": "Damage Mage",
+  "description": "When you take damage from a card effect: You can Special Summon this card from your hand, and if you do, gain Life Points equal to the amount of damage you took.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

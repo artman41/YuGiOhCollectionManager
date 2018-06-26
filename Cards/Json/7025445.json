@@ -1,0 +1,16 @@
+{
+  "id": 5432,
+  "cardNumber": "7025445",
+  "name": "Power Giant",
+  "description": "You can Special Summon this card (from your hand) by sending 1 Level 4 or lower monster from your hand to the Graveyard. If you do, decrease this card's Level by the Level of that monster. If this card attacks or is attacked, until the end of the Damage Step any effect damage you take becomes 0.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

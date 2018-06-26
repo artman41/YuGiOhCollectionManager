@@ -1,0 +1,16 @@
+{
+  "id": 4814,
+  "cardNumber": "89621922",
+  "name": "Neo-Spacian Flare Scarab",
+  "description": "This card gains 400 ATK for each Spell/Trap Card your opponent controls.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

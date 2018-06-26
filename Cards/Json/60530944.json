@@ -1,0 +1,16 @@
+{
+  "id": 518,
+  "cardNumber": "60530944",
+  "name": "Battle of the Elements",
+  "description": "Activate only while all monsters on the field are face-up. Both players send monsters they control to the Graveyard so that they each control only 1 Attribute.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

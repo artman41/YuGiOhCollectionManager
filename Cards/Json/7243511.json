@@ -1,0 +1,16 @@
+{
+  "id": 3860,
+  "cardNumber": "7243511",
+  "name": "Koalo-Koala",
+  "description": "\"Sea Koala\" + \"Tree Otter\"<br> You can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3589,
+  "cardNumber": "20057949",
+  "name": "Inherited Fortune",
+  "description": "Activate during the turn a face-up \"Fortune Lady\" monster you control was destroyed. Special Summon up to 2 \"Fortune Lady\" monsters from your hand during your next Standby Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

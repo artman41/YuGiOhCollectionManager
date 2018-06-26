@@ -1,0 +1,16 @@
+{
+  "id": 4710,
+  "cardNumber": "48356796",
+  "name": "Mystical Cards of Light",
+  "description": "You cannot use 1 of your Spell &amp; Trap Card Zones. During your Draw Phase, if you control another \"Mystical Cards of Light\", you can draw 2 cards instead of 1 for your normal draw.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

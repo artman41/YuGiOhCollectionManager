@@ -1,0 +1,16 @@
+{
+  "id": 7175,
+  "cardNumber": "50951359",
+  "name": "Tuner Capture",
+  "description": "Activate only when your opponent Synchro Summons a monster. Special Summon 1 Tuner Monster used for that Synchro Summon from their Graveyard to your side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

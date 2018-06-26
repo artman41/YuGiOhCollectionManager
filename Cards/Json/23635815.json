@@ -1,0 +1,16 @@
+{
+  "id": 8317,
+  "cardNumber": "23635815",
+  "name": "Jerry Beans Man",
+  "description": "Jerry, a bean soldier, believes he is the strongest warrior in the world, but his true abilities are still untested.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

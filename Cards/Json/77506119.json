@@ -1,0 +1,16 @@
+{
+  "id": 7000,
+  "cardNumber": "77506119",
+  "name": "Thunder Unicorn",
+  "description": "1 Beast-Type Tuner + 1 or more non-Tuner monsters<br>Once per turn, during your Main Phase, you can select 1 face-up monster your opponent controls. It loses 500 ATK for each monster you control, until the End Phase. During the turn this effect is activated, no other monsters can attack, except this card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

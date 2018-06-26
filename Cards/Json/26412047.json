@@ -1,0 +1,16 @@
+{
+  "id": 3268,
+  "cardNumber": "26412047",
+  "name": "Hammer Shot",
+  "description": "Destroy 1 face-up Attack Position monster with the highest ATK. (If it is a tie, you get to choose.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

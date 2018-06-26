@@ -1,0 +1,16 @@
+{
+  "id": 2865,
+  "cardNumber": "99000107",
+  "name": "Gendo the Ascetic Monk",
+  "description": "Face-up Attack Position monsters on the field cannot activate their effects. This Defense Position card cannot be targeted, or destroyed, by card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

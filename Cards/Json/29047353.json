@@ -1,0 +1,16 @@
+{
+  "id": 284,
+  "cardNumber": "29047353",
+  "name": "Aquarium Stage",
+  "description": "WATER monsters you control cannot be destroyed by battle with a non-WATER monster. \"Aquaactress\" monsters you control are unaffected by your opponent's monster effects. If this card is sent from the field to the Graveyard: You can target 1 Aqua-Type monster in your Graveyard; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua-Type monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

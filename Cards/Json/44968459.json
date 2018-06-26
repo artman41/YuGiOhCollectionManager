@@ -1,0 +1,16 @@
+{
+  "id": 6246,
+  "cardNumber": "44968459",
+  "name": "Silent Burning",
+  "description": "During the Battle Phase, if you control a \"Silent Magician\" monster, and have more cards in your hand than your opponent: Each player draws until they have 6 cards in their hand. This card's activation and effect cannot be negated. You can banish this card from your Graveyard; add 1 \"Silent Magician\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

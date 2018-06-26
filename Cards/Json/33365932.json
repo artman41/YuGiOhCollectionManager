@@ -1,0 +1,16 @@
+{
+  "id": 7416,
+  "cardNumber": "33365932",
+  "name": "Volcanic Shell",
+  "description": "Once per turn: You can pay 500 Life Points; add 1 \"Volcanic Shell\" from your Deck to your hand. This card must be in the Graveyard to activate and to resolve this effect.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

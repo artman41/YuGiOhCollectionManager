@@ -1,0 +1,16 @@
+{
+  "id": 2374,
+  "cardNumber": "32391566",
+  "name": "Extra Veiler",
+  "description": "When your opponent Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand, and if you do, your opponent takes any effect damage you would have taken from their card effects this turn, instead.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 551,
+  "cardNumber": "21362970",
+  "name": "Beast Striker",
+  "description": "Once per turn, you can discard 1 card to Special Summon 1 \"Moja\" from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

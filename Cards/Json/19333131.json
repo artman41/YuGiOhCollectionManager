@@ -1,0 +1,16 @@
+{
+  "id": 4904,
+  "cardNumber": "19333131",
+  "name": "Number 12: Crimson Shadow Armor Ninja",
+  "description": "2 Level 5 monsters<br>Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; this turn, face-up \"Ninja\" monsters you control cannot be destroyed by battle or by card effects.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

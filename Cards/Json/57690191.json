@@ -1,0 +1,16 @@
+{
+  "id": 4869,
+  "cardNumber": "57690191",
+  "name": "Noble Knight Brothers",
+  "description": "This card can only attack if you control exactly 3 \"Noble Knight\" monsters (and no other monsters). When this card is Normal Summoned: You can Special Summon up to 2 \"Noble Knight\" monsters from your hand, also you cannot Special Summon monsters for the rest of this turn, except \"Noble Knight\" monsters. Once per turn: You can target 3 \"Noble Knight\" and/or \"Noble Arms\" cards in your Graveyard; shuffle all 3 into the Deck, then draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

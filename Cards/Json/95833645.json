@@ -1,0 +1,16 @@
+{
+  "id": 4242,
+  "cardNumber": "95833645",
+  "name": "Magma Dragon",
+  "description": "When this card is Special Summoned: You can target 1 Wyrm-Type monster in your Graveyard, except \"Magma Dragon\"; Special Summon it in Defense Position, but its effects are negated. You can only use this effect of \"Magma Dragon\" once per turn. You cannot Special Summon monsters the turn you activate this effect, except Wyrm-Type monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Wyrm\"]"
+}

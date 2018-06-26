@@ -1,0 +1,16 @@
+{
+  "id": 1467,
+  "cardNumber": "72291412",
+  "name": "D/D Necro Slime",
+  "description": "If this card is in your Graveyard: You can Fusion Summon 1 \"D/D/D\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your Graveyard, including this card. You can only use this effect of \"D/D Necro Slime\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

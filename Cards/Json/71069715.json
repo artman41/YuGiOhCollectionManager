@@ -1,0 +1,16 @@
+{
+  "id": 1474,
+  "cardNumber": "71069715",
+  "name": "D/D Reroll",
+  "description": "\"Dark Contract\" cards you control cannot be destroyed by your opponent's card effects. You can banish this card from your Graveyard, then target up to 3 of your other banished \"D/D\" cards; shuffle them into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

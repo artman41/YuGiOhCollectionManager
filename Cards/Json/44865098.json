@@ -1,0 +1,16 @@
+{
+  "id": 8145,
+  "cardNumber": "44865098",
+  "name": "Cyber Soldier",
+  "description": "Guardian of the Machine Master, it crushes opposition by rolling over them.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

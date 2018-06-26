@@ -1,0 +1,16 @@
+{
+  "id": 1037,
+  "cardNumber": "21082832",
+  "name": "Chaos Form",
+  "description": "This card can be used to Ritual Summon any \"Chaos\" or \"Black Luster Soldier\" Ritual Monster. You must also Tribute monsters from your hand or field and/or banish \"Blue-Eyes White Dragon\" or \"Dark Magician\" from your Graveyard, whose total Levels exactly equal the Level of the \"Chaos\" or \"Black Luster Soldier\" Ritual Monster you Ritual Summon.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

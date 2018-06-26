@@ -1,0 +1,16 @@
+{
+  "id": 1862,
+  "cardNumber": "27143874",
+  "name": "Dino-Sewing",
+  "description": "Cannot be destroyed by battle. If this card is targeted for an attack: This card gains 1000 ATK and DEF. If this card attacked, after damage calculation: The ATK and DEF gained from this effect returns to 0.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

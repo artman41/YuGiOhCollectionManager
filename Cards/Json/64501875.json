@@ -1,0 +1,16 @@
+{
+  "id": 8291,
+  "cardNumber": "64501875",
+  "name": "Hibikime",
+  "description": "Confuses enemy monsters with a noise that is harsh to the ears.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1450,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

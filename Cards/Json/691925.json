@@ -1,0 +1,16 @@
+{
+  "id": 6360,
+  "cardNumber": "691925",
+  "name": "Solar Recharge",
+  "description": "Discard 1 \"Lightsworn\" monster; draw 2 cards, then send the top 2 cards of your Deck to the GY.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

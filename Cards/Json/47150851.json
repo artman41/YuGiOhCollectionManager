@@ -1,0 +1,16 @@
+{
+  "id": 3229,
+  "cardNumber": "47150851",
+  "name": "Guardian Grarl",
+  "description": "Cannot be Summoned unless you control a face-up \"Gravity Axe - Grarl\". If this is the only card in your hand, you can Special Summon it (from your hand).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

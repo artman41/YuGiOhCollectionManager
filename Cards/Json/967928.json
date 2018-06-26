@@ -1,0 +1,16 @@
+{
+  "id": 5188,
+  "cardNumber": "967928",
+  "name": "Penalty Game!",
+  "description": "When your opponent has 4 cards in their hand: Activate 1 of these effects.<br>â— Your opponent cannot draw during their next Draw Phase.<br>â— Your opponent cannot activate Spell/Trap Cards this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

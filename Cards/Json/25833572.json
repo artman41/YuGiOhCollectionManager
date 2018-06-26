@@ -1,0 +1,16 @@
+{
+  "id": 2798,
+  "cardNumber": "25833572",
+  "name": "Gate Guardian",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Sanga of the Thunder\", \"Kazejin\", and \"Suijin\".",
+  "cardLevel": 11,
+  "cardRank": null,
+  "atk": 3750,
+  "def": 3400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

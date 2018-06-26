@@ -1,0 +1,16 @@
+{
+  "id": 2143,
+  "cardNumber": "94977269",
+  "name": "El Shaddoll Winda",
+  "description": "1 \"Shaddoll\" monster + 1 DARK monster<br>Must first be Fusion Summoned. Cannot be destroyed by an opponent's card effects. Each player can only Special Summon monster(s) once per turn while this card is face-up on the field. If this card is sent to the Graveyard: You can target 1 \"Shaddoll\" Spell/Trap Card in your Graveyard; add it to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

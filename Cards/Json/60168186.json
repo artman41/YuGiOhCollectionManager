@@ -1,0 +1,16 @@
+{
+  "id": 1549,
+  "cardNumber": "60168186",
+  "name": "Dark Contract with the Entities",
+  "description": "When a \"D/D/D\" monster of the below card type is Special Summoned from the Extra Deck to your field: You can activate the appropriate effect once per turn;<br>â— Fusion: Gain 1000 LP.<br>â— Synchro: Your opponent cannot target that Special Summoned monster with card effects.<br>â— Xyz: Banish 1 card from the field or the Graveyard.<br>â— Pendulum: Draw 1 card, then discard 1 card.<br>Once per turn, during your Standby Phase: Take 2000 damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

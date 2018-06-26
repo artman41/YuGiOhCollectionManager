@@ -1,0 +1,16 @@
+{
+  "id": 8512,
+  "cardNumber": "85448931",
+  "name": "Sentinel of the Seas",
+  "description": "A merman warrior that relentlessly attacks those who pollute the seas with their presence.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

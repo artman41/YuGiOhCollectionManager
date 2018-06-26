@@ -1,0 +1,16 @@
+{
+  "id": 6921,
+  "cardNumber": "92481084",
+  "name": "Temple of the Mind's Eye",
+  "description": "Any battle damage a player takes becomes 1000.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

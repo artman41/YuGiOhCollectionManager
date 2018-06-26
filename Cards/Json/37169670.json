@@ -1,0 +1,16 @@
+{
+  "id": 3475,
+  "cardNumber": "37169670",
+  "name": "Hyper Psychic Blaster/Assault Mode",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Assault Mode Activate\". If this card battles a monster, at the end of the Damage Step, inflict damage to your opponent equal to that monster's DEF and gain Life Points equal to its ATK. When this card on the field is destroyed, you can Special Summon 1 \"Hyper Psychic Blaster\" from your Graveyard.",
+  "cardLevel": 11,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5213,
+  "cardNumber": "17016362",
+  "name": "Performage Trapeze Magician",
+  "description": "2 Level 4 Spellcaster-Type monsters<br>You never take damage if the amount is less than or equal to this card's ATK. Once per turn, during either player's Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 face-up Attack Position monster the turn player controls (other than this card); it can make a second attack during each Battle Phase this turn, also destroy it at the end of the Battle Phase. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent's card effect and sent to your Graveyard: You can Special Summon 1 \"Performage\" monster from the Deck.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

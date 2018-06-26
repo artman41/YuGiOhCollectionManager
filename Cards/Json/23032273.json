@@ -1,0 +1,16 @@
+{
+  "id": 8393,
+  "cardNumber": "23032273",
+  "name": "Megirus Light",
+  "description": "The fatal beams from the eyes of this monster result in grim destruction.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

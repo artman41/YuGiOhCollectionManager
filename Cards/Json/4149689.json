@@ -1,0 +1,16 @@
+{
+  "id": 3045,
+  "cardNumber": "4149689",
+  "name": "Goblin Fan",
+  "description": "When a Level 2 or lower monster is Flip Summoned, destroy it. Its effects do not activate at that time.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

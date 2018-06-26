@@ -1,0 +1,16 @@
+{
+  "id": 4192,
+  "cardNumber": "67227834",
+  "name": "Magic Formula",
+  "description": "Equip only to \"Dark Magician\" or \"Dark Magician Girl\". It gains 700 ATK. When this card is sent from the field to the Graveyard: Gain 1000 LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

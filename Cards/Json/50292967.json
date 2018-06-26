@@ -1,0 +1,16 @@
+{
+  "id": 5182,
+  "cardNumber": "50292967",
+  "name": "Past Image",
+  "description": "If you control a face-up Psychic-Type monster: Target 1 monster your opponent controls; banish it. During the next Standby Phase, it returns to the opponent's side of the field in the same Battle Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

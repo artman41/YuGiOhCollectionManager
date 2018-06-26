@@ -1,0 +1,16 @@
+{
+  "id": 6980,
+  "cardNumber": "41462083",
+  "name": "Thousand Dragon",
+  "description": "\"Time Wizard\" + \"Baby Dragon\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2618,
+  "cardNumber": "43340443",
+  "name": "Forced Back",
+  "description": "Negate the Normal Summon or Flip Summon of a monster and return the monster to its owner's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

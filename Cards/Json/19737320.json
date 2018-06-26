@@ -1,0 +1,16 @@
+{
+  "id": 8240,
+  "cardNumber": "19737320",
+  "name": "Gatekeeper",
+  "description": "An indestructible mechanoid created for the sole purpose of guarding the gateways.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7154,
+  "cardNumber": "96163807",
+  "name": "Tristan, Knight of the Underworld",
+  "description": "When this card is Normal Summoned: You can target 1 Zombie-Type monster with 0 DEF in your Graveyard; add it to your hand. If you control a Zombie-Type monster (other than this card), this card gains 300 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

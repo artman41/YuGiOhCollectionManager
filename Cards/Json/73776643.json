@@ -1,0 +1,16 @@
+{
+  "id": 5169,
+  "cardNumber": "73776643",
+  "name": "Papa-Corn",
+  "description": "While a Field Spell Card is face-up on the field, this card gains 1000 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

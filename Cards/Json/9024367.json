@@ -1,0 +1,16 @@
+{
+  "id": 2756,
+  "cardNumber": "9024367",
+  "name": "Galaxy Dragon",
+  "description": "This card cannot attack directly, and can only attack Dragon-Type monsters. If this card battles a Dragon-Type monster, this card gains 1000 ATK during the Damage Step only, also that monster has its effects negated during this Battle Phase, as long as this card remains face-up on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

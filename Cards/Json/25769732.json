@@ -1,0 +1,16 @@
+{
+  "id": 4156,
+  "cardNumber": "25769732",
+  "name": "Machine Conversion Factory",
+  "description": "A Machine-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

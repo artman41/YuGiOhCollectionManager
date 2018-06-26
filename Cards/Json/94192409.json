@@ -1,0 +1,16 @@
+{
+  "id": 1188,
+  "cardNumber": "94192409",
+  "name": "Compulsory Evacuation Device",
+  "description": "Target 1 monster on the field; return that target to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

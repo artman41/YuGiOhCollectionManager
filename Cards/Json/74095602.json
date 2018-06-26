@@ -1,0 +1,16 @@
+{
+  "id": 1028,
+  "cardNumber": "74095602",
+  "name": "Change of Hero - Reflector Ray",
+  "description": "When an \"Elemental HERO\" Fusion Monster you control is destroyed by battle and sent to the Graveyard: Inflict damage to your opponent equal to its original Level x 300.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

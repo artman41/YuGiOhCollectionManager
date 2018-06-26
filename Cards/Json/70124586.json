@@ -1,0 +1,16 @@
+{
+  "id": 3426,
+  "cardNumber": "70124586",
+  "name": "Holding Legs",
+  "description": "If this card is Summoned: Return all Set Spell and Trap Cards on the field to the hand. You can banish this card from your Graveyard, then target 1 Set Spell/Trap Card your opponent controls; that Set card cannot be activated until the end of your opponent's next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8231,
+  "cardNumber": "18710707",
+  "name": "The Furious Sea King",
+  "description": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

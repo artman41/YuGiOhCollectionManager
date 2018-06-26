@@ -1,0 +1,16 @@
+{
+  "id": 975,
+  "cardNumber": "59957503",
+  "name": "Cash Back",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, by paying their Life Points: Negate the activation, and if you do, return it to the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

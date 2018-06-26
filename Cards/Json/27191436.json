@@ -1,0 +1,16 @@
+{
+  "id": 906,
+  "cardNumber": "27191436",
+  "name": "Burst Return",
+  "description": "If you control a face-up \"Elemental HERO Burstinatrix\": Return all face-up \"Elemental HERO\" monsters on the field to the hand, except \"Elemental HERO Burstinatrix\".",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

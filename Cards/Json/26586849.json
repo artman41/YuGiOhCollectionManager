@@ -1,0 +1,16 @@
+{
+  "id": 5956,
+  "cardNumber": "26586849",
+  "name": "Royal Prison",
+  "description": "Monsters cannot be Special Summoned from the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

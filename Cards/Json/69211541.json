@@ -1,0 +1,16 @@
+{
+  "id": 5261,
+  "cardNumber": "69211541",
+  "name": "Performapal Partnaga",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up monster you control; it gains 300 ATK for each \"Performapal\" card you currently control, until the end of this turn.\n\n Monster Effect\n If this card is Normal or Special Summoned: You can target 1 monster you control; it gains 300 ATK for each \"Performapal\" monster you currently control. Level 5 or lower monsters cannot attack.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

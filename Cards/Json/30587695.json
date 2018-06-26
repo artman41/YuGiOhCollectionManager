@@ -1,0 +1,16 @@
+{
+  "id": 564,
+  "cardNumber": "30587695",
+  "name": "Beetron",
+  "description": "You can send 1 face-up Spell/Trap Card you control to the Graveyard to target 1 Level 4 or lower Insect-Type monster in your Graveyard; Special Summon that target in face-up Defense Position. The effect of \"Beetron\" can only be used once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

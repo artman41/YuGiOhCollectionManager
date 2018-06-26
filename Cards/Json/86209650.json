@@ -1,0 +1,16 @@
+{
+  "id": 6639,
+  "cardNumber": "86209650",
+  "name": "Stray Asmodian",
+  "description": "When this card is destroyed and sent to the Graveyard by battle, both players gain 800 Life Points.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

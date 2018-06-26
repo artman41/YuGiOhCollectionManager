@@ -1,0 +1,16 @@
+{
+  "id": 489,
+  "cardNumber": "41925941",
+  "name": "Bark of Dark Ruler",
+  "description": "If a Fiend-Type monster you control battles, during the Damage Step: Pay LP (in multiples of 100 points), then target the opponent's battling monster; that opponent's monster loses that much ATK and DEF, until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

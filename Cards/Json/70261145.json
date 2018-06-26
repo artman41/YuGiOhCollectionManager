@@ -1,0 +1,16 @@
+{
+  "id": 4765,
+  "cardNumber": "70261145",
+  "name": "Naturia Tulip",
+  "description": "Each time your opponent activates a Spell or Trap Card, all face-up \"Naturia\" monster(s) you control gain 500 ATK until the End Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

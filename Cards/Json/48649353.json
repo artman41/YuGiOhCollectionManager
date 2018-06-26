@@ -1,0 +1,16 @@
+{
+  "id": 8608,
+  "cardNumber": "48649353",
+  "name": "Ushi Oni",
+  "description": "A bull fiend restored by the dark arts, this monster appears out of a jar.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2150,
+  "def": 1950,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

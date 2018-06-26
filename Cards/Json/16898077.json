@@ -1,0 +1,16 @@
+{
+  "id": 2597,
+  "cardNumber": "16898077",
+  "name": "Flying Fortress SKY FIRE",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with the effect of \"Summon Reactorãƒ»SK\". Once per turn, you can send 1 card from your hand to the Graveyard to destroy 1 card your opponent controls. Once during each of your opponent's turns, you can activate 1 of the following effects:<br>â— When your opponent Normal Summons or Special Summons a monster, destroy it and inflict 800 damage to your opponent.<br>â— When your opponent Sets a card, destroy it and inflict 800 damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

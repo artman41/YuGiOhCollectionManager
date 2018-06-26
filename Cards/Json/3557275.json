@@ -1,0 +1,16 @@
+{
+  "id": 8629,
+  "cardNumber": "3557275",
+  "name": "White Duston",
+  "description": "The proudust of them all.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

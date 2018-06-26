@@ -1,0 +1,16 @@
+{
+  "id": 8190,
+  "cardNumber": "67105242",
+  "name": "Earthbound Spirit",
+  "description": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

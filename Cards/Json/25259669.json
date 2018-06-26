@@ -1,0 +1,16 @@
+{
+  "id": 3055,
+  "cardNumber": "25259669",
+  "name": "Goblindbergh",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, also, after that, change this card to Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

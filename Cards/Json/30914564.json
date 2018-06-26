@@ -1,0 +1,16 @@
+{
+  "id": 5984,
+  "cardNumber": "30914564",
+  "name": "Sacred Crane",
+  "description": "If this card is Special Summoned: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

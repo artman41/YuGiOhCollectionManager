@@ -1,0 +1,16 @@
+{
+  "id": 5500,
+  "cardNumber": "56174248",
+  "name": "Prophecy Destroyer",
+  "description": "If this card is in your Graveyard: You can banish 3 \"Spellbook\" Spell Cards from your Graveyard; Special Summon this card from your Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

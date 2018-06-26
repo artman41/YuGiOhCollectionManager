@@ -1,0 +1,16 @@
+{
+  "id": 3434,
+  "cardNumber": "82994509",
+  "name": "Horseytail",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, Special Summon 1 \"Horseytail Token\" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. When this Token is destroyed by battle with a Plant-Type monster, its controller sends 1 card from their hand to the Graveyard.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

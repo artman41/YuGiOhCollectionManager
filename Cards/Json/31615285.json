@@ -1,0 +1,16 @@
+{
+  "id": 925,
+  "cardNumber": "31615285",
+  "name": "Cactus Bouncer",
+  "description": "Cannot be Special Summoned. While another Plant monster is on the field, neither player can Special Summon monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

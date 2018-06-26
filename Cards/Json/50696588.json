@@ -1,0 +1,16 @@
+{
+  "id": 8846,
+  "cardNumber": "50696588",
+  "name": "Dai Dance",
+  "description": "Choose 1 opponent's unused Main Monster Zones; if your opponent would Normal Summon/Set or Special Summon a monster to their Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to their Main Monster Zones while this effect is applied.) This effect is applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

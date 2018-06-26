@@ -1,0 +1,16 @@
+{
+  "id": 201,
+  "cardNumber": "5183693",
+  "name": "Amulet of Ambition",
+  "description": "Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels (during that battle only). When this card is sent to the Graveyard, you can return it to the top of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

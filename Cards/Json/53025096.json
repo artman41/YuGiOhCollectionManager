@@ -1,0 +1,16 @@
+{
+  "id": 5041,
+  "cardNumber": "53025096",
+  "name": "Odd-Eyes Dragon",
+  "description": "If this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the original ATK of that monster in the Graveyard.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

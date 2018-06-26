@@ -1,0 +1,16 @@
+{
+  "id": 4686,
+  "cardNumber": "41458579",
+  "name": "Musakani Magatama",
+  "description": "When your opponent activates a Spell/Trap Card, or monster effect, that destroys a card(s), while you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

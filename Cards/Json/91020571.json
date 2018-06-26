@@ -1,0 +1,16 @@
+{
+  "id": 5714,
+  "cardNumber": "91020571",
+  "name": "Reactan, Dragon Ruler of Pebbles",
+  "description": "You can discard this card AND 1 Dragon-Type or EARTH monster; Special Summon 1 \"Redox, Dragon Ruler of Boulders\" from your Deck. It cannot attack this turn. You can only use the effect of \"Reactan, Dragon Ruler of Pebbles\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3437,
+  "cardNumber": "48229808",
+  "name": "Horus the Black Flame Dragon LV8",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Horus the Black Flame Dragon LV6\", and cannot be Special Summoned by other ways. During either player's turn, when a Spell Card is activated: You can negate the activation, and if you do, destroy it. You must control this face-up card to activate and to resolve this effect.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

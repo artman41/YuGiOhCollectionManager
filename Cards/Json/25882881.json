@@ -1,0 +1,16 @@
+{
+  "id": 8175,
+  "cardNumber": "25882881",
+  "name": "Dokuroizo the Grim Reaper",
+  "description": "A messenger of doom that steals a soul with a single blow.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

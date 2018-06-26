@@ -1,0 +1,16 @@
+{
+  "id": 8584,
+  "cardNumber": "46457856",
+  "name": "Tomozaurus",
+  "description": "Small but vicious, this monster even attacks its own kind.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

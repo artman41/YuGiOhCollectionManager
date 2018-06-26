@@ -1,0 +1,16 @@
+{
+  "id": 8092,
+  "cardNumber": "72076281",
+  "name": "Bat",
+  "description": "A mechanical bat that drops blasts from its wings.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 350,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

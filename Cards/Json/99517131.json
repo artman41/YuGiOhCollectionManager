@@ -1,0 +1,16 @@
+{
+  "id": 6444,
+  "cardNumber": "99517131",
+  "name": "The Spell Absorbing Life",
+  "description": "Flip all face-down Defense Position Monster Cards on the field face-up. Flip Effects are not activated at this time. Increase your Life Points by 400 points for each Effect Monster Card on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7389,
+  "cardNumber": "601193",
+  "name": "Virgil, Rock Star of the Burning Abyss",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>You can only control 1 \"Virgil, Rock Star of the Burning Abyss\". Once per turn: You can discard 1 \"Burning Abyss\" card, then target 1 card your opponent controls or in their Graveyard; shuffle it into the Deck. If this card on the field is destroyed by battle or card effect and sent to the Graveyard: You can draw 1 card. You can only use this effect of \"Virgil, Rock Star of the Burning Abyss\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

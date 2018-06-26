@@ -1,0 +1,16 @@
+{
+  "id": 6363,
+  "cardNumber": "16308000",
+  "name": "Solemn Authority",
+  "description": "Activate this card by targeting 1 \"Aesir\" monster you control; it cannot be targeted by other card effects while this card is on the field. Send this card to the Graveyard during your 2nd Standby Phase after activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8388,
+  "cardNumber": "76211194",
+  "name": "Meda Bat",
+  "description": "An eyeball fiend created by a servant of the wicked, it uses \"Dark Blasts\" to blow away its enemies.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

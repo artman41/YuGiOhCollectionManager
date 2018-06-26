@@ -1,0 +1,16 @@
+{
+  "id": 7269,
+  "cardNumber": "86229493",
+  "name": "Umbral Soul",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-DARK monsters.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

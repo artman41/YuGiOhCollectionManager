@@ -1,0 +1,16 @@
+{
+  "id": 3768,
+  "cardNumber": "97317530",
+  "name": "Kalantosa, Mystical Beast of the Forest",
+  "description": "If this card is Special Summoned by the effect of a Beast-Type monster: You can target 1 card on the field; destroy that target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

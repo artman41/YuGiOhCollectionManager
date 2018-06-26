@@ -1,0 +1,16 @@
+{
+  "id": 3959,
+  "cardNumber": "8611007",
+  "name": "Lavalval Dragun",
+  "description": "1 Tuner + 1 or more non-Tuner FIRE monsters<br>Once per turn: You can add 1 \"Laval\" monster from your Deck to your hand, then send 1 \"Laval\" monster from your hand to the Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

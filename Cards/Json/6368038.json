@@ -1,0 +1,16 @@
+{
+  "id": 8234,
+  "cardNumber": "6368038",
+  "name": "Gaia The Fierce Knight",
+  "description": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

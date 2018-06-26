@@ -1,0 +1,16 @@
+{
+  "id": 5339,
+  "cardNumber": "24103628",
+  "name": "Phantom Magician",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 \"HERO\" monster with 1000 or less ATK from your Deck in face-up Defense Position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

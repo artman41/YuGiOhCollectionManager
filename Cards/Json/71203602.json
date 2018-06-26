@@ -1,0 +1,16 @@
+{
+  "id": 2286,
+  "cardNumber": "71203602",
+  "name": "Evigishki Levianima",
+  "description": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. When this card declares an attack: Draw 1 card, and if you do, reveal it, then if it was a \"Gishki\" monster, look at 1 random card in your opponent's hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

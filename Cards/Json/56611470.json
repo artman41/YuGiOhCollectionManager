@@ -1,0 +1,16 @@
+{
+  "id": 381,
+  "cardNumber": "56611470",
+  "name": "Artifacts Unleashed",
+  "description": "Target 2 \"Artifact\" monsters you control; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only, also for the rest of this turn after this card resolves, monsters you control cannot attack, except \"Artifact\" monsters. If this card in its owner's possession is destroyed by an opponent's card: You can reveal 1 Level 5 LIGHT monster in your hand; draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

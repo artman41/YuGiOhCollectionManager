@@ -1,0 +1,16 @@
+{
+  "id": 2767,
+  "cardNumber": "98555327",
+  "name": "Galaxy Wizard",
+  "description": "Once per turn: You can increase this card's Level by 4 until the End Phase. You can Tribute this card; add 1 \"Galaxy\" card from your Deck to your hand, except \"Galaxy Wizard\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

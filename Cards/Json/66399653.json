@@ -1,0 +1,16 @@
+{
+  "id": 7294,
+  "cardNumber": "66399653",
+  "name": "Union Hangar",
+  "description": "When this card is activated: You can add 1 LIGHT Machine-Type Union monster from your Deck to your hand. Once per turn, if a LIGHT Machine-Type Union monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; equip 1 appropriate LIGHT Machine-Type Union monster, with a different name, from your Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 \"Union Hangar\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

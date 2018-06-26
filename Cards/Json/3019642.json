@@ -1,0 +1,16 @@
+{
+  "id": 1415,
+  "cardNumber": "3019642",
+  "name": "Cyberdark Keel",
+  "description": "If this card is Normal Summoned: Target 1 Level 3 or lower Dragon monster in your GY; equip that Dragon monster to this card. Gains ATK equal to the original ATK of the monster equipped to it by this effect. If this card destroys an opponent's monster by battle: Inflict 300 damage to your opponent. If this card would be destroyed by battle, destroy the monster equipped to it by its effect, instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

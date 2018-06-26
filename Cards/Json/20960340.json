@@ -1,0 +1,16 @@
+{
+  "id": 3891,
+  "cardNumber": "20960340",
+  "name": "Krystal Avatar",
+  "description": "When an opponent's monster declares a direct attack, if its ATK is greater than or equal to your LP: Special Summon this card in Attack Position as an Effect Monster (Warrior-Type/LIGHT/Level 4/ATK&#160;?/DEF 0) that has ATK equal to your LP, then change the attack target to this card. (This card is also still a Trap Card.) If this card Summoned this way is destroyed by battle, after damage calculation: Inflict damage to your opponent equal to its ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

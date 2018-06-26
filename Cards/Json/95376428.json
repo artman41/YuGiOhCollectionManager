@@ -1,0 +1,16 @@
+{
+  "id": 2373,
+  "cardNumber": "95376428",
+  "name": "Extra Net",
+  "description": "If a monster(s) is Special Summoned from the Extra Deck: The opponent of the player that conducted the Special Summon can apply this effect.<br>â— Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

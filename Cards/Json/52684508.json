@@ -1,0 +1,16 @@
+{
+  "id": 3562,
+  "cardNumber": "52684508",
+  "name": "Inferno Fire Blast",
+  "description": "Target 1 \"Red-Eyes B. Dragon\" in your Monster Zone; inflict damage to your opponent equal to its original ATK. \"Red-Eyes B. Dragon\" cannot attack the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

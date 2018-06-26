@@ -1,0 +1,16 @@
+{
+  "id": 8648,
+  "cardNumber": "17238333",
+  "name": "Wretched Ghost of the Attic",
+  "description": "A harmless monster found lurking in just about any attic.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 550,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

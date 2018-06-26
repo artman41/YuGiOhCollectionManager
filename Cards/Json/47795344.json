@@ -1,0 +1,16 @@
+{
+  "id": 4747,
+  "cardNumber": "47795344",
+  "name": "Naturia Hydrangea",
+  "description": "If the effect of a \"Naturia\" monster you control was activated during this turn, you can Special Summon this card from your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

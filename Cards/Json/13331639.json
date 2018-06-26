@@ -1,0 +1,16 @@
+{
+  "id": 6785,
+  "cardNumber": "13331639",
+  "name": "Supreme King Z-ARC",
+  "description": "Pendulum Effect\n Fusion, Synchro, and Xyz Monsters your opponent controls cannot activate their effects. Once per turn, when your opponent adds a card(s) from their Deck to their hand (except during the Draw Phase or the Damage Step): You can destroy that card(s).\n\n Monster Effect\n 4 Dragon-Type monsters (1 Fusion, 1 Synchro, 1 Xyz, and 1 Pendulum)<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card is Special Summoned: Destroy all cards your opponent controls. Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects. When this card destroys an opponent's monster by battle: You can Special Summon 1 \"Supreme King Dragon\" monster from your Deck or Extra Deck. If this card in the Monster Zone is destroyed by battle or card effect: You can place this card in your Pendulum Zone.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 4000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

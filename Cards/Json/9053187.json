@@ -1,0 +1,16 @@
+{
+  "id": 2744,
+  "cardNumber": "9053187",
+  "name": "Gagagigo the Risen",
+  "description": "3 Level 4 monsters",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2950,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Xyz\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

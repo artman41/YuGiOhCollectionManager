@@ -1,0 +1,16 @@
+{
+  "id": 7156,
+  "cardNumber": "76384284",
+  "name": "Trojan Gladiator Beast",
+  "description": "Special Summon 1 \"Gladiator Beast\" from your hand to your opponent's side of the field. Then, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8712,
+  "cardNumber": "80794697",
+  "name": "Flame Buffalo",
+  "description": "If this face-up card leaves the field: You can discard 1 Cyberse monster, and if you do, draw 2 cards. You can only use this effect of \"Flame Buffalo\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

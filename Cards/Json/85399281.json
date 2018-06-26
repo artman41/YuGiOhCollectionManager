@@ -1,0 +1,16 @@
+{
+  "id": 3299,
+  "cardNumber": "85399281",
+  "name": "Harvest Angel of Wisdom",
+  "description": "When this card is destroyed by battle and sent to the GY: You can target 1 Counter Trap from your GY; to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

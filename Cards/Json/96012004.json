@@ -1,0 +1,16 @@
+{
+  "id": 4105,
+  "cardNumber": "96012004",
+  "name": "Lucky Chance",
+  "description": "Once per Chain, if an monster effect is activated that tosses a coin once: Call heads or tails. If your call matches the coin toss for that monster effect, draw 1 card immediately after that effect resolves.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2890,
+  "cardNumber": "89211486",
+  "name": "Genex Doctor",
+  "description": "You can Tribute 1 face-up \"Genex Controller\" to select and destroy 1 card on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

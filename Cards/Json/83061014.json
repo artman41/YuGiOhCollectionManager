@@ -1,0 +1,16 @@
+{
+  "id": 5022,
+  "cardNumber": "83061014",
+  "name": "Numen erat Testudo",
+  "description": "Neither player can Special Summon monsters with 1800 or less ATK.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

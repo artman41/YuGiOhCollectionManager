@@ -1,0 +1,16 @@
+{
+  "id": 118,
+  "cardNumber": "26593852",
+  "name": "Ally of Justice Catastor",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>At the start of the Damage Step, if this card battles a non-DARK monster: Destroy that monster.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

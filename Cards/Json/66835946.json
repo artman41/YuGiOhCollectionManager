@@ -1,0 +1,16 @@
+{
+  "id": 5563,
+  "cardNumber": "66835946",
+  "name": "Pyramid of Wonders",
+  "description": "All Zombie-Type monsters you control gain 200 ATK for each monster your opponent controls. If exactly 1 Zombie-Type monster you control (and no other cards) would be destroyed, you can send this card to the Graveyard instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

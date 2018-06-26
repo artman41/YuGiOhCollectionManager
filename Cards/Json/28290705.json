@@ -1,0 +1,16 @@
+{
+  "id": 2411,
+  "cardNumber": "28290705",
+  "name": "Fairy King Albverdich",
+  "description": "2 Level 4 EARTH monsters<br>Once per turn: You can detach 1 Xyz Material from this card; all non-EARTH monsters currently on the field lose 500 ATK and DEF.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

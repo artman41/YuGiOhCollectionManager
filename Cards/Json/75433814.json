@@ -1,0 +1,16 @@
+{
+  "id": 4931,
+  "cardNumber": "75433814",
+  "name": "Number 40: Gimmick Puppet of Strings",
+  "description": "2 Level 8 monsters<br>Once per turn: You can detach 1 Xyz Material from this card; place 1 String Counter on each face-up monster on the field, except this card. If you do, during your opponent's next End Phase: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
+  "cardLevel": null,
+  "cardRank": 8,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

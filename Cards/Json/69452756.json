@@ -1,0 +1,16 @@
+{
+  "id": 7277,
+  "cardNumber": "69452756",
+  "name": "Unending Nightmare",
+  "description": "You can pay 1000 LP, then target 1 face-up Spell/Trap Card on the field; destroy it. You can only activate this effect of \"Unending Nightmare\" once per Chain.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

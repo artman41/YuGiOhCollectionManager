@@ -1,0 +1,16 @@
+{
+  "id": 7232,
+  "cardNumber": "11819616",
+  "name": "Tytannial, Princess of Camellias",
+  "description": "During either player's turn, when a card or effect that targets a card(s) on the field is activated: You can Tribute 1 face-up Plant-Type monster; negate the activation, and if you do, destroy it.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

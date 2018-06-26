@@ -1,0 +1,16 @@
+{
+  "id": 988,
+  "cardNumber": "14289852",
+  "name": "Catapult Zone",
+  "description": "Once per turn, if a monster you control would be destroyed by battle, you can send 1 Rock-Type monster from your Deck to the Graveyard instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

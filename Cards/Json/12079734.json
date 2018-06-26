@@ -1,0 +1,16 @@
+{
+  "id": 1722,
+  "cardNumber": "12079734",
+  "name": "Delta Tri",
+  "description": "If this card destroys an opponent's monster by battle, select and activate 1 of these effects: <br>â— Select 1 appropriate Union monster in your Graveyard and equip it to this card. <br>â— Select 1 face-up LIGHT Machine-Type monster you control, and return it to the Deck. Then draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

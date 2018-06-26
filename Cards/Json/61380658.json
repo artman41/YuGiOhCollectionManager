@@ -1,0 +1,16 @@
+{
+  "id": 7492,
+  "cardNumber": "61380658",
+  "name": "Watthopper",
+  "description": "Your opponent cannot select another face-up \"Watt\" monster as an attack target, or target them with card effects.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

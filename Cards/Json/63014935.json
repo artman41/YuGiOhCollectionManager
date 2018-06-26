@@ -1,0 +1,16 @@
+{
+  "id": 7412,
+  "cardNumber": "63014935",
+  "name": "Volcanic Queen",
+  "description": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned from your hand to your opponent's side of the field by Tributing 1 monster your opponent controls. If you Special Summon this card, you cannot Normal Summon or Set this turn.<br>Once per turn, you can send 1 other card you control to the Graveyard to inflict 1000 damage to your opponent. During your End Phase, either Tribute 1 other monster or take 1000 damage.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

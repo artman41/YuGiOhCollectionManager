@@ -1,0 +1,16 @@
+{
+  "id": 1844,
+  "cardNumber": "1896112",
+  "name": "Dimension Explosion",
+  "description": "Return 1 face-up Fusion Monster you control to the Extra Deck. Both players select up to 2 of their monsters that are removed from play, and Special Summon them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

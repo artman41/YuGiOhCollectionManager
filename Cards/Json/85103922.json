@@ -1,0 +1,16 @@
+{
+  "id": 377,
+  "cardNumber": "85103922",
+  "name": "Artifact Moralltach",
+  "description": "You can Set this card from your hand to your Spell &amp; Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell &amp; Trap Zone is destroyed and sent to your Graveyard: Special Summon it. If this card is Special Summoned during your opponent's turn: You can destroy 1 face-up card your opponent controls.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

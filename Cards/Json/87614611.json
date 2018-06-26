@@ -1,0 +1,16 @@
+{
+  "id": 5741,
+  "cardNumber": "87614611",
+  "name": "Red Dragon Vase",
+  "description": "If you control a \"Red Dragon Archfiend\": Draw 2 cards. You cannot Normal or Special Summon monsters the turn you activate this card, and until the end of your opponent's turn after this card is activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

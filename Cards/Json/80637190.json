@@ -1,0 +1,16 @@
+{
+  "id": 6534,
+  "cardNumber": "80637190",
+  "name": "Spyder Spider",
+  "description": "When this card destroys an opponent's Defense Position monster by battle, you can select and Special Summon 1 Level 4 or lower Insect-Type monster from your Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

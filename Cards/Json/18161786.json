@@ -1,0 +1,16 @@
+{
+  "id": 4703,
+  "cardNumber": "18161786",
+  "name": "Mystic Plasma Zone",
+  "description": "Increase the ATK of all DARK monsters by 500 points and decreases their DEF by 400 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

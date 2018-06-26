@@ -1,0 +1,16 @@
+{
+  "id": 1991,
+  "cardNumber": "62873545",
+  "name": "Dragon Master Knight",
+  "description": "\"Black Luster Soldier\" + \"Blue-Eyes Ultimate Dragon\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 500 ATK for each Dragon-Type monster you control, except this card.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 5000,
+  "def": 5000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1695,
+  "cardNumber": "25034083",
+  "name": "Decoyroid",
+  "description": "While this card is face-up on your side of the field, your opponent cannot select a face-up monster as an attack target except \"Decoyroid\".",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3616,
+  "cardNumber": "3056267",
+  "name": "Invader of the Throne",
+  "description": "FLIP: Select 1 monster on your opponent's side of the field and switch control of it with this card. This effect cannot be activated during the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

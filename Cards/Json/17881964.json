@@ -1,0 +1,16 @@
+{
+  "id": 1649,
+  "cardNumber": "17881964",
+  "name": "Darkfire Dragon",
+  "description": "\"Firegrass\" + \"Petit Dragon\"",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1250,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

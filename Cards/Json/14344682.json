@@ -1,0 +1,16 @@
+{
+  "id": 6011,
+  "cardNumber": "14344682",
+  "name": "Samurai Sword Baron",
+  "description": "Once per turn, you can select 1 Defense Position monster your opponent controls. Change it to face-up Attack Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

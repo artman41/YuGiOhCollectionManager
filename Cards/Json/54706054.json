@@ -1,0 +1,16 @@
+{
+  "id": 933,
+  "cardNumber": "54706054",
+  "name": "The Calibrator",
+  "description": "This card gains ATK equal to the combined Ranks of all face-up Xyz Monsters your opponent controls x 300.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

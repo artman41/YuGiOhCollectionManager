@@ -1,0 +1,16 @@
+{
+  "id": 3666,
+  "cardNumber": "81171949",
+  "name": "Jackpot 7",
+  "description": "When this card is activated: Shuffle this card from the field into the Deck. When this card in your possession is sent to the Graveyard by an opponent's card effect: Banish this card. If 3 of your \"Jackpot 7\" are currently banished, and were all banished by this effect, you win the Duel.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

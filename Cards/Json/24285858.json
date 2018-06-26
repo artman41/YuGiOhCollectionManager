@@ -1,0 +1,16 @@
+{
+  "id": 3036,
+  "cardNumber": "24285858",
+  "name": "Gladiator's Return",
+  "description": "Target 3 \"Gladiator Beast\" cards in your Graveyard; shuffle all 3 targets into the Deck, then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

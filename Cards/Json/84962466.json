@@ -1,0 +1,16 @@
+{
+  "id": 549,
+  "cardNumber": "84962466",
+  "name": "Beast Rising",
+  "description": "Once per turn, you can remove from play 1 face-up Beast-Type or Beast-Warrior-Type monster you control to select 1 other face-up Beast-Type or Beast-Warrior-Type monster you control. The selected monster gains the original ATK of the monster removed from play for this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

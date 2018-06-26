@@ -1,0 +1,16 @@
+{
+  "id": 6903,
+  "cardNumber": "9831539",
+  "name": "Tannhauser Gate",
+  "description": "Target 2 monsters you control of the same Type with 1000 or less ATK; both monsters' Levels become the combined Levels of those 2 monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

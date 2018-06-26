@@ -1,0 +1,16 @@
+{
+  "id": 3751,
+  "cardNumber": "60410769",
+  "name": "Jutte Fighter",
+  "description": "Once per turn, you can change 1 face-up Attack Position monster your opponent controls to face-up Defense Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

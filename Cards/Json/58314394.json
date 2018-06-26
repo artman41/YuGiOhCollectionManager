@@ -1,0 +1,16 @@
+{
+  "id": 8278,
+  "cardNumber": "58314394",
+  "name": "Ground Attacker Bugroth",
+  "description": "A surface battle robot that was once used for sea warfare.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

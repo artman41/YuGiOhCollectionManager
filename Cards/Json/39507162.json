@@ -1,0 +1,16 @@
+{
+  "id": 705,
+  "cardNumber": "39507162",
+  "name": "Blade Knight",
+  "description": "While you have 1 or less cards in your hand, this card gains 400 ATK. If you control no other monsters, the effects of Flip monsters destroyed by battle with this card are negated.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

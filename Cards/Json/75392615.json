@@ -1,0 +1,16 @@
+{
+  "id": 4530,
+  "cardNumber": "75392615",
+  "name": "Mind Haxorz",
+  "description": "Pay 500 Life Points. Look at your opponent's hand and all Set cards on their side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

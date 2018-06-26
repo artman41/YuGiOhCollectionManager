@@ -1,0 +1,16 @@
+{
+  "id": 7285,
+  "cardNumber": "49959355",
+  "name": "Uni-Zombie",
+  "description": "You can target 1 face-up monster on the field; discard 1 card, and if you do, increase that target's Level by 1. You can target 1 face-up monster on the field; monsters you control cannot attack for the rest of this turn, except Zombie-Type monsters, also send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase that target's Level by 1. You can only use each effect of \"Uni-Zombie\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2883,
+  "cardNumber": "83500096",
+  "name": "Genex Ally Solid",
+  "description": "Once per turn, you can send 1 face-up WATER \"Genex\" monster you control to the Graveyard to draw 2 cards.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

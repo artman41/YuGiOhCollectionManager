@@ -1,0 +1,16 @@
+{
+  "id": 7791,
+  "cardNumber": "4064256",
+  "name": "Zombie World",
+  "description": "All monsters on the field and in every GY become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

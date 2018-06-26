@@ -1,0 +1,16 @@
+{
+  "id": 8729,
+  "cardNumber": "77585513",
+  "name": "Jinzo",
+  "description": "Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 773,
+  "cardNumber": "24425055",
+  "name": "Booby Trap E",
+  "description": "Discard 1 card; Set 1 Continuous Trap Card from your hand or Graveyard to your field. That Set card can be activated during this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

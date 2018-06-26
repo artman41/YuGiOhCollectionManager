@@ -1,0 +1,16 @@
+{
+  "id": 4919,
+  "cardNumber": "81330115",
+  "name": "Number 30: Acid Golem of Destruction",
+  "description": "2 Level 3 monsters<br>During your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 3000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

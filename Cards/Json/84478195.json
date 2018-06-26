@@ -1,0 +1,16 @@
+{
+  "id": 495,
+  "cardNumber": "84478195",
+  "name": "Barrier Statue of the Abyss",
+  "description": "No monsters can be Special Summoned, except for DARK monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

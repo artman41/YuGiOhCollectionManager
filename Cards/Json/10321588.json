@@ -1,0 +1,16 @@
+{
+  "id": 6686,
+  "cardNumber": "10321588",
+  "name": "Sunlight Unicorn",
+  "description": "Once per turn: You can excavate the top card of your Deck, and if it is an Equip Spell Card, add it to your hand. Otherwise, place it on the bottom of your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1775,
+  "cardNumber": "56570271",
+  "name": "Destiny HERO - Disk Commander",
+  "description": "When this card is Special Summoned from the Graveyard: Draw 2 cards.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

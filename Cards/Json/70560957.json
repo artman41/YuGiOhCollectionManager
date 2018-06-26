@@ -1,0 +1,16 @@
+{
+  "id": 7049,
+  "cardNumber": "70560957",
+  "name": "Toon Rollback",
+  "description": "Target 1 Toon monster you control; it can make a second attack during each Battle Phase this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

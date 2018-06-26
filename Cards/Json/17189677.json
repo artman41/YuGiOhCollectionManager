@@ -1,0 +1,16 @@
+{
+  "id": 6341,
+  "cardNumber": "17189677",
+  "name": "Snake Rain",
+  "description": "Discard 1 card. Select 4 Reptile-Type monsters from your Deck and send them to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

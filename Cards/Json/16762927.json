@@ -1,0 +1,16 @@
+{
+  "id": 3154,
+  "cardNumber": "16762927",
+  "name": "Gravekeeper's Servant",
+  "description": "Your opponent must send 1 card from the top of their Deck to the Graveyard to declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 446,
+  "cardNumber": "42502956",
+  "name": "Ayers Rock Sunrise",
+  "description": "Target 1 Beast-Type monster in your Graveyard; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast-Type monster currently in your Graveyard, until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

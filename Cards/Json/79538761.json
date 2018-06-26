@@ -1,0 +1,16 @@
+{
+  "id": 7060,
+  "cardNumber": "79538761",
+  "name": "Torque Tune Gear",
+  "description": "Once per turn, you can either: Target 1 monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is treated as a Tuner, it gains 500 ATK and DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\",\"Union\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

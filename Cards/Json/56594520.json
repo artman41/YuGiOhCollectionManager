@@ -1,0 +1,16 @@
+{
+  "id": 2749,
+  "cardNumber": "56594520",
+  "name": "Gaia Power",
+  "description": "All EARTH monsters gain 500 ATK and lose 400 DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

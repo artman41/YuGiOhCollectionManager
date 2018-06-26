@@ -1,0 +1,16 @@
+{
+  "id": 8670,
+  "cardNumber": "40177746",
+  "name": "Eva",
+  "description": "If this card is sent to the GY: You can banish up to 2 other LIGHT Fairy monsters from your field and/or GY; add the same number of Level 2 or lower LIGHT Fairy monsters with different names from your Deck to your hand, except \"Eva\". You can only use this effect of \"Eva\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

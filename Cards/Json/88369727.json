@@ -1,0 +1,16 @@
+{
+  "id": 2607,
+  "cardNumber": "88369727",
+  "name": "Foolish Return",
+  "description": "Select 1 card in your opponent's Graveyard. Return it to the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

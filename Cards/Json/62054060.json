@@ -1,0 +1,16 @@
+{
+  "id": 5994,
+  "cardNumber": "62054060",
+  "name": "Sage of Stillness",
+  "description": "If this card destroys an opponent's monster by battle, your opponent cannot activate Trap Cards during the next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

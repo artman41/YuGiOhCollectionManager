@@ -1,0 +1,16 @@
+{
+  "id": 1572,
+  "cardNumber": "29436665",
+  "name": "Dark Eradicator Warlock",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 \"Dark Magician\", and cannot be Special Summoned by other ways. Each time a Normal Spell Card is activated, inflict 1000 damage to your opponent immediately after it resolves.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

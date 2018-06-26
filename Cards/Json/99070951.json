@@ -1,0 +1,16 @@
+{
+  "id": 2276,
+  "cardNumber": "99070951",
+  "name": "Esper Girl",
+  "description": "When this removed from play card is Special Summoned, remove from play the top card of your Deck, face-down. When this card is sent from the field to the Graveyard, add that removed card to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

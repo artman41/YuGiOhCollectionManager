@@ -1,0 +1,16 @@
+{
+  "id": 7533,
+  "cardNumber": "79814787",
+  "name": "The White Stone of Legend",
+  "description": "If this card is sent to the Graveyard: Add 1 \"Blue-Eyes White Dragon\" from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 250,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

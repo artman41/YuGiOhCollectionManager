@@ -1,0 +1,16 @@
+{
+  "id": 2901,
+  "cardNumber": "93882364",
+  "name": "Genex Worker",
+  "description": "You can Tribute this card to Special Summon 1 \"Genex\" monster from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

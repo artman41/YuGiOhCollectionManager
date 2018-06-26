@@ -1,0 +1,16 @@
+{
+  "id": 2538,
+  "cardNumber": "13761956",
+  "name": "Flamvell Baby",
+  "description": "During your Main Phase, you can send this card from your hand to the Graveyard to select 1 face-up FIRE monster you control and have it gain 400 ATK.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

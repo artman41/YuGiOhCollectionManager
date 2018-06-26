@@ -1,0 +1,16 @@
+{
+  "id": 4375,
+  "cardNumber": "75195825",
+  "name": "Master Pendulum, the Dracoslayer",
+  "description": "Pendulum Effect\n Once, while this card is in your Pendulum Zone: You can target 1 card in a Pendulum Zone; destroy it.\n\n Monster Effect\n \"Luster Pendulum, the Dracoslayer\" continues his journey to uncover the secrets of Dragon Alchemy, believing it is the key to dispelling his curse and restoring his memory. His power continues to grow... perhaps the same power used by the Dracofiends?",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1950,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

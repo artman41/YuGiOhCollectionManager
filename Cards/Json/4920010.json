@@ -1,0 +1,16 @@
+{
+  "id": 8540,
+  "cardNumber": "4920010",
+  "name": "Souls of the Forgotten",
+  "description": "A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

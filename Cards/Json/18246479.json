@@ -1,0 +1,16 @@
+{
+  "id": 8095,
+  "cardNumber": "18246479",
+  "name": "Battle Steer",
+  "description": "A bull monster often found in the woods, it charges enemy monsters with a pair of deadly horns.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

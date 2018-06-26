@@ -1,0 +1,16 @@
+{
+  "id": 8492,
+  "cardNumber": "62193699",
+  "name": "Rock Ogre Grotto #2",
+  "description": "A golem formed by boulders, this monster turns its enemies to stone and crushes them to dust.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

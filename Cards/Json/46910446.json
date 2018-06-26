@@ -1,0 +1,16 @@
+{
+  "id": 1111,
+  "cardNumber": "46910446",
+  "name": "Chthonian Alliance",
+  "description": "The equipped monster gains 800 ATK for each other face-up monster on the field that has the same name it does.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

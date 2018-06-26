@@ -1,0 +1,16 @@
+{
+  "id": 8590,
+  "cardNumber": "78780140",
+  "name": "Trent",
+  "description": "A guardian of the woods, this massive tree is believed to be immortal.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

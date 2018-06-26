@@ -1,0 +1,16 @@
+{
+  "id": 6834,
+  "cardNumber": "99641328",
+  "name": "Sylvan Komushroomo",
+  "description": "When this card is flipped face-up: You can choose a number from 1 to 5, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can target 1 Spell/Trap Card on the field; destroy that target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

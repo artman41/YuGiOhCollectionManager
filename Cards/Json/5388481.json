@@ -1,0 +1,16 @@
+{
+  "id": 8164,
+  "cardNumber": "5388481",
+  "name": "Darkfire Soldier #1",
+  "description": "An explosive expert from a special elite force.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1150,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

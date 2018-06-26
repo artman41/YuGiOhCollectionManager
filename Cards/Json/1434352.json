@@ -1,0 +1,16 @@
+{
+  "id": 1043,
+  "cardNumber": "1434352",
+  "name": "Chaos Necromancer",
+  "description": "The ATK of this card is the number of Monster Cards in your Graveyard x 300.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

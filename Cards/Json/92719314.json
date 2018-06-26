@@ -1,0 +1,16 @@
+{
+  "id": 1556,
+  "cardNumber": "92719314",
+  "name": "The Dark Creator",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more DARK monsters in your Graveyard while you control no monsters. Once per turn: You can banish 1 DARK monster from your Graveyard to target 1 DARK monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

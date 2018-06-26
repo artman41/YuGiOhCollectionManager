@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "cardNumber": "88412339",
+  "name": "Abyss Actor - Extras",
+  "description": "Pendulum Effect\n If your opponent controls a monster: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Abyss Actor - Extras\" once per turn.\n\n Monster Effect\n You can Tribute this card; place 1 \"Abyss Actor\" Pendulum Monster from your Deck in your Pendulum Zone, also for the rest of this turn, you cannot Special Summon monsters, except \"Abyss Actor\" monsters, nor activate the Pendulum Effect of \"Abyss Actor - Extras\". You can only use this effect of \"Abyss Actor - Extras\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3551,
+  "cardNumber": "17502671",
+  "name": "Infernity General",
+  "description": "If you have no cards in your hand: You can banish this card from your Graveyard to target 2 Level 3 or lower \"Infernity\" monsters in your Graveyard; Special Summon them from the Graveyard, but their effects are negated.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

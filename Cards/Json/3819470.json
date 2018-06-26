@@ -1,0 +1,16 @@
+{
+  "id": 6142,
+  "cardNumber": "3819470",
+  "name": "Seven Tools of the Bandit",
+  "description": "When a Trap Card is activated: Pay 1000 LP; negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

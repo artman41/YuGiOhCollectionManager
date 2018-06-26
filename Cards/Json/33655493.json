@@ -1,0 +1,16 @@
+{
+  "id": 571,
+  "cardNumber": "33655493",
+  "name": "Belial - Marquis of Darkness",
+  "description": "Your opponent cannot target any face-up monster you control, except \"Belial - Marquis of Darkness\", for an attack, or with Spell/Trap effects.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6572,
+  "cardNumber": "44508094",
+  "name": "Stardust Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>During either player's turn, when a card or effect is activated that would destroy a card(s) on the field: You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your Graveyard.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

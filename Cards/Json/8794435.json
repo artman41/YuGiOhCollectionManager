@@ -1,0 +1,16 @@
+{
+  "id": 4287,
+  "cardNumber": "8794435",
+  "name": "Maju Garzett",
+  "description": "The ATK of this card becomes equal to the combined original ATK of the 2 monsters you Tributed for the Tribute Summon of this card.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

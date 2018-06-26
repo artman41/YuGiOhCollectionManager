@@ -1,0 +1,16 @@
+{
+  "id": 5340,
+  "cardNumber": "30312361",
+  "name": "Phantom of Chaos",
+  "description": "Any Battle Damage your opponent takes from battles involving this card becomes 0. Once per turn: You can target 1 Effect Monster in your Graveyard; banish that target, and if you do, until the End Phase, this card's name and ATK become that monster's name and ATK, and it gains that monster's effects. You must control this face-up card to activate and to resolve this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

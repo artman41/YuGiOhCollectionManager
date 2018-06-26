@@ -1,0 +1,16 @@
+{
+  "id": 7221,
+  "cardNumber": "83235263",
+  "name": "Tyranno Infinity",
+  "description": "The original ATK of this card is the number of your banished Dinosaur-Type monsters x 1000.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

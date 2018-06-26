@@ -1,0 +1,16 @@
+{
+  "id": 1868,
+  "cardNumber": "77116346",
+  "name": "Dinomist Charge",
+  "description": "When this card is activated: Add 1 \"Dinomist\" monster from your Deck to your hand. Once per turn, if a \"Dinomist\" card(s) is added from the field to your Extra Deck face-up: Add 1 of those cards to your hand. You can only activate 1 \"Dinomist Charge\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

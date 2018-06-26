@@ -1,0 +1,16 @@
+{
+  "id": 1679,
+  "cardNumber": "34257001",
+  "name": "Dash Warrior",
+  "description": "If this card attacks, it gains 1200 ATK during the Damage Step only.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

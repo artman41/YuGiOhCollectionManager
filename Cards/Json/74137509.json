@@ -1,0 +1,16 @@
+{
+  "id": 3113,
+  "cardNumber": "74137509",
+  "name": "Graceful Dice",
+  "description": "Roll a six-sided die. All monsters you currently control gain ATK and DEF equal to the result x 100, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

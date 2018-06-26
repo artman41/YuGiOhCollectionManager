@@ -1,0 +1,16 @@
+{
+  "id": 4873,
+  "cardNumber": "13391185",
+  "name": "Noble Knight Gwalchavad",
+  "description": "This card is treated as a Normal Monster while face-up on the field. While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes an Effect Monster with this effect.<br>â— You can target 1 \"Noble Knight\" monster in your Graveyard; add it to your hand, and if you do, destroy 1 \"Noble Arms\" Equip Spell Card you control. You can only use this effect of \"Noble Knight Gwalchavad\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

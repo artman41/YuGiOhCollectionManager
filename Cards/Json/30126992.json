@@ -1,0 +1,16 @@
+{
+  "id": 4055,
+  "cardNumber": "30126992",
+  "name": "Lightray Diabolos",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard. Once per turn: You can banish 1 LIGHT monster from your Graveyard, then target 1 Set card your opponent controls; reveal that target, then place that target on either the top or bottom of the Deck.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

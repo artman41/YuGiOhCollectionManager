@@ -1,0 +1,16 @@
+{
+  "id": 2240,
+  "cardNumber": "75043725",
+  "name": "Emissary of the Afterlife",
+  "description": "When this card is sent from the field to the Graveyard: Each player adds 1 Level 3 or lower Normal Monster from their Deck to their hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

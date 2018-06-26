@@ -1,0 +1,16 @@
+{
+  "id": 944,
+  "cardNumber": "91754175",
+  "name": "Caninetaur",
+  "description": "Once per turn, if this card battles an opponent's monster, during damage calculation (in either player's turn): You can send 1 Beast, Beast-Warrior, or Winged Beast-Type monster from your hand or Deck to the Graveyard, and if you do, this card gains ATK equal to the sent monster's Level x 100, until the end of the Battle Phase.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

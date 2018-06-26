@@ -1,0 +1,16 @@
+{
+  "id": 3363,
+  "cardNumber": "75141056",
+  "name": "Hero Mask",
+  "description": "Target 1 face-up monster you control; send 1 \"Elemental HERO\" monster from your Deck to the Graveyard, and if you do, that target's name becomes the sent monster's name, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

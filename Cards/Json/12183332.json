@@ -1,0 +1,16 @@
+{
+  "id": 966,
+  "cardNumber": "12183332",
+  "name": "Card Shuffle",
+  "description": "Pay 300 Life Points to use this card's effect. Shuffle either your or your opponent's Deck. You can only use this effect during your own turn, once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

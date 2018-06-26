@@ -1,0 +1,16 @@
+{
+  "id": 4797,
+  "cardNumber": "52068432",
+  "name": "Nekroz of Trishula",
+  "description": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using any Level 9 monsters, and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Trishula\" once per turn.<br>â— During either player's turn, when a card or effect is activated that targets a \"Nekroz\" monster(s) you control: You can discard this card; negate the activation.<br>â— When this card is Ritual Summoned, you can: Banish exactly 3 of your opponent's cards, 1 each from their hand, field, and Graveyard. (The card in the hand is chosen at random.)",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

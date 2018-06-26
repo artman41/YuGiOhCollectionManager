@@ -1,0 +1,16 @@
+{
+  "id": 5371,
+  "cardNumber": "9354555",
+  "name": "Photon Veil",
+  "description": "Shuffle 3 LIGHT monsters from your hand into the Deck, then add 1 to 3 Level 4 or lower LIGHT monsters from your Deck to your hand. If you add 2 or more monsters, they must have the same name.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8233,
+  "cardNumber": "49003308",
+  "name": "Gagagigo",
+  "description": "This young evildoer used to have an evil heart, but by meeting a special person, he discovered justice.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

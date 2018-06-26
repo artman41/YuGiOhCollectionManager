@@ -1,0 +1,16 @@
+{
+  "id": 5521,
+  "cardNumber": "37192109",
+  "name": "PSY-Framelord Zeta",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn, during either player's turn: You can target 1 Special Summoned monster your opponent controls in face-up Attack Position; banish both that monster and this card from the field, but return them in your next Standby Phase. If this card is in your Graveyard: You can target 1 other \"PSY-Frame\" card in your Graveyard; return this card to the Extra Deck, and if you do, add that target to your hand.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

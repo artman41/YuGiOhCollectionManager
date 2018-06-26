@@ -1,0 +1,16 @@
+{
+  "id": 1912,
+  "cardNumber": "22171591",
+  "name": "Doctor Cranium",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can pay 800 Life Points to add 1 Psychic-Type monster from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

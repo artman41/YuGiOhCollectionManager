@@ -1,0 +1,16 @@
+{
+  "id": 5393,
+  "cardNumber": "10282757",
+  "name": "Planckton",
+  "description": "Apply these effects until the end of this turn.<br>â— Rank 3 or lower Xyz Monsters gain 500 ATK and DEF.<br>â— Rank 4 or higher Xyz Monsters cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

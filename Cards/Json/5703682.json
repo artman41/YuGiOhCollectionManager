@@ -1,0 +1,16 @@
+{
+  "id": 6981,
+  "cardNumber": "5703682",
+  "name": "Thousand Energy",
+  "description": "Increase the original ATK and DEF of all face-up Level 2 Normal Monsters (except Tokens) on your side of the field by 1000 points until the End Phase. Destroy all Level 2 Normal Monsters on your side of the field during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

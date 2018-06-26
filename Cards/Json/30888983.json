@@ -1,0 +1,16 @@
+{
+  "id": 6123,
+  "cardNumber": "30888983",
+  "name": "The Selection",
+  "description": "Pay 1000 Life Points. Negate the Summon of a monster that has the same Type as a monster on the field, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

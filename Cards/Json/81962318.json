@@ -1,0 +1,16 @@
+{
+  "id": 2045,
+  "cardNumber": "81962318",
+  "name": "Dragunity Tribus",
+  "description": "When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

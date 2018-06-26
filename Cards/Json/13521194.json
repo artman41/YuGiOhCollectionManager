@@ -1,0 +1,16 @@
+{
+  "id": 6653,
+  "cardNumber": "13521194",
+  "name": "Stygian Street Patrol",
+  "description": "If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original Level of that monster in the Graveyard x 100. You can banish this card from your Graveyard; Special Summon 1 Fiend-Type monster with 2000 or less ATK from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

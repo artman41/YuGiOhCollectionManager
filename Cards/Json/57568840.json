@@ -1,0 +1,16 @@
+{
+  "id": 1720,
+  "cardNumber": "57568840",
+  "name": "Delta Flyer",
+  "description": "Once per turn, you can select 1 other face-up monster you control and increase its Level by 1.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 673,
+  "cardNumber": "2009101",
+  "name": "Blackwing - Gale the Whirlwind",
+  "description": "If you control a \"Blackwing\" monster other than \"Blackwing - Gale the Whirlwind\", you can Special Summon this card (from your hand). Once per turn: You can target 1 face-up monster your opponent controls; that target's ATK and DEF become half its current ATK and DEF.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4705,
+  "cardNumber": "47507260",
+  "name": "Mystic Swordsman LV2",
+  "description": "At the start of the Damage Step, if this card attacked a face-down Defense Position monster: Destroy that monster. During the End Phase, if this card destroyed a monster by battle this turn: You can send this face-up card to the Graveyard; Special Summon 1 \"Mystic Swordsman LV4\" from your hand or Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

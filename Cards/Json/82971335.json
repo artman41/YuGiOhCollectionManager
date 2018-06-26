@@ -1,0 +1,16 @@
+{
+  "id": 2637,
+  "cardNumber": "82971335",
+  "name": "Fortune Lady Earth",
+  "description": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400 damage to your opponent.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

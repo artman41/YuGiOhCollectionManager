@@ -1,0 +1,16 @@
+{
+  "id": 1655,
+  "cardNumber": "14517422",
+  "name": "Darklord Contact",
+  "description": "Special Summon 1 \"Darklord\" monster from your Graveyard in Defense Position. You can only activate 1 \"Darklord Contact\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

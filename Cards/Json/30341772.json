@@ -1,0 +1,16 @@
+{
+  "id": 7314,
+  "cardNumber": "30341772",
+  "name": "Utopia Buster",
+  "description": "If you control a \"Utopia\" monster: Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied), and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4819,
+  "cardNumber": "47274077",
+  "name": "Neos Force",
+  "description": "Equip only to \"Elemental HERO Neos\". It gains 800 ATK. When it destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the original ATK of the destroyed monster in the Graveyard. During the End Phase: Shuffle this card into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

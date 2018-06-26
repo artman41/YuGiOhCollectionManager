@@ -1,0 +1,16 @@
+{
+  "id": 2659,
+  "cardNumber": "83866861",
+  "name": "Frightfur Chimera",
+  "description": "3 \"Frightfur\" monsters<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles, your opponent cannot activate cards or effects until the end of the Damage Step. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your field, but its ATK is halved. You can only use this effect of \"Frightfur Chimera\" once per turn. This card gains 300 ATK for each monster you control that is owned by your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

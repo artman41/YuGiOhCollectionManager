@@ -1,0 +1,16 @@
+{
+  "id": 1164,
+  "cardNumber": "65496056",
+  "name": "Codarus",
+  "description": "You can send 1 face-up \"Umi\" you control to the Graveyard to target up to 2 cards your opponent controls; send those targets to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

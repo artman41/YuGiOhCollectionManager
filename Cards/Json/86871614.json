@@ -1,0 +1,16 @@
+{
+  "id": 1138,
+  "cardNumber": "86871614",
+  "name": "Cloning",
+  "description": "When your opponent Normal or Flip Summons a monster that has a Level: Target that face-up monster; Special Summon 1 \"Clone Token\", with the same original Type, Attribute, Level, ATK, and DEF as that target. When that target is destroyed and sent to the GY, destroy this Token.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1985,
+  "cardNumber": "21970285",
+  "name": "Dragon Horn Hunter",
+  "description": "Pendulum Effect\n All Normal Monsters gain 200 ATK. You take no battle damage from battles involving Normal Monsters you control.\n\n Monster Effect\n The horns were needed to prepare a medicine for her village, suffering from a plague. Unknown to her, the dragons burned and trampled her village, once displaced from their den.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

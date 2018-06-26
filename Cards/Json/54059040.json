@@ -1,0 +1,16 @@
+{
+  "id": 2135,
+  "cardNumber": "54059040",
+  "name": "Eisbahn",
+  "description": "When a monster with an Attribute other than WATER is Normal or Special Summoned (including face-down Summons), and you control a face-up WATER monster: That Summoned monster is changed to Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

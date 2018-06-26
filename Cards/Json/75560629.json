@@ -1,0 +1,16 @@
+{
+  "id": 2557,
+  "cardNumber": "75560629",
+  "name": "Flint",
+  "description": "A monster equipped with this card loses 300 ATK and cannot change its Battle Position or attack. If the equipped monster is destroyed, select 1 monster on the field and equip this card to that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

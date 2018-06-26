@@ -1,0 +1,16 @@
+{
+  "id": 6915,
+  "cardNumber": "65236257",
+  "name": "Tellarknight Genesis",
+  "description": "Destroy Spell/Trap Cards on the field equal to the number of other \"tellarknight\" cards you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1304,
+  "cardNumber": "32933942",
+  "name": "Crystal Beast Amethyst Cat",
+  "description": "This card can attack your opponent directly, but when it uses this effect, any Battle Damage it inflicts to your opponent is halved. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

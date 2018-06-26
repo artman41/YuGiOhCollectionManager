@@ -1,0 +1,16 @@
+{
+  "id": 1108,
+  "cardNumber": "42239546",
+  "name": "Chrysalis Mole",
+  "description": "You can Tribute this card while \"Neo Space\" is face-up on the field to Special Summon 1 \"Neo-Spacian Grand Mole\" from your hand or Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

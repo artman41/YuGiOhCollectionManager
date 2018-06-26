@@ -1,0 +1,16 @@
+{
+  "id": 5062,
+  "cardNumber": "97173708",
+  "name": "Oh Tokenbaum!",
+  "description": "Tribute 2 or more Tokens with the same Level, then target monsters in your Graveyard with that same Level, up to the number of Tokens Tributed; Special Summon those targets. Their effects are negated. Destroy them during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

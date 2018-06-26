@@ -1,0 +1,16 @@
+{
+  "id": 3282,
+  "cardNumber": "58441120",
+  "name": "Harmonic Waves",
+  "description": "Target 1 face-up monster on the field; it becomes Level 4 until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

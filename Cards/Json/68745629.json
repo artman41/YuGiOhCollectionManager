@@ -1,0 +1,16 @@
+{
+  "id": 2189,
+  "cardNumber": "68745629",
+  "name": "Elemental HERO Inferno",
+  "description": "\"Elemental HERO Heat\" + \"Elemental HERO Lady Heat\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card battles a WATER monster, this card gains 1000 ATK during the Damage Step only.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

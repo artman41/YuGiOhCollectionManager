@@ -1,0 +1,16 @@
+{
+  "id": 1575,
+  "cardNumber": "13722870",
+  "name": "Dark Flare Knight",
+  "description": "\"Dark Magician\" + \"Flame Swordsman\"<br>You take no Battle Damage from battles involving this card. When this card is destroyed by battle and sent to the Graveyard: Special Summon 1 \"Mirage Knight\" from your hand or Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

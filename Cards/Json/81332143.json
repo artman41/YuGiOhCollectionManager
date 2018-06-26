@@ -1,0 +1,16 @@
+{
+  "id": 7748,
+  "cardNumber": "81332143",
+  "name": "Yu-Jo Friendship",
+  "description": "Offer your opponent a handshake. If they accept your handshake, each player's Life Points become half the combined Life Points of both players. If you have \"Unity\" in your hand and show it to your opponent, they must accept the handshake.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

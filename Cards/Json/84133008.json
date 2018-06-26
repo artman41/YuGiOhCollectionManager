@@ -1,0 +1,16 @@
+{
+  "id": 4620,
+  "cardNumber": "84133008",
+  "name": "Monster Eye",
+  "description": "You can pay 1000 Life Points; add 1 \"Polymerization\" from your Graveyard to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 250,
+  "def": 350,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

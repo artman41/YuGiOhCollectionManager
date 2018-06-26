@@ -1,0 +1,16 @@
+{
+  "id": 6778,
+  "cardNumber": "70771599",
+  "name": "Supreme King Dragon Clear Wing",
+  "description": "1 Tuner + 1+ non-Tuner DARK Pendulum Monsters<br>If this card is Synchro Summoned: You can destroy all face-up monsters your opponent controls. Once per turn, before damage calculation, if this card battles an opponent's monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. If this card is in your GY: You can Tribute 2 \"Supreme King Dragon\" monsters; Special Summon this card.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

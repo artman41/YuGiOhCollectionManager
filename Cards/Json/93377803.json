@@ -1,0 +1,16 @@
+{
+  "id": 8959,
+  "cardNumber": "93377803",
+  "name": "Sword of Toxic Solitude",
+  "description": "Equip only to a monster you control. If the equipped monster battles an opponent's monster, double its original ATK/DEF during that damage calculation only. If you control a monster other than the equipped monster, send this card to the GY. You can only control 1 \"Sword of Toxic Solitude\".",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

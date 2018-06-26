@@ -1,0 +1,16 @@
+{
+  "id": 3679,
+  "cardNumber": "50532786",
+  "name": "Jawsman",
+  "description": "Cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WATER. This card gains 300 ATK for each face-up WATER monster you control, except this card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

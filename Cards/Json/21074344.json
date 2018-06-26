@@ -1,0 +1,16 @@
+{
+  "id": 3335,
+  "cardNumber": "21074344",
+  "name": "Herald of Green Light",
+  "description": "When your opponent activates a Spell Card (Quick Effect): You can send this card and 1 other Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

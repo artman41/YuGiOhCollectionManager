@@ -1,0 +1,16 @@
+{
+  "id": 5758,
+  "cardNumber": "74677422",
+  "name": "Red-Eyes B. Dragon",
+  "description": "A ferocious dragon with a deadly attack.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

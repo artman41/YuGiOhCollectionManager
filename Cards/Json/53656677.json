@@ -1,0 +1,16 @@
+{
+  "id": 5431,
+  "cardNumber": "53656677",
+  "name": "Power Frame",
+  "description": "When a face-up monster you control is targeted for an attack by a monster with a higher ATK: Target the attack target; negate that attack, and if you do, equip this card to that target. The equipped monster gains ATK equal to the difference between its ATK and the ATK of its attacker when this card resolves.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

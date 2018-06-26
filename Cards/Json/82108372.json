@@ -1,0 +1,16 @@
+{
+  "id": 4678,
+  "cardNumber": "82108372",
+  "name": "Mudora",
+  "description": "This card gains 200 ATK for each Fairy-Type monster in your Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

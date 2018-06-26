@@ -1,0 +1,16 @@
+{
+  "id": 6917,
+  "cardNumber": "87608852",
+  "name": "Temperance of Prophecy",
+  "description": "During your Main Phase, if you have activated a \"Spellbook\" Spell Card previously this turn: You can Tribute this card; Special Summon 1 Level 5 or higher LIGHT or DARK Spellcaster-Type monster from your Deck. You cannot Special Summon another Level 5 or higher monster during the turn you activate this effect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

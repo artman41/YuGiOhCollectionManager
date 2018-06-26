@@ -1,0 +1,16 @@
+{
+  "id": 3872,
+  "cardNumber": "59496924",
+  "name": "Kozmo Landwalker",
+  "description": "If a \"Kozmo\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy 1 other \"Kozmo\" card you control instead. If this card is destroyed by battle or card effect and sent to the Graveyard: You can banish this card from your Graveyard; Special Summon 1 Level 5 or lower \"Kozmo\" monster from your Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7687,
+  "cardNumber": "30600344",
+  "name": "Xyz Burst",
+  "description": "If you control a Rank 6 or higher Xyz Monster: Destroy all Set cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

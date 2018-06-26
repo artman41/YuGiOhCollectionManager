@@ -1,0 +1,16 @@
+{
+  "id": 8813,
+  "cardNumber": "7969770",
+  "name": "Transfamiliar",
+  "description": "Once per turn: You can target 1 monster you control; move that monster you control to another of your Main Monster Zones.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8657,
+  "cardNumber": "30090452",
+  "name": "Zanki",
+  "description": "His swiftly drawn blade delivers quick and fatal damage.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

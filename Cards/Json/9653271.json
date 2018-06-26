@@ -1,0 +1,16 @@
+{
+  "id": 3769,
+  "cardNumber": "9653271",
+  "name": "Kaminari Attack",
+  "description": "\"Ocubeam\" + \"Mega Thunderball\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

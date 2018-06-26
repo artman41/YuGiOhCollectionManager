@@ -1,0 +1,16 @@
+{
+  "id": 8569,
+  "cardNumber": "46247516",
+  "name": "Tao the Chanter",
+  "description": "Master of Yin and Yang, this wizard handles a delicate balance of spells and counter spells.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

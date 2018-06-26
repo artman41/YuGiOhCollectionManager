@@ -1,0 +1,16 @@
+{
+  "id": 4831,
+  "cardNumber": "51126152",
+  "name": "Night Express Knight",
+  "description": "Cannot be Special Summoned from the Deck. You can Normal Summon this card without Tributing, but its original ATK becomes 0.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

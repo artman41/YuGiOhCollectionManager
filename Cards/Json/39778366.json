@@ -1,0 +1,16 @@
+{
+  "id": 7296,
+  "cardNumber": "39778366",
+  "name": "Union Scramble",
+  "description": "Target up to 3 of your banished LIGHT Machine-Type Normal Monsters and/or LIGHT Machine-Type Union monsters; Special Summon them. During either player's turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished LIGHT Machine-Type Normal Monsters or LIGHT Machine-Type Union monsters; return it to the hand. You can only activate 1 \"Union Scramble\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

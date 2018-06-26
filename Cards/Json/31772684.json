@@ -1,0 +1,16 @@
+{
+  "id": 7356,
+  "cardNumber": "31772684",
+  "name": "Vendread Revenants",
+  "description": "If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains this effect. You can only use the preceding effect of \"Vendread Revenants\" once per turn.<br>â— Once per turn (Quick Effect): You can target 1 Special Summoned monster your opponent controls; banish it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

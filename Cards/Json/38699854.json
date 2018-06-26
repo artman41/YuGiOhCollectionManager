@@ -1,0 +1,16 @@
+{
+  "id": 779,
+  "cardNumber": "38699854",
+  "name": "Book of Taiyou",
+  "description": "Flip 1 face-down monster on the field into face-up Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

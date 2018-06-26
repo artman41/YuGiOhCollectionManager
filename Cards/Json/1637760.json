@@ -1,0 +1,16 @@
+{
+  "id": 3121,
+  "cardNumber": "1637760",
+  "name": "Grand Horn of Heaven",
+  "description": "During your opponent's Main Phase, when they would Special Summon a monster(s): Negate the Summon, and if you do, destroy that monster, then your opponent draws 1 card, then end the Main Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

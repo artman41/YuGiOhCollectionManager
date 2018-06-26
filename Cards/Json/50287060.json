@@ -1,0 +1,16 @@
+{
+  "id": 314,
+  "cardNumber": "50287060",
+  "name": "Archfiend of Gilfer",
+  "description": "When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

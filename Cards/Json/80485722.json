@@ -1,0 +1,16 @@
+{
+  "id": 7328,
+  "cardNumber": "80485722",
+  "name": "Vampire Hunter",
+  "description": "At the start of the Damage Step, if this card battles a DARK monster: Destroy that monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

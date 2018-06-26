@@ -1,0 +1,16 @@
+{
+  "id": 5092,
+  "cardNumber": "44762290",
+  "name": "Opti-Camouflage Armor",
+  "description": "You can only equip this card to a Level 1 monster. A monster equipped with this card can attack your opponent's Life Points directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

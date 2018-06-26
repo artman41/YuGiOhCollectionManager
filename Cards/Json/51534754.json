@@ -1,0 +1,16 @@
+{
+  "id": 7734,
+  "cardNumber": "51534754",
+  "name": "Yomi Ship",
+  "description": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

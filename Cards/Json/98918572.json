@@ -1,0 +1,16 @@
+{
+  "id": 7803,
+  "cardNumber": "98918572",
+  "name": "Zoodiac Gathering",
+  "description": "If a \"Zoodiac\" Xyz Monster you control would detach its Xyz Material(s) to activate an effect, you can detach Xyz Material(s) from another Xyz Monster(s) you control instead. You can only use this effect of \"Zoodiac Gathering\" once per turn. You can banish this card from your Graveyard, then target 2 \"Zoodiac\" Xyz Monsters you control; attach 1 of those monsters to the other monster as Xyz Material.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

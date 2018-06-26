@@ -1,0 +1,16 @@
+{
+  "id": 8524,
+  "cardNumber": "10202894",
+  "name": "Skull Red Bird",
+  "description": "This monster swoops down and attacks with a rain of knives stored in its wings.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1550,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

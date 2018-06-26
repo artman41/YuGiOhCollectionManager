@@ -1,0 +1,16 @@
+{
+  "id": 529,
+  "cardNumber": "76589815",
+  "name": "Battlin' Boxer Cheat Commissioner",
+  "description": "2 Level 3 monsters<br>All monsters your opponent controls must attack, if able. While you control another \"Battlin' Boxer\" monster, your opponent cannot target this card for attacks. When an attack is declared involving another \"Battlin' Boxer\" monster you control: You can detach 2 Xyz Materials from this card; look at your opponent's hand, then Set 1 Spell Card from their hand to your side of the field.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 0,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

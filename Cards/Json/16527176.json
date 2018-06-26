@@ -1,0 +1,16 @@
+{
+  "id": 4750,
+  "cardNumber": "16527176",
+  "name": "Naturia Leodrake",
+  "description": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3745,
+  "cardNumber": "59312550",
+  "name": "Jurrac Velo",
+  "description": "When this face-up Attack Position card attacks or is attacked, and it is destroyed by battle and sent to the Graveyard, you can Special Summon 1 \"Jurrac\" monster with 1700 or less ATK from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

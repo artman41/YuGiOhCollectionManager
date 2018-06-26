@@ -1,0 +1,16 @@
+{
+  "id": 4363,
+  "cardNumber": "10189126",
+  "name": "Masked Sorcerer",
+  "description": "When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

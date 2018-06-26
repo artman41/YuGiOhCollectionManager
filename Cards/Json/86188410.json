@@ -1,0 +1,16 @@
+{
+  "id": 2221,
+  "cardNumber": "86188410",
+  "name": "Elemental HERO Wildheart",
+  "description": "This card is unaffected by Trap effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

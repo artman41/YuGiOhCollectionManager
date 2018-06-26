@@ -1,0 +1,16 @@
+{
+  "id": 5281,
+  "cardNumber": "52963531",
+  "name": "Performapal Splashmammoth",
+  "description": "Pendulum Effect\n Once per turn, when a Fusion Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can Special Summon 1 face-up \"Odd-Eyes\" Pendulum Monster from your Extra Deck.\n\n Monster Effect\n During your Main Phase: You can Fusion Summon 1 Dragon-Type Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials. You can only use this effect of \"Performapal Splashmammoth\" once per Duel.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

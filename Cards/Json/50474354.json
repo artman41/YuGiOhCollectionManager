@@ -1,0 +1,16 @@
+{
+  "id": 878,
+  "cardNumber": "50474354",
+  "name": "Bujingi Peacock",
+  "description": "During your Main Phase 2: You can send this card from your hand to the Graveyard; add 1 \"Bujin\" monster from your Deck to your hand. You cannot activate cards or effects the turn you activate this effect, except \"Bujin\" cards. You can only use the effect of \"Bujingi Peacock\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

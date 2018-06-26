@@ -1,0 +1,16 @@
+{
+  "id": 536,
+  "cardNumber": "35537251",
+  "name": "Battlin' Boxer Shadow",
+  "description": "During your Main Phase: You can detach 1 Xyz Material from a \"Battlin' Boxer\" Xyz Monster you control, and if you do, Special Summon this card from your hand. You can only use this effect of \"Battlin' Boxer Shadow\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

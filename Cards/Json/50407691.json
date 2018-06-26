@@ -1,0 +1,16 @@
+{
+  "id": 3497,
+  "cardNumber": "50407691",
+  "name": "Igknight Margrave",
+  "description": "Pendulum Effect\n If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n Monster Effect\n A high-ranking Igknight warrior. When he does enter the fray, his sweeping attacks are feared not just by the enemy but also his own troops.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

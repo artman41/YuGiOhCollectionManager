@@ -1,0 +1,16 @@
+{
+  "id": 1260,
+  "cardNumber": "30488793",
+  "name": "Counterforce",
+  "description": "When a monster's attack is negated that targeted a face-up Attack Position monster: Inflict damage to your opponent equal to the difference in ATK between the 2 monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1864,
+  "cardNumber": "58984738",
+  "name": "Dinomight Knight, the True Dracofighter",
+  "description": "To Tribute Summon this card face-up, you can Tribute a Continuous Spell/Trap Card you control, instead of a monster. Once per turn, during either player's turn, when your opponent activates a card or effect while you control this Tribute Summoned monster: You can take 1 \"True Draco\" or \"True King\" Continuous Trap Card from your Deck, and either activate it or add it to your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Wyrm\"]"
+}

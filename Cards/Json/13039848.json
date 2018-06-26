@@ -1,0 +1,16 @@
+{
+  "id": 8255,
+  "cardNumber": "13039848",
+  "name": "Giant Soldier of Stone",
+  "description": "A giant warrior made of stone. A punch from this creature has earth-shaking results.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

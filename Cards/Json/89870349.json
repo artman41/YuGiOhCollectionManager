@@ -1,0 +1,16 @@
+{
+  "id": 4355,
+  "cardNumber": "89870349",
+  "name": "Masked HERO Blast",
+  "description": "Must be Special Summoned with \"Mask Change\" and cannot be Special Summoned by other ways. If this card is Special Summoned: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK. Once per turn, during either player's turn: You can pay 500 LP, then target 1 Spell/Trap Card your opponent controls; return it to the hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

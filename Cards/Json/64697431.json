@@ -1,0 +1,16 @@
+{
+  "id": 8855,
+  "cardNumber": "64697431",
+  "name": "Hey, Trunade!",
+  "description": "Return all Set Spells and Traps on the field to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

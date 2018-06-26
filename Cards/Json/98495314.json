@@ -1,0 +1,16 @@
+{
+  "id": 6816,
+  "cardNumber": "98495314",
+  "name": "Sword of Deep-Seated",
+  "description": "Increase the ATK and DEF of a monster equipped with this card by 500 points. When this card is sent to the Graveyard, place it on top of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

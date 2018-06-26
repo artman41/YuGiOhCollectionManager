@@ -1,0 +1,16 @@
+{
+  "id": 8807,
+  "cardNumber": "19636995",
+  "name": "Rapid Red Hared Mare",
+  "description": "If a column has no cards in it, you can Special Summon this card (from your hand) to that column in Attack Position. You can only Special Summon \"Rapid Red Hared Mare\" once per turn this way. If another card is placed in this card's column: Destroy this card. Once per turn: You can halve this card's original ATK for the rest of this turn, but it can attack directly this turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

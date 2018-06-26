@@ -1,0 +1,16 @@
+{
+  "id": 3918,
+  "cardNumber": "81128478",
+  "name": "Lair Wire",
+  "description": "Remove from play 1 Insect-Type monster from your Graveyard and select 1 monster your opponent controls. Destroy the selected monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8290,
+  "cardNumber": "89987208",
+  "name": "Hero of the East",
+  "description": "Feel da strength ah dis sword-swinging samurai from da Far East.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8327,
+  "cardNumber": "84103702",
+  "name": "Kanikabuto",
+  "description": "A monster crab with huge claws for clipping enemies to little pieces.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 650,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

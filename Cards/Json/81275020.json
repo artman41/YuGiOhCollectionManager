@@ -1,0 +1,16 @@
+{
+  "id": 6442,
+  "cardNumber": "81275020",
+  "name": "Speedroid Terrortop",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can add 1 \"Speedroid\" monster from your Deck to your hand, except \"Speedroid Terrortop\". You can only use this effect of \"Speedroid Terrortop\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

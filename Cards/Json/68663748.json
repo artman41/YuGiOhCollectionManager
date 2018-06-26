@@ -1,0 +1,16 @@
+{
+  "id": 2642,
+  "cardNumber": "68663748",
+  "name": "Fortune's Future",
+  "description": "Select 1 of your removed from play \"Fortune Lady\" monsters and return it to the Graveyard. Then draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

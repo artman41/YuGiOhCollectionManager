@@ -1,0 +1,16 @@
+{
+  "id": 7036,
+  "cardNumber": "5832914",
+  "name": "Toon Briefcase",
+  "description": "When your opponent Summons a monster(s) while you control a Toon monster: Shuffle that monster(s) into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

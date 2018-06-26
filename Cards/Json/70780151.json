@@ -1,0 +1,16 @@
+{
+  "id": 6979,
+  "cardNumber": "70780151",
+  "name": "Thought Ruler Archfiend",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card destroys a monster by battle and sends it to the Graveyard: Gain LP equal to that monster's original ATK in the Graveyard. During either player's turn, when a Spell/Trap Card is activated that targets exactly 1 Psychic-Type monster (and no other cards): You can pay 1000 LP; negate the activation, and if you do, destroy it.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

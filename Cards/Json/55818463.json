@@ -1,0 +1,16 @@
+{
+  "id": 4025,
+  "cardNumber": "55818463",
+  "name": "Lich Lord, King of the Underworld",
+  "description": "If you Tribute Summon this card, the Tribute must be DARK. If this card is Tributed by a card's effect and sent to the Graveyard, it returns to its owner's hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4581,
+  "cardNumber": "12836042",
+  "name": "Missing Force",
+  "description": "If you control no other monsters: You can Tribute this card to target 1 monster your opponent controls; take control of that target until the End Phase. You cannot Special Summon or conduct your Battle Phase the turn you activate this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

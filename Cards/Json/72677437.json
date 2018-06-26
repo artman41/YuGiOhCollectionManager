@@ -1,0 +1,16 @@
+{
+  "id": 7362,
+  "cardNumber": "72677437",
+  "name": "Vennominon the King of Poisonous Snakes",
+  "description": "Cannot be Special Summoned by another Effect Monster's effect. This card is unaffected by \"Venom Swamp\". This card gains 500 ATK for each Reptile-Type monster in your Graveyard. When this card is destroyed by battle and sent to the Graveyard: You can banish 1 other Reptile-Type monster from your Graveyard; Special Summon this card.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

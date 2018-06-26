@@ -1,0 +1,16 @@
+{
+  "id": 130,
+  "cardNumber": "72845813",
+  "name": "Ally of Justice Quarantine",
+  "description": "Neither player can Special Summon LIGHT monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

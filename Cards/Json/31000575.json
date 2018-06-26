@@ -1,0 +1,16 @@
+{
+  "id": 1194,
+  "cardNumber": "31000575",
+  "name": "Conscription",
+  "description": "Excavate the top card of your opponent's Deck, and if it is a monster that can be Normal Summoned/Set, Special Summon it to your side of the field. Otherwise, add that card to your opponent's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7502,
+  "cardNumber": "81028112",
+  "name": "Wattsychic Fighter",
+  "description": "When this card is Normal or Special Summoned: You can target 1 card in your opponent's Graveyard; place it on either the top or bottom of their Deck. You can only use this effect of \"Wattsychic Fighter\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

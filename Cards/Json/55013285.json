@@ -1,0 +1,16 @@
+{
+  "id": 7158,
+  "cardNumber": "55013285",
+  "name": "Troop Dragon",
+  "description": "If this card is destroyed and sent to the Graveyard as a result of battle, select and Special Summon 1 \"Troop Dragon\" from your Deck to your side of the field. Then shuffle your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

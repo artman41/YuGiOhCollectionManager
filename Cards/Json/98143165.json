@@ -1,0 +1,16 @@
+{
+  "id": 6856,
+  "cardNumber": "98143165",
+  "name": "Synchro Boost",
+  "description": "The equipped monster gains 500 ATK, and its Level is increased by 1.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

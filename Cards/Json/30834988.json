@@ -1,0 +1,16 @@
+{
+  "id": 111,
+  "cardNumber": "30834988",
+  "name": "All-Out Attacks",
+  "description": "All monsters that are Special Summoned are changed to face-up Attack Position and must attack, if able, during the turn they are Special Summoned.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

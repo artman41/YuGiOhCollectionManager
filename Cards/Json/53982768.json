@@ -1,0 +1,16 @@
+{
+  "id": 1617,
+  "cardNumber": "53982768",
+  "name": "Dark Ruler Ha Des",
+  "description": "Cannot be Special Summoned from the Graveyard. Negate the effects of monsters destroyed by battle with Fiend-Type monsters you control.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2450,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

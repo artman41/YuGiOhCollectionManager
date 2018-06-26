@@ -1,0 +1,16 @@
+{
+  "id": 2880,
+  "cardNumber": "94622638",
+  "name": "Genex Ally Powercell",
+  "description": "Other face-up monsters you control with the same Attribute as this card gain 500 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3393,
+  "cardNumber": "86943389",
+  "name": "Hi-Speedroid Puzzle",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>At the start of the Damage Step, if this card battles a Special Summoned monster: You can make this card's ATK become double its current ATK until the end of the Damage Step. Once per turn, during the End Phase, if this card is in the Graveyard because this Synchro Summoned card was sent there from the field this turn: You can target 1 \"Speedroid\" monster in your Graveyard, except \"Hi-Speedroid Puzzle\"; add it to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

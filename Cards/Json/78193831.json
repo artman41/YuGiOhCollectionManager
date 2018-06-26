@@ -1,0 +1,16 @@
+{
+  "id": 908,
+  "cardNumber": "78193831",
+  "name": "Buster Blader",
+  "description": "This card gains 500 ATK for each Dragon-Type monster your opponent controls or is in their Graveyard.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8797,
+  "cardNumber": "24224830",
+  "name": "Designator From the Grave",
+  "description": "Target 1 monster in your opponent's GY; banish it, and if you do, monsters with the same name as that banished monster have their effects negated until the end of the next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

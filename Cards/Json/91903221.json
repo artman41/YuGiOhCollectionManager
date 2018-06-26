@@ -1,0 +1,16 @@
+{
+  "id": 2339,
+  "cardNumber": "91903221",
+  "name": "Evoltile Elginero",
+  "description": "When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 \"Evoltile\" monster from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

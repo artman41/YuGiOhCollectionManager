@@ -1,0 +1,16 @@
+{
+  "id": 1029,
+  "cardNumber": "25652655",
+  "name": "Changer Synchron",
+  "description": "If this card is sent to the Graveyard for a Synchro Summon, select 1 monster your opponent controls and change its battle position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

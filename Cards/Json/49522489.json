@@ -1,0 +1,16 @@
+{
+  "id": 561,
+  "cardNumber": "49522489",
+  "name": "Beelze Frog",
+  "description": "This card gains 300 ATK for each \"T.A.D.P.O.L.E.\" in your Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3452,
+  "cardNumber": "30353551",
+  "name": "Human-Wave Tactics",
+  "description": "During the End Phase of each turn, select a number of Level 2 or lower Normal Monsters from your Deck equal to the number of your Level 2 or lower Normal Monsters destroyed as a result of battle during that turn, and Special Summon them to your side of the field. The Deck is then shuffled.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

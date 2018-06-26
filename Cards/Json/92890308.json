@@ -1,0 +1,16 @@
+{
+  "id": 4638,
+  "cardNumber": "92890308",
+  "name": "Morphtransition",
+  "description": "Activate only when a face-up \"Morphtronic\" monster you control is selected as an attack target. Negate the attack, and change the battle position of the selected \"Morphtronic\" monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4639,
+  "cardNumber": "44424095",
+  "name": "Morphtronic Accelerator",
+  "description": "Return 1 \"Morphtronic\" monster from your hand to the Deck. Destroy 1 card on the field, and draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

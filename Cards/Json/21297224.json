@@ -1,0 +1,16 @@
+{
+  "id": 3480,
+  "cardNumber": "21297224",
+  "name": "Hysteric Fairy",
+  "description": "Tribute 2 monsters on your side of the field to increase your Life Points by 1000 points.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

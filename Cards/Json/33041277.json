@@ -1,0 +1,16 @@
+{
+  "id": 8923,
+  "cardNumber": "33041277",
+  "name": "Cyber Revsystem",
+  "description": "Special Summon 1 \"Cyber Dragon\" from your hand or GY, and if you do, it cannot be destroyed by card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

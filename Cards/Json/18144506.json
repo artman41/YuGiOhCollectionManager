@@ -1,0 +1,16 @@
+{
+  "id": 3293,
+  "cardNumber": "18144506",
+  "name": "Harpie's Feather Duster",
+  "description": "Destroy all Spell and Trap Cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

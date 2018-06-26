@@ -1,0 +1,16 @@
+{
+  "id": 2554,
+  "cardNumber": "9267769",
+  "name": "Flashbang",
+  "description": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

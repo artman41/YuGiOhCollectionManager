@@ -1,0 +1,16 @@
+{
+  "id": 6943,
+  "cardNumber": "16469012",
+  "name": "Teva",
+  "description": "When this card is Tribute Summoned successfully, your opponent cannot declare an attack during his/her next turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

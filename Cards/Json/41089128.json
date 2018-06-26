@@ -1,0 +1,16 @@
+{
+  "id": 2533,
+  "cardNumber": "41089128",
+  "name": "Flame Ruler",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a FIRE monster",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

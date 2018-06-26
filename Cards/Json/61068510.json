@@ -1,0 +1,16 @@
+{
+  "id": 7055,
+  "cardNumber": "61068510",
+  "name": "Tornado",
+  "description": "Activate only when there are 3 or more cards in your opponent's Spell &amp; Trap Card Zone. Destroy 1 card in your opponent's Spell &amp; Trap Card Zone.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

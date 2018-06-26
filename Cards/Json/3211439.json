@@ -1,0 +1,16 @@
+{
+  "id": 2609,
+  "cardNumber": "3211439",
+  "name": "Forbidden Apocrypha",
+  "description": "Declare 1 Extra Deck monster card type (Fusion, Synchro, or Xyz); if 2 or more monsters of the declared type are on the field, make each player send all monsters of that type from their field to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5613,
+  "cardNumber": "12624008",
+  "name": "Radiant Spirit",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-LIGHT monsters.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

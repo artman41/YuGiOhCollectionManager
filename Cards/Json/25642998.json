@@ -1,0 +1,16 @@
+{
+  "id": 5413,
+  "cardNumber": "25642998",
+  "name": "Poseidon Wave",
+  "description": "When an opponent's monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict 800 damage to your opponent for each face-up Fish, Sea Serpent, or Aqua-Type monster you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

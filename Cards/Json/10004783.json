@@ -1,0 +1,16 @@
+{
+  "id": 1315,
+  "cardNumber": "10004783",
+  "name": "Crystal Release",
+  "description": "Equip only to a \"Crystal Beast\" monster. It gains 800 ATK. When this card is sent from the field to the GY: You can place 1 \"Crystal Beast\" monster from your Deck face-up in your Spell &amp; Trap Zone as a Continuous Spell.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

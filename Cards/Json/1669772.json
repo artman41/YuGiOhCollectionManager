@@ -1,0 +1,16 @@
+{
+  "id": 6453,
+  "cardNumber": "1669772",
+  "name": "Spell Purification",
+  "description": "Discard 1 card from your hand. Destroy all face-up Continuous Spell Cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

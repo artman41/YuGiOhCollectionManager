@@ -1,0 +1,16 @@
+{
+  "id": 941,
+  "cardNumber": "45133463",
+  "name": "Call of the Reaper",
+  "description": "Activate only when a monster(s) is Special Summoned from your Graveyard. Select and Special Summon 1 \"Supay\" or 1 \"Fire Ant Ascator\" from your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

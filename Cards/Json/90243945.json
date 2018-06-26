@@ -1,0 +1,16 @@
+{
+  "id": 7549,
+  "cardNumber": "90243945",
+  "name": "Wightprincess",
+  "description": "This cardâ€™s name becomes \"Skull Servant\" while it is in the Graveyard. If this card is Normal or Special Summoned: You can send 1 \"Wightprince\" from your Deck to the Graveyard. During either player's turn: You can send this card from your hand or field to the Graveyard; all monsters currently on the field lose ATK and DEF equal to their own Level/Rank x 300, until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

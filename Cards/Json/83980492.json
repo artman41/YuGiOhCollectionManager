@@ -1,0 +1,16 @@
+{
+  "id": 2012,
+  "cardNumber": "83980492",
+  "name": "Dragong",
+  "description": "This gong harbors the soul of an untamed dragon. It soars though the skies with an incredible roar, marshaling all those who hear its call to battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

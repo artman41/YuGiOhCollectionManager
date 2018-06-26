@@ -1,0 +1,16 @@
+{
+  "id": 5268,
+  "cardNumber": "36527535",
+  "name": "Performapal Revue Dancer",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card can be treated as 2 Tributes for the Tribute Summon of a \"Performapal\" monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

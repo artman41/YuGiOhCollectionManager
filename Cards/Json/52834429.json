@@ -1,0 +1,16 @@
+{
+  "id": 7837,
+  "cardNumber": "52834429",
+  "name": "Aurora Weathery Pattern",
+  "description": "You can only control 1 \"Aurora Weathery Pattern\". \"Weathery\" Effect Monsters in your Main Monster Zone in the same column as this card, and Main Monster Zones adjacent to that zone, gain this effect.<br>â— When exactly 1 card is added to either player's hand (except during the Damage Step): You can banish this card; banish that card, and if you do, that player draws 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

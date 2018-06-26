@@ -1,0 +1,16 @@
+{
+  "id": 8294,
+  "cardNumber": "96851799",
+  "name": "Hinotama Soul",
+  "description": "An intensely hot flame creature that rams anything standing in its way.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

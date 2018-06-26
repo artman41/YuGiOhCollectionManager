@@ -1,0 +1,16 @@
+{
+  "id": 1972,
+  "cardNumber": "16960351",
+  "name": "Dracocension",
+  "description": "Once per turn: You can Tribute 1 Dragon-Type monster that has a Level; Special Summon, from your Deck, 1 Wyrm-Type monster with the same Level as the Tributed monster's original Level, and if you do, any monster destroyed by battle with that monster is shuffled into the Deck instead of going to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

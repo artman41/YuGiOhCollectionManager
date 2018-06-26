@@ -1,0 +1,16 @@
+{
+  "id": 8304,
+  "cardNumber": "38982356",
+  "name": "Hyo",
+  "description": "None can survive the cold touch of this sub-zero warrior.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

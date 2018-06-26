@@ -1,0 +1,16 @@
+{
+  "id": 8601,
+  "cardNumber": "94119974",
+  "name": "Two-Headed King Rex",
+  "description": "A powerful monster whose two heads attack as one.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

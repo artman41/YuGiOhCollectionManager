@@ -1,0 +1,16 @@
+{
+  "id": 3251,
+  "cardNumber": "33970665",
+  "name": "Guts of Steel",
+  "description": "Select 3 \"Scrap\" monsters in your Graveyard. Your opponent picks 1 of them, you Special Summon it to either player's side of the field, and remove the rest from play.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

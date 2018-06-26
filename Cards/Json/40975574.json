@@ -1,0 +1,16 @@
+{
+  "id": 5750,
+  "cardNumber": "40975574",
+  "name": "Red Resonator",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand. When this card is Special Summoned: You can target 1 face-up monster on the field; gain LP equal to its ATK. You can only use this effect of \"Red Resonator\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

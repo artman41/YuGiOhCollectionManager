@@ -1,0 +1,16 @@
+{
+  "id": 8401,
+  "cardNumber": "64271667",
+  "name": "Meteor Dragon",
+  "description": "This dragon appeared from the sky and crashed to the earth.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

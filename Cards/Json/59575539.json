@@ -1,0 +1,16 @@
+{
+  "id": 3890,
+  "cardNumber": "59575539",
+  "name": "Krebons",
+  "description": "When this card is targeted for an attack: You can pay 800 LP; negate the attack.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

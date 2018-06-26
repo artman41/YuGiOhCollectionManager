@@ -1,0 +1,16 @@
+{
+  "id": 68,
+  "cardNumber": "38589847",
+  "name": "Advance Force",
+  "description": "You can Tribute 1 Level 5 or higher monster to Tribute Summon a Level 7 or higher monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3089,
+  "cardNumber": "52648457",
+  "name": "Gorgon's Eye",
+  "description": "Until the end of this turn, all effects of Defense Position monsters are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

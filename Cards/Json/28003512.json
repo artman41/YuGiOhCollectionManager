@@ -1,0 +1,16 @@
+{
+  "id": 8320,
+  "cardNumber": "28003512",
+  "name": "The Judgement Hand",
+  "description": "An all-powerful hand that delivers ruthless attacks.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

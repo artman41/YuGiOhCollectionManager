@@ -1,0 +1,16 @@
+{
+  "id": 1511,
+  "cardNumber": "84766279",
+  "name": "Daigusto Gulldos",
+  "description": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters<br>Once per turn: You can shuffle 2 \"Gusto\" monsters from your Graveyard into the Main Deck to target 1 face-up monster your opponent controls; destroy that target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

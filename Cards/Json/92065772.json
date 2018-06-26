@@ -1,0 +1,16 @@
+{
+  "id": 5021,
+  "cardNumber": "92065772",
+  "name": "Numbing Grub in the Ice Barrier",
+  "description": "When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

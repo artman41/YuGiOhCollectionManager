@@ -1,0 +1,16 @@
+{
+  "id": 840,
+  "cardNumber": "1662004",
+  "name": "Brotherhood of the Fire Fist - Spirit",
+  "description": "Cannot be used as a Synchro Material, except for the Synchro Summon of a Beast-Warrior-Type monster. When this card is Normal Summoned: You can target 1 Level 3 FIRE monster with 200 or less DEF in your Graveyard; Special Summon that target in Defense Position, and if you do, monsters you control cannot attack for the rest of this turn, except Beast-Warrior-Type monsters. You can only use this effect of \"Brotherhood of the Fire Fist - Spirit\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

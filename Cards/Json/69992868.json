@@ -1,0 +1,16 @@
+{
+  "id": 8421,
+  "cardNumber": "69992868",
+  "name": "Muse-A",
+  "description": "A fairy of the arts that is unbeatable on the harp.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 850,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

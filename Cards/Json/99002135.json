@@ -1,0 +1,16 @@
+{
+  "id": 7311,
+  "cardNumber": "99002135",
+  "name": "Urgent Synthesis",
+  "description": "Return 1 \"Iron Core of Koa'ki Meiru\" from your Graveyard to the Deck. Special Summon 1 Level 4 or lower \"Koa'ki Meiru\" monster from your hand or your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

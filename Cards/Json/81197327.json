@@ -1,0 +1,16 @@
+{
+  "id": 2211,
+  "cardNumber": "81197327",
+  "name": "Elemental HERO Steam Healer",
+  "description": "\"Elemental HERO Burstinatrix\" + \"Elemental HERO Bubbleman\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card destroys a monster by battle and sends it to the Graveyard: Gain Life Points equal to the ATK of that destroyed monster in the Graveyard.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

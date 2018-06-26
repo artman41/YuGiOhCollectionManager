@@ -1,0 +1,16 @@
+{
+  "id": 6970,
+  "cardNumber": "51838385",
+  "name": "Theban Nightmare",
+  "description": "While you have no cards in your hand nor in your Spell &amp; Trap Zones, this card gains 1500 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

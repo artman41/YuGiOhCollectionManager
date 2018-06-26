@@ -1,0 +1,16 @@
+{
+  "id": 4642,
+  "cardNumber": "92720564",
+  "name": "Morphtronic Boomboxen",
+  "description": "â— While in Attack Position, this card can attack twice during each Battle Phase.<br>â— Once per turn, while in Defense Position, when a face-up \"Morphtronic\" monster you control is targeted for an attack: You can negate the attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

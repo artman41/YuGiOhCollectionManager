@@ -1,0 +1,16 @@
+{
+  "id": 8450,
+  "cardNumber": "66927994",
+  "name": "Oni Tank T-34",
+  "description": "An armored tank possessed by a fiend that will pursue enemies until they're crushed.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

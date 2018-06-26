@@ -1,0 +1,16 @@
+{
+  "id": 4239,
+  "cardNumber": "36045450",
+  "name": "Magicians Unite",
+  "description": "If you control 2 or more Attack Position Spellcaster-Type monsters: Target 1 of them; its ATK becomes 3000 until the end of this turn, also for the rest of this turn after this card resolves, other Spellcaster-Type monsters you control cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

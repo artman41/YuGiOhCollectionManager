@@ -1,0 +1,16 @@
+{
+  "id": 4414,
+  "cardNumber": "46820049",
+  "name": "Mefist the Infernal General",
+  "description": "When this card attacks with an ATK that is higher than the DEF of your opponent's Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. When this card inflicts Battle Damage to your opponent's Life Points, discard 1 card randomly from your opponent's hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

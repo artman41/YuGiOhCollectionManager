@@ -1,0 +1,16 @@
+{
+  "id": 4292,
+  "cardNumber": "53063039",
+  "name": "Malefic Claw Stream",
+  "description": "Activate only if you control a face-up \"Malefic\" monster. Select 1 monster your opponent controls, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

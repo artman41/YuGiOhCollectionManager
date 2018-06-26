@@ -1,0 +1,16 @@
+{
+  "id": 1490,
+  "cardNumber": "15939229",
+  "name": "D/D/D Duo-Dawn King Kali Yuga",
+  "description": "2 Level 8 \"D/D\" monsters<br>After this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards on the field. You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" Spell/Trap Card in your Graveyard; Set that target.",
+  "cardLevel": null,
+  "cardRank": 8,
+  "atk": 3500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

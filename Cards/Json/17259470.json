@@ -1,0 +1,16 @@
+{
+  "id": 7788,
+  "cardNumber": "17259470",
+  "name": "Zombie Master",
+  "description": "Once per turn: You can send 1 monster from your hand to the Graveyard, then target 1 Level 4 or lower Zombie-Type monster in either player's Graveyard; Special Summon that target. This card must be face-up on the field to activate and to resolve this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

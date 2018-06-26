@@ -1,0 +1,16 @@
+{
+  "id": 2204,
+  "cardNumber": "60493189",
+  "name": "Elemental HERO Plasma Vice",
+  "description": "\"Elemental HERO Sparkman\" + \"Elemental HERO Bladedge\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. You can discard 1 card to target 1 Attack Position monster your opponent controls; destroy that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

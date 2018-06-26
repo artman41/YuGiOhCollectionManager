@@ -1,0 +1,16 @@
+{
+  "id": 1909,
+  "cardNumber": "56769674",
+  "name": "DNA Transplant",
+  "description": "Activate by declaring 1 monster Attribute. All face-up monsters become that Attribute.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

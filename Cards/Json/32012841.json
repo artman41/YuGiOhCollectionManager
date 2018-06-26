@@ -1,0 +1,16 @@
+{
+  "id": 8406,
+  "cardNumber": "32012841",
+  "name": "Millennium Shield",
+  "description": "A famous shield said to belong to an ancient Egyptian Pharaoh. Legends tell of its power to block any strong attack.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 0,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

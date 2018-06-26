@@ -1,0 +1,16 @@
+{
+  "id": 5280,
+  "cardNumber": "22091345",
+  "name": "Performapal Spikeagle",
+  "description": "Once per turn: You can target 1 face-up monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

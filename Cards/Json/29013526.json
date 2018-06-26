@@ -1,0 +1,16 @@
+{
+  "id": 6636,
+  "cardNumber": "29013526",
+  "name": "Storming Wynn",
+  "description": "Once per turn, you can Tribute 1 WIND monster (except this card) to Special Summon 1 WIND monster from your hand. The monster Special Summoned by this effect is destroyed if \"Storming Wynn\" is removed from your side of the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2311,
+  "cardNumber": "40921545",
+  "name": "Evilswarm Ketos",
+  "description": "You can Tribute this card, then target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 1050,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

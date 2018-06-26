@@ -1,0 +1,16 @@
+{
+  "id": 4838,
+  "cardNumber": "54704216",
+  "name": "Nightmare Wheel",
+  "description": "Activate this card by targeting 1 monster your opponent controls; it cannot attack or change its battle position. When it leaves the field, destroy this card. During each of your Standby Phases: Inflict 500 damage to your opponent. That monster must be on the field to activate and to resolve this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

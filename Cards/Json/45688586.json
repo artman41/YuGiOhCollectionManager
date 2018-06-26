@@ -1,0 +1,16 @@
+{
+  "id": 3791,
+  "cardNumber": "45688586",
+  "name": "Karakuri Spider",
+  "description": "If this card attacks a DARK monster, destroy the attack target after damage calculation.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

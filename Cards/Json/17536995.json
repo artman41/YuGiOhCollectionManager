@@ -1,0 +1,16 @@
+{
+  "id": 3350,
+  "cardNumber": "17536995",
+  "name": "Heraldry Change",
+  "description": "When an opponent's monster declares an attack: Special Summon 1 \"Heraldic Beast\" monster from your hand, then end the Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

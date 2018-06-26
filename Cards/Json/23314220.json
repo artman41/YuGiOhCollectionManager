@@ -1,0 +1,16 @@
+{
+  "id": 6472,
+  "cardNumber": "23314220",
+  "name": "Spellbook of Knowledge",
+  "description": "Send to the GY either 1 Spellcaster monster you control, or 1 other \"Spellbook\" card from your hand or face-up from your field, except \"Spellbook of Knowledge\", and if you do, draw 2 cards. You can only activate 1 \"Spellbook of Knowledge\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

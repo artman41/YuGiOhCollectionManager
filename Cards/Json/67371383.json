@@ -1,0 +1,16 @@
+{
+  "id": 8061,
+  "cardNumber": "67371383",
+  "name": "Amphibian Beast",
+  "description": "On land or in the sea, the speed of this monster is unmatchable.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

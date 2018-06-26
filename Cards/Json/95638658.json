@@ -1,0 +1,16 @@
+{
+  "id": 6232,
+  "cardNumber": "95638658",
+  "name": "Shooting Star Bow - Ceal",
+  "description": "The equipped monster loses 1000 ATK, but it can attack your opponent directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

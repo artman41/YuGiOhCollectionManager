@@ -1,0 +1,16 @@
+{
+  "id": 2544,
+  "cardNumber": "77372241",
+  "name": "Flamvell Grunika",
+  "description": "When this card destroys a monster by battle and sends it to the Graveyard, inflict damage to your opponent equal to the Level of the destroyed monster x 200.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5046,
+  "cardNumber": "67754901",
+  "name": "Odd-Eyes Mirage Dragon",
+  "description": "Pendulum Effect\n Once per turn, if a face-up \"Odd-Eyes\" Pendulum Monster(s) you control is destroyed by battle or card effect: You can destroy 1 card in your Pendulum Zone, and if you do, place 1 face-up \"Odd-Eyes\" Pendulum Monster in your Extra Deck in your Pendulum Zone, except \"Odd-Eyes Mirage Dragon\".\n\n Monster Effect\n While an \"Odd-Eyes\" card is in your Pendulum Zone (Quick Effect): You can target 1 \"Odd-Eyes\" monster you control; the first time it would be destroyed by battle or card effect this turn, it is not destroyed. You can only use this effect of \"Odd-Eyes Mirage Dragon\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

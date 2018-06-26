@@ -1,0 +1,16 @@
+{
+  "id": 1966,
+  "cardNumber": "63730624",
+  "name": "Double Tool C&amp;D",
+  "description": "Equip only to a \"Power Tool Dragon\" or Level 4 or higher Machine-Type \"Morphtronic\" monster you control. While equipped: â— During your turn: It gains 1000 ATK. If it attacks, any effects of the attack target that activate or apply on the field are negated during that Battle Phase. â— During your opponent's turn: Your opponent cannot select a monster other than the equipped monster as an attack target. An opponent's monster that battles the equipped monster is destroyed at the end of the Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

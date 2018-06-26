@@ -1,0 +1,16 @@
+{
+  "id": 8514,
+  "cardNumber": "66516792",
+  "name": "Serpent Night Dragon",
+  "description": "A dragon created from the soul of a wicked knight.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2350,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

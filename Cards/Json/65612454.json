@@ -1,0 +1,16 @@
+{
+  "id": 7488,
+  "cardNumber": "65612454",
+  "name": "Wattcube",
+  "description": "Equip only to a Thunder-Type monster. It gains 100 ATK for each Thunder-Type monster in your Graveyard. You can send this face-up card you control to the Graveyard to have 1 face-up Thunder-Type monster you control gain 1000 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

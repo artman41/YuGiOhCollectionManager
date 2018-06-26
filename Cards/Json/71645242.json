@@ -1,0 +1,16 @@
+{
+  "id": 624,
+  "cardNumber": "71645242",
+  "name": "Black Garden",
+  "description": "If a monster(s) is Normal or Special Summoned, except by the effect of \"Black Garden\": Halve its ATK, also you Special Summon 1 \"Rose Token\" (Plant-Type/DARK/Level 2/ATK 800/DEF 800) to its controller's opponent's side of the field, in Attack Position. (This ATK loss remains even if this card leaves the field.) You can target 1 monster in your Graveyard with ATK equal to the total ATK of all Plant-Type monsters on the field; destroy this card and as many Plant-Type monsters on the field as possible, then if the total ATK the destroyed monsters had on the field is equal to that target's ATK, Special Summon that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

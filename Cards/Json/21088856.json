@@ -1,0 +1,16 @@
+{
+  "id": 6533,
+  "cardNumber": "21088856",
+  "name": "Spy-C-Spy",
+  "description": "If this card is Normal Summoned: Look at 1 random card in your opponent's Extra Deck, and if it has 2000 or more ATK, this card gains 1000 ATK. If it has less than 2000 ATK, you gain LP equal to that monster's ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

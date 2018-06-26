@@ -1,0 +1,16 @@
+{
+  "id": 8812,
+  "cardNumber": "97729135",
+  "name": "Staredown",
+  "description": "When you Special Summon a monster to the Extra Monster Zone (except during the Damage Step): You can target 1 monster in your opponent's Main Monster Zone; move that opponent's monster to their Main Monster Zone in the same column as your monster in the Extra Monster Zone. When your opponent Special Summons a monster to the Extra Monster Zone (except during the Damage Step): You can target 1 monster in your Main Monster Zone; move that monster you control to your Main Monster Zone in the same column as that opponent's monster in the Extra Monster Zone.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

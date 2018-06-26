@@ -1,0 +1,16 @@
+{
+  "id": 5558,
+  "cardNumber": "78942513",
+  "name": "Purushaddoll Aeon",
+  "description": "Target 1 \"Shaddoll\" monster you control; send 1 \"Shaddoll\" card from your hand to the Graveyard, and if you do, the targeted monster gains 1000 ATK and DEF, but is changed to face-down Defense Position during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

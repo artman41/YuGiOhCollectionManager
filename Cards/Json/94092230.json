@@ -1,0 +1,16 @@
+{
+  "id": 6608,
+  "cardNumber": "94092230",
+  "name": "Steelswarm Hercules",
+  "description": "Cannot be Special Summoned. Requires 3 \"Steelswarm\" Tributes to Normal Summon (cannot be Normal Set). Once per turn: You can pay half your Life Points; destroy all other cards on the field.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

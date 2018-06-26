@@ -1,0 +1,16 @@
+{
+  "id": 8650,
+  "cardNumber": "23115241",
+  "name": "X-Saber Anu Piranha",
+  "description": "A female X-Saber Warrior, known for her graceful attacks and calm decision making in battle. Her ambition is merciless, and strikes fear in the hearts of her enemies.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

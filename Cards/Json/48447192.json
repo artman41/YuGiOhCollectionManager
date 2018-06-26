@@ -1,0 +1,16 @@
+{
+  "id": 6819,
+  "cardNumber": "48447192",
+  "name": "Sword of Sparkles",
+  "description": "Equip only to an \"X-Saber\" monster. If it destroys an opponent's monster by battle, you can destroy 1 card your opponent controls. You can Tribute 1 monster you control to return this card from your Graveyard to the top of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4004,
+  "cardNumber": "70298454",
+  "name": "Leng Ling",
+  "description": "Once per turn, you can either: Target 1 monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. The original ATK of a monster equipped with this card becomes 1000, it can make a second attack during each Battle Phase, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Union\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

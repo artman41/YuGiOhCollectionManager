@@ -1,0 +1,16 @@
+{
+  "id": 2270,
+  "cardNumber": "23064604",
+  "name": "Erebus the Underworld Monarch",
+  "description": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: You can send 2 \"Monarch\" Spell/Trap Cards with different names from your hand and/or Deck to the Graveyard, and if you do, shuffle 1 card from your opponent's hand (at random), Graveyard, or their side of the field into the Deck. Once per turn, during either player's Main Phase, if this card is in your Graveyard: You can discard 1 \"Monarch\" Spell/Trap Card, then target 1 monster in your Graveyard with 2400 or more ATK and 1000 DEF; add it to your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

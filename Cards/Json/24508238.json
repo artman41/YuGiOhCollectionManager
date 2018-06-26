@@ -1,0 +1,16 @@
+{
+  "id": 1445,
+  "cardNumber": "24508238",
+  "name": "D.D. Crow",
+  "description": "During either player's turn: You can discard this card to the Graveyard, then target 1 card in your opponent's Graveyard; banish that target.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

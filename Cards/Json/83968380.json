@@ -1,0 +1,16 @@
+{
+  "id": 3674,
+  "cardNumber": "83968380",
+  "name": "Jar of Greed",
+  "description": "Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

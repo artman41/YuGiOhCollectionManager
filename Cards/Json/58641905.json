@@ -1,0 +1,16 @@
+{
+  "id": 5873,
+  "cardNumber": "58641905",
+  "name": "Ring of Defense",
+  "description": "When a Trap effect that inflicts damage is activated: Make that effect damage 0.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

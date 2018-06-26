@@ -1,0 +1,16 @@
+{
+  "id": 8495,
+  "cardNumber": "39004808",
+  "name": "Root Water",
+  "description": "An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

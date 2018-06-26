@@ -1,0 +1,16 @@
+{
+  "id": 2255,
+  "cardNumber": "98045062",
+  "name": "Enemy Controller",
+  "description": "Activate 1 of these effects.<br>â— Target 1 face-up monster your opponent controls; change that target's battle position.<br>â— Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

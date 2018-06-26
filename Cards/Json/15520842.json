@@ -1,0 +1,16 @@
+{
+  "id": 8966,
+  "cardNumber": "15520842",
+  "name": "Photon Hand",
+  "description": "If you control a \"Photon\" or Galaxy\" monster: Pay 1000 LP, then target 1 monster your opponent controls; take control of it. If you did not control \"Galaxy-Eyes Photon Dragon\" when you activated this card, you must target an Xyz Monster. You can only activate 1 \"Photon Hand\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

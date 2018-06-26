@@ -1,0 +1,16 @@
+{
+  "id": 3993,
+  "cardNumber": "49721904",
+  "name": "Legendary Six Samurai - Kizan",
+  "description": "If you control a \"Six Samurai\" monster with a different name, you can Special Summon this card (from your hand). While you control 2 or more other \"Six Samurai\" monsters, this card gains 300 ATK and DEF.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

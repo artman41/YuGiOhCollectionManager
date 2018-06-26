@@ -1,0 +1,16 @@
+{
+  "id": 2062,
+  "cardNumber": "71218746",
+  "name": "Drillroid",
+  "description": "Before damage calculation, if this card attacks a Defense Position monster: Destroy that monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

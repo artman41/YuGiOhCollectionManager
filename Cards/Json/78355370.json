@@ -1,0 +1,16 @@
+{
+  "id": 3901,
+  "cardNumber": "78355370",
+  "name": "Kuribohrn",
+  "description": "At the end of the Battle Phase: You can discard this card, then target 1 monster in your Graveyard that was destroyed by battle and sent there this turn; Special Summon it. When an opponent's monster declares an attack: You can banish this card from your Graveyard, then target any number of \"Kuriboh\" monsters in your Graveyard; Special Summon them.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

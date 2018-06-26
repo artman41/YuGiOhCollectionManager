@@ -1,0 +1,16 @@
+{
+  "id": 4245,
+  "cardNumber": "94940436",
+  "name": "Magnet Circle LV2",
+  "description": "Special Summon 1 Level 2 or lower Machine-Type monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

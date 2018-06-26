@@ -1,0 +1,16 @@
+{
+  "id": 3680,
+  "cardNumber": "83725008",
+  "name": "Jenis, Lightsworn Mender",
+  "description": "During the End Phase, if a card(s) was sent from your Deck to the Graveyard by the effect of a \"Lightsworn\" card this turn: Inflict 500 damage to your opponent, and if you do, gain 500 LP.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 300,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

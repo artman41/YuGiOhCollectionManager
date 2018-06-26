@@ -1,0 +1,16 @@
+{
+  "id": 6252,
+  "cardNumber": "19502505",
+  "name": "Silent Paladin",
+  "description": "When this card is Normal Summoned: You can add 1 \"Silent Swordsman LV3\" or \"Silent Magician LV4\" from your Deck to your hand. During either player's turn, when a Spell Card is activated that targets exactly 1 monster you control (and no other cards): You can negate the activation. This effect can only be used once while this card is face-up on the field. If this card is destroyed by battle, or if this card in its owner's control is destroyed by an opponent's card effect: You can target 1 LIGHT \"LV\" monster in your Graveyard; add it to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

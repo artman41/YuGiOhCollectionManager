@@ -1,0 +1,16 @@
+{
+  "id": 8193,
+  "cardNumber": "58932615",
+  "name": "Elemental HERO Burstinatrix",
+  "description": "A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

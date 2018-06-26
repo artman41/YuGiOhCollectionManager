@@ -1,0 +1,16 @@
+{
+  "id": 2051,
+  "cardNumber": "66973070",
+  "name": "Dreadscythe Harvester",
+  "description": "You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

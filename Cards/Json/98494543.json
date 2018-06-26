@@ -1,0 +1,16 @@
+{
+  "id": 4223,
+  "cardNumber": "98494543",
+  "name": "Magical Stone Excavation",
+  "description": "Discard 2 cards, then target 1 Spell Card in your Graveyard; add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

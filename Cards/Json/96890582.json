@@ -1,0 +1,16 @@
+{
+  "id": 2550,
+  "cardNumber": "96890582",
+  "name": "Flash Assailant",
+  "description": "Decrease the ATK and DEF of this card by 400 points for each card in your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

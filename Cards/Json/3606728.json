@@ -1,0 +1,16 @@
+{
+  "id": 2729,
+  "cardNumber": "3606728",
+  "name": "Gagaga Girl",
+  "description": "You can target 1 \"Gagaga Magician\" you control; this card's Level becomes the Level of that monster. An Xyz Monster that was Summoned using only this card and other \"Gagaga\" monsters as Xyz Material gains this effect.<br>â— When it is Xyz Summoned: You can target 1 Special Summoned monster your opponent controls; its ATK becomes 0.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

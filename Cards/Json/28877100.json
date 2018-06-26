@@ -1,0 +1,16 @@
+{
+  "id": 1712,
+  "cardNumber": "28877100",
+  "name": "Defensive Tactics",
+  "description": "If you control a face-up \"Gladiator Beast\" monster: For the rest of this turn, monsters you control cannot be destroyed by battle, and any Battle Damage you take is reduced to 0. After this card resolves, put it on the bottom of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

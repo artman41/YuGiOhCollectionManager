@@ -1,0 +1,16 @@
+{
+  "id": 4832,
+  "cardNumber": "2191144",
+  "name": "Night Papilloperative",
+  "description": "3 Level 4 monsters<br> Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to a monster on the field.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2600,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

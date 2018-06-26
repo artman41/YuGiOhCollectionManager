@@ -1,0 +1,16 @@
+{
+  "id": 7482,
+  "cardNumber": "56993276",
+  "name": "Wattcancel",
+  "description": "When your opponent would Normal or Special Summon a monster: Discard 1 \"Watt\" monster; negate the Summon and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

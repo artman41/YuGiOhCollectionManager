@@ -1,0 +1,16 @@
+{
+  "id": 650,
+  "cardNumber": "91351370",
+  "name": "Black Whirlwind",
+  "description": "When a \"Blackwing\" monster is Normal Summoned to your side of the field: You can add 1 \"Blackwing\" monster from your Deck to your hand with less ATK than that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

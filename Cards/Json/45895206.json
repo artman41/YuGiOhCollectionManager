@@ -1,0 +1,16 @@
+{
+  "id": 1645,
+  "cardNumber": "45895206",
+  "name": "Dark-Piercing Light",
+  "description": "Flip all face-down monsters on your opponent's side of the field face-up.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

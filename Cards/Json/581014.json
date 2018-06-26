@@ -1,0 +1,16 @@
+{
+  "id": 1509,
+  "cardNumber": "581014",
+  "name": "Daigusto Emeral",
+  "description": "2 Level 4 monsters<br>Once per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects.<br>â— Target 3 monsters in your Graveyard; shuffle all 3 into the Deck, then draw 1 card.<br>â— Target 1 non-Effect Monster in your Graveyard; Special Summon that target.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

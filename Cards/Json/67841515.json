@@ -1,0 +1,16 @@
+{
+  "id": 8089,
+  "cardNumber": "67841515",
+  "name": "Barrel Lily",
+  "description": "This wicked flower attacks enemies with pollen projectiles.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

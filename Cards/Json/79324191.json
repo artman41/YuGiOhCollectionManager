@@ -1,0 +1,16 @@
+{
+  "id": 4850,
+  "cardNumber": "79324191",
+  "name": "Ninjitsu Art Notebook",
+  "description": "Once per turn: You can send 1 \"Ninja\" monster from your hand to the Graveyard; Set 1 \"Ninjitsu Art\" Spell/Trap Card directly from your Deck, except \"Ninjitsu Art Notebook\"",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6175,
+  "cardNumber": "71923655",
+  "name": "Sharkraken",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 WATER monster.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

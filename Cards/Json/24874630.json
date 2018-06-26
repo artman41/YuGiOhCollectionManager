@@ -1,0 +1,16 @@
+{
+  "id": 2468,
+  "cardNumber": "24874630",
+  "name": "Fiend's Sanctuary",
+  "description": "Special Summon 1 \"Metal Fiend Token\" (Fiend/DARK/Level 1/ATK 0/DEF 0). It cannot attack. Your opponent takes any battle damage you would have taken from battles involving it. During each of your Standby Phases, pay 1000 LP or destroy this Token.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

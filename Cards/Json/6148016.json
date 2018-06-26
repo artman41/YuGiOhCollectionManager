@@ -1,0 +1,16 @@
+{
+  "id": 2816,
+  "cardNumber": "6148016",
+  "name": "Geargiagear",
+  "description": "Special Summon 2 \"Geargiano\" monsters from your Deck and increase their Levels by 1. You can only activate 1 \"Geargiagear\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

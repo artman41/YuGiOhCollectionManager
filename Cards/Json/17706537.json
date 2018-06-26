@@ -1,0 +1,16 @@
+{
+  "id": 2646,
+  "cardNumber": "17706537",
+  "name": "Fossil Tusker",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 400 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

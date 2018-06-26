@@ -1,0 +1,16 @@
+{
+  "id": 764,
+  "cardNumber": "22346472",
+  "name": "Blustering Winds",
+  "description": "Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

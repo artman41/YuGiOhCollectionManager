@@ -1,0 +1,16 @@
+{
+  "id": 8398,
+  "cardNumber": "55998462",
+  "name": "Metal Fish",
+  "description": "A metal fish with a razor-sharp caudal fin.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

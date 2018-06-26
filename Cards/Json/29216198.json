@@ -1,0 +1,16 @@
+{
+  "id": 3167,
+  "cardNumber": "29216198",
+  "name": "Gravitic Orb",
+  "description": "FLIP: Change the battle positions of all face-up monsters your opponent controls.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

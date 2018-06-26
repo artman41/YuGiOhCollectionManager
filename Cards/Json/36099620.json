@@ -1,0 +1,16 @@
+{
+  "id": 5717,
+  "cardNumber": "36099620",
+  "name": "Realm of Light",
+  "description": "Each time a card(s) is sent from your Deck to the Graveyard, place 1 Shine Counter on this card. All \"Lightsworn\" monsters gain 100 ATK for each Shine Counter on this card. If this card would be destroyed by a card effect, remove 2 Shine Counters from this card instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

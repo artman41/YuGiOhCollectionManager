@@ -1,0 +1,16 @@
+{
+  "id": 4521,
+  "cardNumber": "7489323",
+  "name": "Milus Radiant",
+  "description": "As long as this card remains face-up on the field, increase the ATK of all EARTH monsters by 500 points and decrease the ATK of all WIND monsters by 400 points.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 250,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

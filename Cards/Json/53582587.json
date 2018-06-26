@@ -1,0 +1,16 @@
+{
+  "id": 7062,
+  "cardNumber": "53582587",
+  "name": "Torrential Tribute",
+  "description": "When a monster(s) is Summoned: Destroy all monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 683,
+  "cardNumber": "38562933",
+  "name": "Blackwing - Jin the Rain Shadow",
+  "description": "If this card battles with a monster with DEF equal to or less than this card's ATK, destroy that monster immediately with this card's effect (without applying damage calculation).",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

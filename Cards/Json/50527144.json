@@ -1,0 +1,16 @@
+{
+  "id": 2940,
+  "cardNumber": "50527144",
+  "name": "Ghostrick Vanish",
+  "description": "Reveal 1 \"Ghostrick\" monster in your hand; this turn, \"Ghostrick\" cards you control, and face-down Defense Position monsters you control, cannot be targeted by, or be destroyed by, card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

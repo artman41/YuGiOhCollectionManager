@@ -1,0 +1,16 @@
+{
+  "id": 444,
+  "cardNumber": "19578592",
+  "name": "Axe of Fools",
+  "description": "The equipped monster gains 1000 ATK, but its effects are negated. During each of your Standby Phases: Inflict 500 damage to the controller of the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

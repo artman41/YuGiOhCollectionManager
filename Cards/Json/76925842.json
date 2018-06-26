@@ -1,0 +1,16 @@
+{
+  "id": 1673,
+  "cardNumber": "76925842",
+  "name": "Darknight Parshath",
+  "description": "If this card destroys an opponent's monster by battle: You can banish 1 DARK monster from your Graveyard; draw 1 card. This card gains 100 ATK for each DARK monster in your Graveyard.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

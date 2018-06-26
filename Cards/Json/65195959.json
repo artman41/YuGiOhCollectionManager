@@ -1,0 +1,16 @@
+{
+  "id": 5283,
+  "cardNumber": "65195959",
+  "name": "Performapal Stamp Turtle",
+  "description": "Once per turn: You can target up to 2 face-up monsters on the field; increase their Levels by 1.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6866,
+  "cardNumber": "14507213",
+  "name": "Synchro Material",
+  "description": "Select 1 face-up monster your opponent controls. If you Synchro Summon this turn, you can use the selected monster as a Synchro Material Monster. You cannot conduct your Battle Phase during the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

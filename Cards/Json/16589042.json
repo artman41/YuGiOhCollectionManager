@@ -1,0 +1,16 @@
+{
+  "id": 6805,
+  "cardNumber": "16589042",
+  "name": "Swift Gaia the Fierce Knight",
+  "description": "If this is the only card in your hand, you can Normal Summon it without Tributing.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

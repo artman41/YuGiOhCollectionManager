@@ -1,0 +1,16 @@
+{
+  "id": 5045,
+  "cardNumber": "80696379",
+  "name": "Odd-Eyes Meteorburst Dragon",
+  "description": "1 Tuner + 1+ non-Tuner monsters<br>When this card is Special Summoned: You can target 1 card in your Pendulum Zone; Special Summon it, also this card cannot attack for the rest of this turn. You can only use this effect of \"Odd-Eyes Meteorburst Dragon\" once per turn. Monsters in your opponent's possession cannot activate their effects during the Battle Phase.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

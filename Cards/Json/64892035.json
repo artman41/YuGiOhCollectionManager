@@ -1,0 +1,16 @@
+{
+  "id": 6905,
+  "cardNumber": "64892035",
+  "name": "Tardy Orc",
+  "description": "This card cannot attack the turn it is Normal Summoned.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

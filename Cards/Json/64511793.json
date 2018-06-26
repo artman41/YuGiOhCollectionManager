@@ -1,0 +1,16 @@
+{
+  "id": 8202,
+  "cardNumber": "64511793",
+  "name": "Eyearmor",
+  "description": "This warrior transforms into various creatures to confuse enemies in battle.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1033,
+  "cardNumber": "4923662",
+  "name": "Chaos Burst",
+  "description": "When your opponent's monster declares an attack: Tribute 1 monster, then target the attacking monster; destroy that target, then inflict 1000 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

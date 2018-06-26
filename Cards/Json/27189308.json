@@ -1,0 +1,16 @@
+{
+  "id": 1058,
+  "cardNumber": "27189308",
+  "name": "Cheepcheepcheep",
+  "description": "FLIP: You can Special Summon 1 Level 5 or higher Tuner monster from your Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

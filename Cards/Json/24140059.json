@@ -1,0 +1,16 @@
+{
+  "id": 982,
+  "cardNumber": "24140059",
+  "name": "A Cat of Ill Omen",
+  "description": "FLIP: Select 1 Trap Card from your Deck and place it on top of your Deck. If \"Necrovalley\" is on the field, you can add the selected card to your hand instead.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

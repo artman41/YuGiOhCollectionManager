@@ -1,0 +1,16 @@
+{
+  "id": 4498,
+  "cardNumber": "36898537",
+  "name": "Metaphys Horus",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card is Synchro Summoned: You can activate the appropriate effect(s), depending on the non-Tuner monster(s) used as Synchro Material.<br>â— Normal Monster: This face-up card is unaffected by other card effects this turn.<br>â— Effect Monster: You can target 1 other face-up card on the field; negate that target's effects.<br>â— Pendulum Monster: Your opponent chooses 1 monster they control and gives control of it to you, but it cannot attack this turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Wyrm\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4891,
+  "cardNumber": "15286412",
+  "name": "Nordic Relic Gungnir",
+  "description": "Banish 1 \"Aesir\" or \"Nordic\" monster you control, then target 1 card on the field; destroy it, also during your 2nd End Phase after activation, return the monster you banished to activate this card to the field in face-up Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

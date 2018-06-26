@@ -1,0 +1,16 @@
+{
+  "id": 3646,
+  "cardNumber": "16550875",
+  "name": "Inzektor Sword - Zektkaliber",
+  "description": "Equip only to an \"Inzektor\" monster. It gains 800 ATK and DEF. When this face-up card on the field is sent to the Graveyard: Target 1 \"Inzektor\" monster in your Graveyard; add that target to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

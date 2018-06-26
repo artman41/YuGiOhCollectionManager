@@ -1,0 +1,16 @@
+{
+  "id": 8057,
+  "cardNumber": "64428736",
+  "name": "Alligator's Sword",
+  "description": "ey, dis mighty lissard man can swing his sword so fast, dat it's more dan da speed a sound!",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6542,
+  "cardNumber": "27642961",
+  "name": "SPYRAL MISSION - Assault",
+  "description": "Destroy this card during your 3rd End Phase after activation. Once per turn, if a \"SPYRAL\" monster you control destroys a monster by battle, or if you destroy a card(s) on the field with a \"SPYRAL\" monster's effect you control: You can draw 1 card. You can banish this card from your Graveyard; Special Summon 1 \"SPYRAL\" monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

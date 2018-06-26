@@ -1,0 +1,16 @@
+{
+  "id": 6115,
+  "cardNumber": "95096437",
+  "name": "Secrets of the Gallant",
+  "description": "Select 1 Normal Monster you control. When the selected monster inflicts Battle Damage to your opponent this turn, your opponent discards 2 random cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

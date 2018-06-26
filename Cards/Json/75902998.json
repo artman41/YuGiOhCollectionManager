@@ -1,0 +1,16 @@
+{
+  "id": 7090,
+  "cardNumber": "75902998",
+  "name": "Trap Hole of Spikes",
+  "description": "When an opponent's monster that was Normal or Special Summoned this turn declares an attack: Destroy that attacking monster, and if you do, inflict damage to your opponent equal to half the original ATK of that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

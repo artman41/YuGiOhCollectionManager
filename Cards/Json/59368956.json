@@ -1,0 +1,16 @@
+{
+  "id": 1748,
+  "cardNumber": "59368956",
+  "name": "Deskbot 002",
+  "description": "If this card is Special Summoned: You can add 1 \"Deskbot\" card from your Deck to your hand. All Machine-Type monsters you control gain 500 ATK and DEF, except this card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

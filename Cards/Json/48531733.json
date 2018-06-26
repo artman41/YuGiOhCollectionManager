@@ -1,0 +1,16 @@
+{
+  "id": 8119,
+  "cardNumber": "48531733",
+  "name": "Bolt Penguin",
+  "description": "With each arm forming an electric whip, this monster paralyzes its enemies with electric shocks.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

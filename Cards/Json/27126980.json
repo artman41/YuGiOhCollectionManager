@@ -1,0 +1,16 @@
+{
+  "id": 8245,
+  "cardNumber": "27126980",
+  "name": "Gem-Knight Sapphire",
+  "description": "His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

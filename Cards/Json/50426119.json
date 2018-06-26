@@ -1,0 +1,16 @@
+{
+  "id": 8796,
+  "cardNumber": "50426119",
+  "name": "Degrenade Buster",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Cyberse monsters from your GY. (Quick Effect): You can target 1 monster your opponent controls whose ATK is higher than this card's; banish it until the End Phase. You can only use this effect of \"Degrenade Buster\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

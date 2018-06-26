@@ -1,0 +1,16 @@
+{
+  "id": 378,
+  "cardNumber": "12444060",
+  "name": "Artifact Sanctum",
+  "description": "Special Summon 1 \"Artifact\" monster from your Deck. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

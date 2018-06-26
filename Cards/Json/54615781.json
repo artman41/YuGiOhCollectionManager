@@ -1,0 +1,16 @@
+{
+  "id": 8550,
+  "cardNumber": "54615781",
+  "name": "Spirit of the Winds",
+  "description": "A free-spirited wind elemental that flits about as it desires. It brings storms when it becomes upset.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

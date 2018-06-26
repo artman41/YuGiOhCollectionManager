@@ -1,0 +1,16 @@
+{
+  "id": 6604,
+  "cardNumber": "54338958",
+  "name": "Steelswarm Cell",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). While this card is face-up on the field, it cannot be Tributed, except for the Tribute Summon of a \"Steelswarm\" monster, and cannot be used as a Synchro Material Monster.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

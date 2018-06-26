@@ -1,0 +1,16 @@
+{
+  "id": 1373,
+  "cardNumber": "39439590",
+  "name": "Cyber Dinosaur",
+  "description": "When your opponent Special Summons a monster from their hand (except during the Damage Step): You can Special Summon this card from your hand.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

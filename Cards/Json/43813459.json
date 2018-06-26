@@ -1,0 +1,16 @@
+{
+  "id": 5356,
+  "cardNumber": "43813459",
+  "name": "Photon Current",
+  "description": "When a face-up LIGHT Dragon-Type monster you control is targeted for an attack: The attack target gains ATK equal to the attacking monster's ATK, until the end of the Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

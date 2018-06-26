@@ -1,0 +1,16 @@
+{
+  "id": 869,
+  "cardNumber": "42551040",
+  "name": "Bujingi Boar",
+  "description": "If you control a \"Bujin\" monster: You can banish this card from your Graveyard, then target 1 face-up Attack Position monster your opponent controls; change it to face-up Defense Position, and if you do, its DEF becomes 0 until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

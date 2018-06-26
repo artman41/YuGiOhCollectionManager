@@ -1,0 +1,16 @@
+{
+  "id": 5810,
+  "cardNumber": "51482758",
+  "name": "Remove Trap",
+  "description": "Select 1 face-up Trap Card on the field and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

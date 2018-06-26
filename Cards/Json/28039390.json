@@ -1,0 +1,16 @@
+{
+  "id": 2666,
+  "cardNumber": "28039390",
+  "name": "Frightfur Reborn",
+  "description": "Target 1 \"Frightfur\" monster in your Graveyard; Special Summon it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 of your banished \"Fluffal\" or \"Frightfur\" monsters; return it to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

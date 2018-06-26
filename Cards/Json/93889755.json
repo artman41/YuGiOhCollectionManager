@@ -1,0 +1,16 @@
+{
+  "id": 1272,
+  "cardNumber": "93889755",
+  "name": "Crass Clown",
+  "description": "When this card is changed from Defense Position to Attack Position, return 1 monster on your opponent's side of the field to the owner's hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

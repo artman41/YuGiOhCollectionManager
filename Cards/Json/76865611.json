@@ -1,0 +1,16 @@
+{
+  "id": 4650,
+  "cardNumber": "76865611",
+  "name": "Morphtronic Lantron",
+  "description": "â— While in Attack Position: Any effect damage you would take from an opponent's card effect is inflicted to your opponent instead.<br>â— While in Defense Position: When this card is destroyed by battle and sent to the Graveyard, you take no Battle Damage this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

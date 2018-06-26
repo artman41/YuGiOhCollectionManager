@@ -1,0 +1,16 @@
+{
+  "id": 7679,
+  "cardNumber": "77330185",
+  "name": "XX-Saber Garsem",
+  "description": "When this card on the field is destroyed and sent to the Graveyard by a card effect, add 1 \"X-Saber\" monster from your Deck to your hand. This card gains 200 ATK for each face-up \"X-Saber\" monster you control.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

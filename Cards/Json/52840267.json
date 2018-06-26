@@ -1,0 +1,16 @@
+{
+  "id": 1660,
+  "cardNumber": "52840267",
+  "name": "Darklord Ixchel",
+  "description": "You can discard this card and 1 \"Darklord\" card; draw 2 cards. During either player's turn: You can pay 1000 LP, then target 1 \"Darklord\" Spell/Trap Card in your Graveyard; apply that target's effect, then shuffle that target into the Deck. You can only use each effect of \"Darklord Ixchel\" once per turn. You can only Special Summon \"Darklord Ixchel(s)\" once per turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8752,
+  "cardNumber": "45195443",
+  "name": "Elemental HERO Solidman",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"HERO\" monster from your hand. If this card is sent from the Monster Zone to the GY by a Spell effect: You can target 1 \"HERO\" monster in your GY, except \"Elemental HERO Solidman\"; Special Summon it in Defense Position. You can only use this effect of \"Elemental HERO Solidman\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

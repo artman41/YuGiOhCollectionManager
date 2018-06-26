@@ -1,0 +1,16 @@
+{
+  "id": 3406,
+  "cardNumber": "3300267",
+  "name": "Hieratic Dragon of Su",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 \"Hieratic\" monster. Once per turn: You can Tribute 1 \"Hieratic\" monster, except this card, from your hand or your side of the field, to target 1 Spell/Trap Card your opponent controls; destroy that target. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

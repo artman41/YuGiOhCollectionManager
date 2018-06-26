@@ -1,0 +1,16 @@
+{
+  "id": 623,
+  "cardNumber": "40279770",
+  "name": "Black Feather Beacon",
+  "description": "Activate only when you take damage from a card effect. Special Summon 1 Level 4 or lower \"Blackwing\" monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

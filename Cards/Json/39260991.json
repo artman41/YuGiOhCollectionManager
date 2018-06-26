@@ -1,0 +1,16 @@
+{
+  "id": 277,
+  "cardNumber": "39260991",
+  "name": "Aquaactress Tetra",
+  "description": "Once per turn: You can add 1 \"Aquarium\" card from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

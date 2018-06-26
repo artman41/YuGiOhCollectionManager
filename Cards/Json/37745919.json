@@ -1,0 +1,16 @@
+{
+  "id": 3711,
+  "cardNumber": "37745919",
+  "name": "Junk Box",
+  "description": "Select and Special Summon 1 Level 4 or lower \"Morphtronic\" monster from your Graveyard. Destroy it during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

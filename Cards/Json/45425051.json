@@ -1,0 +1,16 @@
+{
+  "id": 2412,
+  "cardNumber": "45425051",
+  "name": "Fairy King Truesdale",
+  "description": "While this card is in Defense Position, all Plant-Type monsters you control gain 500 ATK and DEF.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

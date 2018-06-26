@@ -1,0 +1,16 @@
+{
+  "id": 3071,
+  "cardNumber": "55010259",
+  "name": "Gold Gadget",
+  "description": "When this card is Normal or Special Summoned: You can Special Summon 1 Level 4 Machine-Type monster from your hand. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 4 \"Gadget\" monster from your Deck, except \"Gold Gadget\". You can only use 1 \"Gold Gadget\" effect per turn, and only once that turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5641,
+  "cardNumber": "46589034",
+  "name": "Raidraptor - Pain Lanius",
+  "description": "Cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Winged Beast-Type monster. If this card is in your hand: You can target 1 \"Raidraptor\" monster you control that has a Level; take damage equal to its ATK or DEF (whichever is lower, but your choice if tied), and if you do, Special Summon this card, and if you do that, this card's Level becomes the current Level of the targeted monster. You can only use this effect of \"Raidraptor - Pain Lanius\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

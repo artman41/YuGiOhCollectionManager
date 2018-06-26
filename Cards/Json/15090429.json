@@ -1,0 +1,16 @@
+{
+  "id": 7516,
+  "cardNumber": "15090429",
+  "name": "Whirlwind Prodigy",
+  "description": "When Tribute Summoning a WIND monster, you can treat this 1 monster as 2 Tributes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

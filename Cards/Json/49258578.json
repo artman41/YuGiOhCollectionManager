@@ -1,0 +1,16 @@
+{
+  "id": 8239,
+  "cardNumber": "49258578",
+  "name": "Gate Deeg",
+  "description": "This weird monster has a portal in its belly that brings reinforcements from the farthest reaches of the netherworld.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

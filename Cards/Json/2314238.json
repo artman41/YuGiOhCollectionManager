@@ -1,0 +1,16 @@
+{
+  "id": 1591,
+  "cardNumber": "2314238",
+  "name": "Dark Magic Attack",
+  "description": "If you control \"Dark Magician\": Destroy all Spells and Traps your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

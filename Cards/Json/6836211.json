@@ -1,0 +1,16 @@
+{
+  "id": 3187,
+  "cardNumber": "6836211",
+  "name": "The Great Emperor Penguin",
+  "description": "You can Tribute this card; Special Summon up to 2 \"Penguin\" monsters from your Deck, except \"The Great Emperor Penguin\".",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

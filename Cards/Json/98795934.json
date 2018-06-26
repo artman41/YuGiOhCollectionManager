@@ -1,0 +1,16 @@
+{
+  "id": 8368,
+  "cardNumber": "98795934",
+  "name": "Mabarrel",
+  "description": "This cannon-like creature fires eyeballs so fast they can't be seen.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

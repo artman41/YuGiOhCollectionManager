@@ -1,0 +1,16 @@
+{
+  "id": 2215,
+  "cardNumber": "74711057",
+  "name": "Elemental HERO Terra Firma",
+  "description": "\"Elemental HERO Ocean\" + \"Elemental HERO Woodsman\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. You can Tribute 1 face-up \"Elemental HERO\" monster; this card gains ATK equal to the Tributed monster's ATK, until the End Phase.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

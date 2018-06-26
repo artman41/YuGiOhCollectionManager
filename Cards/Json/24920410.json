@@ -1,0 +1,16 @@
+{
+  "id": 5129,
+  "cardNumber": "24920410",
+  "name": "Overwind",
+  "description": "Target 1 face-up \"Wind-Up\" monster you control; its ATK and DEF are doubled, and it returns to the hand during the End Phase. You can only activate 1 \"Overwind\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

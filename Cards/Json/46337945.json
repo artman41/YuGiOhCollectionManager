@@ -1,0 +1,16 @@
+{
+  "id": 280,
+  "cardNumber": "46337945",
+  "name": "Aquamirror Meditation",
+  "description": "Reveal 1 Ritual Spell Card in your hand to target 2 \"Gishki\" monsters in your Graveyard; return them to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

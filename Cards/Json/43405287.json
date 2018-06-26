@@ -1,0 +1,16 @@
+{
+  "id": 1430,
+  "cardNumber": "43405287",
+  "name": "D - Chain",
+  "description": "Target a \"Destiny HERO\" monster you control; equip this card to that target. It gains 500 ATK. When it destroys a monster your opponent controls by battle and sends it to the Graveyard: Inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

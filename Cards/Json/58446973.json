@@ -1,0 +1,16 @@
+{
+  "id": 3568,
+  "cardNumber": "58446973",
+  "name": "Infernoid Decatron",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"Infernoid\" monster from your Deck to the Graveyard, except \"Infernoid Decatron\", and if you do, increase this card's Level by the Level of the sent monster, and if you do that, this card's name becomes that monster's, and replace this effect with that monster's original effects.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

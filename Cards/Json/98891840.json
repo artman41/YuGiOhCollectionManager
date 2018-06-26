@@ -1,0 +1,16 @@
+{
+  "id": 3032,
+  "cardNumber": "98891840",
+  "name": "Gladiator Beast's Respite",
+  "description": "Shuffle 2 \"Gladiator Beast\" cards from your hand into the Deck, then draw 3 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

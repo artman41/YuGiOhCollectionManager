@@ -1,0 +1,16 @@
+{
+  "id": 8348,
+  "cardNumber": "42591472",
+  "name": "Laughing Flower",
+  "description": "A flower whose laugh can confuse the minds of enemies.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6316,
+  "cardNumber": "68182934",
+  "name": "Sky Dragoons of Draconia",
+  "description": "Pendulum Effect\n Once per turn, when a Normal Monster you control inflicts battle damage to your opponent: You can target 1 card on the field; destroy it.\n\n Monster Effect\n Rumored as being formed to invade the neutral, floating Sky-State of Cxulub, these mounted air troops of the Draconia Empire have prompted bordering nations to strengthen their security.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

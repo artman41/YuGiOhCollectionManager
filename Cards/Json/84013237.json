@@ -1,0 +1,16 @@
+{
+  "id": 4928,
+  "cardNumber": "84013237",
+  "name": "Number 39: Utopia",
+  "description": "2 Level 4 monsters<br>When any player's monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack. When this card is targeted for an attack, while it has no Xyz Materials: Destroy this card.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

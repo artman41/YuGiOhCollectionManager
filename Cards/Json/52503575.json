@@ -1,0 +1,16 @@
+{
+  "id": 2475,
+  "cardNumber": "52503575",
+  "name": "Final Attack Orders",
+  "description": "All face-up monsters on the field are changed to Attack Position and their battle positions cannot be changed.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

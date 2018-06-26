@@ -1,0 +1,16 @@
+{
+  "id": 268,
+  "cardNumber": "48539234",
+  "name": "Appropriate",
+  "description": "Activate only when your opponent draws a card(s), except during their Draw Phase. Draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

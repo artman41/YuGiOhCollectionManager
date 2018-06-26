@@ -1,0 +1,16 @@
+{
+  "id": 6490,
+  "cardNumber": "42463414",
+  "name": "Spined Gillman",
+  "description": "All Fish, Sea Serpent, and Aqua-Type monsters you control gain 400 ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

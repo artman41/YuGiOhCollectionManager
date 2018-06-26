@@ -1,0 +1,16 @@
+{
+  "id": 8917,
+  "cardNumber": "96699830",
+  "name": "Born from Draconis",
+  "description": "Banish all LIGHT Machine monsters from your GY and face-up from your field; Special Summon 1 Level 6 or higher LIGHT Machine monster from your hand, ignoring its Summoning conditions, and if you do, its ATK/DEF become the number of monsters banished to activate this card x 500, also it is unaffected by card effects, except for its own effects. You cannot Special Summon other monsters the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

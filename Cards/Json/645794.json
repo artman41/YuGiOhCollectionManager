@@ -1,0 +1,16 @@
+{
+  "id": 4268,
+  "cardNumber": "645794",
+  "name": "Majespecter Toad - Ogama",
+  "description": "When this card is Normal or Special Summoned: You can Set 1 \"Majespecter\" Spell/Trap Card directly from your Deck, but it cannot activate this turn. You can only use this effect of \"Majespecter Toad - Ogama\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

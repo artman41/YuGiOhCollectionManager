@@ -1,0 +1,16 @@
+{
+  "id": 7652,
+  "cardNumber": "11722335",
+  "name": "Worm Xex",
+  "description": "When this card is Normal Summoned, you can send 1 Reptile-Type \"Worm\" monster from your Deck to the Graveyard. If you control a face-up \"Worm Yagan\", this card cannot be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

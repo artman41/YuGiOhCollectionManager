@@ -1,0 +1,16 @@
+{
+  "id": 8919,
+  "cardNumber": "69217334",
+  "name": "Break of the World",
+  "description": "Once per turn: You can target 1 Ritual Monster you control; reveal 1 Ritual Monster in your hand (keep it revealed until the end of this turn), and if you do, for the rest of the turn, the Level of that monster in your hand becomes the targeted monster's. Once per turn, if \"Ruin, Queen of Oblivion\" and/or \"Demise, King of Armageddon\" is Ritual Summoned to your field: You can activate 1 of these effects.<br>â— Draw 1 card.<br>â— Destroy 1 card on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3025,
+  "cardNumber": "65984457",
+  "name": "Gladiator Beast Torax",
+  "description": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, at the end of any Battle Phase that this card attacked or was attacked, you can return it to the Deck to draw 1 card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

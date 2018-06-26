@@ -1,0 +1,16 @@
+{
+  "id": 7373,
+  "cardNumber": "35752363",
+  "name": "Vermillion Sparrow",
+  "description": "\"Rhaimundos of the Red Sword\" + \"Fireyarou\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

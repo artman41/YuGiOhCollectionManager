@@ -1,0 +1,16 @@
+{
+  "id": 223,
+  "cardNumber": "50933533",
+  "name": "Ancient Gear Gadjiltron Dragon",
+  "description": "If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains the appropriate effects if you Normal Summon it by Tributing these monsters.<br>â— Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. <br>â— Red Gadget: If this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent. <br>â— Yellow Gadget: If this card destroys an opponent's monster by battle: Inflict 600 damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

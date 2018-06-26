@@ -1,0 +1,16 @@
+{
+  "id": 4582,
+  "cardNumber": "28601770",
+  "name": "Mist Archfiend",
+  "description": "You can Normal Summon this card without Tributing. If you do, during the End Phase it is destroyed and you take 1000 damage.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

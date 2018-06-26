@@ -1,0 +1,16 @@
+{
+  "id": 6966,
+  "cardNumber": "55277252",
+  "name": "The Fabled Nozoochee",
+  "description": "During your Main Phase, you can discard 1 \"Fabled\" monster and Special Summon this card from your hand. When this card is Special Summoned this way, you can Special Summon 1 Level 2 or lower \"Fabled\" monster from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

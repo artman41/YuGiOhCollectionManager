@@ -1,0 +1,16 @@
+{
+  "id": 3419,
+  "cardNumber": "32542011",
+  "name": "High Tide on Fire Island",
+  "description": "If you control a Level 7 or higher WATER or FIRE monster: Apply the appropriate effects, in sequence, depending on the Attributes of monsters you control at that time.<br>â— WATER: Special Summon as many WATER monsters as possible that were sent to your Graveyard to activate monster effects this turn, then destroy 1 monster you control.<br>â— FIRE: Destroy 1 monster on the field, then if you have any cards in your hand, discard 1 card to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 531,
+  "cardNumber": "5361647",
+  "name": "Battlin' Boxer Glassjaw",
+  "description": "When this card is targeted for an attack: Destroy this card. When this card is sent to the Graveyard by a card effect: You can target 1 \"Battlin' Boxer\" monster in your Graveyard, except \"Battlin' Boxer Glassjaw\"; add that target to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

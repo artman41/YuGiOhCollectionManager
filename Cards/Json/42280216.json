@@ -1,0 +1,16 @@
+{
+  "id": 5095,
+  "cardNumber": "42280216",
+  "name": "Oracle of the Sun",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). When this card on the field is destroyed and sent to the Graveyard: You can add 1 \"Fire Ant Ascator\" or \"Supay\" from your Deck to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

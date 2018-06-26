@@ -1,0 +1,16 @@
+{
+  "id": 8375,
+  "cardNumber": "40374923",
+  "name": "Mammoth Graveyard",
+  "description": "A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 305,
+  "cardNumber": "92039899",
+  "name": "Archfiend Cavalry",
+  "description": "If this card on the field is destroyed by a card effect and sent to the Graveyard: You can target 1 \"Archfiend\" monster in your Graveyard, except \"Archfiend Cavalry\"; Special Summon that target. It cannot attack this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

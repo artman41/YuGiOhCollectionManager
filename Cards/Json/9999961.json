@@ -1,0 +1,16 @@
+{
+  "id": 548,
+  "cardNumber": "9999961",
+  "name": "Beast Rage",
+  "description": "All monsters you control gain 200 ATK for each of your removed from play Beast-Type and Winged Beast-Type monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

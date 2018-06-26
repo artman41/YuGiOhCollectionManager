@@ -1,0 +1,16 @@
+{
+  "id": 2112,
+  "cardNumber": "42578427",
+  "name": "Eatgaboon",
+  "description": "If the ATK of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7846,
+  "cardNumber": "28806532",
+  "name": "Cloudy Weathery Sleet",
+  "description": "If another face-up \"Weathery\" card(s) you control is sent to the GY while you control this card (except during the Damage Step): You can target up to 2 \"Weathery\" Spells/Traps in your GY; place them in your Spell &amp; Trap Zone face-up. You can only use this effect of \"Cloudy Weathery Sleet\" once per turn. Once per turn, during the Standby Phase of the next turn after this card on the field was banished to activate a \"Weathery\" card's effect: You can Special Summon this banished card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

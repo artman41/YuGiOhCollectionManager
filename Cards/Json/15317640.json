@@ -1,0 +1,16 @@
+{
+  "id": 455,
+  "cardNumber": "15317640",
+  "name": "B.E.S. Covered Core",
+  "description": "When this card is Normal Summoned, put 2 counters on it. This card cannot be destroyed by battle. If this card attacks or is attacked, at the end of the Damage Step toss a coin and call it. If you call it wrong, remove 1 counter. If this card battles without a counter, destroy it at the end of the Damage Step.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

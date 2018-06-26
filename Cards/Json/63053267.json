@@ -1,0 +1,16 @@
+{
+  "id": 7948,
+  "cardNumber": "63053267",
+  "name": "Nagel's Protection",
+  "description": "\"Tindangle\" monsters in your Main Monster Zone cannot be destroyed by battle or your opponent's card effects. Once per turn, if your \"Tindangle\" monster inflicts battle damage to your opponent, the damage becomes doubled. You can banish this card from your GY and discard 1 \"Tindangle\" card; add 1 \"Nagel's Protection\" from your Deck to your hand. You can only use this effect of \"Nagel's Protection\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

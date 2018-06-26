@@ -1,0 +1,16 @@
+{
+  "id": 6411,
+  "cardNumber": "47126872",
+  "name": "Space-Time Police",
+  "description": "When this card is Special Summoned: Target 1 face-up card your opponent controls; banish that target. When this card leaves the field: Set the card that was banished by this effect to your opponent's side of the field.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

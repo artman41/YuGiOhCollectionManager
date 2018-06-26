@@ -1,0 +1,16 @@
+{
+  "id": 5868,
+  "cardNumber": "76136345",
+  "name": "Revolving Switchyard",
+  "description": "If a Level 10 EARTH Machine-Type monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can activate this effect; your opponent takes no battle damage for the rest of this turn (even if this card leaves the field), also you Special Summon 1 Level 4 EARTH Machine-Type monster with 1800 or more ATK from your Deck, and if you do, it becomes Level 10. You can send 1 card from your hand to the Graveyard; add 1 Level 10 EARTH Machine-Type monster from your Deck to your hand. You can only use 1 \"Revolving Switchyard\" effect per turn, and only once that turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

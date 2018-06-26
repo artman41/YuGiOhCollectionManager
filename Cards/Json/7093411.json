@@ -1,0 +1,16 @@
+{
+  "id": 1308,
+  "cardNumber": "7093411",
+  "name": "Crystal Beast Sapphire Pegasus",
+  "description": "When this card is Summoned: You can place 1 \"Crystal Beast\" monster from your hand, Deck, or Graveyard face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

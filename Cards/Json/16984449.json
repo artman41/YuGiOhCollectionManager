@@ -1,0 +1,16 @@
+{
+  "id": 720,
+  "cardNumber": "16984449",
+  "name": "Blazewing Butterfly",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.<br>â— You can Tribute this card, then target 1 Gemini monster in your Graveyard, except \"Blazewing Butterfly\"; Special Summon that target, and if you do, it becomes an Effect Monster, and gains its effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Gemini\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

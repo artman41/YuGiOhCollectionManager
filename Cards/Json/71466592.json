@@ -1,0 +1,16 @@
+{
+  "id": 4337,
+  "cardNumber": "71466592",
+  "name": "Maryokutai",
+  "description": "You can only activate this card's effect during your opponent's turn. When your opponent activates a Spell Card, Tribute this face-up card to negate the activation of the Spell Card and destroy it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3364,
+  "cardNumber": "10489311",
+  "name": "Hero Medal",
+  "description": "When this Set card is destroyed and sent to the Graveyard by an opponent's card effect, shuffle this card into its owner's Deck. Then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

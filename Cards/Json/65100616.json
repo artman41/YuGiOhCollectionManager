@@ -1,0 +1,16 @@
+{
+  "id": 4075,
+  "cardNumber": "65100616",
+  "name": "Link Infra-Flier",
+  "description": "You can Special Summon this card (from your hand) to your zone a Link Monster points to. You can only Special Summon \"Link Infra-Flier\" once per turn this way.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

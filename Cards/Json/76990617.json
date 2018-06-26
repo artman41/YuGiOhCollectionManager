@@ -1,0 +1,16 @@
+{
+  "id": 6373,
+  "cardNumber": "76990617",
+  "name": "Sonata the Melodious Diva",
+  "description": "If you control a \"Melodious\" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2078,
+  "cardNumber": "8414337",
+  "name": "Dust Storm of Gusto",
+  "description": "Your opponent cannot activate cards or effects when \"Gusto\" monsters you control declare their attacks this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

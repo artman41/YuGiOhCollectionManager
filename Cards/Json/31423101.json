@@ -1,0 +1,16 @@
+{
+  "id": 1897,
+  "cardNumber": "31423101",
+  "name": "Divine Sword - Phoenix Blade",
+  "description": "Equip only to a Warrior-Type monster. It gains 300 ATK. During your Main Phase, if this card is in your Graveyard you can remove from play 2 Warrior-Type monsters in your Graveyard to add this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

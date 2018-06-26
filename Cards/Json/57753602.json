@@ -1,0 +1,16 @@
+{
+  "id": 2830,
+  "cardNumber": "57753602",
+  "name": "Gem Flash Energy",
+  "description": "During each of your Standby Phases, inflict damage to your opponent equal to the number of face-up Continuous Spell Cards on the field x 300.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

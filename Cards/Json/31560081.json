@@ -1,0 +1,16 @@
+{
+  "id": 4231,
+  "cardNumber": "31560081",
+  "name": "Magician of Faith",
+  "description": "FLIP: Target 1 Spell in your GY; add that target to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

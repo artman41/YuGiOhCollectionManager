@@ -1,0 +1,16 @@
+{
+  "id": 8114,
+  "cardNumber": "34743446",
+  "name": "Blocker",
+  "description": "Constructed from several components, this monster can launch them in a pincer attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 850,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

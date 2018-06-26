@@ -1,0 +1,16 @@
+{
+  "id": 14,
+  "cardNumber": "96146814",
+  "name": "A/D Changer",
+  "description": "You can banish this card from your Graveyard, then target 1 monster on the field; change its battle position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8360,
+  "cardNumber": "20831168",
+  "name": "Lizard Soldier",
+  "description": "A beast soldier derived from dragons, it is small for a Dragon-Type. Moving very quickly, this monster is an excellent strategist.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3810,
+  "cardNumber": "10759529",
+  "name": "Kid Guard",
+  "description": "When an opponent's monster declares an attack: Tribute 1 \"Hero Kid\"; negate the attack, then add 1 \"Elemental HERO\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

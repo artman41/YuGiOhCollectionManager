@@ -1,0 +1,16 @@
+{
+  "id": 6426,
+  "cardNumber": "9365703",
+  "name": "Speed Warrior",
+  "description": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

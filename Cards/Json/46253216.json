@@ -1,0 +1,16 @@
+{
+  "id": 473,
+  "cardNumber": "46253216",
+  "name": "Bad Aim",
+  "description": "When your opponent's card or effect is activated: Target 1 card on the field (other than that card); destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

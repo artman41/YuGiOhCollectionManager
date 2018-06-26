@@ -1,0 +1,16 @@
+{
+  "id": 4909,
+  "cardNumber": "69610924",
+  "name": "Number 17: Leviathan Dragon",
+  "description": "2 Level 3 monsters<br>Once per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

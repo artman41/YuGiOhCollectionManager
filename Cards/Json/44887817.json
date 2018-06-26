@@ -1,0 +1,16 @@
+{
+  "id": 4551,
+  "cardNumber": "44887817",
+  "name": "Miracle Fertilizer",
+  "description": "Once per turn: You can target 1 Plant-Type monster in your Graveyard; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

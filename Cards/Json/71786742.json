@@ -1,0 +1,16 @@
+{
+  "id": 2819,
+  "cardNumber": "71786742",
+  "name": "Geargiano",
+  "description": "You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

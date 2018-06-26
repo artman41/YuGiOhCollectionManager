@@ -1,0 +1,16 @@
+{
+  "id": 7018,
+  "cardNumber": "44913552",
+  "name": "Timeater",
+  "description": "If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

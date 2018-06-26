@@ -1,0 +1,16 @@
+{
+  "id": 4536,
+  "cardNumber": "38680149",
+  "name": "Mind Trust",
+  "description": "Tribute 1 Level 2 or higher monster. Add 1 Tuner Monster from your Graveyard to your hand whose Level is less than or equal to half of the Tributed monster's.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

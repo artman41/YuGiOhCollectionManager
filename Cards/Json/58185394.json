@@ -1,0 +1,16 @@
+{
+  "id": 2949,
+  "cardNumber": "58185394",
+  "name": "Giant Kozaky",
+  "description": "If there is no face-up \"Kozaky\" on the field, destroy this card. If this face-up card is destroyed, inflict damage equal to the original ATK of this card to its current controller.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

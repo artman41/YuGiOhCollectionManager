@@ -1,0 +1,16 @@
+{
+  "id": 7641,
+  "cardNumber": "71315423",
+  "name": "Worm Millidith",
+  "description": "FLIP: You can equip this card to a monster your opponent controls as an Equip Card. Inflict 400 damage to the controller of the equipped monster during each Standby Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

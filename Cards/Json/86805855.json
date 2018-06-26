@@ -1,0 +1,16 @@
+{
+  "id": 1538,
+  "cardNumber": "86805855",
+  "name": "Dark Blade the Dragon Knight",
+  "description": "\"Dark Blade\" + \"Pitch-Dark Dragon\"<br>Each time this card inflicts Battle Damage to your opponent, you can select up to 3 Monster Cards from your opponent's Graveyard and remove them from play.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

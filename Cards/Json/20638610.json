@@ -1,0 +1,16 @@
+{
+  "id": 2007,
+  "cardNumber": "20638610",
+  "name": "Dragon's Rebirth",
+  "description": "Target 1 Dragon-Type monster you control; banish that target, and if you do, Special Summon 1 Dragon-Type monster from your hand or Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

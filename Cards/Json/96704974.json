@@ -1,0 +1,16 @@
+{
+  "id": 774,
+  "cardNumber": "96704974",
+  "name": "Boogie Trap",
+  "description": "Discard 2 cards, then target 1 Trap in your GY; Set that target. It can be activated this turn. You can only activate 1 \"Boogie Trap\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

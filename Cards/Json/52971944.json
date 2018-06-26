@@ -1,0 +1,16 @@
+{
+  "id": 6094,
+  "cardNumber": "52971944",
+  "name": "Sealing Ceremony of Katon",
+  "description": "Once per turn: You can banish 1 FIRE monster from your Graveyard to target 1 card in your opponent's Graveyard; banish that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

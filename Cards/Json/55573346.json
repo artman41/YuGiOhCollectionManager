@@ -1,0 +1,16 @@
+{
+  "id": 7826,
+  "cardNumber": "55573346",
+  "name": "Accidetonation",
+  "description": "Target 1 card you control; destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

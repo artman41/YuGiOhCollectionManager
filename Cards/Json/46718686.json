@@ -1,0 +1,16 @@
+{
+  "id": 8295,
+  "cardNumber": "46718686",
+  "name": "Hitodenchak",
+  "description": "A rabid starfish that spits a lethal acid that can melt almost anything.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

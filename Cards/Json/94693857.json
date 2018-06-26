@@ -1,0 +1,16 @@
+{
+  "id": 1747,
+  "cardNumber": "94693857",
+  "name": "Deskbot 001",
+  "description": "This card gains 500 ATK and DEF for each Machine-Type monster you control. If 2 or more Machine-Type monsters are Special Summoned at the same time while this card is in your Graveyard (except during the Damage Step): You can Special Summon this card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

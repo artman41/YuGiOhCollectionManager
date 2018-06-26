@@ -1,0 +1,16 @@
+{
+  "id": 5711,
+  "cardNumber": "74694807",
+  "name": "Re-Fusion",
+  "description": "Activate this card by paying 800 LP, then target 1 Fusion Monster in your Graveyard; Special Summon it and equip it with this card. When this card is destroyed, banish the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4322,
+  "cardNumber": "2460565",
+  "name": "Marauding Captain",
+  "description": "Your opponent cannot target Warrior monsters for attacks, except this one. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

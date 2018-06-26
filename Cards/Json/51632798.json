@@ -1,0 +1,16 @@
+{
+  "id": 2696,
+  "cardNumber": "51632798",
+  "name": "Fusilier Dragon, the Dual-Mode Beast",
+  "description": "You can Normal Summon/Set this card without Tributing, but its original ATK and DEF become halved.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

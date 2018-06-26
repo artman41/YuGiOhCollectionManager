@@ -1,0 +1,16 @@
+{
+  "id": 7095,
+  "cardNumber": "80955168",
+  "name": "Trap of the Imperial Tomb",
+  "description": "When a Zombie-Type monster(s) is Special Summoned from your opponent's Graveyard to your side of the field: Target 2 cards on the field; destroy those targets.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1478,
+  "cardNumber": "19302550",
+  "name": "D/D Savant Newton",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"D/D\" monsters. This effect cannot be negated. Once, while this card is in your Pendulum Zone, you can negate an activated Trap effect that would inflict damage to you, then destroy this card.\n\n Monster Effect\n You can discard this card, then target 1 \"D/D\" or \"Dark Contract\" card in your Graveyard, except \"D/D Savant Newton\"; add it to your hand. You can only use this effect of \"D/D Savant Newton\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

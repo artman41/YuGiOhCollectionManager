@@ -1,0 +1,16 @@
+{
+  "id": 7310,
+  "cardNumber": "38844957",
+  "name": "Urgent Ritual Art",
+  "description": "If you control no Ritual Monsters: Banish 1 Ritual Spell Card from your hand or Graveyard; this card's effect becomes that card's effect that Ritual Summons a monster when the card is activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

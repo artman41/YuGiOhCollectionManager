@@ -1,0 +1,16 @@
+{
+  "id": 485,
+  "cardNumber": "10012614",
+  "name": "Banner of Courage",
+  "description": "All monsters you control gain 200 ATK during your Battle Phase only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

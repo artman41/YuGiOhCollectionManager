@@ -1,0 +1,16 @@
+{
+  "id": 6259,
+  "cardNumber": "37267041",
+  "name": "Silent Swordsman LV7",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Swordsman LV5\", and cannot be Special Summoned by other ways. Negate all Spell effects on the field.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

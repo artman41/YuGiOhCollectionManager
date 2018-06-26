@@ -1,0 +1,16 @@
+{
+  "id": 7401,
+  "cardNumber": "81020646",
+  "name": "Void Ogre Dragon",
+  "description": "1 DARK Tuner + 1 or more non-Tuner monsters<br>Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card while you have no cards in your hand: You can negate the activation and destroy it.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

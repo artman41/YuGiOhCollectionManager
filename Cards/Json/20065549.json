@@ -1,0 +1,16 @@
+{
+  "id": 4886,
+  "cardNumber": "20065549",
+  "name": "Non-Spellcasting Area",
+  "description": "All face-up monsters, except for Effect Monsters, are unaffected by other Spell effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

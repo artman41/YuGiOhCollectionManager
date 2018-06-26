@@ -1,0 +1,16 @@
+{
+  "id": 5183,
+  "cardNumber": "50470982",
+  "name": "The Paths of Destiny",
+  "description": "Both players toss a coin once. If a player's result is Heads, they gain 2000 Life Points, and if their result is Tails, they take 2000 damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8113,
+  "cardNumber": "5464695",
+  "name": "Blazing Inpachi",
+  "description": "A wicked wooden spirit now burning in flames. Its fire attack is powerful, but it will soon be nothing but ashes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

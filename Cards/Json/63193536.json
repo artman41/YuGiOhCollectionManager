@@ -1,0 +1,16 @@
+{
+  "id": 5113,
+  "cardNumber": "63193536",
+  "name": "Over Capacity",
+  "description": "When your opponent Special Summons a monster: Banish all face-up Level 2 or lower monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

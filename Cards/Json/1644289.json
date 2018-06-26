@@ -1,0 +1,16 @@
+{
+  "id": 7444,
+  "cardNumber": "1644289",
+  "name": "Vylon Segment",
+  "description": "Equip only to a \"Vylon\" monster. It cannot be targeted by the opponent's monster effects or Trap effects. If this face-up card on the field is sent to the Graveyard: You can add 1 \"Vylon\" Spell Card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

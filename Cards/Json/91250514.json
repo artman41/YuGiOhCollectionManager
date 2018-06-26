@@ -1,0 +1,16 @@
+{
+  "id": 7033,
+  "cardNumber": "91250514",
+  "name": "Tongue Twister",
+  "description": "If this card was Tribute Summoned, when it is sent from the field to the Graveyard, draw 2 cards and remove this card from play.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

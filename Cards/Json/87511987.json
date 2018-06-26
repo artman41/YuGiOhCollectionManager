@@ -1,0 +1,16 @@
+{
+  "id": 8544,
+  "cardNumber": "87511987",
+  "name": "Spikebot",
+  "description": "A mechanical soldier created by a wicked sorcerer, it attacks with the two steel balls attached to its arms.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

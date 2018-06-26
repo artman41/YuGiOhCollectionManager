@@ -1,0 +1,16 @@
+{
+  "id": 6332,
+  "cardNumber": "84650463",
+  "name": "Slushy",
+  "description": "When this card is Normal Summoned: You can send 1 \"Slushy\" from your Deck to the Graveyard. If you have 3 copies of \"Slushy\" total, either banished and/or in your Graveyard (combined): You can banish this card from your Graveyard to target 1 Level 5 or higher Sea Serpent-Type monster in your Graveyard; Special Summon that target. You can only use the Special Summoning effect of \"Slushy\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

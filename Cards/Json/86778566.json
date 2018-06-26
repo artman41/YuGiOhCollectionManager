@@ -1,0 +1,16 @@
+{
+  "id": 3518,
+  "cardNumber": "86778566",
+  "name": "Impenetrable Attack",
+  "description": "During the Battle Phase, activate 1 of these effects.<br>â— Target 1 monster on the field; it cannot be destroyed by battle or by card effects during this Battle Phase.<br>â— You take no battle damage during this Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

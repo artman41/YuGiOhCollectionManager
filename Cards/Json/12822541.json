@@ -1,0 +1,16 @@
+{
+  "id": 1466,
+  "cardNumber": "12822541",
+  "name": "D/D Lilith",
+  "description": "If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of \"D/D Lilith\" once per turn.<br>â— Target 1 \"D/D\" monster in your Graveyard; add it to your hand.<br>â— Add 1 face-up \"D/D\" Pendulum Monster from your Extra Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

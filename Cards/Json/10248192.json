@@ -1,0 +1,16 @@
+{
+  "id": 3416,
+  "cardNumber": "10248192",
+  "name": "Hieroglyph Lithograph",
+  "description": "Pay 1000 Life Points. During the current Duel, your hand size limit becomes 7.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

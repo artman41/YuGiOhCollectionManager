@@ -1,0 +1,16 @@
+{
+  "id": 3085,
+  "cardNumber": "9744376",
+  "name": "Good Goblin Housekeeping",
+  "description": "Draw cards equal to the number of \"Good Goblin Housekeeping\" cards in your Graveyard +1, then select 1 card from your hand and return it to the bottom of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

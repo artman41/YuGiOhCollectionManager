@@ -1,0 +1,16 @@
+{
+  "id": 7833,
+  "cardNumber": "97803170",
+  "name": "Archfiend's Call",
+  "description": "You can target 1 Level 5 or higher Fiend monster in your GY; discard 1 Fiend monster, and if you do, Special Summon the targeted monster. You can only use this effect of \"Archfiend's Call\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

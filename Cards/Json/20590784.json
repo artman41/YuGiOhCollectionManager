@@ -1,0 +1,16 @@
+{
+  "id": 6576,
+  "cardNumber": "20590784",
+  "name": "Stardust Re-Spark",
+  "description": "When an opponent's Special Summoned monster declares a direct attack, if its ATK is greater than or equal to your LP: Negate the attack, and if you do, draw 1 card, then you can Special Summon 1 \"Stardust\" monster from your Extra Deck or Graveyard. You can only activate 1 \"Stardust Re-Spark\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

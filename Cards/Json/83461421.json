@@ -1,0 +1,16 @@
+{
+  "id": 5198,
+  "cardNumber": "83461421",
+  "name": "Pendulum Storm",
+  "description": "Destroy as many cards in the Pendulum Zones as possible, then you can destroy 1 Spell/Trap your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

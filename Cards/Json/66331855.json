@@ -1,0 +1,16 @@
+{
+  "id": 4647,
+  "cardNumber": "66331855",
+  "name": "Morphtronic Datatron",
+  "description": "â— While in Attack Position: Once per turn, you can Tribute 1 monster to inflict 600 damage to your opponent. â— While in Defense Position: Once per turn, you can inflict 300 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

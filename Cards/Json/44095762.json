@@ -1,0 +1,16 @@
+{
+  "id": 4566,
+  "cardNumber": "44095762",
+  "name": "Mirror Force",
+  "description": "When an opponent's monster declares an attack: Destroy all your opponent's Attack Position monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

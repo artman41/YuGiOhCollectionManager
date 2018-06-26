@@ -1,0 +1,16 @@
+{
+  "id": 2103,
+  "cardNumber": "67987302",
+  "name": "Earthbound Linewalker",
+  "description": "\"Earthbound Immortal\" monsters cannot be destroyed by their own effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

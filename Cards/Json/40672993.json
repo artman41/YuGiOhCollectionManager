@@ -1,0 +1,16 @@
+{
+  "id": 4048,
+  "cardNumber": "40672993",
+  "name": "Lightning Rod Lord",
+  "description": "Neither player can activate Spell Cards during Main Phase 1.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

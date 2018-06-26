@@ -1,0 +1,16 @@
+{
+  "id": 5762,
+  "cardNumber": "64335804",
+  "name": "Red-Eyes Black Metal Dragon",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Red-Eyes B. Dragon\" equipped with \"Metalmorph\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

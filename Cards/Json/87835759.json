@@ -1,0 +1,16 @@
+{
+  "id": 1988,
+  "cardNumber": "87835759",
+  "name": "Dragon Knight of Creation",
+  "description": "Increase this card's Level by 4 during your opponent's turn only. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can send 1 Level 7 or 8 Dragon-Type monster from your Deck to the Graveyard. You can send 1 card from your hand to the Graveyard, then target 1 Level 7 or 8 Dragon-Type monster in your Graveyard; send this card to the Graveyard, and if you do, Special Summon that monster. You can only use this effect of \"Dragon Knight of Creation\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

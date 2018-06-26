@@ -1,0 +1,16 @@
+{
+  "id": 8566,
+  "cardNumber": "75646173",
+  "name": "Synchar",
+  "description": "This two-headed creature spits laser blasts at its enemies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

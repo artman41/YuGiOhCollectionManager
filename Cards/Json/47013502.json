@@ -1,0 +1,16 @@
+{
+  "id": 1913,
+  "cardNumber": "47013502",
+  "name": "Dodger Dragon",
+  "description": "This card's Normal Summon cannot be negated. After this card was Normal Summoned, your opponent cannot activate Counter Trap Cards for the rest of that turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

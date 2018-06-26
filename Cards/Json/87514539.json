@@ -1,0 +1,16 @@
+{
+  "id": 4329,
+  "cardNumber": "87514539",
+  "name": "Marionette Mite",
+  "description": "You can discard this card to the Graveyard to take control of 1 face-up Fiend or Zombie-Type monster your opponent controls until the End Phase this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2162,
+  "cardNumber": "94253609",
+  "name": "Elemental Absorber",
+  "description": "Remove from play 1 Monster Card in your hand to activate this card. Your opponent's monsters that have the same Attribute as the monster removed by this effect cannot declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

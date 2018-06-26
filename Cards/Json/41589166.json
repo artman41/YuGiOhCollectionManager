@@ -1,0 +1,16 @@
+{
+  "id": 6926,
+  "cardNumber": "41589166",
+  "name": "Tenkabito Shien",
+  "description": "This card is unaffected by the effects of Trap Cards.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

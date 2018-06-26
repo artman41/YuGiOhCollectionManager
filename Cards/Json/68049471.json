@@ -1,0 +1,16 @@
+{
+  "id": 8277,
+  "cardNumber": "68049471",
+  "name": "The Gross Ghost of Fled Dreams",
+  "description": "This monster feeds on the dreams of an unwary sleeper, dragging the victim into eternal slumber.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

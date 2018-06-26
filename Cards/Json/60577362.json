@@ -1,0 +1,16 @@
+{
+  "id": 5127,
+  "cardNumber": "60577362",
+  "name": "Overpowering Eye",
+  "description": "Target 1 Zombie-Type monster you control with 2000 or less ATK; it can attack your opponent directly this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

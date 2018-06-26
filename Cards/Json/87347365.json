@@ -1,0 +1,16 @@
+{
+  "id": 5861,
+  "cardNumber": "87347365",
+  "name": "Revival Golem",
+  "description": "The effect of \"Revival Golem\" can only be used once per turn. When this card is sent from your Deck to the Graveyard: Activate 1 of these effects.<br>â— Special Summon this card from the Graveyard.<br>â— Add this card from the Graveyard to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5930,
+  "cardNumber": "95515060",
+  "name": "Rod of Silence - Kay'est",
+  "description": "The equipped monster gains 500 DEF. Negate other Spell effects that target the equipped monster, and if you do, destroy that Spell Card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6420,
+  "cardNumber": "70655556",
+  "name": "Spear Shark",
+  "description": "When this card is Normal Summoned: You can increase the Levels of all Level 3 Fish-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

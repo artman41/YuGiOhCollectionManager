@@ -1,0 +1,16 @@
+{
+  "id": 5506,
+  "cardNumber": "46291010",
+  "name": "Psi-Beast",
+  "description": "When this card is Normal Summoned, you can remove from play 1 Psychic-Type monster from your Deck. This card's Level becomes the Level of that monster.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

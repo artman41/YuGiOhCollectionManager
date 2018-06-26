@@ -1,0 +1,16 @@
+{
+  "id": 6748,
+  "cardNumber": "89091772",
+  "name": "Superheavy Samurai Magnet",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Superheavy Samurai\" monster from your hand, then change this card to Defense Position. Monsters your opponent controls cannot attack any monsters, except this one.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

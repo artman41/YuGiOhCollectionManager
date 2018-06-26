@@ -1,0 +1,16 @@
+{
+  "id": 7630,
+  "cardNumber": "28506708",
+  "name": "Worm Call",
+  "description": "Once per turn, if your opponent controls a monster and you control no monsters, you can Special Summon 1 Reptile-Type \"Worm\" monster from your hand in face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 526,
+  "cardNumber": "42233477",
+  "name": "Battleguard Rage",
+  "description": "Activate this card by targeting 1 Warrior-Type monster you control. It gains 1000 ATK. Monsters destroyed by battle with it are returned to the hand instead of going to the Graveyard. When that monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8938,
+  "cardNumber": "60944809",
+  "name": "Glorious Numbers",
+  "description": "If you control no monsters: Target 1 \"Number\" Xyz Monster in your GY; Special Summon it, then draw 1 card. You can banish this card from your GY, then target 1 \"Number\" Xyz Monster you control; attach 1 card from your hand to it as material. You can only use each effect of \"Glorious Numbers\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

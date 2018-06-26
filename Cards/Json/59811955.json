@@ -1,0 +1,16 @@
+{
+  "id": 234,
+  "cardNumber": "59811955",
+  "name": "Ancient Gear Workshop",
+  "description": "Target 1 \"Ancient Gear\" monster in your Graveyard; add that target to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

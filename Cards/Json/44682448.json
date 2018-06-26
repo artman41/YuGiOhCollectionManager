@@ -1,0 +1,16 @@
+{
+  "id": 2787,
+  "cardNumber": "44682448",
+  "name": "Garbage Lord",
+  "description": "You can Special Summon this card (from your hand) by paying 2000 Life Points. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a DARK monster.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

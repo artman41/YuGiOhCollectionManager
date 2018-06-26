@@ -1,0 +1,16 @@
+{
+  "id": 4096,
+  "cardNumber": "40320754",
+  "name": "Lord Poison",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Target 1 Plant-Type monster in your Graveyard, except \"Lord Poison\"; Special Summon that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

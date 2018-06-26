@@ -1,0 +1,16 @@
+{
+  "id": 2027,
+  "cardNumber": "876330",
+  "name": "Dragunity Arma Mystletainn",
+  "description": "You can Special Summon this card from your hand by sending 1 face-up \"Dragunity\" monster you control to the Graveyard. When this card is Normal or Special Summoned from the hand, you can select 1 Dragon-Type \"Dragunity\" monster in your Graveyard, and equip it to this card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2314,
+  "cardNumber": "72429240",
+  "name": "Evilswarm O'lantern",
+  "description": "You can Tribute this card, then target 1 face-up monster your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1650,
+  "def": 1250,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

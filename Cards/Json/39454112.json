@@ -1,0 +1,16 @@
+{
+  "id": 6950,
+  "cardNumber": "39454112",
+  "name": "That Six",
+  "description": "Each time a player rolls a die (or dice), you can choose 1 die result, and apply the appropriate effect based on the result.<br>â— 1, 3, or 5: The die result is treated as 6.<br>â— 2, 4, or 6: The die result is treated as 1.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

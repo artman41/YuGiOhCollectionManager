@@ -1,0 +1,16 @@
+{
+  "id": 6606,
+  "cardNumber": "62729173",
+  "name": "Steelswarm Genome",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a \"Steelswarm\" monster.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

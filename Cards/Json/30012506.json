@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "cardNumber": "30012506",
+  "name": "A-Assault Core",
+  "description": "Once per turn, you can either: Target 1 LIGHT Machine-Type monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card is unaffected by your opponent's monster effects (except its own), also if the equipped monster would be destroyed by battle or card effect, destroy this card instead. If this card is sent from the field to the Graveyard: You can add 1 other Union monster from your Graveyard to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Union\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

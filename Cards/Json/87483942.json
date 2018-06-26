@@ -1,0 +1,16 @@
+{
+  "id": 6128,
+  "cardNumber": "87483942",
+  "name": "Senior Silver Ninja",
+  "description": "When this card is flipped face-up: You can Special Summon any number of \"Ninja\" monsters, except \"Senior Silver Ninja\", from your hand and/or Graveyard in face-down Defense Position. There can only be 1 face-up \"Senior Silver Ninja\" on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

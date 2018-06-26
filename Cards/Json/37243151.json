@@ -1,0 +1,16 @@
+{
+  "id": 8625,
+  "cardNumber": "37243151",
+  "name": "Weather Control",
+  "description": "This creature controls weather and is often the cause of mountain storms.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

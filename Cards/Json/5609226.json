@@ -1,0 +1,16 @@
+{
+  "id": 7176,
+  "cardNumber": "5609226",
+  "name": "Tuner's Barrier",
+  "description": "Select 1 face-up Tuner monster you control. That monster cannot be destroyed by battle or by card effects, until the End Phase of the next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

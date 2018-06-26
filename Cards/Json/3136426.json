@@ -1,0 +1,16 @@
+{
+  "id": 4015,
+  "cardNumber": "3136426",
+  "name": "Level Limit - Area B",
+  "description": "Change all face-up Level 4 or higher monsters to Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

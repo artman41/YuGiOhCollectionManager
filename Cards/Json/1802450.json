@@ -1,0 +1,16 @@
+{
+  "id": 6095,
+  "cardNumber": "1802450",
+  "name": "Sealing Ceremony of Mokuton",
+  "description": "Once per turn, you can Tribute 1 face-up EARTH monster to select up to 2 cards in your opponent's Graveyard, and remove them from play.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

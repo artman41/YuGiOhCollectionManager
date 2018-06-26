@@ -1,0 +1,16 @@
+{
+  "id": 7540,
+  "cardNumber": "62180201",
+  "name": "The Wicked Dreadroot",
+  "description": "This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 4000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

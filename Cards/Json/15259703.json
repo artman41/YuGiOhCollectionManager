@@ -1,0 +1,16 @@
+{
+  "id": 7052,
+  "cardNumber": "15259703",
+  "name": "Toon World",
+  "description": "Activate this card by paying 1000 LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

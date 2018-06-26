@@ -1,0 +1,16 @@
+{
+  "id": 5130,
+  "cardNumber": "71272951",
+  "name": "Overworked",
+  "description": "Destroy each monster whose ATK is higher than its original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

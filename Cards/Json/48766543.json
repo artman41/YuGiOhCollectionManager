@@ -1,0 +1,16 @@
+{
+  "id": 8147,
+  "cardNumber": "48766543",
+  "name": "Cyber-Tech Alligator",
+  "description": "Originally a pterodactyl, he was viciously attacked by a dragon. Using the newest technologies, his keeper saved him from near-fatal wounds and brought him back as a powerful Cyborg.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3422,
+  "cardNumber": "46130346",
+  "name": "Hinotama",
+  "description": "Inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

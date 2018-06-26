@@ -1,0 +1,16 @@
+{
+  "id": 5345,
+  "cardNumber": "63356631",
+  "name": "Phoenix Wing Wind Blast",
+  "description": "Discard 1 card, then target 1 card your opponent controls; place that target on the top of the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

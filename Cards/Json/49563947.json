@@ -1,0 +1,16 @@
+{
+  "id": 8434,
+  "cardNumber": "49563947",
+  "name": "Neo Aqua Madoor",
+  "description": "The true nature of this wizard, who rules all water. It defends itself with a vast, impenetrable wall of ice.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

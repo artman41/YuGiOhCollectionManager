@@ -1,0 +1,16 @@
+{
+  "id": 8079,
+  "cardNumber": "53153481",
+  "name": "Armaill",
+  "description": "A strange warrior who manipulates three deadly blades with both hands and his tail.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

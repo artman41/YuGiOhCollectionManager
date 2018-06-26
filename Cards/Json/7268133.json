@@ -1,0 +1,16 @@
+{
+  "id": 5250,
+  "cardNumber": "7268133",
+  "name": "Performapal Life Swordsman",
+  "description": "When your opponent gains LP (except during the Damage Step): You can Special Summon this card from your hand, and if you do, this card's ATK becomes equal to the LP your opponent gained. You can Tribute this card, then target 1 face-up monster you control; it gains 1000 ATK until the end of this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

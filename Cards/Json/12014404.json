@@ -1,0 +1,16 @@
+{
+  "id": 2727,
+  "cardNumber": "12014404",
+  "name": "Gagaga Cowboy",
+  "description": "2 Level 4 monsters<br>Once per turn: You can detach 1 Xyz Material from this card; apply this effect, depending on this card's current battle position.<br>â— Attack Position: If this card attacks an opponent's monster this turn, it gains 1000 ATK, also the opponent's monster loses 500 ATK, during the Damage Step only.<br>â— Defense Position: Inflict 800 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 1500,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

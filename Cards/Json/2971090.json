@@ -1,0 +1,16 @@
+{
+  "id": 8453,
+  "cardNumber": "2971090",
+  "name": "Orion the Battle King",
+  "description": "None have lived to tell tales of this powerful battle fairy.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

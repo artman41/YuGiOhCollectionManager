@@ -1,0 +1,16 @@
+{
+  "id": 7309,
+  "cardNumber": "58911105",
+  "name": "Upstart Golden Ninja",
+  "description": "Once per turn: You can send 1 Trap Card from your hand to the Graveyard; Special Summon 1 Level 4 or lower \"Ninja\" monster from your Deck in face-up Defense Position or face-down Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

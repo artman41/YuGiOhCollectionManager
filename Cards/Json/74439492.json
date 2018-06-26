@@ -1,0 +1,16 @@
+{
+  "id": 6072,
+  "cardNumber": "74439492",
+  "name": "Scrap Sheen",
+  "description": "Select 1 face-up \"Scrap\" monster you control and destroy it. All face-up \"Scrap\" monsters you control gain 1000 ATK until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

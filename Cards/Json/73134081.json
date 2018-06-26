@@ -1,0 +1,16 @@
+{
+  "id": 2478,
+  "cardNumber": "73134081",
+  "name": "Final Flame",
+  "description": "Inflict 600 points of damage to your opponent's Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

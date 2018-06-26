@@ -1,0 +1,16 @@
+{
+  "id": 3183,
+  "cardNumber": "20056760",
+  "name": "Graydle Slime",
+  "description": "If this card is in your hand or Graveyard: You can target 2 \"Graydle\" cards you control; destroy them, and if you do, Special Summon this card. You can only use this effect of \"Graydle Slime\" once per turn. When Summoned this way: You can target 1 \"Graydle\" monster in your Graveyard; Special Summon that target in Defense Position.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

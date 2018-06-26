@@ -1,0 +1,16 @@
+{
+  "id": 8905,
+  "cardNumber": "58374719",
+  "name": "World Legacy Struggle",
+  "description": "Target Spells/Traps on the field, up to the number of co-linked monsters on the field; destroy them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

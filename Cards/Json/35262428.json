@@ -1,0 +1,16 @@
+{
+  "id": 7597,
+  "cardNumber": "35262428",
+  "name": "Wiseman's Chalice",
+  "description": "If you control no monsters, select 1 monster in your opponent's Graveyard. Special Summon it. During the End Phase of this turn, give control of that Special Summoned monster to your opponent. The monster cannot be Tributed, or used as a Synchro Material Monster, while it is face-up on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

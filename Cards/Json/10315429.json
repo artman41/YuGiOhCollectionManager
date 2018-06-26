@@ -1,0 +1,16 @@
+{
+  "id": 8651,
+  "cardNumber": "10315429",
+  "name": "Yaiba Robo",
+  "description": "A cubical machine equipped with cutting blades for shredding an opponent to mincemeat.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

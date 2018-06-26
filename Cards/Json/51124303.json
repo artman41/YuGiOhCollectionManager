@@ -1,0 +1,16 @@
+{
+  "id": 4789,
+  "cardNumber": "51124303",
+  "name": "Nekroz Kaleidoscope",
+  "description": "This card can be used to Ritual Summon any number of \"Nekroz\" Ritual Monsters. Tribute 1 monster from your hand or field, or send 1 monster from your Extra Deck to the Graveyard, also, after that, Ritual Summon any number of \"Nekroz\" monsters whose total Levels exactly equal the Level of that monster. You can only use this effect of \"Nekroz Kaleidoscope\" once per turn. If you control no monsters: You can banish this card and 1 \"Nekroz\" monster from your Graveyard; add 1 \"Nekroz\" Spell Card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

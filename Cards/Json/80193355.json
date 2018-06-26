@@ -1,0 +1,16 @@
+{
+  "id": 2047,
+  "cardNumber": "80193355",
+  "name": "Dramatic Rescue",
+  "description": "Activate only when a card is activated that targets an \"Amazoness\" monster. Return the targeted monster to its owner's hand and Special Summon 1 other monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

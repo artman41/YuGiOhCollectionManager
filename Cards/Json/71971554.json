@@ -1,0 +1,16 @@
+{
+  "id": 5912,
+  "cardNumber": "71971554",
+  "name": "Road Synchron",
+  "description": "When using this card as Synchro Material for the Synchro Summon of a monster other than \"Road Warrior\", reduce this card's Level by 2. If this card attacks, at the end of the Damage Step: Increase its Level by 1 until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

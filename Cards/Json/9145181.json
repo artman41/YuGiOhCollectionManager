@@ -1,0 +1,16 @@
+{
+  "id": 5908,
+  "cardNumber": "9145181",
+  "name": "Ritual Sealing",
+  "description": "Destroy 1 face-up Ritual Monster on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

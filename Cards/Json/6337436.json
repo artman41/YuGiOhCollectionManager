@@ -1,0 +1,16 @@
+{
+  "id": 5695,
+  "cardNumber": "6337436",
+  "name": "Rapid-Fire Magician",
+  "description": "Inflict 400 damage to your opponent each time you activate a Normal Spell Card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

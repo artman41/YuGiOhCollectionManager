@@ -1,0 +1,16 @@
+{
+  "id": 7714,
+  "cardNumber": "99724761",
+  "name": "XZ-Tank Cannon",
+  "description": "\"X-Head Cannon\" + \"Z-Metal Tank\"<br>Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control. (You do not use \"Polymerization\".) Cannot be Special Summoned from the Graveyard. You can discard 1 card, then target 1 face-down Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

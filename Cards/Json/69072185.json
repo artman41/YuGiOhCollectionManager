@@ -1,0 +1,16 @@
+{
+  "id": 188,
+  "cardNumber": "69072185",
+  "name": "Amorphage Goliath",
+  "description": "Pendulum Effect\n While you control an \"Amorphage\" monster, any card sent to the Graveyard is banished instead, except \"Amorphage\" cards. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n Monster Effect\n Neither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2750,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

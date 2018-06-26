@@ -1,0 +1,16 @@
+{
+  "id": 7097,
+  "cardNumber": "2122975",
+  "name": "Trap Reclamation",
+  "description": "Discard 1 card and chain this card to a Trap Card you activated. Whenever that Trap Card is sent to the Graveyard, return it to its owner's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

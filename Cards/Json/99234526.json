@@ -1,0 +1,16 @@
+{
+  "id": 7522,
+  "cardNumber": "99234526",
+  "name": "White Dragon Wyverburster",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 DARK monster from your Graveyard, and cannot be Special Summoned by other ways. You can only Special Summon \"White Dragon Wyverburster\" once per turn this way. If this card is sent from the field to the Graveyard: You can add 1 \"Black Dragon Collapserpent\" from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

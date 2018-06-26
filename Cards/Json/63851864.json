@@ -1,0 +1,16 @@
+{
+  "id": 807,
+  "cardNumber": "63851864",
+  "name": "Break! Draw!",
+  "description": "Equip only to a Machine-Type monster. When the equipped monster destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card. Destroy this card during your 3rd End Phase after activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

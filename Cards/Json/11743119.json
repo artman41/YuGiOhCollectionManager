@@ -1,0 +1,16 @@
+{
+  "id": 7295,
+  "cardNumber": "11743119",
+  "name": "Union Rider",
+  "description": "You can take control of up to 1 Union Monster that is currently a monster on your opponent's side of the field, and equip it to this card. The Union Monster that is equipped to this card cannot be changed back to a monster using its own effect.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

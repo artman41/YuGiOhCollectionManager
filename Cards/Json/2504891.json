@@ -1,0 +1,16 @@
+{
+  "id": 8733,
+  "cardNumber": "2504891",
+  "name": "Skull Knight",
+  "description": "\"Tainted Wisdom\" + \"Ancient Brain\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2650,
+  "def": 2250,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

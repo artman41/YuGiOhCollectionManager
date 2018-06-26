@@ -1,0 +1,16 @@
+{
+  "id": 8891,
+  "cardNumber": "63875853",
+  "name": "Trading Places",
+  "description": "If your LP is higher than your opponent's, switch your LP with your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

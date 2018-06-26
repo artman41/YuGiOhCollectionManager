@@ -1,0 +1,16 @@
+{
+  "id": 7662,
+  "cardNumber": "50604950",
+  "name": "X-Saber Galahad",
+  "description": "If this card attacks an opponent's monster, this card gains 300 ATK during the Damage Step only. If this card is attacked by an opponent's monster, this card loses 500 ATK during the Damage Step only. When this card is selected as an attack target, you can Tribute another \"Saber\" monster to negate the attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

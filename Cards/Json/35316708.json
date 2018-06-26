@@ -1,0 +1,16 @@
+{
+  "id": 7015,
+  "cardNumber": "35316708",
+  "name": "Time Seal",
+  "description": "Skip the Draw Phase of your opponent's next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

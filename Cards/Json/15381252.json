@@ -1,0 +1,16 @@
+{
+  "id": 580,
+  "cardNumber": "15381252",
+  "name": "Berserker Soul",
+  "description": "When a monster you control inflicts 1500 or less damage to your opponent by a direct attack: Discard your entire hand (min. 1); excavate the top card of your Deck, and if it is a Monster Card, send it to the Graveyard, and if you do that, inflict 500 damage to your opponent, then repeat this effect up to 7 more times or until you excavate a non-Monster Card. If a non-Monster Card is excavated, place it on the top of your Deck. You can only activate 1 \"Berserker Soul\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

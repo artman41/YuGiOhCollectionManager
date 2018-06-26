@@ -1,0 +1,16 @@
+{
+  "id": 5034,
+  "cardNumber": "52077741",
+  "name": "Obnoxious Celtic Guard",
+  "description": "Cannot be destroyed by battle with a monster that has 1900 or more ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3682,
+  "cardNumber": "72992744",
+  "name": "Jester Lord",
+  "description": "While this card is the only monster on the field, it gains 1000 ATK for each card in the Spell &amp; Trap Card Zones.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

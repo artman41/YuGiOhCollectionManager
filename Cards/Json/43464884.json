@@ -1,0 +1,16 @@
+{
+  "id": 8805,
+  "cardNumber": "43464884",
+  "name": "Outroll of the Haunted Sea",
+  "description": "If this card is Normal or Special Summoned: You can target 1 Beast-Warrior monster in your GY; the Attribute and Level of this card become the same as that monster's, until the end of this turn. During your Main Phase: You can Special Summon 1 Beast-Warrior monster from your hand with the same Attribute and Level as this card. You can only use each effect of \"Outroll of the Haunted Sea\" once per turn. You cannot Special Summon monsters the turn you activate either of this card's effects, except Beast-Warrior monsters.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

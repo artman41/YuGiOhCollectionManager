@@ -1,0 +1,16 @@
+{
+  "id": 4723,
+  "cardNumber": "55424270",
+  "name": "Mythical Beast Cerberus",
+  "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves. This card gains 500 ATK for each Spell Counter on it. If damage calculation is conducted involving this card, remove all Spell Counters from it at the end of the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

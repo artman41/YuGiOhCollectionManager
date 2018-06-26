@@ -1,0 +1,16 @@
+{
+  "id": 8318,
+  "cardNumber": "55337339",
+  "name": "Job-Change Mirror",
+  "description": "A wicked mirror that blocks off the damaging effects of an attack.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1024,
+  "cardNumber": "77252217",
+  "name": "Chainsaw Insect",
+  "description": "At the end of the Damage Step, if this card attacked or was attacked: Your opponent draws 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

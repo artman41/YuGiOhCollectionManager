@@ -1,0 +1,16 @@
+{
+  "id": 4951,
+  "cardNumber": "29669359",
+  "name": "Number 61: Volcasaurus",
+  "description": "2 Level 5 monsters<br>Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; destroy that opponent's monster, and if you do, inflict damage to your opponent equal to the destroyed monster's original ATK. This card cannot attack your opponent directly during the turn you activate this effect.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3786,
+  "cardNumber": "50615578",
+  "name": "Karakuri Ninja mdl 7749 \"Nanashick\"",
+  "description": "This card must attack if able. When this face-up card on the field is selected as an attack target, change its battle position. When this card is Normal Summoned, you can draw 1 card for each face-up Defense Position \"Karakuri\" monster you control.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

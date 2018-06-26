@@ -1,0 +1,16 @@
+{
+  "id": 848,
+  "cardNumber": "79777187",
+  "name": "Bubble Barrier",
+  "description": "Each \"Performapal\" and \"Performage\" monster you control cannot be destroyed by battle or card effect once per turn. You take no battle damage from attacks involving \"Performapal\" and \"Performage\" monsters you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

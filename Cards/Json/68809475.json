@@ -1,0 +1,16 @@
+{
+  "id": 3853,
+  "cardNumber": "68809475",
+  "name": "Koa'ki Meiru Speeder",
+  "description": "During each of your End Phases, destroy this card unless you send 1 \"Iron Core of Koa'ki Meiru\" from your hand to the Graveyard or reveal 1 Machine-Type monster in your hand. If you draw \"Iron Core of Koa'ki Meiru\" during your Draw Phase, you can reveal it to your opponent to draw 1 more card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

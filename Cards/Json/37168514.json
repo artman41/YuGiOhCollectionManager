@@ -1,0 +1,16 @@
+{
+  "id": 3090,
+  "cardNumber": "37168514",
+  "name": "Gorgonic Cerberus",
+  "description": "When this card is Normal Summoned: You can make all Rock-Type monsters you control become Level 3.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

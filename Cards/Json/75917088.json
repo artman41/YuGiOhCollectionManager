@@ -1,0 +1,16 @@
+{
+  "id": 5492,
+  "cardNumber": "75917088",
+  "name": "Princess Pikeru",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with \"Trial of the Princesses\". During your Standby Phase, gain 800 Life Points for each monster you control.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

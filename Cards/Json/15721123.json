@@ -1,0 +1,16 @@
+{
+  "id": 1192,
+  "cardNumber": "15721123",
+  "name": "Confronting the \"C\"",
+  "description": "When your opponent Special Summons a monster from the Extra Deck: You can Special Summon this card from your hand. If you do, this card is unaffected by monster effects that target this card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

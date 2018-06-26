@@ -1,0 +1,16 @@
+{
+  "id": 3270,
+  "cardNumber": "74519184",
+  "name": "Hand Destruction",
+  "description": "Each player sends 2 cards from their hand to the GY, then draws 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

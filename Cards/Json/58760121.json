@@ -1,0 +1,16 @@
+{
+  "id": 7634,
+  "cardNumber": "58760121",
+  "name": "Worm Falco",
+  "description": "FLIP: Change all face-up Reptile-Type \"Worm\" monsters you control to face-down Defense Position, except this card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

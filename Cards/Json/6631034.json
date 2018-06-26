@@ -1,0 +1,16 @@
+{
+  "id": 8229,
+  "cardNumber": "6631034",
+  "name": "Frostosaurus",
+  "description": "This monster's metabolism enables it to endure long periods of cold, harnessing the power to become a creature of solid ice! Nothing else can withstand such temperatures, especially victims of its glacial rampage.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

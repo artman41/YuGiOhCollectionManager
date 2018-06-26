@@ -1,0 +1,16 @@
+{
+  "id": 3429,
+  "cardNumber": "80036543",
+  "name": "Hope for Escape",
+  "description": "If your opponent's LP is at least 1000 higher than yours: Pay 1000 LP; draw 1 card for every 2000 points difference between your LP and your opponent's.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

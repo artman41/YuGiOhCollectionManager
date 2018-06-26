@@ -1,0 +1,16 @@
+{
+  "id": 276,
+  "cardNumber": "66668900",
+  "name": "Aquaactress Guppy",
+  "description": "Once per turn: You can Special Summon 1 \"Aquaactress\" monster from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

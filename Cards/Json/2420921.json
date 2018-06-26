@@ -1,0 +1,16 @@
+{
+  "id": 6224,
+  "cardNumber": "2420921",
+  "name": "Shire, Lightsworn Spirit",
+  "description": "This card gains 300 ATK for each \"Lightsworn\" monster with a different name in your Graveyard. During each of your End Phases: Send the top 2 cards of your Deck to the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

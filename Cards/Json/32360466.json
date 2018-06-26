@@ -1,0 +1,16 @@
+{
+  "id": 566,
+  "cardNumber": "32360466",
+  "name": "Beginning of Heaven and Earth",
+  "description": "Reveal 3 Warrior-Type monsters from your Deck, including at least 1 \"Black Luster Soldier\" monster or \"Gaia The Fierce Knight\" monster, and have your opponent randomly pick 1. If they picked a \"Black Luster Soldier\" monster or \"Gaia The Fierce Knight\" monster, add it to your hand and send the rest to the Graveyard. Otherwise, send them all to the Graveyard. You can only activate 1 \"Beginning of Heaven and Earth\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

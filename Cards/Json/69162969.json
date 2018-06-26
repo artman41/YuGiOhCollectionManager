@@ -1,0 +1,16 @@
+{
+  "id": 4050,
+  "cardNumber": "69162969",
+  "name": "Lightning Vortex",
+  "description": "Discard 1 card; destroy all face-up monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

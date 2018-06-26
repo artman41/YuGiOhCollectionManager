@@ -1,0 +1,16 @@
+{
+  "id": 3513,
+  "cardNumber": "35073065",
+  "name": "Illusory Snatcher",
+  "description": "When you Tribute Summon a monster: You can Special Summon this card from your hand, and if you do, the Type, Attribute, and Level of this card become the same as that face-up Tribute Summoned monster.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

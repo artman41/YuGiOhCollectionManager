@@ -1,0 +1,16 @@
+{
+  "id": 148,
+  "cardNumber": "89538537",
+  "name": "Altergeist Silquitous",
+  "description": "(Quick Effect): You can return 1 other \"Altergeist\" card you control to the hand, then target 1 card your opponent controls; return it to the hand. If this card is sent from the field to the GY: You can target 1 \"Altergeist\" Trap in your GY; add that card to your hand. You can only use each effect of \"Altergeist Silquitous\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

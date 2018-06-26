@@ -1,0 +1,16 @@
+{
+  "id": 4651,
+  "cardNumber": "29947751",
+  "name": "Morphtronic Magnen",
+  "description": "â— While in Attack Position: If your opponent controls a face-up monster, this card can only select their highest ATK monster as an attack target. â— While in Defense Position: Your opponent cannot select another monster as an attack target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1867,
+  "cardNumber": "37752990",
+  "name": "Dinomist Ceratops",
+  "description": "Pendulum Effect\n If another \"Dinomist\" card(s) you control would be destroyed by battle or an opponent's card effect, you can destroy this card instead.\n\n Monster Effect\n If all monsters you control are \"Dinomist\" monsters (min. 1), and none are \"Dinomist Ceratops\", you can Special Summon this card (from your hand).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

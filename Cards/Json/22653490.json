@@ -1,0 +1,16 @@
+{
+  "id": 4046,
+  "cardNumber": "22653490",
+  "name": "Lightning Chidori",
+  "description": "2 Level 4 WIND monsters<br>If this card is Xyz Summoned: Target 1 Set card your opponent controls; return that target to the bottom of the Deck. Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up card your opponent controls; return that target to the top of the Deck.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

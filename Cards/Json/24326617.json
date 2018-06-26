@@ -1,0 +1,16 @@
+{
+  "id": 2274,
+  "cardNumber": "24326617",
+  "name": "Escher the Frost Vassal",
+  "description": "If your opponent controls 2 or more cards in their Spell &amp; Trap Zones, you can Special Summon this card (from your hand).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

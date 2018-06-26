@@ -1,0 +1,16 @@
+{
+  "id": 1788,
+  "cardNumber": "9411399",
+  "name": "Destiny HERO - Malicious",
+  "description": "You can banish this card from your Graveyard; Special Summon 1 \"Destiny HERO - Malicious\" from your Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5355,
+  "cardNumber": "1362589",
+  "name": "Photon Crusher",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Damage Step.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

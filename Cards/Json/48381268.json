@@ -1,0 +1,16 @@
+{
+  "id": 4641,
+  "cardNumber": "48381268",
+  "name": "Morphtronic Boarden",
+  "description": "â— While in Attack Position: \"Morphtronic\" monsters you control can attack your opponent directly.<br>â— While in Defense Position: Other \"Morphtronic\" monsters you control cannot be destroyed by battle.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

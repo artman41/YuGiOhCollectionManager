@@ -1,0 +1,16 @@
+{
+  "id": 7768,
+  "cardNumber": "21495657",
+  "name": "Zefraxi, Treasure of the Yang Zing",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Yang Zing\" and \"Zefra\" monsters. This effect cannot be negated.\n\n Monster Effect\n If this card is Pendulum Summoned, or Special Summoned from the Main Deck: You can target 1 \"Yang Zing\" or \"Zefra\" monster you control, except \"Zefraxi, Treasure of the Yang Zing\"; that face-up monster is treated as a Tuner this turn, also place this card on the bottom of the Deck when it leaves the field. You can only use this effect of \"Zefraxi, Treasure of the Yang Zing\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Wyrm\"]"
+}

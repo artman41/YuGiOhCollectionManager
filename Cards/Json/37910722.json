@@ -1,0 +1,16 @@
+{
+  "id": 385,
+  "cardNumber": "37910722",
+  "name": "Ascension Sky Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card is Synchro Summoned: It gains 800 ATK for each card currently in your hand. When this card you control is destroyed by your opponent's card (by battle or by card effect) and sent to your Graveyard, if all the monsters that were used for the Synchro Summon of this card are in your Graveyard: You can Special Summon all of them, but their effects are negated. You can only use this effect of \"Ascension Sky Dragon\" once per turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

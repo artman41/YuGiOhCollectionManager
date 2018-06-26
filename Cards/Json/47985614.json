@@ -1,0 +1,16 @@
+{
+  "id": 2720,
+  "cardNumber": "47985614",
+  "name": "Gadget Arms",
+  "description": "FLIP: Select 1 \"Morphtronic\" Spell or Trap Card in your Graveyard and add it to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6683,
+  "cardNumber": "79816536",
+  "name": "Summoner's Art",
+  "description": "Add 1 Level 5 or higher Normal Monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

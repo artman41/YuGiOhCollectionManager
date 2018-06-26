@@ -1,0 +1,16 @@
+{
+  "id": 4351,
+  "cardNumber": "87350908",
+  "name": "Masked Chopper",
+  "description": "If this card destroys an opponent's monster by battle, inflict 2000 damage to your opponent.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

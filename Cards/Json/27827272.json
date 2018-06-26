@@ -1,0 +1,16 @@
+{
+  "id": 4288,
+  "cardNumber": "27827272",
+  "name": "Makiu, the Magical Mist",
+  "description": "Target 1 \"Summoned Skull\" or Thunder-Type monster you control; destroy all monsters your opponent controls with DEF less than or equal to the ATK of that monster. You cannot conduct your Battle Phase the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

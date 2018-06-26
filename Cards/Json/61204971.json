@@ -1,0 +1,16 @@
+{
+  "id": 2217,
+  "cardNumber": "61204971",
+  "name": "Elemental HERO Thunder Giant",
+  "description": "\"Elemental HERO Sparkman\" + \"Elemental HERO Clayman\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 face-up monster on the field with original ATK less than the ATK of this card; destroy that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

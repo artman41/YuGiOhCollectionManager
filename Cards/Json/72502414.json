@@ -1,0 +1,16 @@
+{
+  "id": 7684,
+  "cardNumber": "72502414",
+  "name": "Xyz Agent",
+  "description": "If this card is in your Graveyard: You can target 1 \"Utopia\" Xyz Monster you control; attach this card from the Graveyard to it as an Xyz Material. You can only use the effect of \"Xyz Agent\" once per Duel.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

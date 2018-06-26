@@ -1,0 +1,16 @@
+{
+  "id": 2091,
+  "cardNumber": "7500772",
+  "name": "Eagle Shark",
+  "description": "If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing. If you control \"Panther Shark\", you can Special Summon this card (from your hand). You can only control 1 \"Eagle Shark\".",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1823,
+  "cardNumber": "31863912",
+  "name": "Dice-nied",
+  "description": "Each time your opponent Special Summons a monster(s): Roll a six-sided die, and return all of those Summoned monster(s) to the hand with a current Level that's the same as the result.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

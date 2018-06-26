@@ -1,0 +1,16 @@
+{
+  "id": 3662,
+  "cardNumber": "14730606",
+  "name": "Ivy Shackles",
+  "description": "All face-up monsters your opponent controls become Plant-Type during your turns only. If this face-up card you control is destroyed and sent to your Graveyard by an opponent's card effect: Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

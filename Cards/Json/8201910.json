@@ -1,0 +1,16 @@
+{
+  "id": 6556,
+  "cardNumber": "8201910",
+  "name": "Star Boy",
+  "description": "As long as this card remains face-up on the field, increase the ATK of all WATER monsters by 500 points and decrease the ATK of all FIRE monsters by 400 points.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 550,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

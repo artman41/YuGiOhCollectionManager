@@ -1,0 +1,16 @@
+{
+  "id": 3467,
+  "cardNumber": "47421985",
+  "name": "Hydro Genex",
+  "description": "\"Genex Controller\" + 1 or more non-Tuner WATER monsters<br>When this card destroys an opponent's monster by battle and sends it to the Graveyard, gain Life Points equal to the ATK of the destroyed monster.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3557,
+  "cardNumber": "56209279",
+  "name": "Infernity Necromancer",
+  "description": "When this card is Normal Summoned, it is changed to Defense Position. If you have no cards in your hand, this card gains the following effect: Once per turn, you can select 1 \"Infernity\" monster in your Graveyard, except \"Infernity Necromancer\", and Special Summon it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

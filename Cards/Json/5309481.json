@@ -1,0 +1,16 @@
+{
+  "id": 5866,
+  "cardNumber": "5309481",
+  "name": "Revived King Ha Des",
+  "description": "\"Plaguespreader Zombie\" + 1 or more non-Tuner Zombie-Type monsters<br>Negate the effects of Effect Monsters destroyed by battle with Zombie-Type monsters you control.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2450,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

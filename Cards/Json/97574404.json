@@ -1,0 +1,16 @@
+{
+  "id": 293,
+  "cardNumber": "97574404",
+  "name": "Arcana Force VI - The Lovers",
+  "description": "When this card is Summoned, toss a coin:<br>â— Heads: This card can be treated as 2 Tributes for the Tribute Summon of an \"Arcana Force\" monster.<br>â— Tails: You cannot Tribute Summon \"Arcana Force\" monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5020,
+  "cardNumber": "97738431",
+  "name": "Numbers Overlay Boost",
+  "description": "Target 1 \"Number\" Xyz Monster you control that has no Xyz Materials; attach 2 monsters from your hand to that face-up Xyz Monster, as Xyz Materials.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

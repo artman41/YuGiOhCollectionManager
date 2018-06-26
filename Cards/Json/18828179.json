@@ -1,0 +1,16 @@
+{
+  "id": 1267,
+  "cardNumber": "18828179",
+  "name": "Cranium Fish",
+  "description": "You can Special Summon this card by Tributing 1 \"Ocean's Keeper\". You can discard 1 WATER monster to the Graveyard to destroy 1 face-down card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

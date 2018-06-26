@@ -1,0 +1,16 @@
+{
+  "id": 3770,
+  "cardNumber": "97570038",
+  "name": "Kaminote Blow",
+  "description": "Activate only if there is at least 1 face-up \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\" on your side of the field. Destroy the monster(s) that battle with these monsters on your side of the field this turn, at the end of each Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

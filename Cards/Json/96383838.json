@@ -1,0 +1,16 @@
+{
+  "id": 7117,
+  "cardNumber": "96383838",
+  "name": "Tri-Wight",
+  "description": "Target 3 Level 2 or lower Normal Monsters in your Graveyard; Special Summon them from the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

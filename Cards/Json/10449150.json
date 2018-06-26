@@ -1,0 +1,16 @@
+{
+  "id": 8005,
+  "cardNumber": "10449150",
+  "name": "Shuttleroid",
+  "description": "When this card is targeted for an attack: You can banish this card. During your next Standby Phase: Special Summon this card banished by this effect. If Summoned this way: Inflict 1000 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

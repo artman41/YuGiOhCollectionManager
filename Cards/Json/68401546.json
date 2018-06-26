@@ -1,0 +1,16 @@
+{
+  "id": 8205,
+  "cardNumber": "68401546",
+  "name": "Fairy's Gift",
+  "description": "This flying monster is known for delivering happiness to all.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

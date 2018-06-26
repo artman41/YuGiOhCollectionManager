@@ -1,0 +1,16 @@
+{
+  "id": 684,
+  "cardNumber": "85215458",
+  "name": "Blackwing - Kalut the Moon Shadow",
+  "description": "During either player's Damage Step, when a \"Blackwing\" monster you control is attacking or being attacked: You can send this card from your hand to the Graveyard; that monster gains 1400 ATK until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

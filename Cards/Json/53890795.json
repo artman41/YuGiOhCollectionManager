@@ -1,0 +1,16 @@
+{
+  "id": 5926,
+  "cardNumber": "53890795",
+  "name": "Rocket Jumper",
+  "description": "If the only cards on your opponent's side of the field are Defense Position monsters, this card can attack your opponent's Life Points directly.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4689,
+  "cardNumber": "56907389",
+  "name": "Musician King",
+  "description": "\"Witch of the Black Forest\" + \"Lady of Faith\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

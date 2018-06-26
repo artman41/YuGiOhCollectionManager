@@ -1,0 +1,16 @@
+{
+  "id": 2946,
+  "cardNumber": "51099515",
+  "name": "Ghosts From the Past",
+  "description": "Banish 2 monsters from your GY, then target 1 Attack Position monster on the field; change its ATK to 0 until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1244,
+  "cardNumber": "8057630",
+  "name": "Core Reinforcement",
+  "description": "Select and Special Summon 1 \"Koa'ki Meiru\" monster from your Graveyard in Attack Position. When that monster is destroyed during your End Phase, the controller of this card takes damage equal to that monster's ATK. When this card is removed from the field, destroy that monster. When that monster is destroyed, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

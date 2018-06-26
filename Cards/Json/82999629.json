@@ -1,0 +1,16 @@
+{
+  "id": 7271,
+  "cardNumber": "82999629",
+  "name": "Umiiruka",
+  "description": "Increase the ATK of all WATER monsters by 500 points and decrease their DEF by 400 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

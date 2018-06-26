@@ -1,0 +1,16 @@
+{
+  "id": 8220,
+  "cardNumber": "60862676",
+  "name": "Flame Cerebrus",
+  "description": "Known to many as the \"Burning Executioner\", this monster is capable of burning enemies to cinders.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8354,
+  "cardNumber": "55444629",
+  "name": "Lesser Dragon",
+  "description": "A minor dragon incapable of breathing fire.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5419,
+  "cardNumber": "35261759",
+  "name": "Pot of Desires",
+  "description": "Banish 10 cards from the top of your Deck, face-down; draw 2 cards. You can only activate 1 \"Pot of Desires\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

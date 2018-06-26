@@ -1,0 +1,16 @@
+{
+  "id": 4534,
+  "cardNumber": "69257165",
+  "name": "Mind Pollutant",
+  "description": "Discard 1 monster to target 1 monster of that Level your opponent controls; take control of that target until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

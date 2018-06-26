@@ -1,0 +1,16 @@
+{
+  "id": 5698,
+  "cardNumber": "87609391",
+  "name": "Raptor's Ultimate Mace",
+  "description": "Equip only to a \"Raidraptor\" monster. It gains 1000 ATK. When the equipped monster is targeted for an attack by a monster whose ATK is higher than the equipped monster: You can add 1 \"Rank-Up-Magic\" Spell Card from your Deck to your hand, and if you do, you take no battle damage from that battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

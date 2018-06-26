@@ -1,0 +1,16 @@
+{
+  "id": 7715,
+  "cardNumber": "65622692",
+  "name": "Y-Dragon Head",
+  "description": "Once per turn, you can either: Target 1 \"X-Head Cannon\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK and DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Union\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

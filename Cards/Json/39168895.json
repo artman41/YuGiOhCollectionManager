@@ -1,0 +1,16 @@
+{
+  "id": 577,
+  "cardNumber": "39168895",
+  "name": "Berserk Gorilla",
+  "description": "If this card is in face-up Defense Position, destroy this card. This card must attack if able.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

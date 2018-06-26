@@ -1,0 +1,16 @@
+{
+  "id": 4829,
+  "cardNumber": "89882100",
+  "name": "Night Beam",
+  "description": "Target 1 Set Spell/Trap Card your opponent controls; destroy that target. Your opponent cannot activate the targeted card in response to this card's activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7563,
+  "cardNumber": "25716180",
+  "name": "Wind-Up Kitten",
+  "description": "You can target 1 monster your opponent controls; return that target to the hand. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

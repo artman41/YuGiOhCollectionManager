@@ -1,0 +1,16 @@
+{
+  "id": 844,
+  "cardNumber": "79126789",
+  "name": "Broww, Huntsman of Dark World",
+  "description": "If this card is discarded to the Graveyard by a card effect: Draw 1 card, plus another card if this card was discarded from your hand to your Graveyard by an opponent's card effect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

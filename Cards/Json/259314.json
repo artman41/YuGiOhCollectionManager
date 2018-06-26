@@ -1,0 +1,16 @@
+{
+  "id": 3638,
+  "cardNumber": "259314",
+  "name": "Inzektor Gauntlet",
+  "description": "Target 1 face-up \"Inzektor\" monster you control; equip this card to that target. It gains 1000 DEF, and cannot be destroyed by your opponent's card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

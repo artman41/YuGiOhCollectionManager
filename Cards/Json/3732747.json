@@ -1,0 +1,16 @@
+{
+  "id": 8618,
+  "cardNumber": "3732747",
+  "name": "Water Element",
+  "description": "A sea-dwelling spirit that takes away sight by clouding the area in fog.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

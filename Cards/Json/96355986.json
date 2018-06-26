@@ -1,0 +1,16 @@
+{
+  "id": 2249,
+  "cardNumber": "96355986",
+  "name": "Enchanted Javelin",
+  "description": "Target 1 attacking monster. Gain Life Points equal to its ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

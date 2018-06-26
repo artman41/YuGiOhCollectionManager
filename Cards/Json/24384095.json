@@ -1,0 +1,16 @@
+{
+  "id": 3894,
+  "cardNumber": "24384095",
+  "name": "Kujakujaku",
+  "description": "If this card on the field is Tributed and sent to the Graveyard: You can add 1 Level 4 or lower WIND monster from your Deck or Graveyard to your hand, except \"Kujakujaku\". You can only use the effect of \"Kujakujaku\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3940,
+  "cardNumber": "102380",
+  "name": "Lava Golem",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's side of the field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. During each of your Standby Phases: Take 1000 damage.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

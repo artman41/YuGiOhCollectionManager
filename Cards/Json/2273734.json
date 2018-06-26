@@ -1,0 +1,16 @@
+{
+  "id": 6025,
+  "cardNumber": "2273734",
+  "name": "Satellarknight Altair",
+  "description": "If this card is Summoned: You can target 1 \"tellarknight\" monster in your Graveyard, except \"Satellarknight Altair\"; Special Summon that monster in Defense Position, also monsters you control cannot attack for the rest of this turn, except \"tellarknight\" monsters. You can only use this effect of \"Satellarknight Altair\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

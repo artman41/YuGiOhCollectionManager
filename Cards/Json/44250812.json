@@ -1,0 +1,16 @@
+{
+  "id": 2726,
+  "cardNumber": "44250812",
+  "name": "Gagaga Clerk",
+  "description": "If you control a \"Gagaga\" monster other than \"Gagaga Clerk\", you can Special Summon this card (from your hand).",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

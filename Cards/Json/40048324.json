@@ -1,0 +1,16 @@
+{
+  "id": 299,
+  "cardNumber": "40048324",
+  "name": "Arcane Apprentice",
+  "description": "If this card is sent to the Graveyard for a Synchro Summon, you can add 1 \"Assault Mode Activate\" from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

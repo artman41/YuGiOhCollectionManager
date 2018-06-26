@@ -1,0 +1,16 @@
+{
+  "id": 214,
+  "cardNumber": "44052074",
+  "name": "Ancient Gear Catapult",
+  "description": "While you control no monsters: Target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Ancient Gear\" monster from your Deck, ignoring its Summoning conditions. You can banish this card from your Graveyard, then target 1 face-up card you control; destroy it, and if you do, Special Summon 1 \"Ancient Gear Token\" (Machine-Type/EARTH/Level 1/ATK 0/DEF 0). You can only use 1 \"Ancient Gear Catapult\" effect per turn, and only once that turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

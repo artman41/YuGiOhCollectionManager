@@ -1,0 +1,16 @@
+{
+  "id": 560,
+  "cardNumber": "1474910",
+  "name": "Bee List Soldier",
+  "description": "You can Tribute this card and 1 face-up Insect-Type monster, except \"Bee List Soldier\", to draw 2 cards.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

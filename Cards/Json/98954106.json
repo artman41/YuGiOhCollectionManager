@@ -1,0 +1,16 @@
+{
+  "id": 3673,
+  "cardNumber": "98954106",
+  "name": "Jar of Avarice",
+  "description": "Target 5 cards in your GY, except \"Jar of Avarice\"; shuffle all 5 into the Deck, then draw 1 card. You can only activate 1 \"Jar of Avarice\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5354,
+  "cardNumber": "64145892",
+  "name": "Photon Circle",
+  "description": "Any Battle Damage you take from battles involving this card is halved.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

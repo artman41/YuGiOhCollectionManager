@@ -1,0 +1,16 @@
+{
+  "id": 4656,
+  "cardNumber": "55119278",
+  "name": "Morphtronic Radion",
+  "description": "â— While in Attack Position: \"Morphtronic\" monsters you control gain 800 ATK. â— While in Defense Position: \"Morphtronic\" monsters you control gain 1000 DEF.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

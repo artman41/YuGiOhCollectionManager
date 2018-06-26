@@ -1,0 +1,16 @@
+{
+  "id": 4161,
+  "cardNumber": "96938777",
+  "name": "Machine Lord Ãœr",
+  "description": "This card can attack all monsters your opponent controls once each. If this card attacks or is attacked, your opponent takes no battle damage.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 708,
+  "cardNumber": "11685347",
+  "name": "Blast Asmodian",
+  "description": "If any Spell or Trap Card(s) are Chained, inflict 500 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

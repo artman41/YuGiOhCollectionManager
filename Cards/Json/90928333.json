@@ -1,0 +1,16 @@
+{
+  "id": 1574,
+  "cardNumber": "90928333",
+  "name": "Dark Factory of Mass Production",
+  "description": "Target 2 Normal Monsters in your Graveyard; add those targets to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3168,
+  "cardNumber": "32022366",
+  "name": "Gravity Axe - Grarl",
+  "description": "The equipped monster gains 500 ATK. Monsters your opponent controls cannot change their battle positions.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

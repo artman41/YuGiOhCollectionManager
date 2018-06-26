@@ -1,0 +1,16 @@
+{
+  "id": 5475,
+  "cardNumber": "4483989",
+  "name": "Prepare to Strike Back",
+  "description": "Each time your opponent declares an attack on a face-up Defense Position monster, toss a coin and call it. If you call it right, change the targeted face-up Defense Position monster to Attack Position. If you call it wrong, the controller of this card takes damage equal to the difference between the ATK of the attacking monster, and DEF of the attacked monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

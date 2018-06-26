@@ -1,0 +1,16 @@
+{
+  "id": 8096,
+  "cardNumber": "55550921",
+  "name": "Battle Warrior",
+  "description": "A warrior that fights with his bare hands!!!",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

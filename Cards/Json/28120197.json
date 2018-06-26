@@ -1,0 +1,16 @@
+{
+  "id": 949,
+  "cardNumber": "28120197",
+  "name": "Canyon",
+  "description": "If a Rock-Type monster in Defense Position is attacked, double any Battle Damage to the controller of the attacking monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

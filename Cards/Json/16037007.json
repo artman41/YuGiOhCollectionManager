@@ -1,0 +1,16 @@
+{
+  "id": 4963,
+  "cardNumber": "16037007",
+  "name": "Number 74: Master of Blades",
+  "description": "2 Level 7 monsters<br>During either player's turn, when a card or effect is activated that targets this face-up card: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that card, then you can destroy 1 card on the field.",
+  "cardLevel": null,
+  "cardRank": 7,
+  "atk": 2700,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

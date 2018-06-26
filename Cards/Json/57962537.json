@@ -1,0 +1,16 @@
+{
+  "id": 7567,
+  "cardNumber": "57962537",
+  "name": "Wind-Up Rat",
+  "description": "During your Main Phase: You can target 1 \"Wind-Up\" monster in your Graveyard; change this face-up Attack Position card you control to face-up Defense Position, and Special Summon that target in face-up Defense Position. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

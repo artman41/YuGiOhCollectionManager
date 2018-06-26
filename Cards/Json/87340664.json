@@ -1,0 +1,16 @@
+{
+  "id": 420,
+  "cardNumber": "87340664",
+  "name": "Atomic Firefly",
+  "description": "When this face-up card on the field attacks or is attacked and it is destroyed as a result of battle, the player who destroyed it takes 1000 points of damage.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

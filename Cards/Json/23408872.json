@@ -1,0 +1,16 @@
+{
+  "id": 7076,
+  "cardNumber": "23408872",
+  "name": "Tradetoad",
+  "description": "Once per turn, you can Tribute 1 Aqua-Type monster to select 1 \"Frog\" monster in your Graveyard, except \"Frog the Jam\". Special Summon that monster from your Graveyard.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

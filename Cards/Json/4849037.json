@@ -1,0 +1,16 @@
+{
+  "id": 5216,
+  "cardNumber": "4849037",
+  "name": "Performance of Sword",
+  "description": "This monster can only be Ritual Summoned with the Ritual Spell Card, \"Commencement Dance\". You must also offer monsters whose total Level Stars equal 6 or more as a Tribute from the field or your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1950,
+  "def": 1850,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

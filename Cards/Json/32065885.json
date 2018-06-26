@@ -1,0 +1,16 @@
+{
+  "id": 3315,
+  "cardNumber": "32065885",
+  "name": "Heartfelt Appeal",
+  "description": "When you take battle damage from your opponent's direct attack: Take control of the 1 face-up monster your opponent controls with the highest DEF, until your next End Phase. (If it's a tie, you get to choose.) Its effects are negated, also it cannot declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

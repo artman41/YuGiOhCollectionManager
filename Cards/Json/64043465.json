@@ -1,0 +1,16 @@
+{
+  "id": 5033,
+  "cardNumber": "64043465",
+  "name": "Obliterate!!!",
+  "description": "You can target 1 monster on the field; send 1 \"Forbidden One\" monster or \"Exodia\" card from your hand or Deck to the Graveyard, and if you do, return that target to the hand. If this card is sent from the Spell &amp; Trap Zone to the Graveyard: You can target 1 \"Forbidden One\" monster or \"Exodia\" card in your Graveyard; add it to your hand. You can only use 1 \"Obliterate!!!\" effect per turn, and only once that turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

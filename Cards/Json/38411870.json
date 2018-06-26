@@ -1,0 +1,16 @@
+{
+  "id": 4778,
+  "cardNumber": "38411870",
+  "name": "Needle Ceiling",
+  "description": "When there are 4 or more monsters on the field: Destroy all face-up monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

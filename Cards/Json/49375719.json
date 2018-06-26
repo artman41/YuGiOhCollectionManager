@@ -1,0 +1,16 @@
+{
+  "id": 1403,
+  "cardNumber": "49375719",
+  "name": "Cyber Tutu",
+  "description": "If the ATK of each monster your opponent controls is higher than the ATK of this card, this card can attack your opponent directly.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

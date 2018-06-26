@@ -1,0 +1,16 @@
+{
+  "id": 7075,
+  "cardNumber": "38120068",
+  "name": "Trade-In",
+  "description": "Discard 1 Level 8 monster; draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

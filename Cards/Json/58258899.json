@@ -1,0 +1,16 @@
+{
+  "id": 6948,
+  "cardNumber": "58258899",
+  "name": "TGX300",
+  "description": "All face-up monsters you control gain 300 ATK for each \"T.G.\" monster you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

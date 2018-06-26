@@ -1,0 +1,16 @@
+{
+  "id": 1709,
+  "cardNumber": "71417170",
+  "name": "Defenders Intersect",
+  "description": "Activate only during the Battle Phase. Defense Position monsters your opponent controls are changed to face-up Attack Position, and their effects are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

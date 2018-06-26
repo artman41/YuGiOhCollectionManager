@@ -1,0 +1,16 @@
+{
+  "id": 1516,
+  "cardNumber": "95448692",
+  "name": "Damage Diet",
+  "description": "Halve all damage you take this turn. You can banish this card from your Graveyard; halve all effect damage you take this turn. (You cannot halve the same damage twice with this effect.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

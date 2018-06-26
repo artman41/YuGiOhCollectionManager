@@ -1,0 +1,16 @@
+{
+  "id": 8125,
+  "cardNumber": "69380702",
+  "name": "Bunilla",
+  "description": "This rabbit's got a sweet tooth! He's on a quest for the world's sweetest carrot, and just wants to nibble carrots all day today, tomorrow, and the day after that!",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 150,
+  "def": 2050,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

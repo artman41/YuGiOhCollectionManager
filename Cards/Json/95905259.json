@@ -1,0 +1,16 @@
+{
+  "id": 1084,
+  "cardNumber": "95905259",
+  "name": "Chow Len the Prophet",
+  "description": "Once per turn: You can declare either Spell or Trap, then target 1 Set card in your opponent's Spell &amp; Trap Card Zone; look at that target, and if it is the declared card type, that card cannot be activated this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

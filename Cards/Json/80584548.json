@@ -1,0 +1,16 @@
+{
+  "id": 8913,
+  "cardNumber": "80584548",
+  "name": "Ballista Squad",
+  "description": "Tribute 1 monster, then target 1 card your opponent controls; destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

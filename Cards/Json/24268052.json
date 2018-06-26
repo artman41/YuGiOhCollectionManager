@@ -1,0 +1,16 @@
+{
+  "id": 1710,
+  "cardNumber": "24268052",
+  "name": "Defense Draw",
+  "description": "During your opponent's turn, at damage calculation: Make the battle damage you take from this battle 0, and if you do, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

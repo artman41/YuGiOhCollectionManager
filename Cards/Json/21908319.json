@@ -1,0 +1,16 @@
+{
+  "id": 3863,
+  "cardNumber": "21908319",
+  "name": "Kozaky's Self-Destruct Button",
+  "description": "Inflict 1000 damage to the player who destroyed this Set card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

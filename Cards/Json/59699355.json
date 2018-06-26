@@ -1,0 +1,16 @@
+{
+  "id": 6068,
+  "cardNumber": "59699355",
+  "name": "Scrap Rage",
+  "description": "Activate only during damage calculation, if a Defense Position \"Scrap\" monster on the field is being attacked. It gains 2000 DEF and is destroyed at the end of the Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

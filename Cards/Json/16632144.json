@@ -1,0 +1,16 @@
+{
+  "id": 7832,
+  "cardNumber": "16632144",
+  "name": "Angrappler",
+  "description": "When this card inflicts battle damage to your opponent by a direct attack: You can target 1 monster in your GY; Special Summon it in Defense Position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

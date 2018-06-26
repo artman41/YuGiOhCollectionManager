@@ -1,0 +1,16 @@
+{
+  "id": 4204,
+  "cardNumber": "39910367",
+  "name": "Magical Citadel of Endymion",
+  "description": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. If a card with a Spell Counter(s) is destroyed, place its Spell Counters on this card. Once per turn, if you would activate a card effect by removing a Spell Counter(s) from your side of the field, you can remove that many Spell Counters from this card instead. If this card would be destroyed, you can remove 1 Spell Counter from this card instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5075,
+  "cardNumber": "45141844",
+  "name": "Old Vindictive Magician",
+  "description": "FLIP: Target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 450,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

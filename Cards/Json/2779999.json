@@ -1,0 +1,16 @@
+{
+  "id": 7460,
+  "cardNumber": "2779999",
+  "name": "Wall of Thorns",
+  "description": "When a Plant-Type monster you control is targeted for an attack: Destroy all Attack Position monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

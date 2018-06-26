@@ -1,0 +1,16 @@
+{
+  "id": 1536,
+  "cardNumber": "80071763",
+  "name": "Dark Balter the Terrible",
+  "description": "\"Possessed Dark Soul\" + \"Frontier Wiseman\"<br>A Fusion Summon of this monster can only be conducted with the above Fusion Material Monsters. When a Normal Spell Card is activated, negate the effect by paying 1000 Life Points. The effect of an Effect Monster that this monster destroys as a result of battle is negated.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

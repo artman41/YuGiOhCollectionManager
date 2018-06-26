@@ -1,0 +1,16 @@
+{
+  "id": 2957,
+  "cardNumber": "39526584",
+  "name": "Gift Card",
+  "description": "Your opponent gains 3000 Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

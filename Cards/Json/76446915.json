@@ -1,0 +1,16 @@
+{
+  "id": 8171,
+  "cardNumber": "76446915",
+  "name": "Disk Magician",
+  "description": "This monster hides in a saucer and only appears when executing an attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

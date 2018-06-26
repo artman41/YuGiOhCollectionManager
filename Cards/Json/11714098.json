@@ -1,0 +1,16 @@
+{
+  "id": 8044,
+  "cardNumber": "11714098",
+  "name": "30,000-Year White Turtle",
+  "description": "A huge turtle that has existed for more than 30,000 years.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1250,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

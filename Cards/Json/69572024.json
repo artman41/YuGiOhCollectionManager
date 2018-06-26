@@ -1,0 +1,16 @@
+{
+  "id": 8585,
+  "cardNumber": "69572024",
+  "name": "Tongyo",
+  "description": "This monster captures other fish with its long tongue and sucks the energy out of them.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

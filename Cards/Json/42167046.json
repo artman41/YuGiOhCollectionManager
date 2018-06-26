@@ -1,0 +1,16 @@
+{
+  "id": 7545,
+  "cardNumber": "42167046",
+  "name": "Widespread Dud",
+  "description": "Select 2 face-up Attack Position monsters on the field. When any of the selected monsters are removed from the field, destroy this card. When this card is destroyed, destroy the selected monster(s).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

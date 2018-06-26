@@ -1,0 +1,16 @@
+{
+  "id": 6550,
+  "cardNumber": "54458867",
+  "name": "Squib Draw",
+  "description": "Target 1 \"Rokket\" monster you control; destroy it, and if you do, draw 2 cards. You can only activate 1 \"Squib Draw\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

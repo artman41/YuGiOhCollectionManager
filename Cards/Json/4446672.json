@@ -1,0 +1,16 @@
+{
+  "id": 217,
+  "cardNumber": "4446672",
+  "name": "Ancient Gear Explosive",
+  "description": "Target 1 \"Ancient Gear\" monster you control; destroy it, and if you do, inflict damage to your opponent equal to half its original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

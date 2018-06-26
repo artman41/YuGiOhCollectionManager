@@ -1,0 +1,16 @@
+{
+  "id": 7707,
+  "cardNumber": "13032689",
+  "name": "Xyz Unit",
+  "description": "Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank Ã— 200. If the equipped monster you control would detach its Xyz Material to activate its effect: You can detach this card as 1 of the Xyz Materials.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

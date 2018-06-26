@@ -1,0 +1,16 @@
+{
+  "id": 880,
+  "cardNumber": "11958188",
+  "name": "Bujingi Raven",
+  "description": "When a \"Bujin\" monster you control is destroyed by battle with an opponent's monster and sent to your Graveyard: You can send this card from your hand to the Graveyard; destroy that opponent's monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1407,
+  "cardNumber": "69015963",
+  "name": "Cyber-Stein",
+  "description": "Pay 5000 Life Points. Special Summon 1 Fusion Monster from your Extra Deck to the field in Attack Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

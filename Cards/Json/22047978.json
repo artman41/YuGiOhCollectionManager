@@ -1,0 +1,16 @@
+{
+  "id": 513,
+  "cardNumber": "22047978",
+  "name": "Battle Break",
+  "description": "When an opponent's monster declares an attack: Your opponent can reveal 1 monster in their hand to negate this card's effect, otherwise destroy the attacking monster, then end the Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

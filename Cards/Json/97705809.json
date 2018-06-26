@@ -1,0 +1,16 @@
+{
+  "id": 6731,
+  "cardNumber": "97705809",
+  "name": "Supercharge",
+  "description": "When your opponent declares an attack while the only monsters you control are Machine-Type \"roid\" monster(s): Draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

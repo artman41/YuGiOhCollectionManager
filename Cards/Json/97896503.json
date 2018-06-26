@@ -1,0 +1,16 @@
+{
+  "id": 7814,
+  "cardNumber": "97896503",
+  "name": "Zubaba Knight",
+  "description": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7187,
+  "cardNumber": "46195773",
+  "name": "Turbo Warrior",
+  "description": "\"Turbo Synchron\" + 1 or more non-Tuner monsters<br>When this card attacks a Level 6 or higher Synchro Monster: Halve the ATK of the attack target until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

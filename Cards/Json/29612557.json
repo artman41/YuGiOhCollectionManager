@@ -1,0 +1,16 @@
+{
+  "id": 1427,
+  "cardNumber": "29612557",
+  "name": "Cyclone Boomerang",
+  "description": "Equip only to \"Elemental HERO Wildheart\". It gains 500 ATK. When the equipped monster is destroyed by a card effect and sent to the Graveyard: Destroy all Spell and Trap Cards on the field, then inflict 100 damage to your opponent for each Spell/Trap Card destroyed by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

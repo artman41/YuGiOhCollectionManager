@@ -1,0 +1,16 @@
+{
+  "id": 8726,
+  "cardNumber": "77379481",
+  "name": "Sasuke Samurai #3",
+  "description": "When this card inflicts Battle Damage to your opponent's Life Points, your opponent draws cards until his/her hand has 7 cards.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

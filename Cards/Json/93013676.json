@@ -1,0 +1,16 @@
+{
+  "id": 4252,
+  "cardNumber": "93013676",
+  "name": "Maha Vailo",
+  "description": "This card gains 500 ATK for each Equip Card equipped to this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1550,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1095,
+  "cardNumber": "25163248",
+  "name": "Chronomaly Mayan Machine",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a Machine-Type monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 202,
+  "cardNumber": "58324930",
+  "name": "Anarchist Monk Ranshin",
+  "description": "When this card you control is sent to your Graveyard by your opponent's card (either by battle, by card effect, or by being destroyed): Target 1 monster in your opponent's Graveyard; banish that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

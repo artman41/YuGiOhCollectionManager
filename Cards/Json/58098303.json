@@ -1,0 +1,16 @@
+{
+  "id": 2532,
+  "cardNumber": "58098303",
+  "name": "Flame Ogre",
+  "description": "This card cannot be Special Summoned. When this card is Normal Summoned, draw 1 card.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

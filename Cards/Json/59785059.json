@@ -1,0 +1,16 @@
+{
+  "id": 3493,
+  "cardNumber": "59785059",
+  "name": "Igknight Champion",
+  "description": "While this card is in your hand: You can target 3 \"Igknight\" cards you control; destroy them, and if you do, Special Summon this card. Once per turn: You can target 1 other \"Igknight\" monster you control; return it to the hand, and if you do, place 1 monster your opponent controls on the bottom of the Deck.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

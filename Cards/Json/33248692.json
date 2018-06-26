@@ -1,0 +1,16 @@
+{
+  "id": 5093,
+  "cardNumber": "33248692",
+  "name": "Option Hunter",
+  "description": "Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Gain Life Points equal to the original ATK of the destroyed monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

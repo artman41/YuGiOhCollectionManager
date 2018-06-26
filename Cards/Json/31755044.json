@@ -1,0 +1,16 @@
+{
+  "id": 7810,
+  "cardNumber": "31755044",
+  "name": "Zoodiac Whiptail",
+  "description": "(Quick Effect): You can target 1 Beast-Warrior Xyz Monster you control; attach this card from your hand or field to it as material. An Xyz Monster whose original Type is Beast-Warrior and has this card as material gains this effect.<br>â— If this card battles an opponent's monster, after damage calculation: Banish that opponent's monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

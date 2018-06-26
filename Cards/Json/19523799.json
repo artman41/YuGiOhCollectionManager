@@ -1,0 +1,16 @@
+{
+  "id": 5090,
+  "cardNumber": "19523799",
+  "name": "Ookazi",
+  "description": "Inflict 800 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

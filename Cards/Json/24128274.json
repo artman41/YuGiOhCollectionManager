@@ -1,0 +1,16 @@
+{
+  "id": 1705,
+  "cardNumber": "24128274",
+  "name": "Deepsea Warrior",
+  "description": "As long as \"Umi\" is face-up on the field, this card is unaffected by any Spell Cards.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4522,
+  "cardNumber": "88032456",
+  "name": "Mimicat",
+  "description": "If you control \"Toon World\" and a Toon monster: Target 1 card in your opponent's Graveyard; if it is a monster, Special Summon it to your side of the field, or if it is a Spell/Trap Card, Set it to your side of the field. You can only activate 1 \"Mimicat\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

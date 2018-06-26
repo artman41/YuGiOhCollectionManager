@@ -1,0 +1,16 @@
+{
+  "id": 4266,
+  "cardNumber": "78949372",
+  "name": "Majespecter Supercell",
+  "description": "While you have a \"Majespecter\" card in your Pendulum Zone, the activation and effects of other \"Majespecter\" cards activated on your side of the field cannot be negated. Once per turn: You can target 5 \"Majespecter\" cards in your Graveyard; shuffle all 5 into the Deck, then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

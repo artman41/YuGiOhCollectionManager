@@ -1,0 +1,16 @@
+{
+  "id": 1594,
+  "cardNumber": "41735184",
+  "name": "Dark Magic Inheritance",
+  "description": "Banish 2 Spells from your GY; add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Dark Magician\" or \"Dark Magician Girl\" in its text, except \"Dark Magic Inheritance\". You can only activate 1 \"Dark Magic Inheritance\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

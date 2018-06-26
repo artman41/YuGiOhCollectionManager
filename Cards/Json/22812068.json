@@ -1,0 +1,16 @@
+{
+  "id": 2093,
+  "cardNumber": "22812068",
+  "name": "Earth Armor Ninja",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

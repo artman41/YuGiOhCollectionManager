@@ -1,0 +1,16 @@
+{
+  "id": 2950,
+  "cardNumber": "73698349",
+  "name": "Giant Orc",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. You cannot change this battle position until the end of your next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

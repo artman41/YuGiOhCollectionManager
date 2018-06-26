@@ -1,0 +1,16 @@
+{
+  "id": 1402,
+  "cardNumber": "63477921",
+  "name": "Cyber Summon Blaster",
+  "description": "Each time a Machine-Type monster(s) is Special Summoned: Inflict 300 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

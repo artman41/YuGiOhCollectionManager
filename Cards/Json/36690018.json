@@ -1,0 +1,16 @@
+{
+  "id": 5852,
+  "cardNumber": "36690018",
+  "name": "Reversal of Fate",
+  "description": "Select 1 \"Arcana Force\" monster you control. That monster's effect is now treated as the opposite coin toss result.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6825,
+  "cardNumber": "85255550",
+  "name": "Swordsman from a Distant Land",
+  "description": "If this card attacked an opponent's monster, after damage calculation: Destroy that monster during the 5th End Phase after the attack.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 250,
+  "def": 250,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

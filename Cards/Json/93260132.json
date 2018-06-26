@@ -1,0 +1,16 @@
+{
+  "id": 6458,
+  "cardNumber": "93260132",
+  "name": "Spell Shattering Arrow",
+  "description": "Destroy as many face-up Spell Cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

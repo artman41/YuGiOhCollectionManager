@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "cardNumber": "92053608",
+  "name": "Aquaactress Arowana",
+  "description": "Once per turn: You can add 1 \"Aquaactress\" monster from your Deck to your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

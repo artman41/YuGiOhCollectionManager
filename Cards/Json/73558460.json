@@ -1,0 +1,16 @@
+{
+  "id": 8927,
+  "cardNumber": "73558460",
+  "name": "Cynet Recover",
+  "description": "If a Link Monster(s) you control is destroyed by battle or an opponent's card effect: You can target 1 monster in your GY; Special Summon it in Defense Position. You can only use this effect of \"Cynet Recover\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

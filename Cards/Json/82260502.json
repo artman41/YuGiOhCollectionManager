@@ -1,0 +1,16 @@
+{
+  "id": 3399,
+  "cardNumber": "82260502",
+  "name": "Hieracosphinx",
+  "description": "Your opponent cannot select a face-down Defense Position monster as an attack target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

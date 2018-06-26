@@ -1,0 +1,16 @@
+{
+  "id": 1736,
+  "cardNumber": "69579761",
+  "name": "Des Koala",
+  "description": "FLIP: Inflict 400 damage to your opponent for each card in their hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

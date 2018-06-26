@@ -1,0 +1,16 @@
+{
+  "id": 1168,
+  "cardNumber": "40383551",
+  "name": "Cold Feet",
+  "description": "You cannot activate, Set, or use the effects of any Spell/Trap Cards this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

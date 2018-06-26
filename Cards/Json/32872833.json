@@ -1,0 +1,16 @@
+{
+  "id": 5180,
+  "cardNumber": "32872833",
+  "name": "Parsec, the Interstellar Dragon",
+  "description": "If you control a Level 8 monster, you can Normal Summon this card without Tributing.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

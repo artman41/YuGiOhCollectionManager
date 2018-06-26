@@ -1,0 +1,16 @@
+{
+  "id": 8538,
+  "cardNumber": "15734813",
+  "name": "Soul Tiger",
+  "description": "The soul of a tiger that is said to devour human souls. He is a famous soul that you wouldn't want to run into in a dark alley.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

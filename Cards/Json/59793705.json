@@ -1,0 +1,16 @@
+{
+  "id": 2168,
+  "cardNumber": "59793705",
+  "name": "Elemental HERO Bladedge",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

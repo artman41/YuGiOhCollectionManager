@@ -1,0 +1,16 @@
+{
+  "id": 1997,
+  "cardNumber": "63300440",
+  "name": "Dragon Shield",
+  "description": "Equip only to a Dragon-Type monster. It cannot be destroyed by battle or by card effects. Neither player takes any battle damage from attacks involving it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8539,
+  "cardNumber": "31242786",
+  "name": "Souleater",
+  "description": "A living wonder of mystery.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

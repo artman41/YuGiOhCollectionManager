@@ -1,0 +1,16 @@
+{
+  "id": 4228,
+  "cardNumber": "7922915",
+  "name": "Magician Navigation",
+  "description": "Special Summon 1 \"Dark Magician\" from your hand, then Special Summon 1 Level 7 or lower DARK Spellcaster monster from your Deck. If you control \"Dark Magician\", except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Spell/Trap your opponent controls; it has its effects negated until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

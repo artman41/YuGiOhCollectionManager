@@ -1,0 +1,16 @@
+{
+  "id": 8920,
+  "cardNumber": "67378104",
+  "name": "Celestial Sextant",
+  "description": "Place 1 Level 6 monster from your hand or face-up from your field on the bottom of the Deck; draw 2 cards. You can only activate 1 \"Celestial Sextant\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

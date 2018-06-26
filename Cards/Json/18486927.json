@@ -1,0 +1,16 @@
+{
+  "id": 221,
+  "cardNumber": "18486927",
+  "name": "Ancient Gear Gadget",
+  "description": "If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); this turn, if a monster you control attacks, your opponent's Spell Cards, Trap Cards, or monster effects (whichever was declared) cannot be activated until the end of the Damage Step. Once per turn: You can declare 1 \"Gadget\" monster's card name; until the End Phase, this card's name becomes that name.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1592,
+  "cardNumber": "99789342",
+  "name": "Dark Magic Curtain",
+  "description": "Pay half your LP; Special Summon 1 \"Dark Magician\" from your Deck. You cannot Summon other monsters the turn you activate this card (but you can Set).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3909,
+  "cardNumber": "62514770",
+  "name": "Labradorite Dragon",
+  "description": "The ancients compared this prized creature to moonlight rippling across water. A bringer of harmony, reminder of past glories, able to soothe the hearts of even the most ambitious men.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

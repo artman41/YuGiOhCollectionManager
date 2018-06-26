@@ -1,0 +1,16 @@
+{
+  "id": 8724,
+  "cardNumber": "62487836",
+  "name": "White Howling",
+  "description": "If you control a WATER monster: Target 1 Spell in your opponent's GY; banish it, and if you do, negate all Spell effects on your opponent's field this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

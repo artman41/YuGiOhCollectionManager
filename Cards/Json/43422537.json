@@ -1,0 +1,16 @@
+{
+  "id": 1964,
+  "cardNumber": "43422537",
+  "name": "Double Summon",
+  "description": "You can conduct 2 Normal Summons/Sets this turn, not just 1.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

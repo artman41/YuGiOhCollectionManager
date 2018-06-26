@@ -1,0 +1,16 @@
+{
+  "id": 658,
+  "cardNumber": "4068622",
+  "name": "Blackwing - Aurora the Northern Lights",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 2 face-up monsters you control (1 \"Blackwing\" Tuner and 1 non-Tuner) and cannot be Special Summoned by other ways. Once per turn: You can banish 1 \"Blackwing\" Synchro Monster from your Extra Deck; until the End Phase, this card's name and original ATK become that monster's, and replace this effect with that monster's original effects.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

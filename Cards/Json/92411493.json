@@ -1,0 +1,16 @@
+{
+  "id": 8698,
+  "cardNumber": "92411493",
+  "name": "The Weather Painter Rain",
+  "description": "If this card is Special Summoned: You can place 1 \"The Weather\" Spell/Trap from your hand face-up in your Spell &amp; Trap Zone. You can only use this effect of \"The Weather Painter Rain\" once per turn. Once per turn, during the Standby Phase of the turn after this card was banished from the field to activate a \"The Weather\" card's effect: You can Special Summon this banished card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

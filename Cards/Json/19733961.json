@@ -1,0 +1,16 @@
+{
+  "id": 507,
+  "cardNumber": "19733961",
+  "name": "Batteryman C",
+  "description": "If all \"Batteryman C\"(s) you control are in Attack Position, all Machine-Type monsters you control gain 500 ATK for each \"Batteryman C\" you control. If all \"Batteryman C\"(s) you control are in Defense Position, all Machine-Type monsters you control gain 500 DEF for each \"Batteryman C\" you control.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

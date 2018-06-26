@@ -1,0 +1,16 @@
+{
+  "id": 8537,
+  "cardNumber": "49218300",
+  "name": "Sorcerer of the Doomed",
+  "description": "A slave of the dark arts, this sorcerer is a master of life-extinguishing spells.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1450,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

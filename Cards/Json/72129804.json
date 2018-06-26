@@ -1,0 +1,16 @@
+{
+  "id": 7980,
+  "cardNumber": "72129804",
+  "name": "Predaplast",
+  "description": "Reveal any number of \"Predap\" cards in your hand, then target that many face-up monsters your opponent controls; place 1 Predator Counter on each of those monsters, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter. If a \"Predaplant\" monster you control would be destroyed by battle, you can banish this card from your GY instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

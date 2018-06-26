@@ -1,0 +1,16 @@
+{
+  "id": 63,
+  "cardNumber": "33656832",
+  "name": "Acrobatic Magician",
+  "description": "Pendulum Effect\n When a monster(s) you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"Acrobatic Magician\" once per turn.\n\n Monster Effect\n If the activation of a Spell/Trap Card is negated (except during the Damage Step): You can Special Summon this card from your hand. When this card is destroyed by battle: You can place this card in your Pendulum Zone.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 725,
+  "cardNumber": "30653113",
+  "name": "Blessings of the Nile",
+  "description": "Each time card(s) are discarded from your hand to the Graveyard by the effect of a card controlled by your opponent, increase your Life Points by 1000 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

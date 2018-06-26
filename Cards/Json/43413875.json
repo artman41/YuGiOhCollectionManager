@@ -1,0 +1,16 @@
+{
+  "id": 2576,
+  "cardNumber": "43413875",
+  "name": "Flower Cardian Zebra Grass with Moon",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 8 \"Flower Cardian\" monster, except \"Flower Cardian Zebra Grass with Moon\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. Once per turn, if this card destroys an opponent's monster by battle: You can draw 1 card.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8138,
+  "cardNumber": "38289717",
+  "name": "Crawling Dragon #2",
+  "description": "A powerful dragon with teeth that can grind almost anything to dust.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

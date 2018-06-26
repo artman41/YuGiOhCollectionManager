@@ -1,0 +1,16 @@
+{
+  "id": 8469,
+  "cardNumber": "52550973",
+  "name": "Pharaoh's Servant",
+  "description": "An apparition of those said to formerly serve the Pharaoh. It has tremendous loyalty that does not waiver.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

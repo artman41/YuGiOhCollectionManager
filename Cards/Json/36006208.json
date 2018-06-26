@@ -1,0 +1,16 @@
+{
+  "id": 2505,
+  "cardNumber": "36006208",
+  "name": "Fire Lake of the Burning Abyss",
+  "description": "Send 2 face-up \"Burning Abyss\" monsters you control to the Graveyard, then target up to 3 cards on the field; destroy those targets.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6311,
+  "cardNumber": "67750322",
+  "name": "Skull Meister",
+  "description": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

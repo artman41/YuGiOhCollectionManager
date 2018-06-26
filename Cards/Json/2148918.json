@@ -1,0 +1,16 @@
+{
+  "id": 345,
+  "cardNumber": "2148918",
+  "name": "Armor Ninjitsu Art of Rust Mist",
+  "description": "When a monster(s) is Special Summoned to your opponent's side of the field, if you control a face-up \"Ninja\" monster: Halve the ATK of that Special Summoned monster(s).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

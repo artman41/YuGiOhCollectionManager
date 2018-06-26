@@ -1,0 +1,16 @@
+{
+  "id": 1196,
+  "cardNumber": "43513897",
+  "name": "Constellar Acubens",
+  "description": "When this card is Normal or Special Summoned: All \"Constellar\" monsters you currently control gain 500 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4361,
+  "cardNumber": "10920352",
+  "name": "Masked HERO Vapor",
+  "description": "Must be Special Summoned with \"Mask Change\", and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

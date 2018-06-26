@@ -1,0 +1,16 @@
+{
+  "id": 2303,
+  "cardNumber": "42679662",
+  "name": "Evilswarm Azzathoth",
+  "description": "FLIP: Target 1 Special Summoned monster on the field; shuffle that target into the Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 750,
+  "def": 1950,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

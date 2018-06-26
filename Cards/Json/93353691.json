@@ -1,0 +1,16 @@
+{
+  "id": 2063,
+  "cardNumber": "93353691",
+  "name": "Driven Daredevil",
+  "description": "1 Warrior-Type Tuner + 1 or more non-Tuner Warrior-Type monsters<br>This card cannot be destroyed by battle when attacked by a monster with higher ATK. After damage calculation, if this card was attacked by a monster with higher ATK: Destroy the opponent's monster it battled.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

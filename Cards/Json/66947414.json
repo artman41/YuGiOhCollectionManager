@@ -1,0 +1,16 @@
+{
+  "id": 784,
+  "cardNumber": "66947414",
+  "name": "Boss Rush",
+  "description": "You cannot Normal Summon or Set. During the End Phase of the turn that a \"B.E.S.\" monster or a \"Big Core\" is destroyed and sent to the Graveyard, you can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

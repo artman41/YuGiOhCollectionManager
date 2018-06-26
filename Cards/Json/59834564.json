@@ -1,0 +1,16 @@
+{
+  "id": 772,
+  "cardNumber": "59834564",
+  "name": "Bonfire Colossus",
+  "description": "If you control a FIRE monster, you can Special Summon this card (from your hand). When this card is Special Summoned: Target 2 FIRE monsters you control; destroy those targets.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

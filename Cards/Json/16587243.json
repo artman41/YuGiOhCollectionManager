@@ -1,0 +1,16 @@
+{
+  "id": 8435,
+  "cardNumber": "16587243",
+  "name": "Neo Bug",
+  "description": "A huge bug-like monster said to come from another planet. It gathers in swarms.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

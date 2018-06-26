@@ -1,0 +1,16 @@
+{
+  "id": 3246,
+  "cardNumber": "46044841",
+  "name": "Gusto Falco",
+  "description": "When this face-up card on the field is sent to the Graveyard, except by battle: You can Special Summon 1 \"Gusto\" monster from your Deck in face-down Defense Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

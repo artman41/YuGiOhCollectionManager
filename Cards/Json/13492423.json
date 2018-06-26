@@ -1,0 +1,16 @@
+{
+  "id": 5351,
+  "cardNumber": "13492423",
+  "name": "Photon Caesar",
+  "description": "When this card is Normal or Flip Summoned: You can Special Summon 1 \"Photon Caesar\" from your hand or Deck.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

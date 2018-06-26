@@ -1,0 +1,16 @@
+{
+  "id": 8124,
+  "cardNumber": "9540040",
+  "name": "Boulder Tortoise",
+  "description": "A stone turtle that is nearly indestructible.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1450,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

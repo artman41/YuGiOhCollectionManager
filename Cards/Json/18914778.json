@@ -1,0 +1,16 @@
+{
+  "id": 8130,
+  "cardNumber": "18914778",
+  "name": "Change Slime",
+  "description": "A slime that can morph and adopt the shape and size of any monster it chooses.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

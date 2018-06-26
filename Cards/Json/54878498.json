@@ -1,0 +1,16 @@
+{
+  "id": 3804,
+  "cardNumber": "54878498",
+  "name": "Kelbek",
+  "description": "A monster that attacks this card returns to the hand. Damage calculation is applied normally.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5103,
+  "cardNumber": "78986941",
+  "name": "Order to Charge",
+  "description": "Select 1 face-up Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, Tribute the selected Normal Monster and destroy 1 monster on your opponent's side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

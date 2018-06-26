@@ -1,0 +1,16 @@
+{
+  "id": 5990,
+  "cardNumber": "65314286",
+  "name": "Sadion, the Timelord",
+  "description": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled and your LP is less than 4000: Your LP becomes 4000. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

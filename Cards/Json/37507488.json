@@ -1,0 +1,16 @@
+{
+  "id": 5802,
+  "cardNumber": "37507488",
+  "name": "Relieve Monster",
+  "description": "When an opponent's monster declares an attack: Target 1 monster you control; return that target to the hand, then Special Summon 1 Level 4 monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7063,
+  "cardNumber": "75372290",
+  "name": "Total Defense Shogun",
+  "description": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned successfully. This card can attack while it is in Defense Position. If this card attacks while in Defense Position, apply the ATK of this card for damage calculation.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1550,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

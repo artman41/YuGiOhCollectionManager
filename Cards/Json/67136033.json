@@ -1,0 +1,16 @@
+{
+  "id": 1152,
+  "cardNumber": "67136033",
+  "name": "Coach Captain Bearman",
+  "description": "You can Normal Summon this card without Tributing, but its original ATK becomes 1300. Once per turn: You can make all Level 4 Beast-Warrior-Type monsters you currently control become Level 8 until the end of this turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a FIRE Warrior-Type monster.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

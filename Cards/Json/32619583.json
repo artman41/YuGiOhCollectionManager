@@ -1,0 +1,16 @@
+{
+  "id": 6261,
+  "cardNumber": "32619583",
+  "name": "Sillva, Warlord of Dark World",
+  "description": "If this card is discarded to the Graveyard by a card effect: Special Summon it from the Graveyard, then, if this card was discarded from your hand to your Graveyard by your opponent's card effect, your opponent returns exactly 2 cards from their hand to the bottom of their Deck, in any order.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

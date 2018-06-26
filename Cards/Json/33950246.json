@@ -1,0 +1,16 @@
+{
+  "id": 5948,
+  "cardNumber": "33950246",
+  "name": "Royal Command",
+  "description": "Flip monsters' effects cannot be activated, also their effects are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

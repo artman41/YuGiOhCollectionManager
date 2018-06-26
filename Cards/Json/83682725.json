@@ -1,0 +1,16 @@
+{
+  "id": 6894,
+  "cardNumber": "83682725",
+  "name": "Tail Swipe",
+  "description": "Target 1 Level 5 or higher Dinosaur-Type monster you control; if that Dinosaur-Type monster is still face-up on the field, choose up to 2 monsters your opponent controls that have a lower Level than it, or are face-down, and return them to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

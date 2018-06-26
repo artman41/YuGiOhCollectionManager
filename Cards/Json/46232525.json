@@ -1,0 +1,16 @@
+{
+  "id": 1127,
+  "cardNumber": "46232525",
+  "name": "The Claw of Hermos",
+  "description": "(This card is also always treated as \"Legendary Dragon Hermos\".)<br>Send 1 monster from your hand or field to the GY, of the Type that is listed on a Fusion Monster that can only be Special Summoned with \"The Claw of Hermos\" (if that card is Set, reveal it), then Special Summon that Fusion Monster from your Extra Deck. You can only activate 1 \"The Claw of Hermos\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

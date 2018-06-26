@@ -1,0 +1,16 @@
+{
+  "id": 8224,
+  "cardNumber": "2830619",
+  "name": "Flame Viper",
+  "description": "A fire-breathing snake whose speed makes it a difficult target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 450,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

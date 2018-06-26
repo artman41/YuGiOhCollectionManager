@@ -1,0 +1,16 @@
+{
+  "id": 3360,
+  "cardNumber": "67951831",
+  "name": "Hero Heart",
+  "description": "Target 1 face-up \"Elemental HERO\" monster you control; halve its ATK until the end of this turn, but it can attack twice during this turn's Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

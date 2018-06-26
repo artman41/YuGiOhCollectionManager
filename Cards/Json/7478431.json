@@ -1,0 +1,16 @@
+{
+  "id": 4764,
+  "cardNumber": "7478431",
+  "name": "Naturia Sunflower",
+  "description": "You can Tribute this card and 1 \"Naturia\" monster to negate the activation of an effect of an Effect Monster your opponent controls, and destroy it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

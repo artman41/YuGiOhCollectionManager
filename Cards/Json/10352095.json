@@ -1,0 +1,16 @@
+{
+  "id": 6080,
+  "cardNumber": "10352095",
+  "name": "Scroll of Bewitchment",
+  "description": "Select 1 Attribute. Change the Attribute of the equipped monster to the one you select.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

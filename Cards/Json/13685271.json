@@ -1,0 +1,16 @@
+{
+  "id": 7110,
+  "cardNumber": "13685271",
+  "name": "Treaty on Uniform Nomenclature",
+  "description": "If you control 2 or more face-up monsters with the same name, except Tokens: Apply this effect, depending on how many you control.<br>â— Exactly 2: Destroy 1 Spell/Trap Card your opponent controls.<br>â— Exactly 3: Destroy all Spell/Trap Cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

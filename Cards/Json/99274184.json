@@ -1,0 +1,16 @@
+{
+  "id": 1324,
+  "cardNumber": "99274184",
+  "name": "Crystron Impact",
+  "description": "Target 1 of your banished \"Crystron\" monsters; Special Summon it, and if you do, if your opponent controls any face-up monsters, change their DEF to 0. During either player's turn, except the turn this card was sent to the Graveyard, when a card or effect is activated that targets a \"Crystron\" monster you control: You can banish this card from your Graveyard; negate that effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4232,
+  "cardNumber": "50755",
+  "name": "Magician's Circle",
+  "description": "When a Spellcaster-Type monster declares an attack: Each player Special Summons 1 Spellcaster-Type monster with 2000 or less ATK from their Deck in Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

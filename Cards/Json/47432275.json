@@ -1,0 +1,16 @@
+{
+  "id": 3902,
+  "cardNumber": "47432275",
+  "name": "Kuribon",
+  "description": "During damage calculation, if this card is being attacked by your opponent's monster: You take no Battle Damage from this battle, your opponent gains Life Points equal to the attacking monster's ATK, and you return this card to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

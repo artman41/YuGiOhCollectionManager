@@ -1,0 +1,16 @@
+{
+  "id": 5583,
+  "cardNumber": "96470883",
+  "name": "Queen Angel of Roses",
+  "description": "You can Tribute Summon this card in face-up Attack Position by Tributing 1 Plant-Type monster. Once per turn, during your Standby Phase: Destroy the 1 face-up monster on the field that has the lowest ATK (your choice, if tied).",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

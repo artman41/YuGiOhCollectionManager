@@ -1,0 +1,16 @@
+{
+  "id": 8135,
+  "cardNumber": "92667214",
+  "name": "Clown Zombie",
+  "description": "A clown revived by the powers of darkness. Its deadly dance has sent many monsters to their graves.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

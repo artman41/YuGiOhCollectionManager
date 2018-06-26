@@ -1,0 +1,16 @@
+{
+  "id": 6560,
+  "cardNumber": "43661068",
+  "name": "Star Light, Star Bright",
+  "description": "Target 1 face-up monster you control; all face-up monsters you currently control with an ATK or DEF equal to that monster's become the same Level as that monster, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

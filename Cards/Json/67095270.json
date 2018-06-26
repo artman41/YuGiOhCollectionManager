@@ -1,0 +1,16 @@
+{
+  "id": 1854,
+  "cardNumber": "67095270",
+  "name": "Dimension Wall",
+  "description": "Activate only when an opponent's monster declares an attack. Instead of you, your opponent takes the Battle Damage you would have taken from this battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

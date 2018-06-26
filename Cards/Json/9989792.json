@@ -1,0 +1,16 @@
+{
+  "id": 7122,
+  "cardNumber": "9989792",
+  "name": "Triamid Fortress",
+  "description": "All Rock-Type monsters on the field gain 500 DEF. \"Triamid\" monsters on the field cannot be destroyed by card effects. If this face-up card in the Field Zone is sent to the Graveyard: You can target 1 \"Triamid\" monster in your Graveyard; add it to your hand. You can only use this effect of \"Triamid Fortress\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

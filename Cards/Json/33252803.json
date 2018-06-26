@@ -1,0 +1,16 @@
+{
+  "id": 5688,
+  "cardNumber": "33252803",
+  "name": "Rank-Up-Magic Quick Chaos",
+  "description": "Target 1 \"Number\" Xyz Monster you control, except a \"Number C\" monster; Special Summon from your Extra Deck, 1 \"Number C\" monster with the same number in its name as that target, but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to that target also become Xyz Materials on the Summoned monster.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

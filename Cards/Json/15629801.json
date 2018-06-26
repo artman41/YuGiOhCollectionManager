@@ -1,0 +1,16 @@
+{
+  "id": 521,
+  "cardNumber": "15629801",
+  "name": "Battle Waltz",
+  "description": "Target 1 Synchro Monster you control; Special Summon 1 \"Waltz Token\" with the current Type, Attribute, Level, ATK and DEF of that monster. Neither player takes any battle damage from attacks involving this Token.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2458,
+  "cardNumber": "31044787",
+  "name": "Ferret Flames",
+  "description": "If the combined ATK of all face-up monsters your opponent controls is higher than your LP: Make your opponent shuffle monsters they control into the Deck (their choice), so that the combined ATK of the remaining monsters they control becomes less than or equal to your LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

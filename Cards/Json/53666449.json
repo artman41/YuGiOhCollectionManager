@@ -1,0 +1,16 @@
+{
+  "id": 7831,
+  "cardNumber": "53666449",
+  "name": "Angel Sage Minerva",
+  "description": "Each time a Counter Trap Card is activated, this card gains 500 ATK immediately after it resolves, also, if \"The Sanctuary in the Sky\" is on the field, add 1 Counter Trap with a different name from that activated card from your GY to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

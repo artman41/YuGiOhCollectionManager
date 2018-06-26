@@ -1,0 +1,16 @@
+{
+  "id": 4366,
+  "cardNumber": "67820935",
+  "name": "Massivemorph",
+  "description": "Target 1 face-up monster your opponent controls; its ATK and DEF become double its current ATK and DEF, but it cannot attack directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

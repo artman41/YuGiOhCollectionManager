@@ -1,0 +1,16 @@
+{
+  "id": 4309,
+  "cardNumber": "98780137",
+  "name": "Malicevorous Knife",
+  "description": "When this card is Normal Summoned: You can target 1 \"Malicevorous\" monster in your Graveyard except \"Malicevorous Knife\"; Special Summon that target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

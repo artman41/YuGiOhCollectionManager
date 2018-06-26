@@ -1,0 +1,16 @@
+{
+  "id": 4061,
+  "cardNumber": "22201234",
+  "name": "Lightsworn Barrier",
+  "description": "When a \"Lightsworn\" monster you control is targeted for an attack: You can send the top 2 cards of your Deck to the Graveyard, then target the attacking monster; negate the attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

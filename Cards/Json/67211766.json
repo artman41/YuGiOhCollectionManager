@@ -1,0 +1,16 @@
+{
+  "id": 4283,
+  "cardNumber": "67211766",
+  "name": "Majioshaleon",
+  "description": "Your opponent cannot select this card as an attack target while they control any Spell/Trap Cards. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

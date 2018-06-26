@@ -1,0 +1,16 @@
+{
+  "id": 8412,
+  "cardNumber": "7225792",
+  "name": "Mon Larvas",
+  "description": "A further step in the evolutionary chain, it is much more powerful than \"Larvas\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

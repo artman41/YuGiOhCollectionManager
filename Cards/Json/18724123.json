@@ -1,0 +1,16 @@
+{
+  "id": 3540,
+  "cardNumber": "18724123",
+  "name": "Infernity Archer",
+  "description": "If you have no cards in your hand, this card can attack your opponent directly.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

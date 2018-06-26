@@ -1,0 +1,16 @@
+{
+  "id": 443,
+  "cardNumber": "40619825",
+  "name": "Axe of Despair",
+  "description": "(This card is always treated as an \"Archfiend\" card.)<br>The equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; place this card on the top of your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

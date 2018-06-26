@@ -1,0 +1,16 @@
+{
+  "id": 6880,
+  "cardNumber": "64910482",
+  "name": "T.G. Cyber Magician",
+  "description": "When using this card you control as a Synchro Material for a \"T.G.\" Synchro Monster, you can use \"T.G.\" monsters in your hand as non-Tuner Synchro Materials. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Cyber Magician\".",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

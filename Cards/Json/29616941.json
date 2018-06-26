@@ -1,0 +1,16 @@
+{
+  "id": 8100,
+  "cardNumber": "29616941",
+  "name": "Beautiful Beast Trainer",
+  "description": "A rare female beast-master with a very dangerous whip.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

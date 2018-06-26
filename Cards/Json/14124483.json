@@ -1,0 +1,16 @@
+{
+  "id": 2187,
+  "cardNumber": "14124483",
+  "name": "Elemental HERO Honest Neos",
+  "description": "During either player's turn: You can discard this card, then target 1 \"HERO\" monster on the field; it gains 2500 ATK until the end of this turn. During either playerâ€™s turn: You can discard 1 \"HERO\" monster; this card gains ATK equal to the discarded monster's ATK until the end of this turn. You can only use each effect of \"Elemental HERO Honest Neos\" once per turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

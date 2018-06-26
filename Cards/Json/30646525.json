@@ -1,0 +1,16 @@
+{
+  "id": 2789,
+  "cardNumber": "30646525",
+  "name": "Garlandolf, King of Destruction",
+  "description": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Ritual of Destruction\". When this card is Ritual Summoned, destroy all other face-up monsters on the field with DEF less than or equal to this card's ATK. This card gains 100 ATK for each monster destroyed by this effect.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

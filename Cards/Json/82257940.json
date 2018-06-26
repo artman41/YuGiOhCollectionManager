@@ -1,0 +1,16 @@
+{
+  "id": 2958,
+  "cardNumber": "82257940",
+  "name": "Gift Exchange",
+  "description": "Both players banish 1 card from their Decks, face-down, and if they do, during the End Phase of this turn, both players add to their hands the card their opponent banished by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

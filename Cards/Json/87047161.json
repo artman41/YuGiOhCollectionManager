@@ -1,0 +1,16 @@
+{
+  "id": 4445,
+  "cardNumber": "87047161",
+  "name": "Mermaid Shark",
+  "description": "When this card is Normal Summoned: You can add 1 Level 3, 4 or 5 Fish-Type monster from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

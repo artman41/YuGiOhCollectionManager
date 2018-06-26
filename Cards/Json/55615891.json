@@ -1,0 +1,16 @@
+{
+  "id": 2219,
+  "cardNumber": "55615891",
+  "name": "Elemental HERO Wild Wingman",
+  "description": "\"Elemental HERO Wildheart\" + \"Elemental HERO Avian\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. You can discard 1 card to target 1 Spell/Trap Card on the field; destroy that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1953,
+  "cardNumber": "13166648",
+  "name": "Double Dragon Descent",
+  "description": "When an opponent's Xyz Monster declares a direct attack: Special Summon 1 LIGHT Dragon-Type Xyz Monster from your Extra Deck in Attack Position, then the attacking monster attacks it instead, and you proceed to damage calculation. Its ATK becomes equal to the attacking monster's ATK, also its effects are negated. You can only activate 1 \"Double Dragon Descent\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

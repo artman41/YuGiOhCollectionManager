@@ -1,0 +1,16 @@
+{
+  "id": 8579,
+  "cardNumber": "33734439",
+  "name": "Three-Legged Zombies",
+  "description": "A pair of friendly skeletons, lean and fat, that travel with extreme difficulty.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

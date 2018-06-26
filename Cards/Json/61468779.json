@@ -1,0 +1,16 @@
+{
+  "id": 3127,
+  "cardNumber": "61468779",
+  "name": "Grandsoil the Elemental Lord",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 5 EARTH monsters in your Graveyard, and cannot be Special Summoned by other ways. When this card is Special Summoned: You can target 1 monster in either player's Graveyard; Special Summon that target to your side of the field. If this card leaves the field, skip the Battle Phase of your next turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

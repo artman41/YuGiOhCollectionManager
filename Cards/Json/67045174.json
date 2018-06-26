@@ -1,0 +1,16 @@
+{
+  "id": 2864,
+  "cardNumber": "67045174",
+  "name": "Gemini Trap Hole",
+  "description": "Activate only when a Gemini monster that is treated as an Effect Monster is destroyed by battle. Destroy all monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

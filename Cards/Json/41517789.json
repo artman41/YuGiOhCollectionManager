@@ -1,0 +1,16 @@
+{
+  "id": 6559,
+  "cardNumber": "41517789",
+  "name": "Star Eater",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Must be Synchro Summoned, and cannot be Special Summoned by other ways. This card's Synchro Summon cannot be negated. When Synchro Summoned, cards and effects cannot be activated. If this card attacks, it is unaffected by other card effects until the end of the Damage Step.",
+  "cardLevel": 11,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

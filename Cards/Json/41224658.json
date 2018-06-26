@@ -1,0 +1,16 @@
+{
+  "id": 179,
+  "cardNumber": "41224658",
+  "name": "Ambitious Gofer",
+  "description": "Once per turn: You can target up to 2 monsters your opponent controls; your opponent can reveal 1 monster in their hand to negate this card's effect, otherwise destroy those monsters.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

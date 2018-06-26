@@ -1,0 +1,16 @@
+{
+  "id": 5902,
+  "cardNumber": "25796442",
+  "name": "Ritual Cage",
+  "description": "You take no battle damage from attacks involving a Ritual Monster you control. Ritual Monsters you control cannot be targeted by, or destroyed by, monster effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

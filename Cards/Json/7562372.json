@@ -1,0 +1,16 @@
+{
+  "id": 8391,
+  "cardNumber": "7562372",
+  "name": "Megasonic Eye",
+  "description": "Made of mysterious metal, this monster is a doomsday machine from the edge of the universe.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

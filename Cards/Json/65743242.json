@@ -1,0 +1,16 @@
+{
+  "id": 937,
+  "cardNumber": "65743242",
+  "name": "Call of the Earthbound",
+  "description": "Activate only when an opponent's monster declares an attack. You select the target of the attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

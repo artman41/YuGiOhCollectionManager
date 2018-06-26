@@ -1,0 +1,16 @@
+{
+  "id": 6872,
+  "cardNumber": "77360173",
+  "name": "Synkron Resonator",
+  "description": "If a Synchro Monster is on the field, you can Special Summon this card (from your hand). You can only Special Summon \"Synkron Resonator\" once per turn this way. If this card is sent from the field to the Graveyard: You can target 1 \"Resonator\" monster in your Graveyard, except \"Synkron Resonator\"; add it to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

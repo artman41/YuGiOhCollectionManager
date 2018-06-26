@@ -1,0 +1,16 @@
+{
+  "id": 5892,
+  "cardNumber": "87118301",
+  "name": "Ritual Beast Tamer Lara",
+  "description": "If this card is Normal Summoned: You can target 1 \"Ritual Beast\" monster in your Graveyard; Special Summon it. You can only Special Summon \"Ritual Beast Tamer Lara(s)\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

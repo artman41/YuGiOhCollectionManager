@@ -1,0 +1,16 @@
+{
+  "id": 4663,
+  "cardNumber": "2250266",
+  "name": "Morphtronic Staplen",
+  "description": "â— While in Attack Position: Your opponent cannot select another monster you control as an attack target. If this card is destroyed by battle, the monster that destroyed it loses 300 ATK.<br>â— While in Defense Position: This card cannot be destroyed by battle. If this card is attacked, select 1 face-up Attack Position monster your opponent controls, after damage calculation. Change it to face-up Defense Position and change this card to face-up Attack Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

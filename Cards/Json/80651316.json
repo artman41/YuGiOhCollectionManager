@@ -1,0 +1,16 @@
+{
+  "id": 2331,
+  "cardNumber": "80651316",
+  "name": "Evolsaur Cerato",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: It gains 200 ATK. If this card was Special Summoned by the effect of an \"Evoltile\" monster, each time this card destroys an opponent's monster by battle: You can add 1 \"Evoltile\" monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

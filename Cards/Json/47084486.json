@@ -1,0 +1,16 @@
+{
+  "id": 7343,
+  "cardNumber": "47084486",
+  "name": "Vanity's Fiend",
+  "description": "Cannot be Special Summoned. Neither player can Special Summon monsters.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

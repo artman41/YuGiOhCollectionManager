@@ -1,0 +1,16 @@
+{
+  "id": 8333,
+  "cardNumber": "69455834",
+  "name": "King of Yamimakai",
+  "description": "Wields the power of darkness to destroy its enemies.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1530,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

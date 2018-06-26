@@ -1,0 +1,16 @@
+{
+  "id": 7405,
+  "cardNumber": "78748366",
+  "name": "Void Vanishment",
+  "description": "You can discard 1 card; add 1 \"Void\" Spell/Trap Card from your Deck to your hand, except \"Void Vanishment\" or \"Null and Void\", also you cannot Normal or Special Summon monsters for the rest of this turn, except \"Infernoid\" monsters. You can only use this effect of \"Void Vanishment\" once per turn. If an \"Infernoid\" monster you control battles an opponent's monster, after damage calculation: You can send this card to the Graveyard; banish those monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6304,
+  "cardNumber": "126218",
+  "name": "Skull Dice",
+  "description": "Roll a six-sided die. All monsters your opponent currently controls lose ATK and DEF equal to the result x 100, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

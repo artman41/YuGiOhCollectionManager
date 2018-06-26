@@ -1,0 +1,16 @@
+{
+  "id": 3828,
+  "cardNumber": "60519422",
+  "name": "Kishido Spirit",
+  "description": "Monsters on your side of the field cannot be destroyed in a battle if the monsters' ATK are equal.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

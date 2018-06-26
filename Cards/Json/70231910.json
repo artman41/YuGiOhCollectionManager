@@ -1,0 +1,16 @@
+{
+  "id": 1555,
+  "cardNumber": "70231910",
+  "name": "Dark Core",
+  "description": "Discard 1 card, then target 1 face-up monster on the field; banish that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

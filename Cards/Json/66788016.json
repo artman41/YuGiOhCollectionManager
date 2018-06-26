@@ -1,0 +1,16 @@
+{
+  "id": 2527,
+  "cardNumber": "66788016",
+  "name": "Fissure",
+  "description": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

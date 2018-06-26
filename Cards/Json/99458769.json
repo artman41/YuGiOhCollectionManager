@@ -1,0 +1,16 @@
+{
+  "id": 5788,
+  "cardNumber": "99458769",
+  "name": "Reign-Beaux, Overlord of Dark World",
+  "description": "If this card is discarded from your hand to your Graveyard by an opponent's card effect: Special Summon this card from the Graveyard. When this card is Special Summoned this way: Destroy all monsters your opponent controls OR all Spell/Trap Cards they control.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

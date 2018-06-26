@@ -1,0 +1,16 @@
+{
+  "id": 6661,
+  "cardNumber": "1151281",
+  "name": "Subterror Behemoth Phospheroglacier",
+  "description": "FLIP: You can send 1 card from your Deck to the Graveyard. You can only use this effect of \"Subterror Behemoth Phospheroglacier\" once per turn.<br>When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

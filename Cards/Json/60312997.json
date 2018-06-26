@@ -1,0 +1,16 @@
+{
+  "id": 5718,
+  "cardNumber": "60312997",
+  "name": "Reanimation Wave",
+  "description": "Activate only when your opponent's monster declares a direct attack. Select 1 Synchro Monster in your Graveyard with a Level less than or equal to the attacking monster's. The Battle Damage you take from that attack is halved. At the end of the Damage Step, Special Summon the selected Synchro Monster from the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

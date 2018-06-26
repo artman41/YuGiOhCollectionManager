@@ -1,0 +1,16 @@
+{
+  "id": 434,
+  "cardNumber": "37970940",
+  "name": "Aussa the Earth Charmer",
+  "description": "FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8479,
+  "cardNumber": "25652259",
+  "name": "Queen's Knight",
+  "description": "This knight catches her opponents off guard, dominating them with swift yet graceful attacks.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

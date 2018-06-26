@@ -1,0 +1,16 @@
+{
+  "id": 8091,
+  "cardNumber": "89091579",
+  "name": "Basic Insect",
+  "description": "Usually found traveling in swarms, this creature's ideal environment is the forest.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

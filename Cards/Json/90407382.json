@@ -1,0 +1,16 @@
+{
+  "id": 3808,
+  "cardNumber": "90407382",
+  "name": "The Kick Man",
+  "description": "When this card is Special Summoned, you can equip 1 appropriate Equip Spell Card from your Graveyard to this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

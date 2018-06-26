@@ -1,0 +1,16 @@
+{
+  "id": 3963,
+  "cardNumber": "92435533",
+  "name": "Lazion, the Timelord",
+  "description": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle all cards from your opponent's GY into the Deck. Once per turn, if your opponent draws a card: Inflict 1000 damage to your opponent. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

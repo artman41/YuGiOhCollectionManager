@@ -1,0 +1,16 @@
+{
+  "id": 5733,
+  "cardNumber": "81191584",
+  "name": "Recurring Nightmare",
+  "description": "Target 2 DARK monsters with 0 DEF in your GY; add those targets to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

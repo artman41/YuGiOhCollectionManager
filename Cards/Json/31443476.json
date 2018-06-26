@@ -1,0 +1,16 @@
+{
+  "id": 5594,
+  "cardNumber": "31443476",
+  "name": "Quick Launch",
+  "description": "Special Summon 1 \"Rokket\" monster from your Deck, but it cannot attack, also destroy it during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

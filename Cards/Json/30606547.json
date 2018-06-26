@@ -1,0 +1,16 @@
+{
+  "id": 1563,
+  "cardNumber": "30606547",
+  "name": "The Dark Door",
+  "description": "Only 1 monster can attack during each Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

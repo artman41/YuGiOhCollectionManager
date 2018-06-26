@@ -1,0 +1,16 @@
+{
+  "id": 3067,
+  "cardNumber": "59911557",
+  "name": "Gogogo Goram",
+  "description": "If this card is Summoned: Change the battle position of this card. If this card on the field is destroyed and sent to the Graveyard: Send 1 \"Gogogo\" monster from your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

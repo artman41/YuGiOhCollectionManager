@@ -1,0 +1,16 @@
+{
+  "id": 3632,
+  "cardNumber": "87047074",
+  "name": "Inzektor Crossbow - Zektarrow",
+  "description": "Equip only to an \"Inzektor\" monster. It gains 500 ATK. Your opponent cannot activate cards or effects in response to the activation of the equipped monster's effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

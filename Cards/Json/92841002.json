@@ -1,0 +1,16 @@
+{
+  "id": 4722,
+  "cardNumber": "92841002",
+  "name": "Mythic Water Dragon",
+  "description": "If you control an EARTH monster, you can Special Summon this card (from your hand). You can only Special Summon \"Mythic Water Dragon\" once per turn this way.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8127,
+  "cardNumber": "47695416",
+  "name": "Candle of Fate",
+  "description": "Decides the fate of an opponent when the candle on its fingertip burns out.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

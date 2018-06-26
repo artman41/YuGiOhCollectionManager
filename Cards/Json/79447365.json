@@ -1,0 +1,16 @@
+{
+  "id": 7046,
+  "cardNumber": "79447365",
+  "name": "Toon Mask",
+  "description": "If you control \"Toon World\": Target 1 face-up monster your opponent controls; Special Summon 1 Toon monster from your hand or Deck, whose Level is less than or equal to the Level/Rank of that monster, ignoring its Summoning conditions.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5323,
+  "cardNumber": "99315585",
+  "name": "The Phantom Knights of Cloven Helm",
+  "description": "If a \"Phantom Knights\" card(s) is sent to your Graveyard: This card gains 500 ATK. You can banish this card from your Graveyard; during the End Phase of this turn, add 1 \"Phantom Knights\" card from your Graveyard to your hand. You can only use each effect of \"The Phantom Knights of Cloven Helm\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

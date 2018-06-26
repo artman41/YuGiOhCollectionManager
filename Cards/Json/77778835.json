@@ -1,0 +1,16 @@
+{
+  "id": 3481,
+  "cardNumber": "77778835",
+  "name": "Hysteric Party",
+  "description": "Activate this card by discarding 1 card; Special Summon as many copies of \"Harpie Lady\" as possible from your Graveyard. When this face-up card leaves the field, destroy those monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

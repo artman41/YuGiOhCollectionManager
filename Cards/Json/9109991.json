@@ -1,0 +1,16 @@
+{
+  "id": 672,
+  "cardNumber": "9109991",
+  "name": "Blackwing - Fane the Steel Chain",
+  "description": "This card can attack your opponent directly. If this card inflicts battle damage to your opponent by a direct attack: Target 1 Attack Position monster your opponent controls; change that target to Defense Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

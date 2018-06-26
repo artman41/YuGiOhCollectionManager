@@ -1,0 +1,16 @@
+{
+  "id": 6945,
+  "cardNumber": "76641981",
+  "name": "TG1-EM1",
+  "description": "Target 1 monster your opponent controls and 1 \"T.G.\" monster you control; switch control of both monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

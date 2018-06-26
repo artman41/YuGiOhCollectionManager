@@ -1,0 +1,16 @@
+{
+  "id": 4067,
+  "cardNumber": "82324105",
+  "name": "Limit Impulse",
+  "description": "Send 2 cards from your hand to the Graveyard. Special Summon 2 \"Soul Tokens\" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0). These Tokens cannot be Tributed except for a Tribute Summon.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 607,
+  "cardNumber": "45547649",
+  "name": "Birdface",
+  "description": "When this card is sent to the Graveyard as a result of battle, you can add 1 \"Harpie Lady\" from your Deck to your hand. Then shuffle your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

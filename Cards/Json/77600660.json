@@ -1,0 +1,16 @@
+{
+  "id": 5524,
+  "cardNumber": "77600660",
+  "name": "Psychic Emperor",
+  "description": "When this card is Normal or Special Summoned, gain 500 Life Points for each Psychic-Type monster in your Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

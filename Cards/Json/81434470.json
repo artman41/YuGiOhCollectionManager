@@ -1,0 +1,16 @@
+{
+  "id": 6984,
+  "cardNumber": "81434470",
+  "name": "Thousand-Eyes Jellyfish",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Ocean's Keeper\". Your opponent must play with their hand revealed.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 300,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

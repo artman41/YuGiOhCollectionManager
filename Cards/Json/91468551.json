@@ -1,0 +1,16 @@
+{
+  "id": 6923,
+  "cardNumber": "91468551",
+  "name": "Temple of the Sun",
+  "description": "Face-up monsters you control that were Special Summoned from the Graveyard gain 300 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

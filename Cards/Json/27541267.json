@@ -1,0 +1,16 @@
+{
+  "id": 3579,
+  "cardNumber": "27541267",
+  "name": "Infestation Pandemic",
+  "description": "All face-up \"lswarm\" monsters you currently control are unaffected by other Spell/Trap effects this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

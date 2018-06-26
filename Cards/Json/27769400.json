@@ -1,0 +1,16 @@
+{
+  "id": 7172,
+  "cardNumber": "27769400",
+  "name": "Tualatin",
+  "description": "If you controlled 2 or more monsters at the start of your opponent's Battle Phase and all of them were destroyed by battle and sent to the Graveyard, you can Special Summon this card from your hand during that Battle Phase. If you do, choose an Attribute and destroy all face-up monsters with that Attribute. Your opponent cannot Normal or Special Summon monsters with that Attribute.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

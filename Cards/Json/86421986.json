@@ -1,0 +1,16 @@
+{
+  "id": 8069,
+  "cardNumber": "86421986",
+  "name": "Ancient Tree of Enlightenment",
+  "description": "This ancient arbor uses its extensive knowledge to avoid the damage of enemy attacks.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

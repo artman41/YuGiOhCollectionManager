@@ -1,0 +1,16 @@
+{
+  "id": 7887,
+  "cardNumber": "28363749",
+  "name": "Fire Opalhead",
+  "description": "A blazingly hardheaded dinosaur leader. It greets its enemies with its signature move Fire Opal Headbutt after toying with them with its dynamic movements and flames.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\",\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

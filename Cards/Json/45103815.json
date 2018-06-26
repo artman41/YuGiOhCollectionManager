@@ -1,0 +1,16 @@
+{
+  "id": 5883,
+  "cardNumber": "45103815",
+  "name": "Risebell the Summoner",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up monster on the field; increase its Level by 1 (even if this card leaves the field).\n\n Monster Effect\n A kindly elder brother, Risebell takes good care of his little sister Saambell. He reads a Magical Book with his sister each early-afternoon, a harmonious routine that brings a smile to everyone.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

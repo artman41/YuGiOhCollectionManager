@@ -1,0 +1,16 @@
+{
+  "id": 7778,
+  "cardNumber": "17521642",
+  "name": "Zero Force",
+  "description": "Activate only when a face-up monster you control is removed from play. The ATK of all face-up monsters on the field becomes 0.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

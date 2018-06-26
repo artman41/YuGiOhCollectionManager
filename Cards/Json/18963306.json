@@ -1,0 +1,16 @@
+{
+  "id": 2771,
+  "cardNumber": "18963306",
+  "name": "Galaxy-Eyes Cipher Dragon",
+  "description": "2 Level 8 monsters<br>Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster your opponent controls; monsters you control cannot attack your opponent directly for the rest of this turn, except this card, also take control of the targeted monster until the End Phase, but while this effect is applied, it has its effects negated, its ATK becomes 3000, also its name becomes \"Galaxy-Eyes Cipher Dragon\".",
+  "cardLevel": null,
+  "cardRank": 8,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6245,
+  "cardNumber": "90303176",
+  "name": "Silent Angler",
+  "description": "If you control a WATER monster, you can Special Summon this card (from your hand), but you cannot Special Summon monsters from your hand for the rest of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

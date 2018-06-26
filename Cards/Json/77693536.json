@@ -1,0 +1,16 @@
+{
+  "id": 2691,
+  "cardNumber": "77693536",
+  "name": "Fullmetalfoes Alkahest",
+  "description": "1 \"Metalfoes\" monster + 1 Normal Monster<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. Once per turn, during your opponent's turn: You can target 1 Effect Monster on the field; equip that target to this card (this is a Quick Effect). This card gains DEF equal to the combined original ATK of the monsters equipped to it by this effect. You can use monsters you control equipped to this card you control as Fusion Materials for the Fusion Summon of a \"Metalfoes\" Fusion Monster that lists them as Materials.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4525,
+  "cardNumber": "76348260",
+  "name": "Mimir of the Nordic Ascendant",
+  "description": "Once per turn, at the start of your Standby Phase, if you control a \"Nordic\" monster and this card is in your Graveyard: You can send 1 Spell Card from your hand to the Graveyard; Special Summon this card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

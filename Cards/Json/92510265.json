@@ -1,0 +1,16 @@
+{
+  "id": 632,
+  "cardNumber": "92510265",
+  "name": "Black Luster Soldier - Sacred Soldier",
+  "description": "When this card is Normal or Special Summoned: You can target 1 of your banished LIGHT or DARK monsters and 1 card your opponent controls; return that banished card to the Graveyard, and if you do, banish that card your opponent controls. You can only use this effect of \"Black Luster Soldier - Sacred Soldier\" once per turn. When this card destroys an opponent's monster by battle: You can target 1 Level 7 or lower Warrior-Type monster in your Graveyard; add it to your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

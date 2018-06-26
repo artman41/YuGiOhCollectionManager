@@ -1,0 +1,16 @@
+{
+  "id": 8065,
+  "cardNumber": "43230671",
+  "name": "Ancient Lizard Warrior",
+  "description": "Before the dawn of man, this lizard warrior ruled supreme.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

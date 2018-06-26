@@ -1,0 +1,16 @@
+{
+  "id": 4514,
+  "cardNumber": "37580756",
+  "name": "Michizure",
+  "description": "Activate only when a monster is sent from the field to your Graveyard. Select and destroy 1 monster on the field. (You can activate this card during the Damage Step.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

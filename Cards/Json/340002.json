@@ -1,0 +1,16 @@
+{
+  "id": 5232,
+  "cardNumber": "340002",
+  "name": "Performapal Elephammer",
+  "description": "If you control 2 or more \"Performapal\" cards, you can Normal Summon this card without Tributing. Cannot attack unless you control another \"Performapal\" card. When this card declares an attack: You can return all Spell and Trap Cards your opponent controls to the hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

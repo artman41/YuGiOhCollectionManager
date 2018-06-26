@@ -1,0 +1,16 @@
+{
+  "id": 707,
+  "cardNumber": "28470714",
+  "name": "Bladefly",
+  "description": "As long as this card remains face-up on the field, increase the ATK of all WIND monsters by 500 points and decrease the ATK of all EARTH monsters by 400 points.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

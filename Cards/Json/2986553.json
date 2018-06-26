@@ -1,0 +1,16 @@
+{
+  "id": 7199,
+  "cardNumber": "2986553",
+  "name": "Twilight Rose Knight",
+  "description": "Your opponent cannot target Plant-Type monsters for attacks. When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Plant-Type monster from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

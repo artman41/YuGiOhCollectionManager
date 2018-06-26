@@ -1,0 +1,16 @@
+{
+  "id": 6651,
+  "cardNumber": "50732780",
+  "name": "Stygian Security",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Special Summon 1 Level 1 Fiend-Type monster from your Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

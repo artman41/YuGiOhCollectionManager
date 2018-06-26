@@ -1,0 +1,16 @@
+{
+  "id": 6705,
+  "cardNumber": "84025439",
+  "name": "Super Quantal Mech King Great Magnus",
+  "description": "3 Level 12 monsters<br>If this card is sent to the Graveyard: You can Special Summon 3 \"Super Quantal Mech Beast\" Xyz Monsters with different names from your Graveyard. This card gains these effects, based on the number of Xyz Materials with different names attached to it. â— 2 or more: Once per turn, during either player's Main Phase: You can detach 1 Xyz Material from this card; shuffle 1 card on the field into the Deck. â— 4 or more: It is unaffected by card effects, except \"Super Quant\" cards. â— 6 or more: Your opponent cannot add cards from the Deck to the hand by card effects.",
+  "cardLevel": null,
+  "cardRank": 12,
+  "atk": 3600,
+  "def": 3200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

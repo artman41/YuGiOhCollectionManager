@@ -1,0 +1,16 @@
+{
+  "id": 2395,
+  "cardNumber": "39477584",
+  "name": "Fabled Leviathan",
+  "description": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters<br>When this card on the field is destroyed and sent to the Graveyard, you can select up to 3 \"Fabled\" monsters in your Graveyard. Add them to your hand.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

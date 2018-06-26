@@ -1,0 +1,16 @@
+{
+  "id": 3544,
+  "cardNumber": "7264861",
+  "name": "Infernity Beast",
+  "description": "If this card attacks while you have no cards in your hand, your opponent cannot activate any Spell or Trap Cards until after the Damage Step.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

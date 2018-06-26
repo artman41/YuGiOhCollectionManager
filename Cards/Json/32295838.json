@@ -1,0 +1,16 @@
+{
+  "id": 7870,
+  "cardNumber": "32295838",
+  "name": "Digitron",
+  "description": "A subspecies found in electronic space. Somehow there's quite a bit of information about it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

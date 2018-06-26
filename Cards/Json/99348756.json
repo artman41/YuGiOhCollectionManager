@@ -1,0 +1,16 @@
+{
+  "id": 7320,
+  "cardNumber": "99348756",
+  "name": "Valkyrian Knight",
+  "description": "Monsters your opponent controls cannot target face-up Warrior-Type monsters for attacks, except \"Valkyrian Knight\". When this card is destroyed by battle and sent to the Graveyard: You can banish 1 Warrior-Type monster and this card from your Graveyard, then target 1 Level 5 or higher Warrior-Type monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

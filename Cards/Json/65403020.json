@@ -1,0 +1,16 @@
+{
+  "id": 2251,
+  "cardNumber": "65403020",
+  "name": "The End of Anubis",
+  "description": "While this card is face-up on the field, all effects of Spell, Trap, and Monster Cards that target a card(s) in the Graveyard or that activate in the Graveyard are negated.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

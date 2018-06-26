@@ -1,0 +1,16 @@
+{
+  "id": 3659,
+  "cardNumber": "53039326",
+  "name": "Iron Core Specimen Lab",
+  "description": "During each of your End Phases, destroy this card unless you reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand. Each time a \"Koa'ki Meiru\" monster on the field is destroyed during the End Phase, its owner can add 1 \"Koa'ki Meiru\" monster from their Deck to their hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

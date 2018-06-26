@@ -1,0 +1,16 @@
+{
+  "id": 5807,
+  "cardNumber": "54658815",
+  "name": "Remote Rebirth",
+  "description": "Target 1 monster in your opponent's GY; Special Summon it in an opponent's Main Monster Zone your Link Monster points to.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

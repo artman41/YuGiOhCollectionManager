@@ -1,0 +1,16 @@
+{
+  "id": 2483,
+  "cardNumber": "87622767",
+  "name": "Final Psychic Ogre",
+  "description": "If this card destroys an opponent's monster by battle, you can pay 800 Life Points to select 1 Psychic-Type monster in your Graveyard, and add it to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

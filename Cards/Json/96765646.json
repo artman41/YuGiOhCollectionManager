@@ -1,0 +1,16 @@
+{
+  "id": 6809,
+  "cardNumber": "96765646",
+  "name": "Swing of Memories",
+  "description": "Target 1 Normal Monster in your GY; Special Summon it, but destroy it during the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

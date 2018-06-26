@@ -1,0 +1,16 @@
+{
+  "id": 7660,
+  "cardNumber": "90508760",
+  "name": "X-Saber Airbellum",
+  "description": "If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent's hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

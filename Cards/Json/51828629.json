@@ -1,0 +1,16 @@
+{
+  "id": 2971,
+  "cardNumber": "51828629",
+  "name": "Giltia the D. Knight",
+  "description": "\"Guardian of the Labyrinth\" + \"Protector of the Throne\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

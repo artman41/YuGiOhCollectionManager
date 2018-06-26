@@ -1,0 +1,16 @@
+{
+  "id": 2210,
+  "cardNumber": "88820235",
+  "name": "Elemental HERO Shining Phoenix Enforcer",
+  "description": "\"Elemental HERO Phoenix Enforcer\" + \"Elemental HERO Sparkman\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each \"Elemental HERO\" card in your Graveyard. This card cannot be destroyed by battle.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

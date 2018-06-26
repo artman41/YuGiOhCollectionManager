@@ -1,0 +1,16 @@
+{
+  "id": 4404,
+  "cardNumber": "76902476",
+  "name": "Mecha Phantom Beast Turtletracer",
+  "description": "This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Each turn, the first \"Mecha Phantom Beast Token\" you control that would be destroyed by battle, is not destroyed.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3477,
+  "cardNumber": "10532969",
+  "name": "Hyper-Ancient Shark Megalodon",
+  "description": "When this card inflicts battle damage to your opponent: You can target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

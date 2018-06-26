@@ -1,0 +1,16 @@
+{
+  "id": 4085,
+  "cardNumber": "40666140",
+  "name": "Ljosalf of the Nordic Alfar",
+  "description": "When this card is Normal Summoned: You can target 1 face-up monster you control, except this card; Special Summon 1 \"Nordic\" monster from your hand with a Level less than or equal to that face-up monster's Level.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

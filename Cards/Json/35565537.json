@@ -1,0 +1,16 @@
+{
+  "id": 8163,
+  "cardNumber": "35565537",
+  "name": "Dark Witch",
+  "description": "A popular creature in mythology that delivers fatal attacks with a sharp spear.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

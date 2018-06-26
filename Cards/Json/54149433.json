@@ -1,0 +1,16 @@
+{
+  "id": 2500,
+  "cardNumber": "54149433",
+  "name": "Fire King Avatar Garunix",
+  "description": "If a face-up \"Fire King\" monster you control is destroyed by a card effect (except during the Damage Step): You can Special Summon this card from your hand. If this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: You can Special Summon 1 \"Fire King Avatar\" monster from your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

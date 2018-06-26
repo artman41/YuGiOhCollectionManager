@@ -1,0 +1,16 @@
+{
+  "id": 5642,
+  "cardNumber": "21648584",
+  "name": "Raidraptor - Readiness",
+  "description": "This turn, \"Raidraptor\" monsters you control cannot be destroyed by battle. If you have a \"Raidraptor\" monster in your Graveyard: You can banish this card from your Graveyard; you take no damage this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

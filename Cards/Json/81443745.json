@@ -1,0 +1,16 @@
+{
+  "id": 6097,
+  "cardNumber": "81443745",
+  "name": "Sealing Ceremony of Suiton",
+  "description": "Once per turn: You can send 1 WATER monster from your hand to the Graveyard to target 1 card in your opponent's Graveyard; banish that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

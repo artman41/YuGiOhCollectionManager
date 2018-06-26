@@ -1,0 +1,16 @@
+{
+  "id": 4382,
+  "cardNumber": "94538053",
+  "name": "Max Warrior",
+  "description": "If this card attacks an opponent's monster, this card gains 400 ATK during the Damage Step only. If this card destroys an opponent's monster by battle, until your next Standby Phase: this card becomes Level 2 and its original ATK and DEF are halved.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

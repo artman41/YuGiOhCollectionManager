@@ -1,0 +1,16 @@
+{
+  "id": 2159,
+  "cardNumber": "92755808",
+  "name": "Element Saurus",
+  "description": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: â— FIRE: This card gains 500 ATK. â— EARTH: Negate the effect of an Effect Monster that this card destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

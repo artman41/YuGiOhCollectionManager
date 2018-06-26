@@ -1,0 +1,16 @@
+{
+  "id": 4073,
+  "cardNumber": "29307554",
+  "name": "Lineage of Destruction",
+  "description": "Activate only during a turn in which you destroyed a Defense Position monster your opponent controlled. Select 1 Level 8 monster you control. During this turn, the selected monster can attack twice.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

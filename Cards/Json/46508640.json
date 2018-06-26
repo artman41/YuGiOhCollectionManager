@@ -1,0 +1,16 @@
+{
+  "id": 2085,
+  "cardNumber": "46508640",
+  "name": "Dweller in the Depths",
+  "description": "This card gains 300 ATK for each Continuous Spell Card in your Spell &amp; Trap Zone.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

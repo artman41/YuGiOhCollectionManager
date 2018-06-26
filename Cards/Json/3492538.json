@@ -1,0 +1,16 @@
+{
+  "id": 3592,
+  "cardNumber": "3492538",
+  "name": "Insect Armor with Laser Cannon",
+  "description": "Equip only to an Insect-Type monster. It gains 700 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

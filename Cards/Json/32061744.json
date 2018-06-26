@@ -1,0 +1,16 @@
+{
+  "id": 7495,
+  "cardNumber": "32061744",
+  "name": "Wattkeeper",
+  "description": "Select 1 Level 4 or lower \"Watt\" monster in your Graveyard. Special Summon that monster from the Graveyard. Destroy it during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

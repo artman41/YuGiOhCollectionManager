@@ -1,0 +1,16 @@
+{
+  "id": 8468,
+  "cardNumber": "74852097",
+  "name": "Phantom Gryphon",
+  "description": "A legendary monster that dwells secretly in the mountains, fighting with the harpies over hunting grounds. A single wingbeat is said to cause the fiercest of storms.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

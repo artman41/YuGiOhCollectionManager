@@ -1,0 +1,16 @@
+{
+  "id": 3150,
+  "cardNumber": "85646474",
+  "name": "Gravekeeper's Nobleman",
+  "description": "When this card you control is destroyed by battle with an opponent's attacking monster and sent to your Graveyard: You can Special Summon 1 \"Gravekeeper's\" monster from your Deck in face-down Defense Position, except \"Gravekeeper's Nobleman\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

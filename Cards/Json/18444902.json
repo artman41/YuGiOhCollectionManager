@@ -1,0 +1,16 @@
+{
+  "id": 6907,
+  "cardNumber": "18444902",
+  "name": "Tatakawa Knight",
+  "description": "If the activation of your Spell/Trap Card is negated by an opponent's card effect: You can send this card from your hand to the Graveyard; inflict 1500 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

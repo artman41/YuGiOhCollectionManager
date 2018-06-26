@@ -1,0 +1,16 @@
+{
+  "id": 8214,
+  "cardNumber": "88435542",
+  "name": "Fire Eye",
+  "description": "An eye engulfed in flames that flaps its wings to create hot blasts of air.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

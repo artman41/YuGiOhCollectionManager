@@ -1,0 +1,16 @@
+{
+  "id": 6324,
+  "cardNumber": "63035430",
+  "name": "Skyscraper",
+  "description": "When an \"Elemental HERO\" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

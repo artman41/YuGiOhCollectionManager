@@ -1,0 +1,16 @@
+{
+  "id": 956,
+  "cardNumber": "72892473",
+  "name": "Card Destruction",
+  "description": "Each player discards their entire hand, then draws the same number of cards they discarded.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

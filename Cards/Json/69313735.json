@@ -1,0 +1,16 @@
+{
+  "id": 1057,
+  "cardNumber": "69313735",
+  "name": "Checkmate",
+  "description": "Tribute 1 Archfiend monster on your side of the field. During this turn, 1 \"Terrorking Archfiend\" on your side of the field can attack your opponent's Life Points directly.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

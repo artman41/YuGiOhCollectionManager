@@ -1,0 +1,16 @@
+{
+  "id": 7189,
+  "cardNumber": "88559132",
+  "name": "Turret Warrior",
+  "description": "You can Special Summon this card (from your hand) by Tributing 1 Warrior-Type monster, and if you do, it gains ATK equal to the Tributed monster's original ATK.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

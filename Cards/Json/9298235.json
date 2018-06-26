@@ -1,0 +1,16 @@
+{
+  "id": 2583,
+  "cardNumber": "9298235",
+  "name": "Fluffal Crane",
+  "description": "When a face-up \"Fluffal\" monster(s) you control is destroyed by your opponent's attack or card effect and sent to your Graveyard: Target 1 of those destroyed monsters; add it to your hand, and if you do, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1051,
+  "cardNumber": "94886282",
+  "name": "Charge of the Light Brigade",
+  "description": "Send the top 3 cards of your Deck to the Graveyard; add 1 Level 4 or lower \"Lightsworn\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 553,
+  "cardNumber": "16796157",
+  "name": "Beast-Warrior Puma",
+  "description": "You can Tribute this card; add 1 \"D.D. Esper Star Sparrow\" from your Deck or Graveyard to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

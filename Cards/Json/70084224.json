@@ -1,0 +1,16 @@
+{
+  "id": 8429,
+  "cardNumber": "70084224",
+  "name": "Neck Hunter",
+  "description": "A fiend that wields a mean sickle and fires devastating beams from its eyes.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4028,
+  "cardNumber": "25165047",
+  "name": "Life Stream Dragon",
+  "description": "1 Tuner + \"Power Tool Dragon\"<br>When this card is Synchro Summoned: You can make your LP become 4000. You take no effect damage. If this face-up card on the field would be destroyed, you can banish 1 Equip Spell Card from your Graveyard instead.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

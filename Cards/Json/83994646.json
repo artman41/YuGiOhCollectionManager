@@ -1,0 +1,16 @@
+{
+  "id": 7,
+  "cardNumber": "83994646",
+  "name": "4-Starred Ladybug of Doom",
+  "description": "FLIP: Destroy all Level 4 monsters your opponent controls.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

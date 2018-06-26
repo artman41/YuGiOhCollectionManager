@@ -1,0 +1,16 @@
+{
+  "id": 5562,
+  "cardNumber": "53569894",
+  "name": "Pyramid of Light",
+  "description": "If this face-up card is removed from your side of the field, destroy \"Andro Sphinx\" and \"Sphinx Teleia\" on your side of the field and remove them from play.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

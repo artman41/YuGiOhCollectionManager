@@ -1,0 +1,16 @@
+{
+  "id": 3941,
+  "cardNumber": "11834972",
+  "name": "Laval Blaster",
+  "description": "When this card is Normal Summoned, if you have a \"Laval\" monster in your Graveyard other than \"Laval Blaster\": You can choose a number from 1 to 5, then send that many cards from the top of your Deck to the Graveyard; this card gains 200 ATK for each \"Laval\" monster sent to the Graveyard to activate this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

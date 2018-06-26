@@ -1,0 +1,16 @@
+{
+  "id": 3192,
+  "cardNumber": "10809984",
+  "name": "Great Phantom Thief",
+  "description": "Each time this card inflicts Battle Damage to your opponent's Life Points, declare the name of 1 card. Then see your opponent's hand and discard all copies of the declared card in his/her hand to the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

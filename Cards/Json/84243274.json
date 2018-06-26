@@ -1,0 +1,16 @@
+{
+  "id": 7426,
+  "cardNumber": "84243274",
+  "name": "VWXYZ-Dragon Catapult Cannon",
+  "description": "\"VW-Tiger Catapult\" + \"XYZ-Dragon Cannon\"<br>This card can only be Special Summoned from your Extra Deck by removing from play the above cards you control. (You do not use \"Polymerization\"). Once per turn, remove from play 1 card your opponent controls. When this card attacks, you can change the battle position of the attack target. (Flip Effects are not activated at this time.)",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

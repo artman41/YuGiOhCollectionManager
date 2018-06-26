@@ -1,0 +1,16 @@
+{
+  "id": 5401,
+  "cardNumber": "76539047",
+  "name": "Poison Fangs",
+  "description": "Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

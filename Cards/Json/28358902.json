@@ -1,0 +1,16 @@
+{
+  "id": 1288,
+  "cardNumber": "28358902",
+  "name": "Crimson Sentry",
+  "description": "Tribute this face-up card to return 1 of your monsters destroyed as a result of battle during this turn to the bottom of your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

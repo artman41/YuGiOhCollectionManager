@@ -1,0 +1,16 @@
+{
+  "id": 8912,
+  "cardNumber": "96434581",
+  "name": "Aubade Palladion",
+  "description": "Target 1 \"Palladion\" monster you control; this turn, that target is unaffected by card effects, except for its own effects. You can only activate 1 \"Aubade Palladion\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

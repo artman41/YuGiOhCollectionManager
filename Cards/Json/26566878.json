@@ -1,0 +1,16 @@
+{
+  "id": 8211,
+  "cardNumber": "26566878",
+  "name": "Fiend Scorpion",
+  "description": "A huge scorpion inhabited by the soul of a fiend. Usually it holds back, but has untapped potential.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

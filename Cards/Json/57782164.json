@@ -1,0 +1,16 @@
+{
+  "id": 2743,
+  "cardNumber": "57782164",
+  "name": "Gagagawind",
+  "description": "Special Summon 1 \"Gagaga\" monster from your hand as a Level 4 monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

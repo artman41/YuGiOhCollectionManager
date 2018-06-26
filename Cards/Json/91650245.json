@@ -1,0 +1,16 @@
+{
+  "id": 6828,
+  "cardNumber": "91650245",
+  "name": "Sylvan Blessing",
+  "description": "Place 1 card from your hand on either the top or bottom of the Deck, and if you do, Special Summon 1 \"Sylvan\" monster from your hand or Graveyard. It is unaffected by other card effects this turn. Place it on either the top or bottom of the Deck during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

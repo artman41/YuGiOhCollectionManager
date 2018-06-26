@@ -1,0 +1,16 @@
+{
+  "id": 2834,
+  "cardNumber": "90019393",
+  "name": "Gem-Knight Alexandrite",
+  "description": "You can Tribute this card; Special Summon 1 \"Gem-Knight\" Normal Monster from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

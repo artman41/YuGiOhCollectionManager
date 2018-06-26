@@ -1,0 +1,16 @@
+{
+  "id": 4612,
+  "cardNumber": "4732017",
+  "name": "Molten Zombie",
+  "description": "When this card is Special Summoned from the Graveyard: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

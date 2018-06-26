@@ -1,0 +1,16 @@
+{
+  "id": 5573,
+  "cardNumber": "64496451",
+  "name": "Qliphort Disk",
+  "description": "Pendulum Effect\n You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All \"Qli\" monsters you control gain 300 ATK.\n\n Monster Effect\n You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. When this card is Tribute Summoned by Tributing a \"Qli\" monster(s): You can Special Summon 2 \"Qli\" monsters from your Deck, but destroy them during the End Phase.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

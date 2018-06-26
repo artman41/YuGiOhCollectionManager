@@ -1,0 +1,16 @@
+{
+  "id": 6507,
+  "cardNumber": "4896788",
+  "name": "Spirit of the Pot of Greed",
+  "description": "While this card is in face-up Attack Position on the field, if a player activates \"Pot of Greed\", they can draw 1 more card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

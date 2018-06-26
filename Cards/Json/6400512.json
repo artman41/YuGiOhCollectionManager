@@ -1,0 +1,16 @@
+{
+  "id": 8143,
+  "cardNumber": "6400512",
+  "name": "Cyber Commander",
+  "description": "A strike force equipped with rocket launchers and bazookas.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 750,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1885,
+  "cardNumber": "76137614",
+  "name": "Disenchanter",
+  "description": "Once per turn: You can target 1 face-up Spell Card on the field; remove 1 Spell Counter from anywhere on the field, and if you do, return that target to the hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7358,
+  "cardNumber": "95220856",
+  "name": "Vengeful Bog Spirit",
+  "description": "Monsters cannot attack the turn they are Summoned.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

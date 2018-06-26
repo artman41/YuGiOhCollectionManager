@@ -1,0 +1,16 @@
+{
+  "id": 5510,
+  "cardNumber": "4230620",
+  "name": "Psi-Station",
+  "description": "When a Psychic-Type monster is Normal Summoned: You can pay 500 LP; increase its Level by 1 and ATK by 300. (This remains even if this card leaves the field.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

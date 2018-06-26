@@ -1,0 +1,16 @@
+{
+  "id": 3957,
+  "cardNumber": "34086406",
+  "name": "Lavalval Chain",
+  "description": "2 Level 4 monsters<br>Once per turn: You can detach 1 Xyz Material from this card to activate 1 of these effects;<br>â— Send 1 card from your Deck to the Graveyard.<br>â— Choose 1 monster from your Deck and place it on top of your Deck.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

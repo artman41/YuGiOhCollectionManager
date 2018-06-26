@@ -1,0 +1,16 @@
+{
+  "id": 7143,
+  "cardNumber": "75622824",
+  "name": "Tricky Spell 4",
+  "description": "Send 1 face-up \"The Tricky\" you control to the Graveyard; Special Summon \"Tricky Tokens\" (Spellcaster-Type/WIND/Level 5/ATK 2000/DEF 1200) in Defense Position, equal to the number of monsters your opponent controls. \"Tricky Tokens\" cannot declare an attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6344,
+  "cardNumber": "75673220",
+  "name": "Snapdragon",
+  "description": "When this card is sent to the Graveyard: Banish 1 random card from your opponent's hand, until the End Phase. You can only use the effect of \"Snapdragon\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

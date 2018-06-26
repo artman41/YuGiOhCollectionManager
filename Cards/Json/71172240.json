@@ -1,0 +1,16 @@
+{
+  "id": 7838,
+  "cardNumber": "71172240",
+  "name": "Backlinker",
+  "description": "If only your opponent controls a monster in the Extra Monster Zone, you can Special Summon this card (from your hand). You can Tribute this card; shuffle all monsters in the Extra Monster Zones into the Deck, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

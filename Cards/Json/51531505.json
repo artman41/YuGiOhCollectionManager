@@ -1,0 +1,16 @@
+{
+  "id": 2020,
+  "cardNumber": "51531505",
+  "name": "Dragonpit Magician",
+  "description": "Pendulum Effect\n Once per turn, if you have a \"Magician\" card in your other Pendulum Zone: You can discard 1 Pendulum Monster, then target 1 Spell/Trap Card on the field; destroy it.\n\n Monster Effect\n This gifted magician can awaken the energy stored in the deep places of the earth, known as the Pits of the Dragon. His stoic approach wins him few friends, and he often bends to the desires of his pupil.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 900,
+  "def": 2700,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

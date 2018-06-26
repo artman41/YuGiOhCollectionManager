@@ -1,0 +1,16 @@
+{
+  "id": 615,
+  "cardNumber": "31677606",
+  "name": "Black and White Wave",
+  "description": "If there is a face-up Xyz Monster on the field with a Synchro Monster as Xyz Material: Target 1 card on the field; banish that target, and if you do, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

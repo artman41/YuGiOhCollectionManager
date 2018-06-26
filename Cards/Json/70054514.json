@@ -1,0 +1,16 @@
+{
+  "id": 1674,
+  "cardNumber": "70054514",
+  "name": "Darksea Float",
+  "description": "When this card on the field is destroyed by a card effect and sent to the Graveyard, the owner of this card draws 1 card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

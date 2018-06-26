@@ -1,0 +1,16 @@
+{
+  "id": 6878,
+  "cardNumber": "51447164",
+  "name": "T.G. Blade Blaster",
+  "description": "1 Tuner Synchro Monster + 1 or more non-Tuner Synchro Monsters<br>During either player's turn, when your opponent activates a Spell/Trap Card that targets this face-up card: You can send 1 card from your hand to the Graveyard; negate the effect. Once per turn, during your opponent's turn: You can banish 1 \"T.G.\" monster from your Graveyard; banish this face-up card on the field (this is a Quick Effect). During the next Standby Phase after this card was banished by this effect: Special Summon this card.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3300,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

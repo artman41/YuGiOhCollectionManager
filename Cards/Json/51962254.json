@@ -1,0 +1,16 @@
+{
+  "id": 3462,
+  "cardNumber": "51962254",
+  "name": "Hunter Owl",
+  "description": "This card gains 500 ATK for each face-up WIND monster you control. While you control another face-up WIND monster, your opponent cannot select this card as an attack target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

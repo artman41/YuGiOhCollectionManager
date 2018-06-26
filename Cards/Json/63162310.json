@@ -1,0 +1,16 @@
+{
+  "id": 7461,
+  "cardNumber": "63162310",
+  "name": "Wall Shadow",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Magical Labyrinth\".",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

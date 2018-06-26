@@ -1,0 +1,16 @@
+{
+  "id": 1524,
+  "cardNumber": "52738610",
+  "name": "Dance Princess of the Nekroz",
+  "description": "Your opponent cannot activate cards or effects in response to the activation of a \"Nekroz\" Ritual Spell Card. \"Nekroz\" Ritual Monsters you control cannot be targeted by an opponent's card effects. If this card is Tributed by a card effect: You can target 1 of your banished \"Necroz\" monsters, except \"Dance Princess of the Nekroz\"; add it to your hand. You can only use this effect of \"Dance Princess of the Nekroz\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

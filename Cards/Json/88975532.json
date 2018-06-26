@@ -1,0 +1,16 @@
+{
+  "id": 5387,
+  "cardNumber": "88975532",
+  "name": "Pitch-Black Warwolf",
+  "description": "Your opponent cannot activate Trap Cards during the Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

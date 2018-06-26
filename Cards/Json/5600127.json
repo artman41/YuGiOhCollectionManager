@@ -1,0 +1,16 @@
+{
+  "id": 3453,
+  "cardNumber": "5600127",
+  "name": "Humanoid Worm Drake",
+  "description": "\"Worm Drake\" + \"Humanoid Slime\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5241,
+  "cardNumber": "53724621",
+  "name": "Performapal Guitartle",
+  "description": "Pendulum Effect\n If a \"Performapal\" card is activated in your other Pendulum Zone: You can draw 1 card. You can only use this effect of \"Performapal Guitartle\" once per turn.\n\n Monster Effect\n Once per turn: You can target 1 card in your Pendulum Zone; increase its Pendulum Scale by 2 until the end of this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

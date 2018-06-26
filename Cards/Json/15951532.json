@@ -1,0 +1,16 @@
+{
+  "id": 168,
+  "cardNumber": "15951532",
+  "name": "Amazoness Queen",
+  "description": "\"Amazoness\" monsters you control cannot be destroyed by battle.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

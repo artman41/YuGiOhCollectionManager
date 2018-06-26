@@ -1,0 +1,16 @@
+{
+  "id": 3438,
+  "cardNumber": "9264485",
+  "name": "Horus' Servant",
+  "description": "Your opponent cannot target face-up \"Horus the Black Flame Dragon\" monsters with Spells, Traps, or card effects.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

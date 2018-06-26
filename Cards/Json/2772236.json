@@ -1,0 +1,16 @@
+{
+  "id": 7485,
+  "cardNumber": "2772236",
+  "name": "Wattchimera",
+  "description": "1 \"Watt\" Tuner + 1 or more non-Tuner Thunder-Type monsters<br>This card can attack your opponent directly. When this card inflicts Battle Damage to your opponent by a direct attack, place 1 random card from your opponent's hand on top of their Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

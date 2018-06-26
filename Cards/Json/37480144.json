@@ -1,0 +1,16 @@
+{
+  "id": 8842,
+  "cardNumber": "37480144",
+  "name": "Column Switch",
+  "description": "Target 1 monster in your Main Monster Zone; move that target to another of your Main Monster Zones.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

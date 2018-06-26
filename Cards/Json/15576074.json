@@ -1,0 +1,16 @@
+{
+  "id": 5835,
+  "cardNumber": "15576074",
+  "name": "Resonator Engine",
+  "description": "Target 2 \"Resonator\" monsters in your Graveyard; add 1 Level 4 monster from your Deck to your hand, and if you do, return those targets to the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8689,
+  "cardNumber": "71207871",
+  "name": "Secret Six Samurai - Fuma",
+  "description": "If this card is destroyed by battle or card effect: You can Special Summon 1 \"Six Samurai\" monster from your Deck, except \"Secret Six Samurai - Fuma\". If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

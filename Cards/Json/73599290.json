@@ -1,0 +1,16 @@
+{
+  "id": 6389,
+  "cardNumber": "73599290",
+  "name": "Soul Drain",
+  "description": "Activate by paying 1000 Life Points. Monsters that are banished, as well as monsters in the Graveyard, cannot activate their effects (that start a Chain).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

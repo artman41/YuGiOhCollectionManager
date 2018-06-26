@@ -1,0 +1,16 @@
+{
+  "id": 8396,
+  "cardNumber": "53832650",
+  "name": "Meotoko",
+  "description": "Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

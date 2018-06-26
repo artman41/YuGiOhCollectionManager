@@ -1,0 +1,16 @@
+{
+  "id": 3913,
+  "cardNumber": "40991587",
+  "name": "The Lady in Wight",
+  "description": "Face-up Level 3 or lower Zombie-Type monsters on the field, except \"The Lady in Wight\", cannot be destroyed by battle and are unaffected by Spell/Trap effects. This card's name becomes \"Skull Servant\" while it is in the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

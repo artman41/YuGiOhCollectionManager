@@ -1,0 +1,16 @@
+{
+  "id": 1661,
+  "cardNumber": "57579381",
+  "name": "Darklord Marie",
+  "description": "Once per turn, during your Standby Phase: You gain 200 LP. This card must be in the Graveyard to activate and to resolve this effect.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

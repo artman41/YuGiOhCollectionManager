@@ -1,0 +1,16 @@
+{
+  "id": 4533,
+  "cardNumber": "59718521",
+  "name": "Mind Over Matter",
+  "description": "When a monster would be Normal or Special Summoned, OR a Spell/Trap Card is activated: Tribute 1 Psychic-Type monster; negate the Summon or activation, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6797,
+  "cardNumber": "40453765",
+  "name": "Swamp Battleguard",
+  "description": "This card gains 500 ATK for each \"Lava Battleguard\" you control.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

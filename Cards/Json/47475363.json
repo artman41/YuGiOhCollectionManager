@@ -1,0 +1,16 @@
+{
+  "id": 2067,
+  "cardNumber": "47475363",
+  "name": "Drowning Mirror Force",
+  "description": "When an opponent's monster declares a direct attack: Shuffle all your opponent's Attack Position monsters into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

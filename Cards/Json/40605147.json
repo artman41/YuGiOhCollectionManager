@@ -1,0 +1,16 @@
+{
+  "id": 6366,
+  "cardNumber": "40605147",
+  "name": "Solemn Strike",
+  "description": "When a monster(s) would be Special Summoned, or a monster effect is activated: Pay 1500 LP; negate the Summon or activation, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

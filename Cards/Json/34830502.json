@@ -1,0 +1,16 @@
+{
+  "id": 7257,
+  "cardNumber": "34830502",
+  "name": "Ultimate Insect LV5",
+  "description": "If this card was Special Summoned by the effect of \"Ultimate Insect LV3\", while it remains on the field all of your opponent's monsters lose 500 ATK. During your Standby Phase, by sending this face-up card to the Graveyard, Special Summon 1 \"Ultimate Insect LV7\" from your hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

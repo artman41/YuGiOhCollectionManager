@@ -1,0 +1,16 @@
+{
+  "id": 8484,
+  "cardNumber": "60606759",
+  "name": "Renge, Gatekeeper of Dark World",
+  "description": "His renowned athletic physique has made him famous with the populace of Dark World. They call him \"Iron Wall Renge\" because no one can break through his incredible defenses.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

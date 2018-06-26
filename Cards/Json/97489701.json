@@ -1,0 +1,16 @@
+{
+  "id": 5748,
+  "cardNumber": "97489701",
+  "name": "Red Nova Dragon",
+  "description": "2 Tuners + \"Red Dragon Archfiend\"<br>This card gains 500 ATK for each Tuner monster in your Graveyard. Cannot be destroyed by an opponent's card effects. When an opponent's monster declares an attack: You can target the attacking monster; banish this card, and if you do, negate that attack. During the next End Phase: Special Summon this card banished by this effect.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

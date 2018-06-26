@@ -1,0 +1,16 @@
+{
+  "id": 8405,
+  "cardNumber": "47986555",
+  "name": "Millennium Golem",
+  "description": "For nearly a millennium, this golem has served as guardian of an ancient treasure trove.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

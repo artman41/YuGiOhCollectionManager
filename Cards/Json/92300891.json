@@ -1,0 +1,16 @@
+{
+  "id": 3776,
+  "cardNumber": "92300891",
+  "name": "Karakuri Barrel mdl 96 \"Shinkuro\"",
+  "description": "This card must attack if able. When this face-up Attack Position card on the field is selected as an attack target, change it to Defense Position. Once per turn, this card cannot be destroyed by battle.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

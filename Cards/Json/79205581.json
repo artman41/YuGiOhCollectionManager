@@ -1,0 +1,16 @@
+{
+  "id": 6082,
+  "cardNumber": "79205581",
+  "name": "Scrubbed Raid",
+  "description": "During the Battle Phase, you can send 1 card you control to the Graveyard, except this card, to end the Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

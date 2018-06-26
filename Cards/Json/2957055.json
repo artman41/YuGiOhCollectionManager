@@ -1,0 +1,16 @@
+{
+  "id": 8630,
+  "cardNumber": "2957055",
+  "name": "Wicked Dragon with the Ersatz Head",
+  "description": "A two-headed dragon with a pair of jaws that can tear an enemy to shreds.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

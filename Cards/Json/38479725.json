@@ -1,0 +1,16 @@
+{
+  "id": 7157,
+  "cardNumber": "38479725",
+  "name": "The Trojan Horse",
+  "description": "When Tribute Summoning an EARTH monster, you can treat this 1 monster as 2 Tributes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

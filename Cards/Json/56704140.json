@@ -1,0 +1,16 @@
+{
+  "id": 2905,
+  "cardNumber": "56704140",
+  "name": "Geomancer of the Ice Barrier",
+  "description": "Discard 1 card and declare 1 Attribute. This card cannot be selected as an attack target by monsters with that Attribute. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7121,
+  "cardNumber": "69529337",
+  "name": "Triamid Dancer",
+  "description": "Once per turn: You can target 1 \"Triamid\" card in your Graveyard; shuffle it into the Deck, and if you do, all Rock-Type monsters you control gain 500 ATK and DEF. Once per turn, during your opponent's turn: You can target 1 \"Triamid\" Field Spell Card in your Field Zone; send it to the Graveyard, and if you do, activate 1 \"Triamid\" Field Spell Card from your Deck with a different name (this is a Quick Effect).",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

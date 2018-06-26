@@ -1,0 +1,16 @@
+{
+  "id": 1456,
+  "cardNumber": "5606466",
+  "name": "D.D. Trap Hole",
+  "description": "When your opponent Sets exactly 1 monster (and no other cards): Target that Set monster and 1 monster you control; destroy those targets, and if you do, banish them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

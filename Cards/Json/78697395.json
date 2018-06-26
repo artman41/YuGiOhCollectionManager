@@ -1,0 +1,16 @@
+{
+  "id": 6976,
+  "cardNumber": "78697395",
+  "name": "The Third Sarcophagus",
+  "description": "This card can only be placed on the field by the effect of \"The First Sarcophagus\".",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

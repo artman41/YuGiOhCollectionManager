@@ -1,0 +1,16 @@
+{
+  "id": 8481,
+  "cardNumber": "29402771",
+  "name": "Rainbow Marine Mermaid",
+  "description": "A reticent mermaid who appears only on very rare occasions. She emerges only when a large rainbow arches across the sky.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1550,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

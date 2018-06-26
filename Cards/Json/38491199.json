@@ -1,0 +1,16 @@
+{
+  "id": 3723,
+  "cardNumber": "38491199",
+  "name": "Junkuriboh",
+  "description": "During either player's turn, when your opponent activates a card or effect that would inflict damage to you: You can send this card from your hand or field to the Graveyard; negate the activation, and if you do, destroy that card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

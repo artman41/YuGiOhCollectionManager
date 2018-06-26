@@ -1,0 +1,16 @@
+{
+  "id": 7197,
+  "cardNumber": "40945356",
+  "name": "Twilight Ninja Nichirin, the Chunin",
+  "description": "Once per turn, during either player's turn: You can discard 1 \"Ninja\" monster, then activate 1 of these effects;<br>â— This turn, \"Ninja\" monsters and \"Ninjitsu Art\" cards you control cannot be destroyed by battle or card effects.<br>â— 1 \"Ninja\" monster you control gains 1000 ATK until the end of this turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

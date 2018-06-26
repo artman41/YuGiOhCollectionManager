@@ -1,0 +1,16 @@
+{
+  "id": 715,
+  "cardNumber": "99788587",
+  "name": "Blasting Fuse",
+  "description": "Activate only when all zones of this card's column are occupied. Destroy all cards in this column.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

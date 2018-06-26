@@ -1,0 +1,16 @@
+{
+  "id": 8298,
+  "cardNumber": "69669405",
+  "name": "Horn Imp",
+  "description": "A small fiend that dwells in the dark, its single horn makes it a formidable opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

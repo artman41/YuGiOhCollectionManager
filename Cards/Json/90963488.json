@@ -1,0 +1,16 @@
+{
+  "id": 8433,
+  "cardNumber": "90963488",
+  "name": "Nemuriko",
+  "description": "A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

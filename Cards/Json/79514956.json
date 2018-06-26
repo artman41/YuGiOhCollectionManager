@@ -1,0 +1,16 @@
+{
+  "id": 2155,
+  "cardNumber": "79514956",
+  "name": "Elegy the Melodious Diva",
+  "description": "Special Summoned \"Melodious\" monsters you control cannot be destroyed by card effects. If this card was Special Summoned, all Fairy-Type monsters you control gain 300 ATK.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

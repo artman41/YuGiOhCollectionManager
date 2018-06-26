@@ -1,0 +1,16 @@
+{
+  "id": 1119,
+  "cardNumber": "79853073",
+  "name": "Cipher Soldier",
+  "description": "If this card battles a Warrior-Type monster, during damage calculation: This card gains 2000 ATK and DEF during that damage calculation only.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

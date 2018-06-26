@@ -1,0 +1,16 @@
+{
+  "id": 5806,
+  "cardNumber": "22589918",
+  "name": "Reload",
+  "description": "Add all cards in your hand to your Deck and shuffle it. Then draw the same number of cards that you added to your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

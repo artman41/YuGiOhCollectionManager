@@ -1,0 +1,16 @@
+{
+  "id": 3979,
+  "cardNumber": "99747800",
+  "name": "Legendary Fiend",
+  "description": "During each of your Standby Phases: This card gains 700 ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

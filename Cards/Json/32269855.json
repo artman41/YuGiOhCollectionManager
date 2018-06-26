@@ -1,0 +1,16 @@
+{
+  "id": 8056,
+  "cardNumber": "32269855",
+  "name": "The All-Seeing White Tiger",
+  "description": "A proud ruler of the jungle that some fear and others respect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

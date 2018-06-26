@@ -1,0 +1,16 @@
+{
+  "id": 4813,
+  "cardNumber": "43237273",
+  "name": "Neo-Spacian Dark Panther",
+  "description": "Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, while you control this face-up card, this card's name and effects become those of that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

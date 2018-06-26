@@ -1,0 +1,16 @@
+{
+  "id": 1992,
+  "cardNumber": "99659159",
+  "name": "Dragon Mastery",
+  "description": "Each monster you control that is equipped with 1 or more \"Dragunity\" monster(s) gains 500 ATK. Once per turn, you can select 1 face-up monster you control, and equip it with 1 Dragon-Type \"Dragunity\" monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

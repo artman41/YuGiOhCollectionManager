@@ -1,0 +1,16 @@
+{
+  "id": 3158,
+  "cardNumber": "99523325",
+  "name": "Gravekeeper's Stele",
+  "description": "Target 2 \"Gravekeeper's\" monsters in your Graveyard; add those targets to your hand. This effect cannot be negated by the effect of \"Necrovalley\".",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

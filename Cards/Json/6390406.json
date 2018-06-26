@@ -1,0 +1,16 @@
+{
+  "id": 2230,
+  "cardNumber": "6390406",
+  "name": "Emblem of Dragon Destroyer",
+  "description": "Add 1 \"Buster Blader\" from your Deck or Graveyard to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

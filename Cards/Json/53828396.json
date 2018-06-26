@@ -1,0 +1,16 @@
+{
+  "id": 65,
+  "cardNumber": "53828396",
+  "name": "Adhesive Explosive",
+  "description": "Before damage calculation, if this card was attacked by your opponent's monster and was in face-down Defense Position card at the start of Damage Step: Equip this card to the attacking monster. Then, during your opponent's next Standby Phase, destroy the monster this card is equipped to.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

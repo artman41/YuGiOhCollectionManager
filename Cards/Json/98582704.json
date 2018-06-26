@@ -1,0 +1,16 @@
+{
+  "id": 8633,
+  "cardNumber": "98582704",
+  "name": "Wing Egg Elf",
+  "description": "This fairy in an eggshell uses massive wings to blow back almost any projectile attack.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

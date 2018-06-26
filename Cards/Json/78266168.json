@@ -1,0 +1,16 @@
+{
+  "id": 2947,
+  "cardNumber": "78266168",
+  "name": "Giant Axe Mummy",
+  "description": "You can flip this card into face-down Defense Position once per turn during your Main Phase. If the ATK of a monster on your opponent's side of the field that attacks this card in face-down Defense Position is lower than the DEF of this monster, the attacking monster is destroyed.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8515,
+  "cardNumber": "40575313",
+  "name": "Shadow Specter",
+  "description": "Powerful in groups, this animal spirit can be found in the wastelands.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

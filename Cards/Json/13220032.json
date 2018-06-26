@@ -1,0 +1,16 @@
+{
+  "id": 7428,
+  "cardNumber": "13220032",
+  "name": "Vylon Charger",
+  "description": "All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

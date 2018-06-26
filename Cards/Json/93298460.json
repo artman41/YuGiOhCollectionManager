@@ -1,0 +1,16 @@
+{
+  "id": 7370,
+  "cardNumber": "93298460",
+  "name": "Ventdra, the Empowered Warrior",
+  "description": "This card can attack your opponent directly. If this card is sent from the field to the Graveyard: You can target 1 Dragon, Warrior, or Spellcaster-Type Normal Monster in your Graveyard; add it to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

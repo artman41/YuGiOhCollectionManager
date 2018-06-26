@@ -1,0 +1,16 @@
+{
+  "id": 8602,
+  "cardNumber": "57305373",
+  "name": "Two-Mouth Darkruler",
+  "description": "A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

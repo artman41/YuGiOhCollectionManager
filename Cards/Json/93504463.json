@@ -1,0 +1,16 @@
+{
+  "id": 2347,
+  "cardNumber": "93504463",
+  "name": "Evolutionary Bridge",
+  "description": "When a monster you control is targeted for an attack: Target 1 \"Evoltile\" monster in your Graveyard; Special Summon that target, then switch the attack target to that monster and conduct damage calculation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

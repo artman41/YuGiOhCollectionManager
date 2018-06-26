@@ -1,0 +1,16 @@
+{
+  "id": 8408,
+  "cardNumber": "33178416",
+  "name": "Misairuzame",
+  "description": "A missile-launching fish protected by deadly spikes.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1887,
+  "cardNumber": "77561728",
+  "name": "Disturbance Strategy",
+  "description": "Your opponent shuffles their entire hand into the Deck, then draws the same number of cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

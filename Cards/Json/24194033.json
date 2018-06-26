@@ -1,0 +1,16 @@
+{
+  "id": 8180,
+  "cardNumber": "24194033",
+  "name": "Dorover",
+  "description": "This ugly monster emits a highly poisonous gas.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

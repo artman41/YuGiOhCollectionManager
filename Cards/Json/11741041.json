@@ -1,0 +1,16 @@
+{
+  "id": 5658,
+  "cardNumber": "11741041",
+  "name": "Raigeki Bottle",
+  "description": "Each time a monster you control declares an attack, place 1 Thunder Counter on this card. You can send this card with 4 or more Thunder Counters to the Graveyard; destroy all monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

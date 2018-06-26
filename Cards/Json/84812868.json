@@ -1,0 +1,16 @@
+{
+  "id": 4128,
+  "cardNumber": "84812868",
+  "name": "Lunalight White Rabbit",
+  "description": "When this card is Normal Summoned: You can target 1 \"Lunalight\" monster in your Graveyard, except \"Lunalight White Rabbit\"; Special Summon it in Defense Position. Once per turn: You can target Spell/Trap Cards your opponent controls, up to the number of other \"Lunalight\" cards you control; return them to the hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

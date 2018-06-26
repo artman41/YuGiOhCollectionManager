@@ -1,0 +1,16 @@
+{
+  "id": 8182,
+  "cardNumber": "9197735",
+  "name": "Dragon Statue",
+  "description": "A stone warrior with the heart of a dragon.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

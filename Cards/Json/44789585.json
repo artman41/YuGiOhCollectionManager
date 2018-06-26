@@ -1,0 +1,16 @@
+{
+  "id": 4732,
+  "cardNumber": "44789585",
+  "name": "Naturia Beans",
+  "description": "Once per turn, this card cannot be destroyed by battle. When this face-up card is selected as an attack target, inflict 500 damage to your opponent.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4276,
+  "cardNumber": "67030233",
+  "name": "Majestic Red Dragon",
+  "description": "\"Majestic Dragon\" + \"Red Dragon Archfiend\" + 1 non-Tuner monster<br>Cannot be destroyed by card effects. After damage calculation, if this card attacks: Destroy all Defense Position monsters on the field. Once per turn: You can target 1 face-up monster your opponent controls; negate its effects, and if you do, this card gains ATK equal to that monster's ATK. These changes last until the end of this turn. During the End Phase: Target 1 \"Red Dragon Archfiend\" in your Graveyard; return this card from the field to the Extra Deck, then Special Summon that target.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8020,
+  "cardNumber": "81846453",
+  "name": "Tin Musical Battlemech",
+  "description": "1 Tuner + 1+ non-Tuner monsters<br>If this card is Synchro Summoned: You can target 1 Tuner in your GY; Special Summon it in Defense Position, but it has its effects negated. You can only use this effect of \"Tin Musical Battlemech\" once per turn. A Synchro Monster that used this card as Synchro Material is treated as a Tuner while face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

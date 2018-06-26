@@ -1,0 +1,16 @@
+{
+  "id": 4194,
+  "cardNumber": "82458280",
+  "name": "Magic Hole Golem",
+  "description": "Once per turn, you can select 1 face-up monster you control. Its ATK is halved until the End Phase, and it can attack your opponent directly this turn. During the turn you activate this effect, only the selected monster can attack.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

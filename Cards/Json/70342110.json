@@ -1,0 +1,16 @@
+{
+  "id": 1860,
+  "cardNumber": "70342110",
+  "name": "Dimensional Prison",
+  "description": "When an opponent's monster declares an attack: Target that attacking monster; banish that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

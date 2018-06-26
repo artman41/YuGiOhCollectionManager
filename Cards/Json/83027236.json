@@ -1,0 +1,16 @@
+{
+  "id": 4036,
+  "cardNumber": "83027236",
+  "name": "Light of Destruction",
+  "description": "When an opponent's card effect sends a card(s) from their Deck to the Graveyard, send the top 3 cards of their Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2403,
+  "cardNumber": "73040500",
+  "name": "Fabled Urustos",
+  "description": "While you have 2 or less cards in your hand, all face-up \"Fabled\" monsters you control gain 400 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

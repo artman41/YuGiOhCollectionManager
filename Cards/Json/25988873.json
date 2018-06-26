@@ -1,0 +1,16 @@
+{
+  "id": 2041,
+  "cardNumber": "25988873",
+  "name": "Dragunity Partisan",
+  "description": "When this card is Normal Summoned, you can Special Summon 1 Winged Beast-Type \"Dragunity\" monster from your hand, then equip this card to it as an Equip Card. If this card is equipped as an Equip Card to a monster, the equipped monster is treated as a Tuner monster.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5531,
+  "cardNumber": "3146695",
+  "name": "Psychic Reactor",
+  "description": "If you control a Psychic-Type monster: Apply this effect to all Psychic-Type monsters you currently control, for the rest of this turn. When a Psychic-Type monster you control battles an opponent's monster, after damage calculation: Banish that Psychic-Type monster, also banish that opponent's monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

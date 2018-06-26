@@ -1,0 +1,16 @@
+{
+  "id": 8123,
+  "cardNumber": "81386177",
+  "name": "Bottom Dweller",
+  "description": "This is one sea creature whose wrath is something monsters fear to face.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1650,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

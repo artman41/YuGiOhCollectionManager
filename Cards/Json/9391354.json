@@ -1,0 +1,16 @@
+{
+  "id": 3166,
+  "cardNumber": "9391354",
+  "name": "Gravi-Crush Dragon",
+  "description": "You can send 1 face-up Continuous Spell Card you control to the Graveyard, then target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2989,
+  "cardNumber": "73551138",
+  "name": "Gishki Emilia",
+  "description": "Cannot be Special Summoned. During the End Phase of the turn this card is Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: Negate all Trap Card effects on the field, until the End Phase. You must control another face-up \"Gishki\" monster to activate and to resolve this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Spirit\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

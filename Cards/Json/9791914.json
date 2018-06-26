@@ -1,0 +1,16 @@
+{
+  "id": 6265,
+  "cardNumber": "9791914",
+  "name": "Silver Sentinel",
+  "description": "You can Set this card from your hand to your Spell &amp; Trap Card Zone as a Spell Card. During the End Phase of the turn this Set card in your Spell &amp; Trap Card Zone was destroyed by an opponent's card effect and sent to the Graveyard: Target 1 card your opponent controls (if possible); Special Summon this card from the Graveyard, and if you do, destroy that target (if any).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

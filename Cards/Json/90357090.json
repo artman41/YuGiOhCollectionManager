@@ -1,0 +1,16 @@
+{
+  "id": 8521,
+  "cardNumber": "90357090",
+  "name": "Silver Fang",
+  "description": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2229,
+  "cardNumber": "73872164",
+  "name": "Eliminating the League",
+  "description": "Discard 1 Spell Card. Destroy 1 face-up monster your opponent controls. Check your opponent's hand, and all cards in their hand with the same name as the destroyed card are sent to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

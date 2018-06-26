@@ -1,0 +1,16 @@
+{
+  "id": 6048,
+  "cardNumber": "68087897",
+  "name": "Scary Moth",
+  "description": "Each player can only Special Summon a monster(s) once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6629,
+  "cardNumber": "31812496",
+  "name": "Stone Statue of the Aztecs",
+  "description": "Double any Battle Damage your opponent takes when they attack this monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

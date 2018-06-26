@@ -1,0 +1,16 @@
+{
+  "id": 6650,
+  "cardNumber": "81489939",
+  "name": "Stygian Dirge",
+  "description": "Reduce the Levels of all monsters your opponent controls by 1.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

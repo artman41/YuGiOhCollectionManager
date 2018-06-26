@@ -1,0 +1,16 @@
+{
+  "id": 8455,
+  "cardNumber": "2311603",
+  "name": "Overdrive",
+  "description": "An all-terrain armored vehicle armed with a heavy-duty machine gun.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

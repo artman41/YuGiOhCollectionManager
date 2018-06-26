@@ -1,0 +1,16 @@
+{
+  "id": 3604,
+  "cardNumber": "39440937",
+  "name": "Intercept Wave",
+  "description": "All Synchro Monsters on the field are changed to Defense Position. And then, return all face-up Synchro Monsters to the Extra Deck during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

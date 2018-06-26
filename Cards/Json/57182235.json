@@ -1,0 +1,16 @@
+{
+  "id": 7030,
+  "cardNumber": "57182235",
+  "name": "Token Thanksgiving",
+  "description": "Destroy all tokens on the field. Increase your Life Points by the number of tokens destroyed x 800 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

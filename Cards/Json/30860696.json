@@ -1,0 +1,16 @@
+{
+  "id": 5928,
+  "cardNumber": "30860696",
+  "name": "Rocket Warrior",
+  "description": "During your Battle Phase, this card cannot be destroyed by battle and you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

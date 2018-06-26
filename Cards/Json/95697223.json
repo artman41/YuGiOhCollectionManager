@@ -1,0 +1,16 @@
+{
+  "id": 2003,
+  "cardNumber": "95697223",
+  "name": "Dragon's Fighting Spirit",
+  "description": "Target 1 Dragon-Type monster you control that was Special Summoned this turn; for each monster your opponent currently controls that was Special Summoned this turn, it gains 1 additional attack during each Battle Phase this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

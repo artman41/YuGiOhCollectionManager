@@ -1,0 +1,16 @@
+{
+  "id": 4849,
+  "cardNumber": "4041838",
+  "name": "Ninja Grandmaster Sasuke",
+  "description": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

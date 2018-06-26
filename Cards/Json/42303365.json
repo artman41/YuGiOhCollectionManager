@@ -1,0 +1,16 @@
+{
+  "id": 5822,
+  "cardNumber": "42303365",
+  "name": "Reptilianne Viper",
+  "description": "When this card is Normal Summoned, you can select and take control of 1 face-up monster with 0 ATK your opponent controls.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

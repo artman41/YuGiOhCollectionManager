@@ -1,0 +1,16 @@
+{
+  "id": 427,
+  "cardNumber": "83715234",
+  "name": "Attack the Moon!",
+  "description": "Once per turn, when the battle position of a Rock-Type monster you control is changed: You can target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

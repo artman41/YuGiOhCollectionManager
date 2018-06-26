@@ -1,0 +1,16 @@
+{
+  "id": 1786,
+  "cardNumber": "90579153",
+  "name": "Destiny HERO - Dystopia",
+  "description": "2 \"Destiny HERO\" monsters<br>If this card is Special Summoned: You can target 1 Level 4 or lower \"Destiny HERO\" monster in your Graveyard; inflict damage to your opponent equal to that target's ATK. During either player's turn, if this card's current ATK is different from its original ATK (except during the Damage Step): You can target 1 card on the field; destroy it, and if you do, this card's ATK becomes equal to this card's original ATK. You can only use each effect of \"Destiny HERO - Dystopia\" once per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

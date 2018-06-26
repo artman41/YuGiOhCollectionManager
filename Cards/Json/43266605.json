@@ -1,0 +1,16 @@
+{
+  "id": 5513,
+  "cardNumber": "43266605",
+  "name": "PSY-Frame Multi-Threader",
+  "description": "This card's name becomes \"PSY-Frame Driver\" while it is in the hand or Graveyard. If a \"PSY-Frame\" card(s) you control would be destroyed by battle or card effect, you can discard this card instead. If a \"PSY-Frame\" Tuner is Special Summoned to your field, while this card is in your Graveyard (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"PSY-Frame Multi-Threader\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

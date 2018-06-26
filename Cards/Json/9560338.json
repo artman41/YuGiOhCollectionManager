@@ -1,0 +1,16 @@
+{
+  "id": 5719,
+  "cardNumber": "9560338",
+  "name": "Reaper of Prophecy",
+  "description": "When this card is Normal or Special Summoned: You can activate this effect; apply as many effects as possible, based on the number of \"Spellbook\" Spell Cards with different names in your Graveyard. You can only use the effect of \"Reaper of Prophecy\" once per turn.<br>â— 3 or more: This card gains 600 ATK.<br>â— 4 or more: Add 1 \"Spellbook\" Spell Card from your Deck to your hand.<br>â— 5 or more: Special Summon 1 Level 5 or higher DARK Spellcaster-Type monster from your Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

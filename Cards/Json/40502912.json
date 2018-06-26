@@ -1,0 +1,16 @@
+{
+  "id": 321,
+  "cardNumber": "40502912",
+  "name": "Aria the Melodious Diva",
+  "description": "While this Special Summoned card is on the field, \"Melodious\" monsters you control cannot be targeted by card effects, or be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8568,
+  "cardNumber": "3170832",
+  "name": "Takuhee",
+  "description": "This bird is known far and wide as a harbinger of doom.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1450,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

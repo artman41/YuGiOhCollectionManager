@@ -1,0 +1,16 @@
+{
+  "id": 4301,
+  "cardNumber": "1224927",
+  "name": "Malevolent Catastrophe",
+  "description": "When an opponent's monster declares an attack: Destroy all Spell and Trap Cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

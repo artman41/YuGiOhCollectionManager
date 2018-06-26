@@ -1,0 +1,16 @@
+{
+  "id": 4516,
+  "cardNumber": "75487237",
+  "name": "Mid Shield Gardna",
+  "description": "Once per turn, you can flip this card into face-down Defense Position. Negate the activation of a Spell Card that targets this 1 face-down monster. At that time, flip this card into face-up Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

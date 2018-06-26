@@ -1,0 +1,16 @@
+{
+  "id": 6930,
+  "cardNumber": "48605591",
+  "name": "Terminal World NEXT",
+  "description": "Activate this card if your opponent controls 3 or fewer monsters and 3 or fewer Spell/Trap Cards, while you control no other cards. Cards cannot be placed on the field if it would give any player more than 3 monsters or more than 3 Spell/Trap Cards on their field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

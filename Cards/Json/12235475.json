@@ -1,0 +1,16 @@
+{
+  "id": 2388,
+  "cardNumber": "12235475",
+  "name": "Fabled Ashenveil",
+  "description": "If this card attacks or is attacked, during damage calculation (in either player's turn): You can send 1 card from your hand to the Graveyard once per battle; this card gains 600 ATK during that damage calculation only.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

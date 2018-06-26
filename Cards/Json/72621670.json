@@ -1,0 +1,16 @@
+{
+  "id": 1957,
+  "cardNumber": "72621670",
+  "name": "Double Magical Arm Bind",
+  "description": "Tribute 2 monsters, then target 2 face-up monsters your opponent controls; take control of both targets until your End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

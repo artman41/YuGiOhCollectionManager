@@ -1,0 +1,16 @@
+{
+  "id": 4719,
+  "cardNumber": "63516460",
+  "name": "Mystical Wind Typhoon",
+  "description": "Activate only as Chain Link 3 or higher. Destroy 1 Spell or Trap Card on the field. You cannot activate this card if multiple cards/effects with the same name are in the Chain.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

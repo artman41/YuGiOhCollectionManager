@@ -1,0 +1,16 @@
+{
+  "id": 8316,
+  "cardNumber": "14851496",
+  "name": "Jellyfish",
+  "description": "An almost invisible, semi-transparent jellyfish that drifts in the sea.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

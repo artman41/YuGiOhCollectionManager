@@ -1,0 +1,16 @@
+{
+  "id": 5383,
+  "cardNumber": "67445676",
+  "name": "Pinecono",
+  "description": "If this card is sent to the Graveyard by the effect of \"Acorno\": You can Special Summon this card from the Graveyard.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

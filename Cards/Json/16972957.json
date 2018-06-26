@@ -1,0 +1,16 @@
+{
+  "id": 8177,
+  "cardNumber": "16972957",
+  "name": "Doma The Angel of Silence",
+  "description": "This fairy rules over the end of existence.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

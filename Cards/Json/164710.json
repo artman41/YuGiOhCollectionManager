@@ -1,0 +1,16 @@
+{
+  "id": 4577,
+  "cardNumber": "164710",
+  "name": "Mischief of the Gnomes",
+  "description": "This turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player's hand by 1 (even after they are Summoned/Set).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

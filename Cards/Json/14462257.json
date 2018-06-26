@@ -1,0 +1,16 @@
+{
+  "id": 3488,
+  "cardNumber": "14462257",
+  "name": "Ice Queen",
+  "description": "Cannot be Special Summoned from the Graveyard. When this face-up card you control is destroyed and sent to your Graveyard: You can target 1 Spell Card in your Graveyard; add that target to your hand. You must have 3 or more Spellcaster-Type monsters in your Graveyard to activate and to resolve this effect.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

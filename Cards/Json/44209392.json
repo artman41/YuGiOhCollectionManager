@@ -1,0 +1,16 @@
+{
+  "id": 981,
+  "cardNumber": "44209392",
+  "name": "Castle Walls",
+  "description": "Increase the DEF of 1 face-up monster on the field by 500 points until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

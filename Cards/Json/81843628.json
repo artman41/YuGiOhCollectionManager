@@ -1,0 +1,16 @@
+{
+  "id": 4782,
+  "cardNumber": "81843628",
+  "name": "Needle Worm",
+  "description": "FLIP: Send the top 5 cards of your opponent's Deck to the Graveyard.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 750,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

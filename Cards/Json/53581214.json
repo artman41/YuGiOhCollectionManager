@@ -1,0 +1,16 @@
+{
+  "id": 8216,
+  "cardNumber": "53581214",
+  "name": "Fire Reaper",
+  "description": "A reaper with a flaming arrow that burns an enemy to a crisp.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

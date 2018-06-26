@@ -1,0 +1,16 @@
+{
+  "id": 1805,
+  "cardNumber": "89086566",
+  "name": "Detonate",
+  "description": "Destroy as many \"Kuriboh\" and \"Kuriboh Tokens\" you control as possible, then destroy cards your opponent controls, up to the number of \"Kuriboh\" and \"Kuriboh Tokens\" destroyed by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

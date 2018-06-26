@@ -1,0 +1,16 @@
+{
+  "id": 2378,
+  "cardNumber": "34694160",
+  "name": "The Eye of Truth",
+  "description": "Your opponent must keep their hand revealed. During each of your opponent's Standby Phases, if they have a Spell Card in their hand: They gain 1000 LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

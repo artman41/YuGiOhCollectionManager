@@ -1,0 +1,16 @@
+{
+  "id": 6727,
+  "cardNumber": "20529766",
+  "name": "Super-Electromagnetic Voltech Dragon",
+  "description": "If you Tribute Summon this card by Tributing 1 of the following monsters, it gains the appropriate effect:<br>â— Batteryman D: Negate the effect of a Spell or Trap Card that targets this 1 card.<br>â— Batteryman C: During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.<br>â— Batteryman AA: This card gains 1000 ATK.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

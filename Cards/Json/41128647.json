@@ -1,0 +1,16 @@
+{
+  "id": 1863,
+  "cardNumber": "41128647",
+  "name": "Dinomic Powerload",
+  "description": "All \"Dinomist\" monsters on the field gain 300 ATK and DEF. If a \"Dinomist\" monster you control battles, your opponent cannot activate cards or effects until the end of the Damage Step.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

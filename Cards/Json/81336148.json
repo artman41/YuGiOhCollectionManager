@@ -1,0 +1,16 @@
+{
+  "id": 6813,
+  "cardNumber": "81336148",
+  "name": "Sword Master",
+  "description": "If a Warrior-Type monster you control attacks your opponent's monster, and the opponent's monster is not destroyed by battle, at the end of the Damage Step you can Special Summon this card from your hand. During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

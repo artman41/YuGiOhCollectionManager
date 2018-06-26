@@ -1,0 +1,16 @@
+{
+  "id": 1704,
+  "cardNumber": "28593363",
+  "name": "Deepsea Shark",
+  "description": "\"Bottom Dweller\" + \"Tongyo\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

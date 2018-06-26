@@ -1,0 +1,16 @@
+{
+  "id": 1908,
+  "cardNumber": "74701381",
+  "name": "DNA Surgery",
+  "description": "Activate this card by declaring 1 Monster Type. All face-up monsters on the field become that Type.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

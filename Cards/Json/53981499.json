@@ -1,0 +1,16 @@
+{
+  "id": 4517,
+  "cardNumber": "53981499",
+  "name": "Mighty Warrior",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card destroys an opponent's monster by battle: Inflict damage to your opponent equal to half the destroyed monster's original ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

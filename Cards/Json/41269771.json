@@ -1,0 +1,16 @@
+{
+  "id": 1198,
+  "cardNumber": "41269771",
+  "name": "Constellar Algiedi",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 4 \"Constellar\" monster from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

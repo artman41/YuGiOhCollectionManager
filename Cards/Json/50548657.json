@@ -1,0 +1,16 @@
+{
+  "id": 8806,
+  "cardNumber": "50548657",
+  "name": "Prompt Horn",
+  "description": "You can Tribute 1 Level 4 or lower Cyberse monster; Special Summon any number of Cyberse Normal Monsters from your Deck and/or GY whose total Levels equal the Level of the Tributed monster, but banish them during the End Phase. You can only use this effect of \"Prompt Horn\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

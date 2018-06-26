@@ -1,0 +1,16 @@
+{
+  "id": 6268,
+  "cardNumber": "86489182",
+  "name": "Simorgh, Bird of Ancestry",
+  "description": "Both players Tribute Summon WIND monsters with 1 less Tribute than required. If you Tribute Summon this card by Tributing only WIND monsters, return up to 2 cards your opponent controls to their owner's hand. This card is treated as a Normal Monster while in your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

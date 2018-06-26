@@ -1,0 +1,16 @@
+{
+  "id": 4099,
+  "cardNumber": "95231062",
+  "name": "Lost Blue Breaker",
+  "description": "If there is another face-up Fish, Sea Serpent, or Aqua-Type monster on the field: You can Tribute this card to target 1 Spell/Trap Card on the field; destroy that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

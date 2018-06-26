@@ -1,0 +1,16 @@
+{
+  "id": 7740,
+  "cardNumber": "23740893",
+  "name": "Yosenju Kodam",
+  "description": "You can Tribute this card, then target 1 \"Yosen Training Grounds\" you control; place 3 Yosen Counters on it. You can only use this effect of \"Yosenju Kodam\" once per turn. You can banish this card from your Graveyard; you can Normal Summon 1 \"Yosenju\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

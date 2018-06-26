@@ -1,0 +1,16 @@
+{
+  "id": 8547,
+  "cardNumber": "14037717",
+  "name": "Spirit of the Books",
+  "description": "This wise spirit dwells in books, using its accumulated knowledge to defeat enemies.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2095,
+  "cardNumber": "53461122",
+  "name": "Earth Effigy",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of an EARTH Normal Monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

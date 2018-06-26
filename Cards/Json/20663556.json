@@ -1,0 +1,16 @@
+{
+  "id": 6658,
+  "cardNumber": "20663556",
+  "name": "Substitoad",
+  "description": "You can Tribute 1 monster to Special Summon 1 \"Frog\" monster from your Deck, except \"Frog the Jam\". \"Frog\" monsters, except \"Frog the Jam\", cannot be destroyed by battle.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

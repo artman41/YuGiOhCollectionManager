@@ -1,0 +1,16 @@
+{
+  "id": 1481,
+  "cardNumber": "45206713",
+  "name": "D/D Swirl Slime",
+  "description": "If this card is in your hand: You can Fusion Summon 1 \"D/D/D\" Fusion Monster from your Extra Deck, using monsters from your hand as Fusion Materials, including this card. You can banish this card from your Graveyard; Special Summon 1 \"D/D\" monster from your hand. You can only use each effect of \"D/D Swirl Slime\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

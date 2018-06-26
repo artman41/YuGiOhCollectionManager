@@ -1,0 +1,16 @@
+{
+  "id": 233,
+  "cardNumber": "37457534",
+  "name": "Ancient Gear Tank",
+  "description": "Equip only to an \"Ancient Gear\" monster. It gains 600 ATK. When this card is destroyed and sent to the Graveyard: Inflict 600 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1436,
+  "cardNumber": "99075257",
+  "name": "D - Time",
+  "description": "When an \"Elemental HERO\" monster you control leaves the field: Add 1 \"Destiny HERO\" monster from your Deck to your hand whose Level is less than or equal to that \"Elemental HERO\" monster's Level.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

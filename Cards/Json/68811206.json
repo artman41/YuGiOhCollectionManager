@@ -1,0 +1,16 @@
+{
+  "id": 7216,
+  "cardNumber": "68811206",
+  "name": "Tyler the Great Warrior",
+  "description": "This monster cannot be Special Summoned. When this card destroys a monster as a result of battle and sends it to the Graveyard, inflict damage to your opponent's Life Points equal to the ATK of the destroyed monster.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

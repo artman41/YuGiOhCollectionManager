@@ -1,0 +1,16 @@
+{
+  "id": 783,
+  "cardNumber": "13316346",
+  "name": "Boot-Up Soldier - Dread Dynamo",
+  "description": "While you control a \"Gadget\" monster, this card gains 2000 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

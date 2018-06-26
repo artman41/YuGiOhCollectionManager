@@ -1,0 +1,16 @@
+{
+  "id": 1161,
+  "cardNumber": "80368942",
+  "name": "Cocoon Party",
+  "description": "Special Summon 1 \"Chrysalis\" monster from your Deck for each \"Neo-Spacian\" monster with a different name in your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7489,
+  "cardNumber": "97885363",
+  "name": "Wattdragonfly",
+  "description": "If this card is destroyed by your opponent's card (either by battle or by card effect), you can Special Summon 1 \"Watt\" monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

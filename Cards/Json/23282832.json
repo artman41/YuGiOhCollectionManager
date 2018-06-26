@@ -1,0 +1,16 @@
+{
+  "id": 5115,
+  "cardNumber": "23282832",
+  "name": "Over Limit",
+  "description": "Pay 500 Life Points. Special Summon from both player's Graveyards as many Normal Monsters as possible with 1000 or less ATK that were destroyed by battle this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

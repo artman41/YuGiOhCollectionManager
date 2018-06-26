@@ -1,0 +1,16 @@
+{
+  "id": 8647,
+  "cardNumber": "69750536",
+  "name": "Wow Warrior",
+  "description": "A fish with arms, legs, and some very sharp teeth.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1250,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

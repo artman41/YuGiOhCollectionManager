@@ -1,0 +1,16 @@
+{
+  "id": 4124,
+  "cardNumber": "97165977",
+  "name": "Lunalight Panther Dancer",
+  "description": "\"Lunalight Cat Dancer\" + 1 \"Lunalight\" monster<br>Must first be Fusion Summoned with the above Fusion Materials. Cannot be destroyed by your opponent's card effects. Once per turn, during your Main Phase 1: You can activate this effect; for the rest of this turn, the first time each monster your opponent controls would be destroyed by battle, it is not destroyed, also this card can attack all monsters your opponent controls, twice each, this turn. When this card destroys an opponent's monster by battle: This card gains 200 ATK until the end of the Battle Phase.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2354,
+  "cardNumber": "3160805",
+  "name": "Exchange of Night and Day",
+  "description": "You can only use 1 \"Exchange of Night and Day\" effect per turn, and only once that turn. You can activate 1 of these effects.<br>â— Send 1 LIGHT Warrior-Type monster from your hand to the Graveyard, then add 1 DARK Warrior-Type monster from your Deck to your hand, with the same Level the sent monster had in your hand.<br>â— Send 1 DARK Warrior-Type monster from your hand to the Graveyard, then add 1 LIGHT Warrior-Type monster from your Deck to your hand, with the same Level the sent monster had in your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

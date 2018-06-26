@@ -1,0 +1,16 @@
+{
+  "id": 8382,
+  "cardNumber": "24530661",
+  "name": "Master Kyonshee",
+  "description": "A wandering Kyonshee searching for a strong rival to defeat. They say he was known as the master of all martial arts.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

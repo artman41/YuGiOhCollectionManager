@@ -1,0 +1,16 @@
+{
+  "id": 3082,
+  "cardNumber": "52323207",
+  "name": "Golem Sentry",
+  "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Target 1 monster your opponent controls; return that target to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

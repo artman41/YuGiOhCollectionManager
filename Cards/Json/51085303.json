@@ -1,0 +1,16 @@
+{
+  "id": 2205,
+  "cardNumber": "51085303",
+  "name": "Elemental HERO Poison Rose",
+  "description": "Cannot be Normal Summoned or Set. Must be Special Summoned with \"Rose Bud\" and cannot be Special Summoned by other ways. Each time this card inflicts Battle Damage to your opponent: It gains 200 ATK and loses 200 DEF. Your opponent can only target \"Elemental HERO Poison Rose\" for attacks.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

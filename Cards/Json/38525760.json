@@ -1,0 +1,16 @@
+{
+  "id": 3303,
+  "cardNumber": "38525760",
+  "name": "Hazy Flame Cerbereus",
+  "description": "You can Normal Summon this card without Tributing, but its original ATK becomes 1000. Your opponent cannot target this card with card effects. When this card is destroyed and sent to the Graveyard: You can add 1 \"Hazy\" card from your Deck to your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5982,
+  "cardNumber": "11052544",
+  "name": "Saber Slash",
+  "description": "Destroy a number of face-up cards on the field equal to the number of face-up Attack Position \"X-Saber\" monsters you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

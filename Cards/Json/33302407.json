@@ -1,0 +1,16 @@
+{
+  "id": 5399,
+  "cardNumber": "33302407",
+  "name": "Poison Chain",
+  "description": "During the End Phase of your turn, if you did not attack, you can make your opponent send cards equal to the number of face-up \"Iron Chain\" monsters you control from the top of their Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

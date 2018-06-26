@@ -1,0 +1,16 @@
+{
+  "id": 5735,
+  "cardNumber": "99995595",
+  "name": "Recycling Batteries",
+  "description": "Target 2 Thunder-Type monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

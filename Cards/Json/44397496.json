@@ -1,0 +1,16 @@
+{
+  "id": 5772,
+  "cardNumber": "44397496",
+  "name": "Red-Eyes Spirit",
+  "description": "Target 1 \"Red-Eyes\" monster in your Graveyard, except \"Red-Eyes B. Chick\"; Special Summon it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

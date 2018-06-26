@@ -1,0 +1,16 @@
+{
+  "id": 1497,
+  "cardNumber": "82956492",
+  "name": "D/D/D Oracle King d'Arc",
+  "description": "2 \"D/D\" monsters<br>Any effect that would inflict damage to you makes you gain that much LP, instead.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

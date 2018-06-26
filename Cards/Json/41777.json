@@ -1,0 +1,16 @@
+{
+  "id": 2833,
+  "cardNumber": "41777",
+  "name": "Gem-Enhancement",
+  "description": "Tribute 1 \"Gem-Knight\" monster, then target 1 \"Gem-Knight\" monster in your Graveyard; Special Summon that target from the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

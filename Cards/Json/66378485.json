@@ -1,0 +1,16 @@
+{
+  "id": 4803,
+  "cardNumber": "66378485",
+  "name": "Neo Flamvell Origin",
+  "description": "If you control a face-up \"Flamvell\" monster, except \"Neo Flamvell Origin\", and your opponent has 3 or less cards in their Graveyard, you can Special Summon this card from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

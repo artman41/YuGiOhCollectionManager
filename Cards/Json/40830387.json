@@ -1,0 +1,16 @@
+{
+  "id": 219,
+  "cardNumber": "40830387",
+  "name": "Ancient Gear Fist",
+  "description": "Equip only to an \"Ancient Gear\" monster. At the end of the Damage Step, if the equipped monster battled a monster and is still on the field: Destroy the monster it battled.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

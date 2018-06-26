@@ -1,0 +1,16 @@
+{
+  "id": 8281,
+  "cardNumber": "47879985",
+  "name": "Guardian of the Throne Room",
+  "description": "A robot guard built to protect throne rooms, it is armed with homing missiles.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1650,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

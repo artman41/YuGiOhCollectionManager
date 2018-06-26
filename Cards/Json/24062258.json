@@ -1,0 +1,16 @@
+{
+  "id": 6112,
+  "cardNumber": "24062258",
+  "name": "Secret Sect Druid Dru",
+  "description": "When this card is Normal Summoned: You can target 1 Level 4 DARK monster in your Graveyard with 0 ATK and/or DEF, except \"Secret Sect Druid Dru\"; Special Summon that target in face-up Defense Position. Its effects are negated. You can only use the effect of \"Secret Sect Druid Dru\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

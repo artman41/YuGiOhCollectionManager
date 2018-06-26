@@ -1,0 +1,16 @@
+{
+  "id": 5556,
+  "cardNumber": "48461764",
+  "name": "Purple Poison Magician",
+  "description": "Pendulum Effect\n Once per turn, if your DARK Spellcaster-Type monster battles, before damage calculation: You can activate this effect; that monster gains 1200 ATK (until the end of the Damage Step), then destroy this card.\n\n Monster Effect\n (This card is always treated as a \"Fusion Dragon\" card.)<br>If this card is destroyed by battle or card effect: You can target 1 face-up card on the field; destroy it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

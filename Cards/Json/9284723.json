@@ -1,0 +1,16 @@
+{
+  "id": 7364,
+  "cardNumber": "9284723",
+  "name": "Venom Boa",
+  "description": "Once per turn, you can place 2 Venom Counters on 1 monster your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

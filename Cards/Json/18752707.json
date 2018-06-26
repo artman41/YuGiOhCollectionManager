@@ -1,0 +1,16 @@
+{
+  "id": 4222,
+  "cardNumber": "18752707",
+  "name": "Magical Star Illusion",
+  "description": "If your opponent controls a monster(s) and you control as many or fewer monsters: Monsters currently on the field gain ATK equal to the combined Levels of all monsters their controller currently controls x 100, until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

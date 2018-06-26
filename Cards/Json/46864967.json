@@ -1,0 +1,16 @@
+{
+  "id": 8407,
+  "cardNumber": "46864967",
+  "name": "Minomushi Warrior",
+  "description": "A rock warrior that wields a heavy blade carved from stone.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

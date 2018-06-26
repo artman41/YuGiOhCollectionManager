@@ -1,0 +1,16 @@
+{
+  "id": 3649,
+  "cardNumber": "64662453",
+  "name": "Iron Call",
+  "description": "If you control a Machine-Type monster: Target 1 Level 4 or lower Machine-Type monster in your Graveyard; Special Summon that target. Its effects are negated. Destroy it during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

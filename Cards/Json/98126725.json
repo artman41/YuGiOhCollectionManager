@@ -1,0 +1,16 @@
+{
+  "id": 6185,
+  "cardNumber": "98126725",
+  "name": "Shien's Advisor",
+  "description": "If this card is Normal Summoned while you control a \"Six Samurai\" monster: Declare 1 Monster Type; while this card is face-up on the field, monsters with the declared Monster Type cannot declare an attack or be Special Summoned.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3408,
+  "cardNumber": "77901552",
+  "name": "Hieratic Dragon of Tefnuit",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card cannot attack during the turn it is Special Summoned this way. When this card is Tributed: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, also make its ATK and DEF 0.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4589,
+  "cardNumber": "82199284",
+  "name": "Mist Valley Falcon",
+  "description": "This card cannot declare an attack unless you return 1 card you control to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

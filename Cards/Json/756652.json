@@ -1,0 +1,16 @@
+{
+  "id": 8179,
+  "cardNumber": "756652",
+  "name": "Doron",
+  "description": "This monster splits in two and attacks from opposite sides.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

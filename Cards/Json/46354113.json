@@ -1,0 +1,16 @@
+{
+  "id": 5925,
+  "cardNumber": "46354113",
+  "name": "Rocket Hermos Cannon",
+  "description": "Must be Special Summoned with \"The Claw of Hermos\", using a Warrior monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. It can make a second attack during each Battle Phase, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

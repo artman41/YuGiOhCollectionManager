@@ -1,0 +1,16 @@
+{
+  "id": 405,
+  "cardNumber": "87043568",
+  "name": "Assault Spirits",
+  "description": "After activation, treat this card as an Equip Card, and equip it to a monster you control. Once per turn, during the equipped monster's attack, you can send 1 monster with 1000 or less ATK from your hand to the Graveyard during the Damage Step to have the equipped monster gain the ATK of the sent monster, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

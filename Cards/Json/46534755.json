@@ -1,0 +1,16 @@
+{
+  "id": 8215,
+  "cardNumber": "46534755",
+  "name": "Fire Kraken",
+  "description": "A squid that thrives on fire and heat.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

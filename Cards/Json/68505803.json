@@ -1,0 +1,16 @@
+{
+  "id": 2889,
+  "cardNumber": "68505803",
+  "name": "Genex Controller",
+  "description": "As a master of all powers and elements, this is one of the few Genex monsters that can communicate with its companions.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

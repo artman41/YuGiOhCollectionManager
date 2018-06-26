@@ -1,0 +1,16 @@
+{
+  "id": 1130,
+  "cardNumber": "46613515",
+  "name": "Clear Kuriboh",
+  "description": "During either player's turn, when your opponent activates a monster effect that would inflict damage: You can discard this card; negate the activation. When an opponent's monster declares a direct attack: You can banish this card from your Graveyard; draw 1 card, if it is a monster, you can Special Summon it, then change the attack target to it. You can only use this effect of \"Clear Kuriboh\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

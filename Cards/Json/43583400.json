@@ -1,0 +1,16 @@
+{
+  "id": 8737,
+  "cardNumber": "43583400",
+  "name": "Anti-Alian",
+  "description": "Once per turn, during the Battle Phase, if this card battled a monster (Quick Effect): You can activate this effect; immediately after this effect resolves, Normal Summon 1 Cyberse monster. If this face-up card in its owner's control leaves the field because of an opponent's card effect: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

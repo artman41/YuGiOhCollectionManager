@@ -1,0 +1,16 @@
+{
+  "id": 790,
+  "cardNumber": "32296881",
+  "name": "Bountiful Artemis",
+  "description": "Each time a Counter Trap Card is activated, draw 1 card immediately after it resolves.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

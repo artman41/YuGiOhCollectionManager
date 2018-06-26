@@ -1,0 +1,16 @@
+{
+  "id": 2463,
+  "cardNumber": "60743819",
+  "name": "Fiend Griefing",
+  "description": "Target 1 monster in your opponent's Graveyard; shuffle it into the Deck, then you can send 1 Fiend-Type monster from your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

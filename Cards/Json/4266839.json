@@ -1,0 +1,16 @@
+{
+  "id": 3827,
+  "cardNumber": "4266839",
+  "name": "Kiseitai",
+  "description": "When your opponent's monster attacks this card in face-down Defense Position, this card becomes an Equip Spell Card equipped to the attacking monster (No damage calculation is conducted). During each of your opponent's Standby Phases, increase your Life Points by half of the ATK of the monster equipped with this card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

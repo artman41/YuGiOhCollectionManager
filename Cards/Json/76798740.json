@@ -1,0 +1,16 @@
+{
+  "id": 8898,
+  "cardNumber": "76798740",
+  "name": "Vendread Charge",
+  "description": "Send 1 Zombie monster from your hand or face-up from the field to the GY; Special Summon 1 \"Vendread\" monster from your Deck. You can only activate 1 \"Vendread Charge\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

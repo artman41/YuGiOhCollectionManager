@@ -1,0 +1,16 @@
+{
+  "id": 5287,
+  "cardNumber": "70458081",
+  "name": "Performapal Thunderhino",
+  "description": "Monsters your opponent controls cannot target face-up \"Performapal\" monsters for attacks, except this one. If a \"Performapal\" card(s) you control, except \"Performapal Thunderhino\", would be destroyed by battle or card effect while this card is in your Graveyard, you can banish this card instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

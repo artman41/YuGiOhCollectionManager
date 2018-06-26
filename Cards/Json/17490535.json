@@ -1,0 +1,16 @@
+{
+  "id": 97,
+  "cardNumber": "17490535",
+  "name": "Alien Brain",
+  "description": "When a Reptile-Type monster you control is destroyed by battle with an opponent's attacking monster and sent to the Graveyard: Take control of the opponent's monster, and if you do, it becomes Reptile-Type.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

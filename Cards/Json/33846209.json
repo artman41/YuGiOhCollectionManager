@@ -1,0 +1,16 @@
+{
+  "id": 2862,
+  "cardNumber": "33846209",
+  "name": "Gemini Spark",
+  "description": "Tribute 1 face-up Level 4 Gemini monster, then target 1 card on the field; destroy it, and if you do, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

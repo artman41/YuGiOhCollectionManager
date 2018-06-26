@@ -1,0 +1,16 @@
+{
+  "id": 8565,
+  "cardNumber": "50005633",
+  "name": "Swordstalker",
+  "description": "A monster formed by the vengeful souls of those who passed away in battle.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

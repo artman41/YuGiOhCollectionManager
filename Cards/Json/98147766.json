@@ -1,0 +1,16 @@
+{
+  "id": 2872,
+  "cardNumber": "98147766",
+  "name": "Genetic Woman",
+  "description": "Once per turn, you can pay 1000 Life Points and select 1 of your removed from play Psychic-Type monsters. Add it to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

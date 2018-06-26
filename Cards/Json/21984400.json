@@ -1,0 +1,16 @@
+{
+  "id": 8914,
+  "cardNumber": "21984400",
+  "name": "Beast Magic Attack",
+  "description": "Remove Spell Counters from your field to activate 1 of these effects;<br>â— 2 Counters: Return 1 \"Mythical Beast\" Pendulum Monster you control to the hand.<br>â— 4 Counters: Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, then you can place 2 Spell Counters on it.<br>â— 6 Counters: Special Summon 1 face-up Pendulum Monster from your Extra Deck.<br>You can only activate 1 \"Beast Magic Attack\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

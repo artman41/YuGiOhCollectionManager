@@ -1,0 +1,16 @@
+{
+  "id": 6772,
+  "cardNumber": "44072894",
+  "name": "Supply",
+  "description": "FLIP: Return 2 Fusion-Material monsters that were sent to the Graveyard as a result of a Fusion Summon to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

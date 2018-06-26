@@ -1,0 +1,16 @@
+{
+  "id": 6842,
+  "cardNumber": "47741109",
+  "name": "Sylvan Snapdrassinagon",
+  "description": "If this card is sent from the field or the hand to the Graveyard: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can excavate the top card of your Deck, and if it is a Plant-Type monster, send it to the Graveyard. Otherwise, place it on the bottom of your Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 900,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3276,
+  "cardNumber": "20450925",
+  "name": "Hanewata",
+  "description": "(Quick Effect): You can discard this card; you take no effect damage this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5491,
+  "cardNumber": "51371017",
+  "name": "Princess of Tsurugi",
+  "description": "FLIP: Inflict 500 damage to your opponent for each Spell and Trap Card on your opponent's side of the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4429,
+  "cardNumber": "77864539",
+  "name": "Meklord Factory",
+  "description": "When a \"Meklord\" monster on the field is targeted for an attack: Target 1 \"Meklord Army\" monster in your Graveyard; add that target to your hand, then destroy the attack target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

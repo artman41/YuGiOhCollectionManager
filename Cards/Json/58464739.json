@@ -1,0 +1,16 @@
+{
+  "id": 5542,
+  "cardNumber": "58464739",
+  "name": "Pulse Mines",
+  "description": "If you control a Machine monster: Change your opponent's Attack Position monsters (if any) to Defense Position, also, until the end of this turn, if a monster(s) is Normal or Special Summoned to your opponent's field, change them to Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

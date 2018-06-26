@@ -1,0 +1,16 @@
+{
+  "id": 7414,
+  "cardNumber": "76459806",
+  "name": "Volcanic Rocket",
+  "description": "When this card is Summoned: You can add 1 \"Blaze Accelerator\" card from your Deck or Graveyard to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

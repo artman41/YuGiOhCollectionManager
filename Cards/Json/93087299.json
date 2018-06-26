@@ -1,0 +1,16 @@
+{
+  "id": 6822,
+  "cardNumber": "93087299",
+  "name": "Swords of Burning Light",
+  "description": "While you control no monsters, monsters your opponent controls cannot declare attacks. If you control a monster, or if your opponent has 5 or more cards in their hand, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

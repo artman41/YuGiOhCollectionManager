@@ -1,0 +1,16 @@
+{
+  "id": 2636,
+  "cardNumber": "55586621",
+  "name": "Fortune Lady Dark",
+  "description": "This card's ATK and DEF are equal to its Level x 400. During each of your Standby Phases, increase the Level of this card by 1 (max 12). When a face-up \"Fortune Lady\" monster you control destroys an opponent's monster by battle and sends it to the Graveyard, you can select and Special Summon 1 \"Fortune Lady\" monster from your Graveyard.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

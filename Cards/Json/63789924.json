@@ -1,0 +1,16 @@
+{
+  "id": 6338,
+  "cardNumber": "63789924",
+  "name": "Smoke Grenade of the Thief",
+  "description": "When this Equip Spell Card is active and is destroyed by a card effect, look at your opponent's hand. Select 1 card from their hand and discard it to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

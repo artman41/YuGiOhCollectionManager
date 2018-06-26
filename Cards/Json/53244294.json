@@ -1,0 +1,16 @@
+{
+  "id": 4948,
+  "cardNumber": "53244294",
+  "name": "Number 57: Tri-Head Dust Dragon",
+  "description": "3 Level 4 monsters<br>When this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 Xyz Material from this card, then choose 1 unused Main Monster Zone or Spell &amp; Trap Zone; while this card is face-up on the field, that zone cannot be used.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 100,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

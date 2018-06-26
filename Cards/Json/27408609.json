@@ -1,0 +1,16 @@
+{
+  "id": 3079,
+  "cardNumber": "27408609",
+  "name": "Golden Homunculus",
+  "description": "This card gains 300 ATK and DEF for each of your banished cards.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

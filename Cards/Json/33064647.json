@@ -1,0 +1,16 @@
+{
+  "id": 8449,
+  "cardNumber": "33064647",
+  "name": "One-Eyed Shield Dragon",
+  "description": "This dragon wears a shield not only for its own protection, but also for ramming its enemies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

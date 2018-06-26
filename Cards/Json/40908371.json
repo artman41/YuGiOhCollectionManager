@@ -1,0 +1,16 @@
+{
+  "id": 448,
+  "cardNumber": "40908371",
+  "name": "Azure-Eyes Silver Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner Normal Monsters<br>If this card is Special Summoned: Dragon-Type monsters you currently control cannot be targeted or destroyed by card effects until the end of the next turn. Once per turn, during your Standby Phase: You can target 1 Normal Monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

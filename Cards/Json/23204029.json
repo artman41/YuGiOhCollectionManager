@@ -1,0 +1,16 @@
+{
+  "id": 1232,
+  "cardNumber": "23204029",
+  "name": "Contrast HERO Chaos",
+  "description": "2 \"Masked HERO\" monsters<br>(This card is always treated as an \"Elemental HERO\" card.)<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also LIGHT-Attribute. Once per turn, during either player's turn: You can target 1 face-up card on the field; negate that target's effects until the end of this turn.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

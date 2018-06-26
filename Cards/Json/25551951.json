@@ -1,0 +1,16 @@
+{
+  "id": 746,
+  "cardNumber": "25551951",
+  "name": "Blowback Dragon",
+  "description": "Once per turn: You can target 1 card your opponent controls; toss a coin 3 times, and destroy that target if at least 2 of the results are Heads.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

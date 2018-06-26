@@ -1,0 +1,16 @@
+{
+  "id": 6744,
+  "cardNumber": "42880485",
+  "name": "Superheavy Samurai General Jade",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Superheavy Samurai\" monsters. This effect cannot be negated. Once per turn: You can target 1 \"Superheavy Samurai\" monster you control; increase its Level by 1 (even if this card leaves the field).\n\n Monster Effect\n You can Tribute Summon this card by Tributing 1 \"Superheavy Samurai\" monster. When this card is Normal or Special Summoned: You can change its battle position. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

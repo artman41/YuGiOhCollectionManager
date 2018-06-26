@@ -1,0 +1,16 @@
+{
+  "id": 1526,
+  "cardNumber": "15341821",
+  "name": "Dandylion",
+  "description": "If this card is sent to the Graveyard: Special Summon 2 \"Fluff Tokens\" (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon during the turn they are Special Summoned.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

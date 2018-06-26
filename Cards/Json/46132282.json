@@ -1,0 +1,16 @@
+{
+  "id": 5442,
+  "cardNumber": "46132282",
+  "name": "Powered Inzektron",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>When this card is Synchro Summoned: This turn, this card cannot be destroyed by battle or by card effects, also you take no damage.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

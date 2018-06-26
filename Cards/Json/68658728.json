@@ -1,0 +1,16 @@
+{
+  "id": 4080,
+  "cardNumber": "68658728",
+  "name": "Little Chimera",
+  "description": "All FIRE monsters on the field gain 500 ATK. All WATER monsters on the field lose 400 ATK.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 550,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

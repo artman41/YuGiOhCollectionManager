@@ -1,0 +1,16 @@
+{
+  "id": 8459,
+  "cardNumber": "20624263",
+  "name": "Peacock",
+  "description": "A large peacock that launches its feathers in a lethal attack.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

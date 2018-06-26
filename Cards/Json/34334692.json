@@ -1,0 +1,16 @@
+{
+  "id": 5906,
+  "cardNumber": "34334692",
+  "name": "Ritual Raven",
+  "description": "If you Ritual Summon a DARK Ritual Monster, this 1 card can be used as the entire Tribute.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

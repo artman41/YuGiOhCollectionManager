@@ -1,0 +1,16 @@
+{
+  "id": 8638,
+  "cardNumber": "92944626",
+  "name": "Wings of Wicked Flame",
+  "description": "Crimson wings of fire make this a very lethal creature.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

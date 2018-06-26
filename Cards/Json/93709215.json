@@ -1,0 +1,16 @@
+{
+  "id": 1671,
+  "cardNumber": "93709215",
+  "name": "Darkness Destroyer",
+  "description": "Cannot be Special Summoned. This card can attack twice during each Battle Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

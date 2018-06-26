@@ -1,0 +1,16 @@
+{
+  "id": 1458,
+  "cardNumber": "37043180",
+  "name": "D.D. Warrior",
+  "description": "After damage calculation, when this card battles a monster: Banish that monster, also banish this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

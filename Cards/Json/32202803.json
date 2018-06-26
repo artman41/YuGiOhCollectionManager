@@ -1,0 +1,16 @@
+{
+  "id": 885,
+  "cardNumber": "32202803",
+  "name": "Bujingi Wolf",
+  "description": "Other Beast, Beast-Warrior, and Winged Beast-Type monsters you control cannot be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5299,
+  "cardNumber": "62472614",
+  "name": "Pestilence",
+  "description": "Equip only to a Warrior, Beast-Warrior, or Spellcaster-Type monster. Its ATK becomes 0. During each of your Standby Phases, inflict 500 damage to the controller of the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

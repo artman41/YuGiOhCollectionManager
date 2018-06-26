@@ -1,0 +1,16 @@
+{
+  "id": 8324,
+  "cardNumber": "76634149",
+  "name": "Kairyu-Shin",
+  "description": "A sea dragon known as the King of the Ocean, it attacks its enemies with huge tidal waves.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

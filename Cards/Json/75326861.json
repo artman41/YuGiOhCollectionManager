@@ -1,0 +1,16 @@
+{
+  "id": 1581,
+  "cardNumber": "75326861",
+  "name": "Dark Highlander",
+  "description": "1 Fiend-Type Tuner + 1 or more non-Tuner Fiend-Type monsters<br>Neither player can Synchro Summon. Once per turn: You can target 1 monster your opponent controls that is equipped with an Equip Card; destroy all Equip Cards equipped to that monster, and if you do, inflict 400 damage to your opponent for each card destroyed.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

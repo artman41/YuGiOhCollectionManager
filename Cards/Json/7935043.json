@@ -1,0 +1,16 @@
+{
+  "id": 75,
+  "cardNumber": "7935043",
+  "name": "Aegis of the Ocean Dragon Lord",
+  "description": "Until the End Phase, face-up Level 3 or lower WATER monsters you control cannot be destroyed by battle or by card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

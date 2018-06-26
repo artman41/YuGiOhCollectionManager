@@ -1,0 +1,16 @@
+{
+  "id": 8854,
+  "cardNumber": "47439573",
+  "name": "Heartless Drop Off",
+  "description": "When a face-up card(s) on the field and/or in the GY is added to your opponent's hand by an effect: Look at their hand, also banish the added card(s) and all cards with the same name, if any.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

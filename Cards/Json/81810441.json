@@ -1,0 +1,16 @@
+{
+  "id": 6617,
+  "cardNumber": "81810441",
+  "name": "Stellarknight Alpha",
+  "description": "Equip only to a \"tellarknight\" monster you control. It gains 500 ATK and DEF, also it is unaffected by your opponent's card effects. If you control a face-up monster that is not a \"tellarknight\" monster, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

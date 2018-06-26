@@ -1,0 +1,16 @@
+{
+  "id": 5466,
+  "cardNumber": "5010422",
+  "name": "Prediction Princess Astromorrigan",
+  "description": "FLIP: During the End Phase of this turn, destroy as many Defense Position monsters your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each monster destroyed.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5660,
+  "cardNumber": "56260110",
+  "name": "Raimei",
+  "description": "Decrease your opponent's Life Points by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

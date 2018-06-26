@@ -1,0 +1,16 @@
+{
+  "id": 5502,
+  "cardNumber": "24221739",
+  "name": "Protector of the Sanctuary",
+  "description": "Your opponent cannot draw cards except during Draw Phases.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

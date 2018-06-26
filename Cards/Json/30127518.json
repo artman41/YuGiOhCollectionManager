@@ -1,0 +1,16 @@
+{
+  "id": 1648,
+  "cardNumber": "30127518",
+  "name": "Darkfall",
+  "description": "When your opponent Special Summons 2 or more face-up monsters at the same time: Send those monsters to the Graveyard, then send all monsters in the opponent's hand and Deck to the Graveyard that have the same name as the monsters sent to the Graveyard by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

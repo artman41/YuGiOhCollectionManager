@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "cardNumber": "71422989",
+  "name": "Absorb Fusion",
+  "description": "Add 1 \"Gem-Knight\" card from your Deck to your hand, then you can apply this effect.<br>â— Fusion Summon 1 \"Gem-Knight\" Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your hand or your side of the field.<br>You can only activate 1 \"Absorb Fusion\" per turn. You cannot Special Summon monsters the turn you activate this card, except \"Gem-Knight\" monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

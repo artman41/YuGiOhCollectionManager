@@ -1,0 +1,16 @@
+{
+  "id": 7345,
+  "cardNumber": "32233746",
+  "name": "Vanquishing Light",
+  "description": "When a monster(s) would be Summoned: Tribute 1 \"Lightsworn\" monster; negate the Summon, and if you do, destroy that monster(s).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

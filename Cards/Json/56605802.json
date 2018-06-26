@@ -1,0 +1,16 @@
+{
+  "id": 5315,
+  "cardNumber": "56605802",
+  "name": "Phantom Cricket",
+  "description": "FLIP: Return 1 face-down monster from the field to the top of its owner's Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

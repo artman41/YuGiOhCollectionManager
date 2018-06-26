@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "cardNumber": "403847",
+  "name": "The A. Forces",
+  "description": "All Warrior-Type monsters you control gain 200 ATK for each Warrior or Spellcaster-Type monster you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

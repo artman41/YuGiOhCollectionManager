@@ -1,0 +1,16 @@
+{
+  "id": 311,
+  "cardNumber": "84341431",
+  "name": "Archfiend Giant",
+  "description": "If this face-up card on the field would be destroyed by a card effect, you can pay 500 Life Points instead. This effect can only be used once while this card is face-up on the field. If this card is destroyed by a card effect and sent to the Graveyard: You can Special Summon 1 \"Archfiend\" monster from your hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

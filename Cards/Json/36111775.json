@@ -1,0 +1,16 @@
+{
+  "id": 8740,
+  "cardNumber": "36111775",
+  "name": "Pendulum Halt",
+  "description": "If you have 3 or more face-up Pendulum Monsters with different names in your Extra Deck: Draw 2 cards, also for the rest of this turn after this card resolves, you cannot add cards from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

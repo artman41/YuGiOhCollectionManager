@@ -1,0 +1,16 @@
+{
+  "id": 8184,
+  "cardNumber": "8944575",
+  "name": "The Drdek",
+  "description": "A bipedal eyeball that seldom misses an enemy with its lethal talons.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 250,
+  "cardNumber": "13250922",
+  "name": "Anteatereatingant",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

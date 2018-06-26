@@ -1,0 +1,16 @@
+{
+  "id": 6001,
+  "cardNumber": "41705642",
+  "name": "Salvage Warrior",
+  "description": "When this card is Tribute Summoned, you can Special Summon 1 Tuner monster from your hand or Graveyard.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

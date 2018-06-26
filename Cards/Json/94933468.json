@@ -1,0 +1,16 @@
+{
+  "id": 7317,
+  "cardNumber": "94933468",
+  "name": "Vain Betrayer",
+  "description": "When an opponent's Xyz Monster declares an attack: Activate this card by targeting the attacking monster. It cannot attack, also its effects are negated. While that monster is on the field, during each of your opponent's End Phases: Send the top 3 cards of the opponent's Deck to the Graveyard. When that monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

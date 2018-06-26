@@ -1,0 +1,16 @@
+{
+  "id": 5365,
+  "cardNumber": "63223260",
+  "name": "Photon Satellite",
+  "description": "Once per turn: You can target 1 other \"Photon\" monster you control; the Levels of both that monster and this card become the combined current Levels of those 2 monsters.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

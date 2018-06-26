@@ -1,0 +1,16 @@
+{
+  "id": 4746,
+  "cardNumber": "84905691",
+  "name": "Naturia Horneedle",
+  "description": "When your opponent Special Summons a monster, you can Tribute 1 face-up \"Naturia\" monster you control, except this card, to destroy the Special Summoned monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

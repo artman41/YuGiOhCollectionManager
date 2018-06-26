@@ -1,0 +1,16 @@
+{
+  "id": 4906,
+  "cardNumber": "21313376",
+  "name": "Number 14: Greedy Sarameya",
+  "description": "2 Level 5 monsters<br>Your opponent takes any effect damage you would have taken from their card effects, instead. When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can detach 1 Xyz Material from this card; destroy all monsters on the field whose current ATK is less than or equal to the original ATK of the destroyed monster in the Graveyard.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

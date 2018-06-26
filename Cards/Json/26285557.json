@@ -1,0 +1,16 @@
+{
+  "id": 8714,
+  "cardNumber": "26285557",
+  "name": "Gouki Face Turn",
+  "description": "Target 1 \"Gouki\" card you control and 1 \"Gouki\" monster in your GY; destroy that card on the field, and if you do, Special Summon that other monster from your GY. You can only activate 1 \"Gouki Face Turn\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

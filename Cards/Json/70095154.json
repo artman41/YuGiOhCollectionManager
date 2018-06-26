@@ -1,0 +1,16 @@
+{
+  "id": 1374,
+  "cardNumber": "70095154",
+  "name": "Cyber Dragon",
+  "description": "If only your opponent controls a monster, you can Special Summon this card (from your hand).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

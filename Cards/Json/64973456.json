@@ -1,0 +1,16 @@
+{
+  "id": 7388,
+  "cardNumber": "64973456",
+  "name": "Viper's Rebirth",
+  "description": "Activate only if all monsters in your Graveyard are Reptile-Type. Select 1 non-Tuner monster in your Graveyard. Special Summon it. Destroy it during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7830,
+  "cardNumber": "16261341",
+  "name": "Angel Paladin Arch-Parshath",
+  "description": "If you activate a Counter Trap Card, OR if you negate the activation of a Spell/Trap Card, or monster effect, while this card is in your hand or GY (except during the Damage Step): You can banish 2 other Fairy monsters from your hand, field, and/or GY; Special Summon this card. If this card attacks a Defense Position monster, inflict piercing battle damage. When this card inflicts battle damage to your opponent: You can add 1 \"Parshath\" card or 1 Counter Trap from your Deck to your hand.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

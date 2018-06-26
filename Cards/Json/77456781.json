@@ -1,0 +1,16 @@
+{
+  "id": 8208,
+  "cardNumber": "77456781",
+  "name": "Fiend Kraken",
+  "description": "A giant squid that drags its enemies to a watery grave.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

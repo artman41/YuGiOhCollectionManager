@@ -1,0 +1,16 @@
+{
+  "id": 622,
+  "cardNumber": "75672051",
+  "name": "Black Fang Magician",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up monster your opponent controls; its ATK becomes half its current ATK (until the end of this turn), then destroy this card.\n\n Monster Effect\n (This card is always treated as an \"Xyz Dragon\" card.)<br>If this card is destroyed by battle or card effect: You can target 1 DARK Spellcaster-Type monster in your Graveyard; Special Summon it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

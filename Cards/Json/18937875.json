@@ -1,0 +1,16 @@
+{
+  "id": 902,
+  "cardNumber": "18937875",
+  "name": "Burning Spear",
+  "description": "A FIRE monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

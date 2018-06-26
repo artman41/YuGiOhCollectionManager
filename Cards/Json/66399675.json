@@ -1,0 +1,16 @@
+{
+  "id": 2987,
+  "cardNumber": "66399675",
+  "name": "Gishki Chain",
+  "description": "If this card is Normal Summoned: Look at the top 3 cards of your Deck, you can reveal 1 Ritual Monster or 1 Ritual Spell Card among them and add it to your hand, also after that, place any remaining cards on the top of your Deck in any order.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

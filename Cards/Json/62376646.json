@@ -1,0 +1,16 @@
+{
+  "id": 3100,
+  "cardNumber": "62376646",
+  "name": "Gouki Re-Match",
+  "description": "Target 2 \"Gouki\" monsters in your GY with different Levels; Special Summon them in Defense Position. You can only activate 1 \"Gouki Re-Match\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

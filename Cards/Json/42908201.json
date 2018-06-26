@@ -1,0 +1,16 @@
+{
+  "id": 7868,
+  "cardNumber": "42908201",
+  "name": "Desmania Devil",
+  "description": "When this card destroys an opponent's  monster by battle: You can add 1 Level 4 or lower Beast monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

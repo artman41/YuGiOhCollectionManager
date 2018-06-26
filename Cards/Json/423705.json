@@ -1,0 +1,16 @@
+{
+  "id": 2811,
+  "cardNumber": "423705",
+  "name": "Gearfried the Iron Knight",
+  "description": "When an Equip Card(s) is equipped to this card: Destroy that Equip Card(s).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

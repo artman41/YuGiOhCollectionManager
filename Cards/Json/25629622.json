@@ -1,0 +1,16 @@
+{
+  "id": 30,
+  "cardNumber": "25629622",
+  "name": "Abyss Actor - Superstar",
+  "description": "Pendulum Effect\n Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 \"Abyss Script\" Spell Card in your Graveyard; add it to your hand.\n\n Monster Effect\n When Normal or Special Summoned, your opponent's Spell/Trap Cards and effects cannot be activated. Once per turn: You can Set 1 \"Abyss Script\" Spell Card directly from your Deck, but it is sent to the Graveyard during the End Phase.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

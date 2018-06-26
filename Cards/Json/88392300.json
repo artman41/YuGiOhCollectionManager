@@ -1,0 +1,16 @@
+{
+  "id": 8750,
+  "cardNumber": "88392300",
+  "name": "Data Transavatar Wattkinesis",
+  "description": "(Quick Effect): You can send this card from your hand or field to the GY, then target 1 monster your opponent controls; move that target to another of your opponent's Main Monster Zones.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

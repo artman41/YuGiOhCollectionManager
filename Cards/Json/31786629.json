@@ -1,0 +1,16 @@
+{
+  "id": 6992,
+  "cardNumber": "31786629",
+  "name": "Thunder Dragon",
+  "description": "You can discard this card to add up to 2 \"Thunder Dragons\" from your Deck to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

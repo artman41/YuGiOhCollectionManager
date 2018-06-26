@@ -1,0 +1,16 @@
+{
+  "id": 3685,
+  "cardNumber": "43697559",
+  "name": "Jetroid",
+  "description": "At the time this card is selected as an attack target by an opponent's monster, you can activate Trap Card(s) from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

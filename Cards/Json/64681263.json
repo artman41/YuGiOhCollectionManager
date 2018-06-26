@@ -1,0 +1,16 @@
+{
+  "id": 4086,
+  "cardNumber": "64681263",
+  "name": "Localized Tornado",
+  "description": "Shuffle all cards from your hand and Graveyard into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

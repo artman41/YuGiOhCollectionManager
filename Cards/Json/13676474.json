@@ -1,0 +1,16 @@
+{
+  "id": 8269,
+  "cardNumber": "13676474",
+  "name": "Grand Tiki Elder",
+  "description": "A masked monster that wields the most deadly of curses.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

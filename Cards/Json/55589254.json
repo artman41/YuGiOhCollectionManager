@@ -1,0 +1,16 @@
+{
+  "id": 2677,
+  "cardNumber": "55589254",
+  "name": "Frost and Flame Dragon",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 FIRE and 2 WATER monsters from your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can discard 1 card to target 1 monster on the field; destroy that target.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

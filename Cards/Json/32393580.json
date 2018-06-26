@@ -1,0 +1,16 @@
+{
+  "id": 1400,
+  "cardNumber": "32393580",
+  "name": "Cyber Shark",
+  "description": "If you control a WATER monster, you can Normal Summon this card without Tributing.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

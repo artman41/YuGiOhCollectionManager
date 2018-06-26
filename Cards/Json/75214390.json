@@ -1,0 +1,16 @@
+{
+  "id": 5119,
+  "cardNumber": "75214390",
+  "name": "Overlay Booster",
+  "description": "If you control a monster with 2000 or more ATK, you can Special Summon this card (from your hand) in face-up Defense Position. You can only Special Summon \"Overlay Booster\" once per turn this way. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Xyz Monster you control that has Xyz Material; it gains 500 ATK for each Xyz Material attached to it.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8478,
+  "cardNumber": "4179849",
+  "name": "Queen of Autumn Leaves",
+  "description": "Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

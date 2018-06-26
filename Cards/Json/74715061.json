@@ -1,0 +1,16 @@
+{
+  "id": 8011,
+  "cardNumber": "74715061",
+  "name": "Striping Partner",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. If the activation of a monster effect activated on your field is negated (except during the Damage Step): You can Special Summon this card from your hand. When this card is Special Summoned: You can target 1 Level 4 or lower Cyberse monster in your GY; Special Summon it. You can only use this effect of \"Striping Partner\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

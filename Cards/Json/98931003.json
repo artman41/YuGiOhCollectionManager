@@ -1,0 +1,16 @@
+{
+  "id": 7949,
+  "cardNumber": "98931003",
+  "name": "Nanana",
+  "description": "Target 1 Level 7 or Rank 7 monster you control; it gains 700 ATK/DEF until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

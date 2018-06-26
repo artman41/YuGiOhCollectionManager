@@ -1,0 +1,16 @@
+{
+  "id": 7580,
+  "cardNumber": "71007216",
+  "name": "Windwitch - Glass Bell",
+  "description": "If this card is Normal or Special Summoned: You can add 1 \"Windwitch\" monster from your Deck to your hand, except \"Windwitch - Glass Bell\", also you cannot Special Summon monsters for the rest of this turn, except WIND monsters. You can only use this effect of \"Windwitch - Glass Bell\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

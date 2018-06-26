@@ -1,0 +1,16 @@
+{
+  "id": 2342,
+  "cardNumber": "88095331",
+  "name": "Evoltile Najasho",
+  "description": "If this card on the field is Tributed: You can Special Summon 1 \"Evolsaur\" monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

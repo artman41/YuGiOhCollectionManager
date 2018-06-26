@@ -1,0 +1,16 @@
+{
+  "id": 492,
+  "cardNumber": "78783370",
+  "name": "Barrel Behind the Door",
+  "description": "Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7099,
+  "cardNumber": "55428242",
+  "name": "Traptrix Atrax",
+  "description": "This card is unaffected by the effects of \"Hole\" Normal Trap Cards. You can activate \"Hole\" Normal Trap Cards from your hand. The activation and effects of Normal Trap Cards activated on your side of the field cannot be negated.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

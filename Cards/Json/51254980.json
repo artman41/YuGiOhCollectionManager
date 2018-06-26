@@ -1,0 +1,16 @@
+{
+  "id": 4751,
+  "cardNumber": "51254980",
+  "name": "Naturia Mantis",
+  "description": "When your opponent Normal Summons a monster, you can send 1 \"Naturia\" monster from your hand to the Graveyard to destroy that monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

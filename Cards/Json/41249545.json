@@ -1,0 +1,16 @@
+{
+  "id": 3132,
+  "cardNumber": "41249545",
+  "name": "Grass Phantom",
+  "description": "This card gains 500 ATK for each \"Grass Phantom\" in your Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

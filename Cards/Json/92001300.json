@@ -1,0 +1,16 @@
+{
+  "id": 213,
+  "cardNumber": "92001300",
+  "name": "Ancient Gear Castle",
+  "description": "All \"Ancient Gear\" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an \"Ancient Gear\" monster face-up, you can Tribute this card instead, if the number of its counters is equal to or greater than the number of required Tribute(s).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

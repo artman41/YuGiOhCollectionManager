@@ -1,0 +1,16 @@
+{
+  "id": 5230,
+  "cardNumber": "55553602",
+  "name": "Performapal Dramatic Theater",
+  "description": "Monsters you control gain 200 ATK for each monster you control with a different Type. Once per turn, if you control 4 \"Performapal\" monsters with different Types: You can Special Summon 1 \"Odd-Eyes\" monster from your hand, Deck, or Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

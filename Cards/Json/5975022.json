@@ -1,0 +1,16 @@
+{
+  "id": 3016,
+  "cardNumber": "5975022",
+  "name": "Gladiator Beast Murmillo",
+  "description": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 face-up monster; destroy that target. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Murmillo\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

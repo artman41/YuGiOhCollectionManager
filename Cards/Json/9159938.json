@@ -1,0 +1,16 @@
+{
+  "id": 8156,
+  "cardNumber": "9159938",
+  "name": "Dark Gray",
+  "description": "Entirely gray, this beast has rarely been seen by mortal eyes.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

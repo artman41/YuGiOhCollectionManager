@@ -1,0 +1,16 @@
+{
+  "id": 7751,
+  "cardNumber": "31764700",
+  "name": "Yubel - The Ultimate Nightmare",
+  "description": "Cannot be Normal Summoned or Set. Must be Special Summoned by \"Yubel - Terror Incarnate\", and cannot be Special Summoned by other ways. This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battles with an opponent's monster: Inflict damage equal to that monster's ATK to your opponent, also destroy that monster.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

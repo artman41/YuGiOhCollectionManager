@@ -1,0 +1,16 @@
+{
+  "id": 2074,
+  "cardNumber": "43017476",
+  "name": "Duoterion",
+  "description": "You can discard this card; add 1 \"Bonding\" Spell/Trap from your Deck to your hand. If this card is Normal or Special Summoned: You can target 1 \"Hydrogeddon\", \"Oxygeddon\", or \"Duoterion\" in your GY; Special Summon it. You can only use each effect of \"Duoterion\" once per turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

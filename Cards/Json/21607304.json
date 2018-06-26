@@ -1,0 +1,16 @@
+{
+  "id": 6667,
+  "cardNumber": "21607304",
+  "name": "Subterror Behemoth Voltelluric",
+  "description": "FLIP: You can target 1 Set monster your opponent controls; take control of it until your next End Phase. You can only use this effect of \"Subterror Behemoth Voltelluric\" once per turn.<br>When a face-up monster you control is flipped face-down, if you control no face-up monsters: You can Special Summon this card from your hand in Defense Position. Once per turn: You can change this card to face-down Defense Position.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

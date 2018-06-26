@@ -1,0 +1,16 @@
+{
+  "id": 6150,
+  "cardNumber": "30328508",
+  "name": "Shaddoll Squamata",
+  "description": "FLIP: You can target 1 monster on the field; destroy it.<br>If this card is sent to the Graveyard by a card effect: You can send 1 \"Shaddoll\" card from your Deck to the Graveyard, except \"Shaddoll Squamata\". You can only use 1 \"Shaddoll Squamata\" effect per turn, and only once that turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

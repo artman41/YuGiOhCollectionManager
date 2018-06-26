@@ -1,0 +1,16 @@
+{
+  "id": 3958,
+  "cardNumber": "75991898",
+  "name": "Lavalval Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner FIRE monsters<br> You can shuffle 2 \"Laval\" monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

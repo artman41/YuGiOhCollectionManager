@@ -1,0 +1,16 @@
+{
+  "id": 8328,
+  "cardNumber": "48109103",
+  "name": "Kappa Avenger",
+  "description": "An amphibian that sold his soul for unlimited power to avenge his late friend.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

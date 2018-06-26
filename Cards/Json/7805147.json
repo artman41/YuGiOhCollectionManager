@@ -1,0 +1,16 @@
+{
+  "id": 6362,
+  "cardNumber": "7805147",
+  "name": "Soldier Dragons",
+  "description": "Once per turn, when your opponent activates a card or effect (Quick Effect): You can Special Summon 1 Level 2 or lower Dragon monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

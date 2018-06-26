@@ -1,0 +1,16 @@
+{
+  "id": 2979,
+  "cardNumber": "29216967",
+  "name": "Gimmick Puppet Scissor Arms",
+  "description": "When this card is Normal Summoned: You can send 1 \"Gimmick Puppet\" monster from your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8424,
+  "cardNumber": "47060154",
+  "name": "Mystic Clown",
+  "description": "Nothing can stop the mad attack of this powerful creature.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

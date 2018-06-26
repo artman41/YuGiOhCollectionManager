@@ -1,0 +1,16 @@
+{
+  "id": 5411,
+  "cardNumber": "15248873",
+  "name": "Pop-Up",
+  "description": "If your opponent controls a card in their Field Zone and you do not: Activate 1 Field Spell Card from your Deck. You can only activate 1 \"Pop-Up\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

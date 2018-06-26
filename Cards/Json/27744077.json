@@ -1,0 +1,16 @@
+{
+  "id": 19,
+  "cardNumber": "27744077",
+  "name": "Absolute End",
+  "description": "Activate only during your opponent's turn. This turn, the attacks from your opponent's monsters become direct attacks.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

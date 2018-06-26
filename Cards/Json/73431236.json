@@ -1,0 +1,16 @@
+{
+  "id": 3648,
+  "cardNumber": "73431236",
+  "name": "Iron Blacksmith Kotetsu",
+  "description": "FLIP: Add 1 Equip Spell Card from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

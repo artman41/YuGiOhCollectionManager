@@ -1,0 +1,16 @@
+{
+  "id": 4550,
+  "cardNumber": "6343408",
+  "name": "Miracle Dig",
+  "description": "If 5 or more of your monsters are currently removed from play, return 3 of them to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

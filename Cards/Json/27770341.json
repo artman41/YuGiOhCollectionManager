@@ -1,0 +1,16 @@
+{
+  "id": 6711,
+  "cardNumber": "27770341",
+  "name": "Super Rejuvenation",
+  "description": "During the End Phase of the turn this card was activated, draw a number of cards equal to the combined number of Dragon-Type monsters you discarded or Tributed from your hand or your side of the field this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

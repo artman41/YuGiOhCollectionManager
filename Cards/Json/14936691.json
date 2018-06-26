@@ -1,0 +1,16 @@
+{
+  "id": 7633,
+  "cardNumber": "14936691",
+  "name": "Worm Erokin",
+  "description": "This card cannot be Special Summoned. Once per turn, select 1 face-up Reptile-Type \"Worm\" monster on the field and change it into face-down Defense Position.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

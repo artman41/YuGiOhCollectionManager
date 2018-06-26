@@ -1,0 +1,16 @@
+{
+  "id": 752,
+  "cardNumber": "54582424",
+  "name": "Blue Mountain Butterspy",
+  "description": "Cannot be Normal Summoned/Set. When you Normal Summon a Warrior-Type monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2213,
+  "cardNumber": "40044918",
+  "name": "Elemental HERO Stratos",
+  "description": "When this card is Normal or Special Summoned: You can activate 1 of these effects.<br>â— You can destroy Spell/Trap Cards on the field, up to the number of \"HERO\" monsters you control, except this card.<br>â— Add 1 \"HERO\" monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

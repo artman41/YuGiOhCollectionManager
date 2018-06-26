@@ -1,0 +1,16 @@
+{
+  "id": 4783,
+  "cardNumber": "84968490",
+  "name": "Needlebug Nest",
+  "description": "Send the top 5 cards of your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

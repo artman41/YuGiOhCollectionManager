@@ -1,0 +1,16 @@
+{
+  "id": 8247,
+  "cardNumber": "69140098",
+  "name": "Gemini Elf",
+  "description": "Elf twins that alternate their attacks.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

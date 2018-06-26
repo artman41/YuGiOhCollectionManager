@@ -1,0 +1,16 @@
+{
+  "id": 84,
+  "cardNumber": "69023354",
+  "name": "Air Armor Ninja",
+  "description": "When this card is Summoned: You can target 1 \"Ninja\" monster you control; reduce its Level by 1.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

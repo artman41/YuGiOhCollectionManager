@@ -1,0 +1,16 @@
+{
+  "id": 7385,
+  "cardNumber": "73483491",
+  "name": "Vindikite R-Genex",
+  "description": "1 \"Genex\" Tuner + 1 or more non-Tuner WIND monsters<br>Your opponent cannot select this card as an attack target. If this card destroys an opponent's monster by battle, you can add 1 \"Genex\" monster from your Deck to your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

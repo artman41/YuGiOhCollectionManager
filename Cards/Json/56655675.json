@@ -1,0 +1,16 @@
+{
+  "id": 5898,
+  "cardNumber": "56655675",
+  "name": "Ritual Beast Ulti-Gaiapelio",
+  "description": "1 \"Ritual Beast Ulti-\" monster + 1 \"Ritual Beast Tamer\" monster + 1 \"Spiritual Beast\" monster<br>Must be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use \"Polymerization\".) If Summoned this way, this card gains this effect.<br>â— During either player's turn, when a Spell/Trap Card, or monster effect, is activated: You can banish 1 \"Ritual Beast\" card from your hand; negate the activation, and if you do, destroy it.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

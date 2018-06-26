@@ -1,0 +1,16 @@
+{
+  "id": 653,
+  "cardNumber": "67779172",
+  "name": "Black-Winged Strafe",
+  "description": "Send 1 \"Blackwing\" monster from your hand to the Graveyard to select 1 Defense Position monster your opponent controls. Send that monster to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6273,
+  "cardNumber": "8131171",
+  "name": "Sinister Serpent",
+  "description": "During your Standby Phase, if this card is in your Graveyard: You can add it to your hand, also banish 1 \"Sinister Serpent\" from your Graveyard during your opponent's next End Phase. You can only use this effect of \"Sinister Serpent\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 250,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1269,
+  "cardNumber": "87526784",
+  "name": "Crashbug X",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 \"Crashbug Z\" from your Deck. You must control a face-up \"Crashbug Y\" to activate and to resolve this effect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

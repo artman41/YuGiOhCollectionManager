@@ -1,0 +1,16 @@
+{
+  "id": 1097,
+  "cardNumber": "38007744",
+  "name": "Chronomaly Moai Carrier",
+  "description": "If your opponent controls a card and you control no cards, you can Special Summon this card (from your hand).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

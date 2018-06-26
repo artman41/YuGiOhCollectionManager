@@ -1,0 +1,16 @@
+{
+  "id": 1406,
+  "cardNumber": "3657444",
+  "name": "Cyber Valley",
+  "description": "You can use 1 of these effects.<br>â— When this card is targeted for an attack by an opponent's monster: You can banish this card; draw 1 card, then end the Battle Phase.<br>â— You can target 1 face-up monster you control and this card; banish both that target and this card, then draw 2 cards.<br>â— You can target 1 card in your GY; banish both this card and 1 card from your hand, then place that target on top of the Deck.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

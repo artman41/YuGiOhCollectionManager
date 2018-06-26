@@ -1,0 +1,16 @@
+{
+  "id": 4518,
+  "cardNumber": "47558785",
+  "name": "Mild Turkey",
+  "description": "Pendulum Effect\n Once per turn: You can roll a six-sided die. Until the end of this turn, reduce this card's Pendulum Scale by that number (min. 1).\n\n Monster Effect\n The taste of victory will bowl you over.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

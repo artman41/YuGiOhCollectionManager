@@ -1,0 +1,16 @@
+{
+  "id": 1079,
+  "cardNumber": "81380218",
+  "name": "Chorus of Sanctuary",
+  "description": "Increase the DEF of all Defense Position monsters by 500 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

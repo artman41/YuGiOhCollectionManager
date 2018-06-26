@@ -1,0 +1,16 @@
+{
+  "id": 8128,
+  "cardNumber": "91152256",
+  "name": "Celtic Guardian",
+  "description": "An elf who learned to wield a sword, he baffles enemies with lightning-swift attacks.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

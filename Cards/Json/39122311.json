@@ -1,0 +1,16 @@
+{
+  "id": 5029,
+  "cardNumber": "39122311",
+  "name": "Oasis of Dragon Souls",
+  "description": "Activate this card by targeting 1 monster in your Graveyard; Special Summon it in Defense Position. It becomes Wyrm-Type. When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

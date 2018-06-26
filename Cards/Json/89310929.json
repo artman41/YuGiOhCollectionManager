@@ -1,0 +1,16 @@
+{
+  "id": 4592,
+  "cardNumber": "89310929",
+  "name": "Mist Valley Thunder Lord",
+  "description": "1 Tuner + 1 or more non-Tuner \"Mist Valley\" monsters<br>Once per turn, you can select 1 card you control. Return it to the hand, and this card gains 500 ATK until the End Phase. This effect can be activated during either player's turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

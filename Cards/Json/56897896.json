@@ -1,0 +1,16 @@
+{
+  "id": 4618,
+  "cardNumber": "56897896",
+  "name": "Mono Synchron",
+  "description": "When using this card as Synchro Material, the other Synchro Material(s) must be Level 4 or lower Warrior or Machine-Type monsters, and they are treated as Level 1.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

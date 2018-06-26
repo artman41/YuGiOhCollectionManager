@@ -1,0 +1,16 @@
+{
+  "id": 1703,
+  "cardNumber": "13314457",
+  "name": "Deepsea Macrotrema",
+  "description": "When this card is sent from the field to the Graveyard, all face-up WATER monsters you control gain 500 ATK until the end of this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 600,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

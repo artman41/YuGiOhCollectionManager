@@ -1,0 +1,16 @@
+{
+  "id": 5104,
+  "cardNumber": "39019325",
+  "name": "Order to Smash",
+  "description": "Select 1 face-up Level 2 or lower Normal Monster (except a Token) on your side of the field when you activate this card. When this card resolves, you can Tribute the selected Normal Monster and destroy 1 or 2 Spell or Trap Cards on your opponent's side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

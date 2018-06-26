@@ -1,0 +1,16 @@
+{
+  "id": 8968,
+  "cardNumber": "53077251",
+  "name": "Universal Adapter",
+  "description": "Target 1 face-up monster your opponent controls; the ATK of all other monsters currently on the field become equal to that monster's ATK, until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1616,
+  "cardNumber": "85562745",
+  "name": "Dark Room of Nightmare",
+  "description": "Each time your opponent takes damage from a card effect, except \"Dark Room of Nightmare\", inflict 300 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

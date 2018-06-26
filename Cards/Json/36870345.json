@@ -1,0 +1,16 @@
+{
+  "id": 2024,
+  "cardNumber": "36870345",
+  "name": "Dragunity Aklys",
+  "description": "When this card is Normal Summoned, you can Special Summon 1 \"Dragunity\" monster from your hand, then equip it with this card. When this card is sent to the Graveyard while equipped to a monster, select 1 card on the field, and destroy it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

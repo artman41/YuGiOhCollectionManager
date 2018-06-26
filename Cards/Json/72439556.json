@@ -1,0 +1,16 @@
+{
+  "id": 3773,
+  "cardNumber": "72439556",
+  "name": "Kamui, Hope of Gusto",
+  "description": "FLIP: Special Summon 1 \"Gusto\" Tuner monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1976,
+  "cardNumber": "16435215",
+  "name": "Dragged Down into the Grave",
+  "description": "Both players reveal their hands, each player chooses 1 card from their opponent's hand, then you discard the chosen cards from both players' hands, then both players draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

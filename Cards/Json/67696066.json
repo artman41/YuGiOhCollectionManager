@@ -1,0 +1,16 @@
+{
+  "id": 5214,
+  "cardNumber": "67696066",
+  "name": "Performage Trick Clown",
+  "description": "If this card is sent to the Graveyard: You can target 1 \"Performage\" monster in your Graveyard; Special Summon it, its ATK and DEF become 0, then you take 1000 damage. You can only use this effect of \"Performage Trick Clown\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

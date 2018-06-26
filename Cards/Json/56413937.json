@@ -1,0 +1,16 @@
+{
+  "id": 7470,
+  "cardNumber": "56413937",
+  "name": "Warrior of Tradition",
+  "description": "\"Sonic Maid\" + \"Beautiful Headhuntress\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

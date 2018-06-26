@@ -1,0 +1,16 @@
+{
+  "id": 1543,
+  "cardNumber": "12071500",
+  "name": "Dark Calling",
+  "description": "Banish, from your hand or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that can only be Special Summoned with \"Dark Fusion\", then Special Summon that monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon with \"Dark Fusion\".)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

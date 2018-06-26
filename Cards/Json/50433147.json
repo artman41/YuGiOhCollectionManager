@@ -1,0 +1,16 @@
+{
+  "id": 4888,
+  "cardNumber": "50433147",
+  "name": "The Nordic Lights",
+  "description": "\"Nordic\" monsters on the field cannot be destroyed by battle. If this card on the field is destroyed: Destroy all \"Nordic\" monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

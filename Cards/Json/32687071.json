@@ -1,0 +1,16 @@
+{
+  "id": 194,
+  "cardNumber": "32687071",
+  "name": "Amorphage Sloth",
+  "description": "Pendulum Effect\n While you control an \"Amorphage\" monster, neither player can add cards from their Deck to their hand except by drawing them. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.\n\n Monster Effect\n Neither player can Special Summon monsters from the Extra Deck, except \"Amorphage\" monsters.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2250,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

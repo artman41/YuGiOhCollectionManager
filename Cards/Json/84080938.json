@@ -1,0 +1,16 @@
+{
+  "id": 2626,
+  "cardNumber": "84080938",
+  "name": "The Forgiving Maiden",
+  "description": "Tribute this face-up card to return to your hand 1 of your monsters destroyed as a result of battle during this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 850,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

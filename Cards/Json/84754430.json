@@ -1,0 +1,16 @@
+{
+  "id": 8804,
+  "cardNumber": "84754430",
+  "name": "Mekk-Knight Avram",
+  "description": "The hero who defends the light of the stars<br>Must destroy the darkness of the illusory world<br>And entrust his power to the chosen one.<br>The will inherited by the chalice of the stars will become a new key<br>And become the sword that cuts down darkness.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

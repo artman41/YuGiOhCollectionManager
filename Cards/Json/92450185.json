@@ -1,0 +1,16 @@
+{
+  "id": 4070,
+  "cardNumber": "92450185",
+  "name": "Limiter Overload",
+  "description": "If this card is sent to the Graveyard: Special Summon 1 \"Speed Warrior\" from your hand, Deck, or Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

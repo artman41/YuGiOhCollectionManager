@@ -1,0 +1,16 @@
+{
+  "id": 7938,
+  "cardNumber": "15419596",
+  "name": "Mikuratori",
+  "description": "This card gains the appropriate effect, based on its location in the Main Monster Zone.<br>â— Left-most: Gains 1000 ATK/DEF.<br>â— Right-most: This card can make up to 2 attacks on monsters during each Battle Phase.<br>â— Middle: Cannot be destroyed by your opponent's card effects. Your opponent cannot target this card with card effects.<br>â— Other: Monsters in this card's column cannot activate their effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 754,
+  "cardNumber": "14089428",
+  "name": "Blue Thunder T-45",
+  "description": "If this card destroys an opponent's monster by battle: Special Summon 1 \"Thunder Option Token\" (Machine-Type/LIGHT/Level 4/ATK 1500/DEF 1500). This Token cannot be Tributed for a Tribute Summon.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

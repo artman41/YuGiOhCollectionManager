@@ -1,0 +1,16 @@
+{
+  "id": 2683,
+  "cardNumber": "9373534",
+  "name": "Fuhma Shuriken",
+  "description": "Equip only to a \"Ninja\" monster. It gains 700 ATK. When this card is sent from the field to the Graveyard: Inflict 700 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

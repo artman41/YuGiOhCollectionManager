@@ -1,0 +1,16 @@
+{
+  "id": 8963,
+  "cardNumber": "60162470",
+  "name": "Zero Extra Link",
+  "description": "Activate this card by targeting 1 Link Monster you control co-linked to a Link Monster in the Extra Monster Zone. The targeted monster gains 800 ATK for each Link Monster on the field. If a Link Monster is Link Summoned using the targeted monster as material: That Link Monster gains ATK equal to the ATK gained by the above effect, until the end of this turn. After damage calculation, if the targeted monster attacked: Destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

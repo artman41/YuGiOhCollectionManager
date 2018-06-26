@@ -1,0 +1,16 @@
+{
+  "id": 7088,
+  "cardNumber": "13821299",
+  "name": "Trap Eater",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by sending 1 face-up Trap Card your opponent controls to the Graveyard, and cannot be Special Summoned by other ways.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4200,
+  "cardNumber": "43385557",
+  "name": "Magical Android",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>During each of your End Phases: Gain 600 LP for each Psychic-Type monster you currently control.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

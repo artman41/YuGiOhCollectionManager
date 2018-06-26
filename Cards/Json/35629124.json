@@ -1,0 +1,16 @@
+{
+  "id": 3811,
+  "cardNumber": "35629124",
+  "name": "Kidmodo Dragon",
+  "description": "If this card is sent to the Graveyard: You can Special Summon 1 Dragon-Type monster from your hand. You cannot Special Summon monsters, except Dragon-Type monsters, nor conduct your Battle Phase, the turn you activate this effect. You can only use this effect of \"Kidmodo Dragon\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

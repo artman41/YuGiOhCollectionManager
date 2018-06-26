@@ -1,0 +1,16 @@
+{
+  "id": 8418,
+  "cardNumber": "55784832",
+  "name": "Morinphen",
+  "description": "A strange fiend with long arms and razor-sharp talons.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1550,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

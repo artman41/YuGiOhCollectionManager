@@ -1,0 +1,16 @@
+{
+  "id": 8352,
+  "cardNumber": "4392470",
+  "name": "Leo Wizard",
+  "description": "A mysterious magician that cloaks itself with a black cape. Its identity is a talking lion beast.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

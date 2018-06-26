@@ -1,0 +1,16 @@
+{
+  "id": 5917,
+  "cardNumber": "88279736",
+  "name": "Robbin' Goblin",
+  "description": "Each time a monster you control inflicts Battle Damage to your opponent, your opponent discards 1 random card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5197,
+  "cardNumber": "69982329",
+  "name": "Pendulum Shift",
+  "description": "Target 1 card in either player's Pendulum Zone and declare a Pendulum Scale from 1 to 10; this turn, that card becomes that Pendulum Scale.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4383,
+  "cardNumber": "30707994",
+  "name": "Maximum Six",
+  "description": "When this card is Tribute Summoned: Roll a six-sided die, and this card gains ATK equal to the result x 200.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

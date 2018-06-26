@@ -1,0 +1,16 @@
+{
+  "id": 4593,
+  "cardNumber": "69448290",
+  "name": "Mist Valley Thunderbird",
+  "description": "When this face-up card on the field returns to the hand, Special Summon it. This card cannot attack during the turn it was Special Summoned by this effect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

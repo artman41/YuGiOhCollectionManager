@@ -1,0 +1,16 @@
+{
+  "id": 1658,
+  "cardNumber": "47664723",
+  "name": "Darklord Edeh Arae",
+  "description": "If this card is Special Summoned from the Graveyard, it gains this effect.<br>â— If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

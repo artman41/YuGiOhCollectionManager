@@ -1,0 +1,16 @@
+{
+  "id": 8117,
+  "cardNumber": "8715625",
+  "name": "Bokoichi the Freightening Car",
+  "description": "A freight car that is exclusively for Dekoichi. It can transport anything, but most cargo arrives broken.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

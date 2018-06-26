@@ -1,0 +1,16 @@
+{
+  "id": 4665,
+  "cardNumber": "84592800",
+  "name": "Morphtronic Videon",
+  "description": "â— While in Attack Position: This card gains 800 ATK for each Equip Card equipped to it. <br>â— While in Defense Position: This card gains 800 DEF for each Equip Card equipped to it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

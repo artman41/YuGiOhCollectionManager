@@ -1,0 +1,16 @@
+{
+  "id": 4280,
+  "cardNumber": "33746252",
+  "name": "Majesty's Fiend",
+  "description": "Cannot be Special Summoned. Monster effects cannot be activated.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

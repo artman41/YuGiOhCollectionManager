@@ -1,0 +1,16 @@
+{
+  "id": 3471,
+  "cardNumber": "22873798",
+  "name": "Hyena",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon any number of \"Hyenas\" from your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

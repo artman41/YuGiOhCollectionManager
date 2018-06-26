@@ -1,0 +1,16 @@
+{
+  "id": 8604,
+  "cardNumber": "57308711",
+  "name": "Unicycular",
+  "description": "The third of the brothers, following Tricular and Bicular.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

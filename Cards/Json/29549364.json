@@ -1,0 +1,16 @@
+{
+  "id": 4345,
+  "cardNumber": "29549364",
+  "name": "Mask of Restrict",
+  "description": "Neither player can Tribute cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

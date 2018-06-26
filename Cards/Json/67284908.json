@@ -1,0 +1,16 @@
+{
+  "id": 8345,
+  "cardNumber": "67284908",
+  "name": "Labyrinth Wall",
+  "description": "These walls form a labyrinth with no exit for enemies.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 0,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

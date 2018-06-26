@@ -1,0 +1,16 @@
+{
+  "id": 4131,
+  "cardNumber": "84385264",
+  "name": "Lycanthrope",
+  "description": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Synthesis Spell\". When this card inflicts Battle Damage to your opponent, inflict 200 damage to your opponent for each Normal Monster in your Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

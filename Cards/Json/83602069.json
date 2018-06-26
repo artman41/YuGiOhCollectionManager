@@ -1,0 +1,16 @@
+{
+  "id": 1189,
+  "cardNumber": "83602069",
+  "name": "Comrade Swordsman of Landstar",
+  "description": "All Warrior-Type monsters you control gain 400 ATK.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8666,
+  "cardNumber": "56713552",
+  "name": "Obese Marmot of Nefariousness",
+  "description": "An ill-mannered field varmint that will sink its teeth into anything.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 750,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

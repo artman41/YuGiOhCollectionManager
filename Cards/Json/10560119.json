@@ -1,0 +1,16 @@
+{
+  "id": 2524,
+  "cardNumber": "10560119",
+  "name": "Fishborg Doctor",
+  "description": "If this card is in your Graveyard and all monsters you control are \"Fishborg\" monsters (min. 1): You can Special Summon this card, and if you do, banish it when it leaves the field. You can only use this effect of \"Fishborg Doctor\" once per turn. If you control a monster that is not a \"Fishborg\" monster, destroy this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

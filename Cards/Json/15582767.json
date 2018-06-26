@@ -1,0 +1,16 @@
+{
+  "id": 2118,
+  "cardNumber": "15582767",
+  "name": "Echo Oscillation",
+  "description": "You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of \"Echo Oscillation\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

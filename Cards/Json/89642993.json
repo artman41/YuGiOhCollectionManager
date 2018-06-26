@@ -1,0 +1,16 @@
+{
+  "id": 4953,
+  "cardNumber": "89642993",
+  "name": "Number 63: Shamoji Soldier",
+  "description": "2 Level 1 monsters<br>You can only use the effect of \"Number 63: Shamoji Soldier\" once per turn. You can detach 1 Xyz Material from this card, then activate 1 of these effects;<br>â— At the start of your opponent's next Standby Phase, each player draws 1 card.<br>â— Each player gains 1000 Life Points.",
+  "cardLevel": null,
+  "cardRank": 1,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

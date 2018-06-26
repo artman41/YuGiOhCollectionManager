@@ -1,0 +1,16 @@
+{
+  "id": 3742,
+  "cardNumber": "48411996",
+  "name": "Jurrac Stauriko",
+  "description": "If this card is destroyed by battle, Special Summon 2 \"Jurrac Tokens\" (Dinosaur-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, unless it is for a \"Jurrac\" monster.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

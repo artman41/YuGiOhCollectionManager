@@ -1,0 +1,16 @@
+{
+  "id": 5527,
+  "cardNumber": "45379225",
+  "name": "Psychic Lifetrancer",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to gain 1200 Life Points.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

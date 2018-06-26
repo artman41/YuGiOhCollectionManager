@@ -1,0 +1,16 @@
+{
+  "id": 5980,
+  "cardNumber": "35037880",
+  "name": "Saber Reflection",
+  "description": "When you take battle or effect damage while you control an \"X-Saber\" monster: Gain LP equal to the damage you took, and if you do, inflict the same amount of damage to your opponent, then you can add 1 \"Saber\" Spell/Trap Card or \"Gottoms\" card from your Deck to your hand. You can only activate 1 \"Saber Reflection\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

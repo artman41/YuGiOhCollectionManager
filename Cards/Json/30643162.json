@@ -1,0 +1,16 @@
+{
+  "id": 6645,
+  "cardNumber": "30643162",
+  "name": "Strike Slash",
+  "description": "When a monster you control declares an attack: Until the End Phase, that monster gains 700 ATK, also, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

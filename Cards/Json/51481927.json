@@ -1,0 +1,16 @@
+{
+  "id": 6445,
+  "cardNumber": "51481927",
+  "name": "Spell Absorption",
+  "description": "Each time a Spell Card is activated, gain 500 Life Points immediately after it resolves.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

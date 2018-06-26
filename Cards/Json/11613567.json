@@ -1,0 +1,16 @@
+{
+  "id": 670,
+  "cardNumber": "11613567",
+  "name": "Blackwing - Elphin the Raven",
+  "description": "If you control a \"Blackwing\" monster, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can target 1 monster your opponent controls; change that target's battle position.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

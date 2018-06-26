@@ -1,0 +1,16 @@
+{
+  "id": 7066,
+  "cardNumber": "56346071",
+  "name": "Totem Five",
+  "description": "If 5 monsters are Special Summoned at the same time, including this card: Destroy as many cards your opponent controls as possible, and if you do, inflict 500 damage to your opponent for each card destroyed.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

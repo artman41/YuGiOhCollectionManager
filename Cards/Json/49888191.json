@@ -1,0 +1,16 @@
+{
+  "id": 8236,
+  "cardNumber": "49888191",
+  "name": "Garnecia Elefantis",
+  "description": "A monster so heavy that each step rocks the earth.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

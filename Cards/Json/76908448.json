@@ -1,0 +1,16 @@
+{
+  "id": 8242,
+  "cardNumber": "76908448",
+  "name": "Gem-Knight Crystal",
+  "description": "A Gem-Knight officer of high rank, who has optimized the use of the crystal powers. Despite his ability to overwhelm most opponents, he's wary of stretching himself too thin, and opts for solidarity with his comrades.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2450,
+  "def": 1950,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

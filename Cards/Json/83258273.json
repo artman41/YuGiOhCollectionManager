@@ -1,0 +1,16 @@
+{
+  "id": 5918,
+  "cardNumber": "83258273",
+  "name": "Robbin' Zombie",
+  "description": "Each time 1 monster on your side of the field inflicts Battle Damage to your opponent's Life Points, your opponent sends 1 card from the top of their Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

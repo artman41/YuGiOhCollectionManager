@@ -1,0 +1,16 @@
+{
+  "id": 1668,
+  "cardNumber": "92807548",
+  "name": "Darklord Ukoback",
+  "description": "If this card is Normal or Special Summoned: You can send 1 \"Darklord\" card from your Deck to the Graveyard. You can only use this effect of \"Darklord Ukoback\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

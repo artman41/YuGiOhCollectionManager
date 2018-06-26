@@ -1,0 +1,16 @@
+{
+  "id": 8442,
+  "cardNumber": "74637266",
+  "name": "Octoberser",
+  "description": "With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

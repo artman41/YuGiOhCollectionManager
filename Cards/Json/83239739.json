@@ -1,0 +1,16 @@
+{
+  "id": 5134,
+  "cardNumber": "83239739",
+  "name": "Oyster Meister",
+  "description": "If this card is sent from the field to the Graveyard, except when destroyed by battle: Special Summon 1 \"Oyster Token\" (Fish-Type/WATER/Level 1/ATK 0/DEF 0).",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

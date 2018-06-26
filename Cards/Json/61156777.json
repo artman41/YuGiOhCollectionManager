@@ -1,0 +1,16 @@
+{
+  "id": 794,
+  "cardNumber": "61156777",
+  "name": "BOXer",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can place 1 counter on this card. You can send this card with 2 or more counters to the Graveyard; Special Summon 1 EARTH monster from your Deck. If this card would be destroyed by battle or card effect, you can remove 1 counter from this card instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

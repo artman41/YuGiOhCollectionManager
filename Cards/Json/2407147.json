@@ -1,0 +1,16 @@
+{
+  "id": 3955,
+  "cardNumber": "2407147",
+  "name": "Laval Volcano Handmaiden",
+  "description": "When this card is sent to the Graveyard, if you have a \"Laval\" monster in your Graveyard other than \"Laval Volcano Handmaiden\": You can send 1 \"Laval\" monster from your Deck to your Graveyard.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

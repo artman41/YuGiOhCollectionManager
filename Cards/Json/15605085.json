@@ -1,0 +1,16 @@
+{
+  "id": 2897,
+  "cardNumber": "15605085",
+  "name": "Genex Solar",
+  "description": "You can Normal Summon this card by Tributing 1 \"Genex\" monster. Inflict 500 damage to your opponent each time a face-up \"Genex\" monster you control is sent to the Graveyard.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

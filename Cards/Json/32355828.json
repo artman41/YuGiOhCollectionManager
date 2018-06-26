@@ -1,0 +1,16 @@
+{
+  "id": 6293,
+  "cardNumber": "32355828",
+  "name": "Skelgon",
+  "description": "\"The Snake Hair\" + \"Blackland Fire Dragon\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8050,
+  "cardNumber": "48202661",
+  "name": "Aitsu",
+  "description": "He seems to be very unreliable, but he might have incredible potential.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

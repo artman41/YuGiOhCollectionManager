@@ -1,0 +1,16 @@
+{
+  "id": 2158,
+  "cardNumber": "65260293",
+  "name": "Element Magician",
+  "description": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: â— WATER: Control of this card cannot switch. â— WIND: If this card destroyed your opponent's monster by battle, it can attack once again in a row.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

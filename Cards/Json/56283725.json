@@ -1,0 +1,16 @@
+{
+  "id": 8339,
+  "cardNumber": "56283725",
+  "name": "Kumootoko",
+  "description": "A massive, intelligent spider that traps enemies with webbing.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

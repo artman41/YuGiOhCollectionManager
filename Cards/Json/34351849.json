@@ -1,0 +1,16 @@
+{
+  "id": 2673,
+  "cardNumber": "34351849",
+  "name": "Froggy Forcefield",
+  "description": "Activate only when a face-up \"Frog\" monster you control, except \"Frog the Jam\", is selected as an attack target. Destroy all Attack Position monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

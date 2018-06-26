@@ -1,0 +1,16 @@
+{
+  "id": 8300,
+  "cardNumber": "46821314",
+  "name": "Humanoid Slime",
+  "description": "This slime apparently has some human genes in its genetic makeup.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

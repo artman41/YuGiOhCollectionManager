@@ -1,0 +1,16 @@
+{
+  "id": 3139,
+  "cardNumber": "48343627",
+  "name": "Grave Squirmer",
+  "description": "If this card is destroyed by battle and sent to the Graveyard: Target 1 card on the field; destroy that target.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

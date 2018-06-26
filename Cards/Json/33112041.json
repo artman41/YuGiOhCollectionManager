@@ -1,0 +1,16 @@
+{
+  "id": 8613,
+  "cardNumber": "33112041",
+  "name": "Volcanic Rat",
+  "description": "This mutated mouse dwells in the core of active volcanoes. No amount of heat is too much for it to bear.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

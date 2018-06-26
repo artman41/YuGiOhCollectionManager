@@ -1,0 +1,16 @@
+{
+  "id": 6229,
+  "cardNumber": "32476434",
+  "name": "Shogi Lance",
+  "description": "Once per turn: You can target 1 other Level 3 Beast-Warrior-Type monster you control; the Levels of that monster and this card become the combined Levels of those monsters.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

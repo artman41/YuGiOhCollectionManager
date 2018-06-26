@@ -1,0 +1,16 @@
+{
+  "id": 360,
+  "cardNumber": "16759958",
+  "name": "Aromaseraphy Angelica",
+  "description": "During either player's turn: You can discard this card, then target 1 \"Aroma\" monster in your Graveyard; gain LP equal to that target's ATK. While your LP is higher than your opponent's, you control an \"Aroma\" monster, and this card is in your Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Aromaseraphy Angelica\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

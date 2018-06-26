@@ -1,0 +1,16 @@
+{
+  "id": 1110,
+  "cardNumber": "29246354",
+  "name": "Chrysalis Pinny",
+  "description": "You can Tribute this card while \"Neo Space\" is face-up on the field to Special Summon 1 \"Neo-Spacian Glow Moss\" from your hand or Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

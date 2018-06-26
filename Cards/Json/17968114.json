@@ -1,0 +1,16 @@
+{
+  "id": 8060,
+  "cardNumber": "17968114",
+  "name": "Amazon of the Seas",
+  "description": "A mermaid who serves as a herald to the Ocean Lord. She protects the sacred domain of Atlantis.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

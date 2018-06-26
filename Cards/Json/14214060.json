@@ -1,0 +1,16 @@
+{
+  "id": 8589,
+  "cardNumber": "14214060",
+  "name": "Trance the Magic Swordsman",
+  "description": "A peculiar magician with considerable abilities. Supposedly, he's just returned from a trip to outer space.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6798,
+  "cardNumber": "50277973",
+  "name": "Swamp Mirrorer",
+  "description": "Activate this card by declaring 1 Monster Type and 1 Attribute; Special Summon this card as a Normal Monster (Level 4/ATK 1800/DEF 1000) with that Type and Attribute. (This card is also still a Trap Card.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

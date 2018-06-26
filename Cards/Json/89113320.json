@@ -1,0 +1,16 @@
+{
+  "id": 5219,
+  "cardNumber": "89113320",
+  "name": "Performapal Bit Bite Turtle",
+  "description": "Pendulum Effect\n Once per turn: You can reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set, and even if this card leaves the field).\n\n Monster Effect\n When this card is destroyed by battle: You can destroy the monster that destroyed it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

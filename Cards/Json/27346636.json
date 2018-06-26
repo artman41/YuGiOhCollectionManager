@@ -1,0 +1,16 @@
+{
+  "id": 3012,
+  "cardNumber": "27346636",
+  "name": "Gladiator Beast Heraklinos",
+  "description": "\"Gladiator Beast Laquari\" + 2 \"Gladiator Beast\" monsters<br>Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use \"Polymerization\".) During either player's turn, when a Spell/Trap Card is activated: You can discard 1 card; negate the activation and destroy it. This card must be face-up on the field to activate and to resolve this effect.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

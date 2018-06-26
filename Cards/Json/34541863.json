@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "cardNumber": "34541863",
+  "name": "\"A\" Cell Breeding Device",
+  "description": "During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

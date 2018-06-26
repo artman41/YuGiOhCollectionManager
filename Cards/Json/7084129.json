@@ -1,0 +1,16 @@
+{
+  "id": 4237,
+  "cardNumber": "7084129",
+  "name": "Magician's Rod",
+  "description": "When this card is Normal Summoned: You can add 1 Spell/Trap from your Deck to your hand, that specifically lists the card \"Dark Magician\" in its text. During your opponent's turn, if you activate a Spell/Trap Card or effect while this card is in your GY (except during the Damage Step): You can Tribute 1 Spellcaster monster; add this card to your hand. You can only use each effect of \"Magician's Rod\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

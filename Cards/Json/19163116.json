@@ -1,0 +1,16 @@
+{
+  "id": 2846,
+  "cardNumber": "19163116",
+  "name": "Gem-Knight Obsidian",
+  "description": "If this card is sent from the hand to your Graveyard: You can target 1 Level 4 or lower Normal Monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

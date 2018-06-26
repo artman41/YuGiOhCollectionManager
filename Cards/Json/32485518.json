@@ -1,0 +1,16 @@
+{
+  "id": 3517,
+  "cardNumber": "32485518",
+  "name": "Immortal Ruler",
+  "description": "This card cannot be Special Summoned. You can Tribute this card to add 1 \"Zombie World\" from your Graveyard to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

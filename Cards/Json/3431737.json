@@ -1,0 +1,16 @@
+{
+  "id": 390,
+  "cardNumber": "3431737",
+  "name": "Assault Beast",
+  "description": "You can discard this card to the Graveyard to add 1 \"Assault Mode Activate\" from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

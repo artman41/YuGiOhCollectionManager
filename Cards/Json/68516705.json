@@ -1,0 +1,16 @@
+{
+  "id": 8425,
+  "cardNumber": "68516705",
+  "name": "Mystic Horseman",
+  "description": "Half man and half horse, this monster is known for its extreme speed.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1550,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4839,
+  "cardNumber": "58775978",
+  "name": "Nightmare's Steelcage",
+  "description": "This card remains on the field for 2 of your opponent's turns. While this card is face-up on the field, no monsters can attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

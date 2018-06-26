@@ -1,0 +1,16 @@
+{
+  "id": 7145,
+  "cardNumber": "39402797",
+  "name": "Trident Dragion",
+  "description": "1 Dragon-Type Tuner + 1 or more non-Tuner Dragon-Type monsters<br>Must be Synchro Summoned, and cannot be Special Summoned by other ways. When this card is Synchro Summoned: You can target up to 2 other cards you control; destroy those targets, and if you do, for each card destroyed, this card gains 1 additional attack during each Battle Phase this turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

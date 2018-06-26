@@ -1,0 +1,16 @@
+{
+  "id": 7133,
+  "cardNumber": "2903036",
+  "name": "Tribute Doll",
+  "description": "Tribute 1 monster; Special Summon 1 Level 7 monster from your hand that can be Normal Summoned or Normal Set. It cannot attack this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

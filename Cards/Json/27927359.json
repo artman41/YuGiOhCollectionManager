@@ -1,0 +1,16 @@
+{
+  "id": 3288,
+  "cardNumber": "27927359",
+  "name": "Harpie Lady 2",
+  "description": "(This card's name is always treated as \"Harpie Lady\".)<br>Negate the effects of Flip Effect Monsters this card destroys by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

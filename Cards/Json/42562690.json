@@ -1,0 +1,16 @@
+{
+  "id": 5275,
+  "cardNumber": "42562690",
+  "name": "Performapal Skeeter Skimmer",
+  "description": "When this face-up Attack Position card is targeted for an attack: You can change this card to face-up Defense Position, and if you do, negate that attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

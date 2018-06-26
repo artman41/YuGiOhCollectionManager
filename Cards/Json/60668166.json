@@ -1,0 +1,16 @@
+{
+  "id": 4736,
+  "cardNumber": "60668166",
+  "name": "Naturia Cherries",
+  "description": "If this card is sent from the field to the Graveyard by your opponent's card (including by battle, card effect, or by being destroyed), you can Special Summon up to 2 \"Naturia Cherries\" from your Deck in face-down Defense Position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

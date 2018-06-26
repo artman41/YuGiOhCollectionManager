@@ -1,0 +1,16 @@
+{
+  "id": 2543,
+  "cardNumber": "23297235",
+  "name": "Flamvell Firedog",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon 1 FIRE monster with 200 or less DEF from your Deck, except \"Flamvell Firedog\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

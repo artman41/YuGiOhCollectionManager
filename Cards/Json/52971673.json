@@ -1,0 +1,16 @@
+{
+  "id": 7029,
+  "cardNumber": "52971673",
+  "name": "Token Sundae",
+  "description": "Destroy all Tokens you control, then destroy cards on the field, up to the number of Tokens destroyed by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

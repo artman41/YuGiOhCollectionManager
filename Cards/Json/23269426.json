@@ -1,0 +1,16 @@
+{
+  "id": 2481,
+  "cardNumber": "23269426",
+  "name": "Final Gesture",
+  "description": "Target 1 face-up Level 3 monster you control; Special Summon 1 monster with the same name as that monster from your hand or Graveyard. Its effects are negated. During the End Phase of this turn, destroy the face-up monster that was targeted by this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

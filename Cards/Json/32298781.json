@@ -1,0 +1,16 @@
+{
+  "id": 7129,
+  "cardNumber": "32298781",
+  "name": "Triangle Power",
+  "description": "Increase the original ATK and DEF of all face-up Level 1 Normal Monsters (except Tokens) on your side of the field by 2000 points until the End Phase. Destroy all Level 1 Normal Monsters on your side of the field during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

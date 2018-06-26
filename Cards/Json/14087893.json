@@ -1,0 +1,16 @@
+{
+  "id": 777,
+  "cardNumber": "14087893",
+  "name": "Book of Moon",
+  "description": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

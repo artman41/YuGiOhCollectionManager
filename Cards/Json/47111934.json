@@ -1,0 +1,16 @@
+{
+  "id": 7653,
+  "cardNumber": "47111934",
+  "name": "Worm Yagan",
+  "description": "If the only monster you control is \"Worm Xex\", you can Special Summon this card from your Graveyard in face-down Defense Position. If you do, remove it from play when it is removed from the field. When this card is flipped face-up, select 1 face-up monster your opponent controls, and return it to it's owner's hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

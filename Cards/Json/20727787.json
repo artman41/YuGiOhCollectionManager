@@ -1,0 +1,16 @@
+{
+  "id": 1880,
+  "cardNumber": "20727787",
+  "name": "Disarmament",
+  "description": "Destroy all Equip Cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

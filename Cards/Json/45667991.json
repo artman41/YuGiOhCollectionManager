@@ -1,0 +1,16 @@
+{
+  "id": 2008,
+  "cardNumber": "45667991",
+  "name": "Dragoncaller Magician",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up monster on the field; it becomes Dragon-Type until the end of your opponent's turn (even if this card leaves the field).\n\n Monster Effect\n Once per turn: You can make this card become Dragon-Type until the end of this turn. A monster that was Fusion, Synchro, or Xyz Summoned using this card on the field as Material gains this effect.<br>â— If this card battles a Dragon-Type monster, this card's ATK becomes double its original ATK during the Damage Step only.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8076,
+  "cardNumber": "49881766",
+  "name": "Archfiend Soldier",
+  "description": "An expert at battle who belongs to a crack diabolical unit. He's famous because he always gets the job done.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

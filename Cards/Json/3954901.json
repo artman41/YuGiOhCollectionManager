@@ -1,0 +1,16 @@
+{
+  "id": 2450,
+  "cardNumber": "3954901",
+  "name": "Felgrand Dragon",
+  "description": "Cannot be Special Summoned except from the Graveyard, and only if it was sent there from the field. If this card is Special Summoned: Target 1 monster in your Graveyard; this card gains ATK equal to that monster's Level x 200.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

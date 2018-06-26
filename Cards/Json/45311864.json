@@ -1,0 +1,16 @@
+{
+  "id": 3052,
+  "cardNumber": "45311864",
+  "name": "Goblin Thief",
+  "description": "Inflict 500 points of damage to your opponent's Life Points and increase your Life Points by 500 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

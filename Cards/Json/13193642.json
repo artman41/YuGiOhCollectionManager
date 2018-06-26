@@ -1,0 +1,16 @@
+{
+  "id": 8158,
+  "cardNumber": "13193642",
+  "name": "Dark Plant",
+  "description": "This mutant flower draws its power from pollutants and the dark forces.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

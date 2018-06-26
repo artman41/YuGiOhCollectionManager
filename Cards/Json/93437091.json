@@ -1,0 +1,16 @@
+{
+  "id": 8915,
+  "cardNumber": "93437091",
+  "name": "Bingo Machine GO! GO!",
+  "description": "Reveal 3 of the following cards from your Deck, your opponent randomly chooses 1 for you to add to your hand, and you shuffle the rest back into your Deck.<br>â— \"Blue-Eyes\" monster.<br>â— Spell/Trap that specifically lists the card \"Blue-Eyes White Dragon\" or \"Blue-Eyes Ultimate Dragon\" in its text, except \"Bingo Machine GO! GO!\".<br>You can only activate 1 \"Bingo Machine GO! GO!\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

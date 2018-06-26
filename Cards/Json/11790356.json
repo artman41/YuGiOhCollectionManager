@@ -1,0 +1,16 @@
+{
+  "id": 912,
+  "cardNumber": "11790356",
+  "name": "Buster Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>All monsters your opponent controls become Dragon-Type. Once per turn, if you do not control a \"Buster Blader\" monster: You can target 1 \"Buster Blader\" in your Graveyard; Special Summon it. Once per turn, during your opponent's turn: You can target 1 \"Buster Blader\" monster you control; equip it with 1 \"Destruction Sword\" monster from your Graveyard (this is a Quick Effect).",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

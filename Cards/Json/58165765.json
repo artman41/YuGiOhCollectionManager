@@ -1,0 +1,16 @@
+{
+  "id": 5740,
+  "cardNumber": "58165765",
+  "name": "Red Dragon Ninja",
+  "description": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your Graveyard to target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use the effect of \"Red Dragon Ninja\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

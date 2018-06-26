@@ -1,0 +1,16 @@
+{
+  "id": 174,
+  "cardNumber": "94004268",
+  "name": "Amazoness Swords Woman",
+  "description": "Your opponent takes any battle damage you would have taken from battles involving this card instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

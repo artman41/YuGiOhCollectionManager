@@ -1,0 +1,16 @@
+{
+  "id": 8141,
+  "cardNumber": "28279543",
+  "name": "Curse of Dragon",
+  "description": "A wicked dragon that taps into dark forces to execute a powerful attack.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

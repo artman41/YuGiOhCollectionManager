@@ -1,0 +1,16 @@
+{
+  "id": 8659,
+  "cardNumber": "24311372",
+  "name": "Zoa",
+  "description": "A monster whose full potential can be achieved when outfitted with \"Metalmorph\".",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

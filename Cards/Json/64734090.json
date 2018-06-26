@@ -1,0 +1,16 @@
+{
+  "id": 2855,
+  "cardNumber": "64734090",
+  "name": "Gem-Turtle",
+  "description": "FLIP: You can add 1 \"Gem-Knight Fusion\" from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

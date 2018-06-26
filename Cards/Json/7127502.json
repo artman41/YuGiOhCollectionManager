@@ -1,0 +1,16 @@
+{
+  "id": 3965,
+  "cardNumber": "7127502",
+  "name": "Lector Pendulum, the Dracoverlord",
+  "description": "Pendulum Effect\n Negate the effects of face-up Pendulum Monsters while your opponent controls them.\n\n Monster Effect\n At the start of the Damage Step, if this card battles a Pendulum Monster: Destroy both that monster and this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1950,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

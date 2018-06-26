@@ -1,0 +1,16 @@
+{
+  "id": 8170,
+  "cardNumber": "29948642",
+  "name": "Dig Beak",
+  "description": "This beast coils like a snake, and strikes quickly with its snapping beak.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

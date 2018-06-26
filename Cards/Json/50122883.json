@@ -1,0 +1,16 @@
+{
+  "id": 611,
+  "cardNumber": "50122883",
+  "name": "Bite Shoes",
+  "description": "FLIP: Change the battle position of 1 face-up monster on the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

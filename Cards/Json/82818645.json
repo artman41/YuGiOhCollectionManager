@@ -1,0 +1,16 @@
+{
+  "id": 8493,
+  "cardNumber": "82818645",
+  "name": "Rock Spirit",
+  "description": "A fairy of boulders that looks like an earthenware statue. It is quite strong in terms of both attack and defense.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1650,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

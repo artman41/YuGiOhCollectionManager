@@ -1,0 +1,16 @@
+{
+  "id": 8097,
+  "cardNumber": "6103114",
+  "name": "Beaked Snake",
+  "description": "This monster wraps itself around an opponent and pecks away with its huge beak.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

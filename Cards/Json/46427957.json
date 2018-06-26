@@ -1,0 +1,16 @@
+{
+  "id": 5963,
+  "cardNumber": "46427957",
+  "name": "Ruin, Queen of Oblivion",
+  "description": "This card can only be Ritual Summoned with the Ritual Spell Card, \"End of the World\". If this card destroys your opponent's monster by battle, it can attack once again in a row.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

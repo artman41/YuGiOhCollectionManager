@@ -1,0 +1,16 @@
+{
+  "id": 8558,
+  "cardNumber": "71068263",
+  "name": "Stuffed Animal",
+  "description": "It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

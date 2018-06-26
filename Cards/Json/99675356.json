@@ -1,0 +1,16 @@
+{
+  "id": 6189,
+  "cardNumber": "99675356",
+  "name": "Shien's Footsoldier",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Level 3 or lower \"Six Samurai\" monster from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6178,
+  "cardNumber": "27416701",
+  "name": "Shiba-Warrior Taro",
+  "description": "This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

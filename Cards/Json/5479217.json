@@ -1,0 +1,16 @@
+{
+  "id": 3736,
+  "cardNumber": "5479217",
+  "name": "Jurrac Impact",
+  "description": "If you control a Dinosaur-Type monster with 2500 or more ATK: Destroy all cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

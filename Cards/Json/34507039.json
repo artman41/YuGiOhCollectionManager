@@ -1,0 +1,16 @@
+{
+  "id": 7595,
+  "cardNumber": "34507039",
+  "name": "Wiretap",
+  "description": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

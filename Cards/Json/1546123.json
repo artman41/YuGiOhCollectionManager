@@ -1,0 +1,16 @@
+{
+  "id": 1381,
+  "cardNumber": "1546123",
+  "name": "Cyber End Dragon",
+  "description": "\"Cyber Dragon\" + \"Cyber Dragon\" + \"Cyber Dragon\"<br>A Fusion Summon of this card can only be done with the above Fusion Materials. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

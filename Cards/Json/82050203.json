@@ -1,0 +1,16 @@
+{
+  "id": 1947,
+  "cardNumber": "82050203",
+  "name": "Dotedotengu",
+  "description": "If this card in your possession is sent to your Graveyard by an opponent's card effect: You can target 1 card your opponent controls; return it to the hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

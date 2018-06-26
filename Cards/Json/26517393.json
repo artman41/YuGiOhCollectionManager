@@ -1,0 +1,16 @@
+{
+  "id": 6505,
+  "cardNumber": "26517393",
+  "name": "Spirit of the Fall Wind",
+  "description": "If this card is Normal Summoned: You can add 1 Flip monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

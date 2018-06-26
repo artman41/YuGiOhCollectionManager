@@ -1,0 +1,16 @@
+{
+  "id": 4267,
+  "cardNumber": "2572890",
+  "name": "Majespecter Tempest",
+  "description": "When a monster(s) would be Special Summoned, or a monster effect is activated: Tribute 1 WIND Spellcaster-Type monster; negate the Summon or activation, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

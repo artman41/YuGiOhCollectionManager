@@ -1,0 +1,16 @@
+{
+  "id": 7858,
+  "cardNumber": "89015998",
+  "name": "D.D. Pursuer",
+  "description": "(Quick Effect): You can target 1 face-up monster you control; banish it until the End Phase of the next turn. You can only use this effect of \"D.D. Pursuer\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

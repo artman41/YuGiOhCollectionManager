@@ -1,0 +1,16 @@
+{
+  "id": 5601,
+  "cardNumber": "73783043",
+  "name": "R-Genex Accelerator",
+  "description": "When a \"Genex\" monster is added from your Deck to your hand, you can reveal that monster to Special Summon it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

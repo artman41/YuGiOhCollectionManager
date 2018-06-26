@@ -1,0 +1,16 @@
+{
+  "id": 1203,
+  "cardNumber": "70908596",
+  "name": "Constellar Kaus",
+  "description": "Cannot be used as a Synchro Material. Up to twice per turn: You can target 1 \"Constellar\" monster on the field, then activate 1 of these effects;<br>â— Increase its Level by 1.<br>â— Reduce its Level by 1.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

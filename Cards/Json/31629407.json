@@ -1,0 +1,16 @@
+{
+  "id": 8686,
+  "cardNumber": "31629407",
+  "name": "Magical Musketeer Starfire",
+  "description": "During either player's turn, you can activate \"Magical Musket\" Spell/Trap Cards from your hand. If a Spell/Trap Card is activated in this card's column: You can Special Summon 1 Level 4 or lower \"Magical Musket\" monster from your Deck in Defense Position, except \"Magical Musketeer Starfire\". You can only use this effect of \"Magical Musketeer Starfire\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

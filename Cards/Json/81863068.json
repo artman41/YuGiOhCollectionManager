@@ -1,0 +1,16 @@
+{
+  "id": 3424,
+  "cardNumber": "81863068",
+  "name": "Hiro's Shadow Scout",
+  "description": "FLIP: Your opponent draws 3 cards. Both players look at the cards. If there are any Spell Cards among them, discard all those Spell Card(s) to the Graveyard.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 650,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

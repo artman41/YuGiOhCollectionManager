@@ -1,0 +1,16 @@
+{
+  "id": 645,
+  "cardNumber": "79409334",
+  "name": "Black Stego",
+  "description": "If this face-up Attack Position card is targeted for an attack: Change this card to Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

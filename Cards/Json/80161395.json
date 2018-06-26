@@ -1,0 +1,16 @@
+{
+  "id": 4720,
+  "cardNumber": "80161395",
+  "name": "Mystik Wok",
+  "description": "Tribute 1 monster. Select either its ATK or DEF and gain that many Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

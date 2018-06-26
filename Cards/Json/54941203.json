@@ -1,0 +1,16 @@
+{
+  "id": 7181,
+  "cardNumber": "54941203",
+  "name": "Tuning Magician",
+  "description": "If you have 2 \"Magician\" cards in your Pendulum Zones, while this card is in your hand or Graveyard: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Tuning Magician\" once per turn. If this card is Normal or Special Summoned: Your opponent gains 400 LP, then you take 400 damage.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

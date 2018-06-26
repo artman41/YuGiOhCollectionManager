@@ -1,0 +1,16 @@
+{
+  "id": 3109,
+  "cardNumber": "98637386",
+  "name": "Goyo Predator",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>When this card destroys an opponent's monster by battle and sends it to the Graveyard: You can Special Summon that monster to your side of the field, but any battle damage it inflicts to a player is halved. You can only use this effect of \"Goyo Predator\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

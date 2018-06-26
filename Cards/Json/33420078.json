@@ -1,0 +1,16 @@
+{
+  "id": 5392,
+  "cardNumber": "33420078",
+  "name": "Plaguespreader Zombie",
+  "description": "If this card is in your Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card, but banish it when it leaves the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

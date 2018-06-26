@@ -1,0 +1,16 @@
+{
+  "id": 8561,
+  "cardNumber": "41422426",
+  "name": "Supporter in the Shadows",
+  "description": "A cute little elf that hides in the shadows and provides spiritual support.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

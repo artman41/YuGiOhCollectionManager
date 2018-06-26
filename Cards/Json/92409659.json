@@ -1,0 +1,16 @@
+{
+  "id": 8628,
+  "cardNumber": "92409659",
+  "name": "White Dolphin",
+  "description": "A white dolphin with a horn that summons huge tidal waves.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

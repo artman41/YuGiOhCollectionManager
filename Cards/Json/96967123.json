@@ -1,0 +1,16 @@
+{
+  "id": 8168,
+  "cardNumber": "96967123",
+  "name": "Dharma Cannon",
+  "description": "A monstrous creature whose body is fitted with cannons that never miss their targets.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "cardNumber": "28325165",
+  "name": "Aqua Story - Urashima",
+  "description": "If you have an \"Aquaactress\" monster in your Graveyard: Target 1 monster on the field; until the end of this turn, its effects are negated, its ATK and DEF become 100, also it is unaffected by your opponent's card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

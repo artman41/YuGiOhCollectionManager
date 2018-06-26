@@ -1,0 +1,16 @@
+{
+  "id": 8006,
+  "cardNumber": "6357341",
+  "name": "The Six Shinobi",
+  "description": "If you control 6 \"Six Samurai\" monsters with different Attributes: Skip your opponent's next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

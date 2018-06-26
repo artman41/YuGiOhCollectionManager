@@ -1,0 +1,16 @@
+{
+  "id": 2322,
+  "cardNumber": "64815084",
+  "name": "Evo-Branch",
+  "description": "Target 1 face-up Reptile-Type monster you control; destroy it and Special Summon 1 \"Evoltile\" monster in face-down Defense Position from your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

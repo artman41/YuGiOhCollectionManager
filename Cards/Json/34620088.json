@@ -1,0 +1,16 @@
+{
+  "id": 2980,
+  "cardNumber": "34620088",
+  "name": "Gimmick Puppet Shadow Feeler",
+  "description": "Cannot be destroyed by battle. When you take battle damage from an opponent's direct attack while this card is in your Graveyard: You can Special Summon this card from your Graveyard in face-up Attack Position, and if you do, take 1000 damage. You can only use this effect of \"Gimmick Puppet Shadow Feeler\" once per turn. If this card is an Xyz Material and would be sent to the Graveyard, banish it instead.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

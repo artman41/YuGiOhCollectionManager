@@ -1,0 +1,16 @@
+{
+  "id": 1245,
+  "cardNumber": "30770156",
+  "name": "Core Transport Unit",
+  "description": "Once per turn, you can discard 1 card to add 1 \"Iron Core of Koa'ki Meiru\" from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

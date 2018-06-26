@@ -1,0 +1,16 @@
+{
+  "id": 3991,
+  "cardNumber": "75116619",
+  "name": "Legendary Six Samurai - Enishi",
+  "description": "Once per turn, during either player's turn: You can banish 2 \"Six Samurai\" monsters from your Graveyard to target 1 face-up monster on the field; return that target to the hand. You must control a face-up \"Six Samurai\" monster with a different name to activate and to resolve this effect. While you control 2 or more face-up \"Six Samurai\" monsters except \"Legendary Six Samurai - Enishi\", this card gains 500 ATK and DEF.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

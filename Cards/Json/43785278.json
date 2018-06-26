@@ -1,0 +1,16 @@
+{
+  "id": 2647,
+  "cardNumber": "43785278",
+  "name": "Foucault's Cannon",
+  "description": "Pendulum Effect\n Once per turn, during the End Phase, if this card was activated this turn: You can target 1 face-up Spell/Trap Card on the field; destroy it.\n\n Monster Effect\n A mechanized life form, roving through space-time. But the mysterious thing is that its memory i... m...stly gone. W...at is t...e reason? D..... refuse t... b.... interfered w...h?",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3119,
+  "cardNumber": "13944422",
+  "name": "Granadora",
+  "description": "When this monster is Normal Summoned, Flip Summoned, or Special Summoned, increase your Life Points by 1000 points. When this card is destroyed and sent to the Graveyard, you take 2000 points of damage.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

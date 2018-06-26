@@ -1,0 +1,16 @@
+{
+  "id": 5485,
+  "cardNumber": "1287123",
+  "name": "Prime Material Falcon",
+  "description": "When an Effect Monster's effect to destroy a Spell or Trap Card(s) on the field is activated, you can send 1 card from your hand to the Graveyard to negate its activation and destroy the card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

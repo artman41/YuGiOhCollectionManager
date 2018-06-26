@@ -1,0 +1,16 @@
+{
+  "id": 5836,
+  "cardNumber": "8951260",
+  "name": "Respect Play",
+  "description": "During their respective turns, each player must show their opponent their hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

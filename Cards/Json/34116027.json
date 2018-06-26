@@ -1,0 +1,16 @@
+{
+  "id": 2036,
+  "cardNumber": "34116027",
+  "name": "Dragunity Knight - Gae Dearg",
+  "description": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters<br>Once per turn: You can add 1 Level 4 or lower Dragon or Winged Beast monster from your Deck to your hand, then discard 1 Dragon or Winged Beast monster.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

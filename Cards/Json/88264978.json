@@ -1,0 +1,16 @@
+{
+  "id": 5765,
+  "cardNumber": "88264978",
+  "name": "Red-Eyes Darkness Metal Dragon",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 face-up Dragon-Type monster you control. Once per turn: You can Special Summon 1 Dragon-Type monster from your hand or Graveyard, except \"Red-Eyes Darkness Metal Dragon\".",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

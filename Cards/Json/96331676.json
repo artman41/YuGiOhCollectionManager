@@ -1,0 +1,16 @@
+{
+  "id": 1314,
+  "cardNumber": "96331676",
+  "name": "Crystal Raigeki",
+  "description": "Send 1 \"Crystal Beast\" card from your Spell &amp; Trap Card Zone to the Graveyard to target 1 card your opponent controls; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

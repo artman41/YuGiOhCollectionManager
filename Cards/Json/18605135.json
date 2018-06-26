@@ -1,0 +1,16 @@
+{
+  "id": 7058,
+  "cardNumber": "18605135",
+  "name": "Tornado Wall",
+  "description": "Activate only while \"Umi\" is on the field. While \"Umi\" is face-up on the field, you take no Battle Damage from attacking monsters. Destroy this card when \"Umi\" leaves the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

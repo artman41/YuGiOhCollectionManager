@@ -1,0 +1,16 @@
+{
+  "id": 7078,
+  "cardNumber": "98777036",
+  "name": "Tragoedia",
+  "description": "When you take battle damage: You can Special Summon this card from your hand. This card gains 600 ATK and DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the Graveyard, then target 1 face-up monster your opponent controls with the same Level the sent monster had in the hand; take control of that face-up monster. Once per turn: You can target 1 monster in your Graveyard; this card's Level becomes the same as that target's, until the end of this turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

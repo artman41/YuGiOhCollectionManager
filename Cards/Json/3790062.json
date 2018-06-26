@@ -1,0 +1,16 @@
+{
+  "id": 4955,
+  "cardNumber": "3790062",
+  "name": "Number 65: Djinn Buster",
+  "description": "2 Level 2 DARK monsters<br>During either player's turn, when an effect of an opponent's monster is activated: You can detach 2 Xyz Materials from this card; negate the activation, and if you do, inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": 2,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

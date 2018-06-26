@@ -1,0 +1,16 @@
+{
+  "id": 7977,
+  "cardNumber": "89055154",
+  "name": "Power Angel Valkyria",
+  "description": "If you negate the activation of a Spell/Trap Card, or monster effect: Add 1 LIGHT Fairy monster from your Deck to your hand. You can only use this effect of \"Power Angel Valkyria\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1050,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

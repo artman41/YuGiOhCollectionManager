@@ -1,0 +1,16 @@
+{
+  "id": 6862,
+  "cardNumber": "75105429",
+  "name": "Synchro Ejection",
+  "description": "Select 1 face-up Synchro Monster your opponent controls and remove it from play. Your opponent draws 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

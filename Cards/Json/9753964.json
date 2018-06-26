@@ -1,0 +1,16 @@
+{
+  "id": 3441,
+  "cardNumber": "9753964",
+  "name": "Hot Red Dragon Archfiend Abyss",
+  "description": "1 Tuner +  1 non-Tuner DARK Dragon-Type Synchro Monster<br>During either player's turn: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. When this card inflicts battle damage to your opponent: You can target 1 Tuner monster in your Graveyard; Special Summon it in Defense Position. You can only use each effect of \"Hot Red Dragon Archfiend Abyss\" once per turn.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

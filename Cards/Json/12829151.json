@@ -1,0 +1,16 @@
+{
+  "id": 8326,
+  "cardNumber": "12829151",
+  "name": "Kanan the Swordmistress",
+  "description": "A lady warrior armed with sword and shield, she floats lightly and stings sharply.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

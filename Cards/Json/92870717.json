@@ -1,0 +1,16 @@
+{
+  "id": 2019,
+  "cardNumber": "92870717",
+  "name": "Dragonox, the Empowered Warrior",
+  "description": "Pendulum Effect\n When an opponent's monster declares an attack: You can destroy this card, then end the Battle Phase.\n\n Monster Effect\n Once per turn: You can discard 1 card, then target 1 Warrior or Spellcaster-Type monster with 2000 or less ATK in your Graveyard; Special Summon it in face-down Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

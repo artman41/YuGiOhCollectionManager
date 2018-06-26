@@ -1,0 +1,16 @@
+{
+  "id": 1405,
+  "cardNumber": "74157028",
+  "name": "Cyber Twin Dragon",
+  "description": "\"Cyber Dragon\" + \"Cyber Dragon\"<br>A Fusion Summon of this card can only be done with the above Fusion Materials. This card can make a second attack during each Battle Phase.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

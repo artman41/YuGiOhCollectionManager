@@ -1,0 +1,16 @@
+{
+  "id": 8322,
+  "cardNumber": "15401633",
+  "name": "Kagemusha of the Blue Flame",
+  "description": "Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1793,
+  "cardNumber": "18739764",
+  "name": "Destruct Potion",
+  "description": "Select 1 monster you control. Destroy it, and gain Life Points equal to its ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

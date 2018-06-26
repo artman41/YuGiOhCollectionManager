@@ -1,0 +1,16 @@
+{
+  "id": 2111,
+  "cardNumber": "63845230",
+  "name": "Eater of Millions",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 5 or more cards from your hand, field and/or Extra Deck, face-down, and cannot be Special Summoned by other ways. This card gains 100 ATK and DEF for each face-down banished card. This face-up card on the field cannot be Tributed, nor used as Material for a Fusion, Synchro, or Xyz Summon. Once per turn, at the start of the Damage Step, if this card battles an opponent's monster: You can banish that opponent's monster, face-down.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

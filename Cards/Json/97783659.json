@@ -1,0 +1,16 @@
+{
+  "id": 742,
+  "cardNumber": "97783659",
+  "name": "Blood Sucker",
+  "description": "When this card inflicts Battle Damage to your opponent, send the top card of your opponent's Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

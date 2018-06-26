@@ -1,0 +1,16 @@
+{
+  "id": 6296,
+  "cardNumber": "73729209",
+  "name": "Skill Successor",
+  "description": "Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from the Graveyard, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

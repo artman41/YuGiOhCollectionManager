@@ -1,0 +1,16 @@
+{
+  "id": 5369,
+  "cardNumber": "65367484",
+  "name": "Photon Thrasher",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) while you control no monsters. Cannot attack if you control another monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

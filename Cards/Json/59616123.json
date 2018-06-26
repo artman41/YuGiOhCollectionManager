@@ -1,0 +1,16 @@
+{
+  "id": 7098,
+  "cardNumber": "59616123",
+  "name": "Trap Stun",
+  "description": "Negate all other Trap Card effects on the field this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8120,
+  "cardNumber": "21239280",
+  "name": "Bone Mouse",
+  "description": "A mouse that has returned as a zombie to seek revenge on cats.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

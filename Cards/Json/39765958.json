@@ -1,0 +1,16 @@
+{
+  "id": 3440,
+  "cardNumber": "39765958",
+  "name": "Hot Red Dragon Archfiend",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn, during your Main Phase 1: You can destroy all other face-up Attack Position monsters on the field. Monsters other than this card cannot attack the turn you activate this effect.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

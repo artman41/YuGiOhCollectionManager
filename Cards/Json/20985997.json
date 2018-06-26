@@ -1,0 +1,16 @@
+{
+  "id": 1806,
+  "cardNumber": "20985997",
+  "name": "Detonator Circle \"A\"",
+  "description": "Destroy 1 face-up monster with an A-Counter(s), and then inflict 1000 damage to each player.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

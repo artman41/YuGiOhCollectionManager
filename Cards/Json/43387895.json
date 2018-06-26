@@ -1,0 +1,16 @@
+{
+  "id": 6782,
+  "cardNumber": "43387895",
+  "name": "Supreme King Dragon Starving Venom",
+  "description": "2 DARK Pendulum Monsters<br>Must be either Fusion Summoned, or Special Summoned by Tributing the above cards you control (in which case you do not use \"Polymerization\"). Once per turn: You can target 1 other monster on the field or in the GY; until the End Phase, this card's name becomes that monster's original name, and replace this effect with that monster's original effects, also for the rest of this turn, if your monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

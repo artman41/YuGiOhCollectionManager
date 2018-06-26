@@ -1,0 +1,16 @@
+{
+  "id": 2955,
+  "cardNumber": "80723580",
+  "name": "Giant Trap Hole",
+  "description": "When 2 or more monsters are Special Summoned at the same time: Destroy all monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3306,
+  "cardNumber": "31303283",
+  "name": "Hazy Flame Hyppogrif",
+  "description": "Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5474,
+  "cardNumber": "96729612",
+  "name": "Preparation of Rites",
+  "description": "Add 1 Level 7 or lower Ritual Monster from your Deck to your hand, then you can add 1 Ritual Spell Card from your Graveyard to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

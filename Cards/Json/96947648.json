@@ -1,0 +1,16 @@
+{
+  "id": 6000,
+  "cardNumber": "96947648",
+  "name": "Salvage",
+  "description": "Target 2 WATER monsters with 1500 or less ATK in your Graveyard; add those targets to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

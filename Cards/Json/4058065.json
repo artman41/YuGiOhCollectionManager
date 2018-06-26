@@ -1,0 +1,16 @@
+{
+  "id": 2318,
+  "cardNumber": "4058065",
+  "name": "Evilswarm Salamandra",
+  "description": "Up to twice per turn: You can banish 1 monster from your Graveyard; this card gains 300 ATK until the end of your opponent's turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 950,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

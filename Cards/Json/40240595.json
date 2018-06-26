@@ -1,0 +1,16 @@
+{
+  "id": 1160,
+  "cardNumber": "40240595",
+  "name": "Cocoon of Evolution",
+  "description": "You can equip this card from your hand as an Equip Spell Card to a face-up \"Petit Moth\" on the field. If equipped, the ATK and DEF of \"Cocoon of Evolution\" is applied to \"Petit Moth\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

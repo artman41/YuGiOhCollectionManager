@@ -1,0 +1,16 @@
+{
+  "id": 2247,
+  "cardNumber": "15237615",
+  "name": "Empress Judge",
+  "description": "\"Queen's Double\" + \"Hibikime\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

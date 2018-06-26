@@ -1,0 +1,16 @@
+{
+  "id": 8878,
+  "cardNumber": "50005218",
+  "name": "Sky Striker Airspace - Area Zero",
+  "description": "You can target 1 other card you control; excavate the top 3 cards of your Deck, and if you do, you can add 1 excavated \"Sky Striker\" card to your hand, also shuffle the rest back into the Deck, then, if you excavated a \"Sky Striker\" card, send the targeted card to the GY. If this card in the Field Zone is sent to the GY by a card effect: You can Special Summon 1 \"Sky Striker Ace\" monster from your Deck. You can only use each effect of \"Sky Striker Airspace - Area Zero\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

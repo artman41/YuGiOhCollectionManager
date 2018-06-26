@@ -1,0 +1,16 @@
+{
+  "id": 2935,
+  "cardNumber": "86516889",
+  "name": "Ghostrick Scare",
+  "description": "Target any number of face-down Defense Position monsters you control; change them to face-up Defense Position, count the number of \"Ghostrick\" monsters among them, and if you do, change up to that many face-up monsters your opponent controls to face-down Defense Position (min. 1).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

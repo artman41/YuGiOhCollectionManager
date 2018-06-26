@@ -1,0 +1,16 @@
+{
+  "id": 3073,
+  "cardNumber": "78004197",
+  "name": "Goldd, Wu-Lord of Dark World",
+  "description": "If this card is discarded to the Graveyard by a card effect: If it was discarded from your hand to your Graveyard by an opponent's card effect, you can target up to 2 cards your opponent controls; Special Summon this card from the Graveyard, then destroy those targets (if any).",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

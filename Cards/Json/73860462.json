@@ -1,0 +1,16 @@
+{
+  "id": 7610,
+  "cardNumber": "73860462",
+  "name": "Wonder Xyz",
+  "description": "Immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control as Materials.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

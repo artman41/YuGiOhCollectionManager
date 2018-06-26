@@ -1,0 +1,16 @@
+{
+  "id": 7852,
+  "cardNumber": "14469229",
+  "name": "Crystal Protector",
+  "description": "Pendulum Effect\n Each turn, the first \"Crystal Beast\" card(s), \"Ultimate Crystal God\" monster(s), \"Rainbow Dragon(s)\", and/or \"Rainbow Dark Dragon(s)\" you control that would be destroyed by a card effect, is not destroyed.\n\n Monster Effect\n During damage calculation, if your \"Crystal Beast\" monster battles an opponent's monster (Quick Effect): You can Tribute this card from your hand or field; your battling monster's ATK/DEF each become double its original ATK/DEF during that damage calculation only, but it is destroyed at the end of this Damage Step.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

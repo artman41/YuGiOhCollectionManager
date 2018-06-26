@@ -1,0 +1,16 @@
+{
+  "id": 5319,
+  "cardNumber": "40555959",
+  "name": "Phantom Hand",
+  "description": "Once per turn, if you control a face-up \"Infernity\" monster(s), you can remove from play all cards in your hand (face-down) until your next Standby Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

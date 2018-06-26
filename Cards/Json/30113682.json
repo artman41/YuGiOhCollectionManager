@@ -1,0 +1,16 @@
+{
+  "id": 8319,
+  "cardNumber": "30113682",
+  "name": "Judge Man",
+  "description": "This club-wielding warrior battles to the end and will never surrender.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

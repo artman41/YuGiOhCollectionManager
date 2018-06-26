@@ -1,0 +1,16 @@
+{
+  "id": 2992,
+  "cardNumber": "17241370",
+  "name": "Gishki Natalia",
+  "description": "Cannot be Special Summoned. During the End Phase of the turn this card was Normal Summoned or flipped face-up: Return it to the hand. When this card is Normal Summoned or flipped face-up: You can target 1 \"Gishki\" monster in your Graveyard; return that target to the top of the Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Spirit\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2899,
+  "cardNumber": "52222372",
+  "name": "Genex Turbine",
+  "description": "All face-up \"Genex\" monsters you control gain 400 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

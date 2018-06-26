@@ -1,0 +1,16 @@
+{
+  "id": 7745,
+  "cardNumber": "91420254",
+  "name": "Yosenju Shinchu R",
+  "description": "Pendulum Effect\n Once per turn, if you have a \"Yosenju\" card in your other Pendulum Zone: You can make this card's Pendulum Scale become 11 until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"Yosenju\" monsters (even if this card leaves the field).\n\n Monster Effect\n If this card is Normal Summoned: Change it to Defense Position. Monsters your opponent controls cannot target face-up \"Yosenju\" monsters for attacks, except this one.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

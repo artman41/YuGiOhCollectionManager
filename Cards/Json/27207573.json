@@ -1,0 +1,16 @@
+{
+  "id": 3582,
+  "cardNumber": "27207573",
+  "name": "Infestation Tool",
+  "description": "Send 1 \"Steelswarm\" monster from your Deck to the Graveyard to target 1 face-up \"Steelswarm\" monster you control; it gains 800 ATK until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3605,
+  "cardNumber": "19113101",
+  "name": "Interceptomato",
+  "description": "During your opponent's turn: You can banish this card from your Graveyard; this turn, any effect damage you take becomes 0 (this is a Quick Effect).",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

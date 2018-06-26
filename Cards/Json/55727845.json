@@ -1,0 +1,16 @@
+{
+  "id": 4982,
+  "cardNumber": "55727845",
+  "name": "Number 96: Dark Mist",
+  "description": "3 Level 2 monsters<br>Once per battle, during either player's turn, when an attack is declared involving this card and an opponent's monster: You can detach 1 Xyz Material from this card; halve the ATK of the opponent's monster, and if you do, this card gains that same amount of ATK.",
+  "cardLevel": null,
+  "cardRank": 2,
+  "atk": 100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

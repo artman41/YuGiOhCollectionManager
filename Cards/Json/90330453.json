@@ -1,0 +1,16 @@
+{
+  "id": 3930,
+  "cardNumber": "90330453",
+  "name": "Last Day of Witch",
+  "description": "Destroy all face-up Spellcaster-Type monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

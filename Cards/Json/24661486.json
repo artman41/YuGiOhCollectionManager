@@ -1,0 +1,16 @@
+{
+  "id": 1167,
+  "cardNumber": "24661486",
+  "name": "Cold Enchanter",
+  "description": "You can discard 1 card to target 1 face-up monster on the field; place an Ice Counter on that target. This card gains 300 ATK for each Ice Counter on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

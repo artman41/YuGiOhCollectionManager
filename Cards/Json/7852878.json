@@ -1,0 +1,16 @@
+{
+  "id": 6989,
+  "cardNumber": "7852878",
+  "name": "Three Thousand Needles",
+  "description": "At the end of the Damage Step, if this Defense Position card was attacked by a monster whose ATK is lower than this card's DEF: Destroy the attacking monster.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8494,
+  "cardNumber": "91939608",
+  "name": "Rogue Doll",
+  "description": "A deadly doll gifted with mystical power, it is particularly powerful when attacking against dark forces.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

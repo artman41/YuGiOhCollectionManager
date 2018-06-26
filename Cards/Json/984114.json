@@ -1,0 +1,16 @@
+{
+  "id": 2368,
+  "cardNumber": "984114",
+  "name": "Expressroid",
+  "description": "When this card is Summoned: You can target 2 \"roid\" monsters in your GY, except \"Expressroid\"; add those targets to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

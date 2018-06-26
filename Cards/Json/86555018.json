@@ -1,0 +1,16 @@
+{
+  "id": 6630,
+  "cardNumber": "86555018",
+  "name": "Stonehenge Methods",
+  "description": "When a face-up \"Chronomaly\" monster(s) you control is destroyed by battle or by a card effect and sent to the Graveyard: Special Summon 1 Level 4 or lower \"Chronomaly\" monster from your Deck in face-up Defense Position. It cannot change its battle position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

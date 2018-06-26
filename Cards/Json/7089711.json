@@ -1,0 +1,16 @@
+{
+  "id": 3275,
+  "cardNumber": "7089711",
+  "name": "Hane-Hane",
+  "description": "FLIP: Select 1 monster on the field and return it to its owner's hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 450,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1859,
+  "cardNumber": "98666339",
+  "name": "Dimensional Inversion",
+  "description": "Activate only when a monster(s) you own is removed from play by an opponent's effect. Special Summon 1 of those monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

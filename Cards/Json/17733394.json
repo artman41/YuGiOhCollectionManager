@@ -1,0 +1,16 @@
+{
+  "id": 8644,
+  "cardNumber": "17733394",
+  "name": "Wood Remains",
+  "description": "A living corpse of wood re-animated by the power of darkness.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

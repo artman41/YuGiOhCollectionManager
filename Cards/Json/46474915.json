@@ -1,0 +1,16 @@
+{
+  "id": 8373,
+  "cardNumber": "46474915",
+  "name": "Magical Ghost",
+  "description": "This creature casts a spell of terror and confusion just before attacking its enemies.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 39,
+  "cardNumber": "23784496",
+  "name": "Abyss Script - Opening Ceremony",
+  "description": "Gain 500 LP for each \"Abyss Actor\" monster you control. If this Set card in its owner's control is destroyed by an opponent's card effect, and you have a face-up \"Abyss Actor\" Pendulum Monster in your Extra Deck: You can draw until you have 5 cards in your hand. You can only use each effect of \"Abyss Script - Opening Ceremony\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

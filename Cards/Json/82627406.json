@@ -1,0 +1,16 @@
+{
+  "id": 3829,
+  "cardNumber": "82627406",
+  "name": "Kiwi Magician Girl",
+  "description": "During either player's turn: You can discard this card; \"Magician Girl\" monsters you currently control gain 300 ATK and DEF for each \"Magician Girl\" monster with different names on the field and in the Graveyards, until the end of this turn. Spellcaster-Type monsters you control cannot be destroyed by card effects, and your opponent cannot target them with card effects.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

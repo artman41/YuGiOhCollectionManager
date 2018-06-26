@@ -1,0 +1,16 @@
+{
+  "id": 3214,
+  "cardNumber": "17243896",
+  "name": "Ground Spider",
+  "description": "Once per turn, if you control this face-up Defense Position monster when your opponent Normal or Special Summons a monster(s), you can change that monster(s) to Defense Position.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

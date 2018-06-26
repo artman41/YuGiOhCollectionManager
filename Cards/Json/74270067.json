@@ -1,0 +1,16 @@
+{
+  "id": 5376,
+  "cardNumber": "74270067",
+  "name": "Pikeru's Circle of Enchantment",
+  "description": "Damage to you from card effects becomes 0 until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1832,
+  "cardNumber": "31849106",
+  "name": "Different Dimension Ground",
+  "description": "This turn, any monster sent to the GY is banished instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

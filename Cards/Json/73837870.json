@@ -1,0 +1,16 @@
+{
+  "id": 6687,
+  "cardNumber": "73837870",
+  "name": "Sunny Pixie",
+  "description": "If this card is sent to the Graveyard for the Synchro Summon of a LIGHT Synchro Monster: Gain 1000 Life Points.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

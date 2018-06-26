@@ -1,0 +1,16 @@
+{
+  "id": 7182,
+  "cardNumber": "92676637",
+  "name": "Tuningware",
+  "description": "This card can be treated as a Level 2 monster when used for a Synchro Summon. If this card is sent to the Graveyard for a Synchro Summon: Draw 1 card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

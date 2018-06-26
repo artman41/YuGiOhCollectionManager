@@ -1,0 +1,16 @@
+{
+  "id": 1637,
+  "cardNumber": "50164989",
+  "name": "Dark Verger",
+  "description": "When a Plant-Type Tuner monster is Normal Summoned to your side of the field: You can Special Summon this card from your Graveyard in Attack Position.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

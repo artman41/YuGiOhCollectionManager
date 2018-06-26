@@ -1,0 +1,16 @@
+{
+  "id": 7006,
+  "cardNumber": "3129635",
+  "name": "Tiki Curse",
+  "description": "Special Summon this card as an Effect Monster (Rock-Type/DARK/Level 4/ATK 1800/DEF 1000). (This card is also still a Trap Card.) While this card is an Effect Monster, if another Trap Card that is a monster battles an opponent's monster, after damage calculation: Destroy that opponent's monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

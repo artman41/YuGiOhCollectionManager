@@ -1,0 +1,16 @@
+{
+  "id": 3291,
+  "cardNumber": "12206212",
+  "name": "Harpie Lady Sisters",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned with \"Elegant Egotist\".",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1950,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

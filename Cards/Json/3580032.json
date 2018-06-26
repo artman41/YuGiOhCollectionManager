@@ -1,0 +1,16 @@
+{
+  "id": 4442,
+  "cardNumber": "3580032",
+  "name": "Merlin",
+  "description": "You can only use each effect of \"Merlin\" once per turn.<br>â— You can Tribute this card; Special Summon 1 \"Noble Knight\" monster from your Deck. You cannot Special Summon monsters the turn you activate this effect, except \"Noble Knight\" monsters.<br>â— During either player's turn: You can banish this card from your Graveyard; immediately after this effect resolves, Synchro Summon 1 \"Noble Knight\" Synchro Monster using monsters you control.<br>â— During either player's turn: You can banish this card from your Graveyard; immediately after this effect resolves, Xyz Summon 1 \"Noble Knight\" Xyz Monster using monsters you control.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

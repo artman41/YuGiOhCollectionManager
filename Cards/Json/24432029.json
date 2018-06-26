@@ -1,0 +1,16 @@
+{
+  "id": 2888,
+  "cardNumber": "24432029",
+  "name": "Genex Blastfan",
+  "description": "When this card is Special Summoned, you can add 1 DARK \"Genex\" monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

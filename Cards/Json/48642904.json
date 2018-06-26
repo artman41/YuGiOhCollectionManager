@@ -1,0 +1,16 @@
+{
+  "id": 4463,
+  "cardNumber": "48642904",
+  "name": "Mesmeric Control",
+  "description": "During your opponent's next turn after you activate this card, your opponent cannot change the battle positions of monsters, except with a card effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 259,
+  "cardNumber": "31975743",
+  "name": "Ape Magician",
+  "description": "Cannot be Special Summoned. Once per turn, if this card is in face-up Attack Position: You can send 1 monster from your hand to the Graveyard to target 1 face-up Defense Position monster your opponent controls; take control of it until the End Phase. It cannot change its battle position this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

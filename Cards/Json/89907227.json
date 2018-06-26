@@ -1,0 +1,16 @@
+{
+  "id": 8033,
+  "cardNumber": "89907227",
+  "name": "White Aura Biphamet",
+  "description": "1 Tuner Synchro Monster + 1+ non-Tuner monsters<br>When this card is Synchro Summoned during your turn: You can Special Summon 1 \"Divine Dragon Token\" (Fish/WATER/Level 10/ATK 3300/DEF 3000) in Defense Position. Once per opponent's turn, if you control no Tokens (Quick Effect): You can Special Summon 1 \"Divine Dragon Token\". If this card you control is destroyed by an opponent's card effect and sent to your GY, and you control a \"Divine Dragon Token\": You can Special Summon this card in Defense Position.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3300,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

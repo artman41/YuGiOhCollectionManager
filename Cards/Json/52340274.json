@@ -1,0 +1,16 @@
+{
+  "id": 2760,
+  "cardNumber": "52340274",
+  "name": "Galaxy Queen's Light",
+  "description": "Target 1 face-up Level 7 or higher monster you control; the Levels of all other face-up monsters you currently control become the current Level of that monster, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

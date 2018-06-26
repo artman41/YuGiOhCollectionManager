@@ -1,0 +1,16 @@
+{
+  "id": 7989,
+  "cardNumber": "78063197",
+  "name": "Relinquished Fusion",
+  "description": "Fusion Summon 1 \"Eyes Restrict\" Fusion Monster from your Extra Deck, by banishing Fusion Materials from your hand, field, and/or GY. During your Main Phase: You can banish this card from your GY, then target 1 Effect Monster your opponent controls; equip that target to an \"Eyes Restrict\" Fusion Monster or \"Relinquished\" you control, as if it were equipped by that monster's effect. You can only use each effect of \"Relinquished Fusion\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

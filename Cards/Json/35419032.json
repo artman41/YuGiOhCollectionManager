@@ -1,0 +1,16 @@
+{
+  "id": 3578,
+  "cardNumber": "35419032",
+  "name": "Infestation Infection",
+  "description": "Once per turn: You can shuffle 1 \"lswarm\" monster from your hand or face-up from your side of the field into the Main Deck; add 1 \"lswarm\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

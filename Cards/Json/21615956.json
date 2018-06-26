@@ -1,0 +1,16 @@
+{
+  "id": 2545,
+  "cardNumber": "21615956",
+  "name": "Flamvell Guard",
+  "description": "A Flamvell guardian who commands fire with his will. His magma-hot barrier protects his troops from intruders.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

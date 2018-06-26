@@ -1,0 +1,16 @@
+{
+  "id": 3778,
+  "cardNumber": "80204957",
+  "name": "Karakuri Cash Cache",
+  "description": "Select 1 face-up \"Karakuri\" monster you control. Add 1 Level 4 or lower \"Karakuri\" monster from your Deck to your hand, and change the battle position of the selected monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

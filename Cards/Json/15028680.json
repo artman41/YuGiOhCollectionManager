@@ -1,0 +1,16 @@
+{
+  "id": 3449,
+  "cardNumber": "15028680",
+  "name": "HTS Psyhemuth",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>After damage calculation, when this card battles an opponent's monster: You can banish that monster, also banish this card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

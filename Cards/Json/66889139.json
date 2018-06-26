@@ -1,0 +1,16 @@
+{
+  "id": 2751,
+  "cardNumber": "66889139",
+  "name": "Gaia the Dragon Champion",
+  "description": "\"Gaia The Fierce Knight\" + \"Curse of Dragon\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

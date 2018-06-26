@@ -1,0 +1,16 @@
+{
+  "id": 5096,
+  "cardNumber": "32354768",
+  "name": "Oracle of Zefra",
+  "description": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When you Ritual Summon using a \"Zefra\" monster, or Special Summon using a \"Zefra\" monster as Material, you can activate these effects depending on the monster Summoned, once per turn per effect:<br>â— Ritual: Shuffle 1 monster on the field into the Deck.<br>â— Fusion: Special Summon 1 monster from your hand.<br>â— Synchro: Choose 1 monster from your Deck and place it on top of your Deck.<br>â— Xyz: Draw 1 card, then discard 1 card.<br> You can only activate 1 \"Oracle of Zefra\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

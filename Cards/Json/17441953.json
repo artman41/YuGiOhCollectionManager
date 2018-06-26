@@ -1,0 +1,16 @@
+{
+  "id": 8595,
+  "cardNumber": "17441953",
+  "name": "Turtle Raccoon",
+  "description": "A cunning raccoon protected by a solid turtle shell, it attacks with deception.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

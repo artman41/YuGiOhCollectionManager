@@ -1,0 +1,16 @@
+{
+  "id": 5881,
+  "cardNumber": "25788011",
+  "name": "Risebell the Star Adjuster",
+  "description": "When this card is Special Summoned: You can target 1 face-up monster on the field; increase its Level by up to 3 until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

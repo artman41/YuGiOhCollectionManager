@@ -1,0 +1,16 @@
+{
+  "id": 2619,
+  "cardNumber": "97806240",
+  "name": "Forced Ceasefire",
+  "description": "Discard 1 card from your hand. No Trap Cards can be activated until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

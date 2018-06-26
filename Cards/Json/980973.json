@@ -1,0 +1,16 @@
+{
+  "id": 331,
+  "cardNumber": "980973",
+  "name": "Armed Dragon LV3",
+  "description": "During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 \"Armed Dragon LV5\" from your hand or Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

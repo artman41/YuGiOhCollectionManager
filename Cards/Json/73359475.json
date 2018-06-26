@@ -1,0 +1,16 @@
+{
+  "id": 4876,
+  "cardNumber": "73359475",
+  "name": "Noble Knight Peredur",
+  "description": "While equipped with a \"Noble Arms\" Equip Spell Card, this card becomes DARK and its Level is increased by 1. If this card is sent to the Graveyard while equipped with a \"Noble Arms\" Equip Spell Card: Target 1 \"Noble Arms\" card in your Graveyard; add that target to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8632,
+  "cardNumber": "47319141",
+  "name": "Wing Eagle",
+  "description": "This flying creature never misses its intended target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5749,
+  "cardNumber": "68722455",
+  "name": "Red Ogre",
+  "description": "When this card is Normal Summoned: You can send any number of cards from your hand to the Graveyard, then target the same number of cards on the field; return those targets to the hand.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

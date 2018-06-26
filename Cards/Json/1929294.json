@@ -1,0 +1,16 @@
+{
+  "id": 8742,
+  "cardNumber": "1929294",
+  "name": "Key Mace",
+  "description": "Enemies' hearts will melt at the sight of this small fairy's cuteness.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

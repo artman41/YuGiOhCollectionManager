@@ -1,0 +1,16 @@
+{
+  "id": 5944,
+  "cardNumber": "23087070",
+  "name": "Rose Witch",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a Plant-Type monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2764,
+  "cardNumber": "80887714",
+  "name": "Galaxy Storm",
+  "description": "Target 1 face-up Xyz Monster on the field that has no Xyz Material; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

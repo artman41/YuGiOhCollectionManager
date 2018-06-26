@@ -1,0 +1,16 @@
+{
+  "id": 1426,
+  "cardNumber": "22147147",
+  "name": "Cyclone Blade",
+  "description": "Equip only to a \"Destiny HERO\" monster. At the end of the Damage Step, if the equipped monster attacked: Target 1 Spell/Trap Card on the field; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

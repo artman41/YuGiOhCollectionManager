@@ -1,0 +1,16 @@
+{
+  "id": 8341,
+  "cardNumber": "60802233",
+  "name": "Kuwagata Î±",
+  "description": "A very vicious stag beetle that goes for the head.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1250,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4676,
+  "cardNumber": "86767655",
+  "name": "Ms. Judge",
+  "description": "If an opponent's card effect activates, before resolving that effect, toss a coin twice, and if the result is 2 Heads, negate that effect. You can only use this effect of \"Ms. Judge\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

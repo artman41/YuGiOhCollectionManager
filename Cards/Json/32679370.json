@@ -1,0 +1,16 @@
+{
+  "id": 3361,
+  "cardNumber": "32679370",
+  "name": "Hero Kid",
+  "description": "When this card is Special Summoned: You can Special Summon any number of \"Hero Kid\"(s) from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5418,
+  "cardNumber": "51790181",
+  "name": "Pot of Benevolence",
+  "description": "Select 2 cards from the Graveyard(s), and shuffle them into their owner's Deck(s). After activation, remove this card from play instead of sending it to the Graveyard. You can only activate 1 \"Pot of Benevolence\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

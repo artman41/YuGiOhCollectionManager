@@ -1,0 +1,16 @@
+{
+  "id": 2994,
+  "cardNumber": "9236985",
+  "name": "Gishki Photomirror",
+  "description": "This card can be used to Ritual Summon any \"Gishki\" Ritual Monster. You must also pay Life Points equal to the Level of the Ritual Summoned monster x 500 (when this card resolves).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

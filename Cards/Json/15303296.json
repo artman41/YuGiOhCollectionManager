@@ -1,0 +1,16 @@
+{
+  "id": 8498,
+  "cardNumber": "15303296",
+  "name": "Ryu-Kishin",
+  "description": "A very elusive creature that looks like a harmless statue until it attacks.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

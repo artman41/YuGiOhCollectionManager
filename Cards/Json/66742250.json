@@ -1,0 +1,16 @@
+{
+  "id": 1344,
+  "cardNumber": "66742250",
+  "name": "Curse of Anubis",
+  "description": "Change all Effect Monsters on the field to Defense Position. Until the end of this turn, the original DEF of those monsters becomes 0, also their battle positions cannot be changed.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

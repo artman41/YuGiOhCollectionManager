@@ -1,0 +1,16 @@
+{
+  "id": 8641,
+  "cardNumber": "49417509",
+  "name": "Wolf",
+  "description": "Dis alpha wolf yoozes his sense a smell ta find da enemy. 'ey, quit sniffin at my socks!",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

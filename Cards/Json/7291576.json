@@ -1,0 +1,16 @@
+{
+  "id": 8690,
+  "cardNumber": "7291576",
+  "name": "Secret Six Samurai - Genba",
+  "description": "When this card is Normal Summoned: You can target 1 of your banished \"Six Samurai\" monsters; add it to your hand. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

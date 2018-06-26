@@ -1,0 +1,16 @@
+{
+  "id": 8218,
+  "cardNumber": "27054370",
+  "name": "Firewing Pegasus",
+  "description": "A heavenly stallion soaring through the skies on crimson wings.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2250,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

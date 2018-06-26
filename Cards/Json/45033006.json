@@ -1,0 +1,16 @@
+{
+  "id": 124,
+  "cardNumber": "45033006",
+  "name": "Ally of Justice Enemy Catcher",
+  "description": "When this card is Normal Summoned, you can take control of 1 face-down Defense Position monster your opponent controls, until the End Phase of this turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

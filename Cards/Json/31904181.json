@@ -1,0 +1,16 @@
+{
+  "id": 6281,
+  "cardNumber": "31904181",
+  "name": "The Six Samurai - Nisashi",
+  "description": "While you control a face-up \"Six Samurai\" monster with a different name, this card can attack twice during each Battle Phase. If this card would be destroyed, you can destroy another face-up \"Six Samurai\" monster you control instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

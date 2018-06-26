@@ -1,0 +1,16 @@
+{
+  "id": 7411,
+  "cardNumber": "54514594",
+  "name": "Volcanic Hammerer",
+  "description": "Once per turn, you can inflict damage to your opponent equal to the number of \"Volcanic\" monsters in your Graveyard x 200. If you activate this effect, this card cannot attack during this turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

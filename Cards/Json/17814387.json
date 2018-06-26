@@ -1,0 +1,16 @@
+{
+  "id": 5793,
+  "cardNumber": "17814387",
+  "name": "Reinforcements",
+  "description": "Target face-up monster gains 500 ATK until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8337,
+  "cardNumber": "99171160",
+  "name": "Kozaky",
+  "description": "A workaholic fiend who devotes everything to his research into the languages of Dark World. His mind has collapsed because of working too hard.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

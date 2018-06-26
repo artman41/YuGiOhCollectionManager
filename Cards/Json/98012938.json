@@ -1,0 +1,16 @@
+{
+  "id": 7424,
+  "cardNumber": "98012938",
+  "name": "Vulcan the Divine",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card is Synchro Summoned: Target 1 face-up card you control and 1 face-up card your opponent controls; return those targets to the hand, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as those returned to the hand by this effect. You can only use this effect of \"Vulcan the Divine\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

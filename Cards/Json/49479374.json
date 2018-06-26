@@ -1,0 +1,16 @@
+{
+  "id": 5593,
+  "cardNumber": "49479374",
+  "name": "Quick Charger",
+  "description": "Add 2 Level 4 or lower \"Batteryman\" monsters from your Graveyard to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

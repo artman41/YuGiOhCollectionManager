@@ -1,0 +1,16 @@
+{
+  "id": 7227,
+  "cardNumber": "38318146",
+  "name": "Tyrant's Tantrum",
+  "description": "Activate by Tributing 2 monsters. Your opponent cannot activate a Spell Card unless they also send 1 Spell Card from the Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7118,
+  "cardNumber": "26285788",
+  "name": "Trial and Tribulation",
+  "description": "You can only activate 1 \"Trial and Tribulation\" per turn. During the End Phase of the turn this card was activated, apply this effect, depending on the number of monsters you Tributed from the field and from your hand this turn, except Tokens.<br>â— 1: Draw 1 card.<br>â— 2: Add 2 monsters from your Graveyard to your hand.<br>â— 3+: Destroy up to 3 face-up cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

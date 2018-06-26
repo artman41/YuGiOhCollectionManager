@@ -1,0 +1,16 @@
+{
+  "id": 648,
+  "cardNumber": "38670435",
+  "name": "Black Tyranno",
+  "description": "If the only cards your opponent controls are Defense Position monsters, this card can attack your opponent directly.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

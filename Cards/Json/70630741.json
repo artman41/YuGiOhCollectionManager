@@ -1,0 +1,16 @@
+{
+  "id": 5827,
+  "cardNumber": "70630741",
+  "name": "Rescue Warrior",
+  "description": "You take no Battle Damage from battles involving this card. If this card is destroyed by battle, select 1 face-up monster your opponent controls that you own, and take control of it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

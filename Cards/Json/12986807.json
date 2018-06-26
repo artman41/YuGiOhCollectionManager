@@ -1,0 +1,16 @@
+{
+  "id": 3954,
+  "cardNumber": "12986807",
+  "name": "Laval the Greater",
+  "description": "1 Tuner + 1 or more non-Tuner FIRE monsters<br>When this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 \"Laval\" monster from your Graveyard instead.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

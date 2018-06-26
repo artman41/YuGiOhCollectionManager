@@ -1,0 +1,16 @@
+{
+  "id": 656,
+  "cardNumber": "60992105",
+  "name": "Blackfeather Darkrage Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn, when you take damage: You can send up to 5 cards from the top of your Deck to the Graveyard, then if any monsters were sent to the Graveyard by this effect, this card gains 400 ATK.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

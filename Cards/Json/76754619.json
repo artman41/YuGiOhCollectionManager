@@ -1,0 +1,16 @@
+{
+  "id": 5561,
+  "cardNumber": "76754619",
+  "name": "Pyramid Energy",
+  "description": "You can select and activate 1 of the following effects:<br>â— Increase the ATK of all face-up monsters on your side of the field by 200 points until the End Phase of the turn this card is activated.<br>â— Increase the DEF of all face-up monsters on your side of the field by 500 points until the End Phase of the turn this card is activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

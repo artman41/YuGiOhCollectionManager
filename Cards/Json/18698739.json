@@ -1,0 +1,16 @@
+{
+  "id": 2788,
+  "cardNumber": "18698739",
+  "name": "Garbage Ogre",
+  "description": "You can send this card from your hand to the Graveyard; add 1 \"Garbage Lord\" from your Deck to your hand. You can only use the effect of \"Garbage Ogre\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

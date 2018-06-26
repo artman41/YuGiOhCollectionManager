@@ -1,0 +1,16 @@
+{
+  "id": 5624,
+  "cardNumber": "37829468",
+  "name": "Rai-Jin",
+  "description": "All LIGHT monsters you control gain 100 ATK for each LIGHT monster in your Graveyard. During your End Phase, destroy 1 LIGHT monster you control. There can only be 1 face-up \"Rai-Jin\" on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2005,
+  "cardNumber": "71490127",
+  "name": "Dragon's Mirror",
+  "description": "Fusion Summon 1 Dragon-Type Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

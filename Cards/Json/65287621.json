@@ -1,0 +1,16 @@
+{
+  "id": 1566,
+  "cardNumber": "65287621",
+  "name": "Dark Driceratops",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

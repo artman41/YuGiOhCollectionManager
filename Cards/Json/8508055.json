@@ -1,0 +1,16 @@
+{
+  "id": 8132,
+  "cardNumber": "8508055",
+  "name": "Chu-Ske the Mouse Fighter",
+  "description": "A fiery mouse, travelling the world to become the strongest fighter in the world of mice. Be careful not to touch him, or you will get burned.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

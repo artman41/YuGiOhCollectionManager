@@ -1,0 +1,16 @@
+{
+  "id": 6691,
+  "cardNumber": "86804246",
+  "name": "Super Crashbug",
+  "description": "Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) in face-up Defense Position, by banishing \"Crashbug X\", \"Crashbug Y\", and \"Crashbug Z\" from your Graveyard. Switch the ATK and DEF of all face-up Attack Position monsters on the field. There can only be 1 face-up \"Super Crashbug\" on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

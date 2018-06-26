@@ -1,0 +1,16 @@
+{
+  "id": 4769,
+  "cardNumber": "77700347",
+  "name": "Necro Defender",
+  "description": "During your Main Phase, you can remove from play this card from your Graveyard to select 1 monster you control. Until your opponent's next End Phase, that monster cannot be destroyed by battle, and you take no Battle Damage from battles involving it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

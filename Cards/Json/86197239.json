@@ -1,0 +1,16 @@
+{
+  "id": 3556,
+  "cardNumber": "86197239",
+  "name": "Infernity Mirage",
+  "description": "This card cannot be Special Summoned from the Graveyard. If you have no cards in your hand, you can Tribute this card to select 2 \"Infernity\" monsters in your Graveyard. Special Summon those monsters.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

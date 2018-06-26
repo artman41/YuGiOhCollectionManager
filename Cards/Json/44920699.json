@@ -1,0 +1,16 @@
+{
+  "id": 2494,
+  "cardNumber": "44920699",
+  "name": "Fire Formation - Tensen",
+  "description": "When this card is activated: Target 1 Beast-Warrior-Type monster you control; it gains 700 ATK until the end of this turn. (This ATK gain remains even if this card leaves the field.) All Beast-Warrior-Type monsters you control gain 300 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

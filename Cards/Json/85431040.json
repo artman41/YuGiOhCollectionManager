@@ -1,0 +1,16 @@
+{
+  "id": 2302,
+  "cardNumber": "85431040",
+  "name": "Evil Thorn",
+  "description": "You can Tribute this card; inflict 300 damage to your opponent, and if you do, you can Special Summon up to 2 \"Evil Thorn\" from your Deck in Attack Position, but their effects cannot be activated.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

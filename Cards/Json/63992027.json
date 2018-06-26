@@ -1,0 +1,16 @@
+{
+  "id": 1949,
+  "cardNumber": "63992027",
+  "name": "Double Cipher",
+  "description": "If your opponent controls a monster with the highest ATK on the field (even if tied): Target 1 \"Galaxy-Eyes\" or \"Cipher\" Xyz Monster you control that has Xyz Material; detach all Xyz Materials from that Xyz Monster, and if you do, Special Summon 1 monster from your Extra Deck with the same name as that Xyz Monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4170,
+  "cardNumber": "26570480",
+  "name": "Madolche Chickolates",
+  "description": "When this card in your possession is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into the Deck. Once per turn, when the battle position of a \"Madolche\" monster(s) you control is changed (and is now face-up), while this card is face-up on the field (except during the Damage Step): You can target 1 monster on the field; change it to face-up Defense Position, and if you do, unless it is a \"Madolche\" monster, it cannot attack, also its effects are negated.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

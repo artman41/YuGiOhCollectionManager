@@ -1,0 +1,16 @@
+{
+  "id": 5671,
+  "cardNumber": "12735388",
+  "name": "Rainbow Veil",
+  "description": "If the equipped monster battles an opponent's monster, while that monster is on the field its effect(s) is negated during the Battle Phase only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

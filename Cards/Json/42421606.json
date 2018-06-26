@@ -1,0 +1,16 @@
+{
+  "id": 4972,
+  "cardNumber": "42421606",
+  "name": "Number 85: Crazy Box",
+  "description": "2 Level 4 monsters<br>This card cannot attack. Once per turn: You can detach 1 Xyz Material from this card; roll a six-sided die and apply the result.<br>1: Halve your Life Points. 2: Draw 1 card.<br>3: Your opponent discards 1 card.<br>4: Negate the effects of 1 face-up card on the field, until the end of this turn.<br>5: Destroy 1 card on the field. 6: Destroy this card.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 3000,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

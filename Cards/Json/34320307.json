@@ -1,0 +1,16 @@
+{
+  "id": 8359,
+  "cardNumber": "34320307",
+  "name": "Living Vase",
+  "description": "A living vase that bites enemies and blinds them with a blast of its flower.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

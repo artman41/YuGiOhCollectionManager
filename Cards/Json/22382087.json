@@ -1,0 +1,16 @@
+{
+  "id": 2795,
+  "cardNumber": "22382087",
+  "name": "Garum the Storm Vassal",
+  "description": "You can return 1 Tribute Summoned monster you control to the hand; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can add 1 monster with 800 ATK and 1000 DEF from your Deck to your hand, except \"Garum the Storm Vassal\". You can only use each effect of \"Garum the Storm Vassal\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

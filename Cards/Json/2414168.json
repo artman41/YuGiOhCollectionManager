@@ -1,0 +1,16 @@
+{
+  "id": 7901,
+  "cardNumber": "2414168",
+  "name": "Interrupt Resistor",
+  "description": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, when your other Defense Position monster is attacked by an opponent's monster, during damage calculation: You can make your monster's DEF become equal to this card's during damage calculation only, also it cannot be destroyed by that battle.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

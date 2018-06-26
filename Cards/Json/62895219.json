@@ -1,0 +1,16 @@
+{
+  "id": 6381,
+  "cardNumber": "62895219",
+  "name": "Soprano the Melodious Songstress",
+  "description": "When this card is Special Summoned: You can target 1 \"Melodious\" monster in your Graveyard, except \"Soprano the Melodious Songstress\"; add it to your hand. You can only use this effect of \"Soprano the Melodious Songstress\" once per turn. Once per turn: You can Fusion Summon 1 \"Melodious\" Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials, including this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6058,
+  "cardNumber": "76774528",
+  "name": "Scrap Dragon",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn: You can target 1 card you control and 1 card your opponent controls; destroy them. When this card is destroyed by your opponent's card (either by battle or by card effect) and sent to the Graveyard: Target 1 non-Synchro \"Scrap\" monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

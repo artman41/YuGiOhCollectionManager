@@ -1,0 +1,16 @@
+{
+  "id": 3595,
+  "cardNumber": "22991179",
+  "name": "Insect Neglect",
+  "description": "When your opponent's monster declares an attack, you can remove from play 1 Insect-Type monster from your Graveyard to negate the attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

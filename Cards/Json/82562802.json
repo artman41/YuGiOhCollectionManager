@@ -1,0 +1,16 @@
+{
+  "id": 1409,
+  "cardNumber": "82562802",
+  "name": "Cyberdark Claw",
+  "description": "If this card is sent to the GY while equipped to a monster: You can target 1 \"Cyberdark\" monster in your GY; add it to your hand. You can only use each of the following effects of \"Cyberdark Claw\" once per turn.<br>â— You can discard this card; add 1 \"Cyberdark\" Spell/Trap from your Deck to your hand.<br>â— During damage calculation, if a monster equipped with this card battles: You can send 1 monster from your Extra Deck to the GY.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

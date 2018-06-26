@@ -1,0 +1,16 @@
+{
+  "id": 2569,
+  "cardNumber": "16802689",
+  "name": "Flower Cardian Paulownia with Phoenix",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 12 \"Flower Cardian\" monster, except \"Flower Cardian Paulownia with Phoenix\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the Graveyard. Once per turn, when this card inflicts battle damage to your opponent: You can draw 1 card.",
+  "cardLevel": 12,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

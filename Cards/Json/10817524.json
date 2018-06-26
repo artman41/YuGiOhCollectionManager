@@ -1,0 +1,16 @@
+{
+  "id": 2514,
+  "cardNumber": "10817524",
+  "name": "First of the Dragons",
+  "description": "2 Normal Monsters<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. You can only control 1 \"First of the Dragons\". This card cannot be destroyed by battle, except by battle with a Normal Monster, and is unaffected by other monsters' effects.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

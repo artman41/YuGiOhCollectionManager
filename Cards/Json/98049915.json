@@ -1,0 +1,16 @@
+{
+  "id": 4700,
+  "cardNumber": "98049915",
+  "name": "Mystic Lamp",
+  "description": "This monster can attack your opponent's Life Points directly.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

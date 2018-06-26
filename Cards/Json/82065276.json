@@ -1,0 +1,16 @@
+{
+  "id": 8454,
+  "cardNumber": "82065276",
+  "name": "Oscillo Hero",
+  "description": "A strange warrior from another dimension.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1250,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7056,
+  "cardNumber": "71283180",
+  "name": "Tornado Bird",
+  "description": "FLIP: Return 2 Spell or Trap Cards on the field to their owners' hands.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

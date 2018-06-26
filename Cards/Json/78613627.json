@@ -1,0 +1,16 @@
+{
+  "id": 1735,
+  "cardNumber": "78613627",
+  "name": "Des Kangaroo",
+  "description": "If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster. (Damage calculation is applied normally.)",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

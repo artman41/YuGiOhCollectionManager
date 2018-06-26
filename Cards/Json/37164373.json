@@ -1,0 +1,16 @@
+{
+  "id": 4182,
+  "cardNumber": "37164373",
+  "name": "Madolche Queen Tiaramisu",
+  "description": "2 Level 4 \"Madolche\" monsters<br>Once per turn: You can detach 1 Xyz Material from this card, then target up to 2 \"Madolche\" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2200,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

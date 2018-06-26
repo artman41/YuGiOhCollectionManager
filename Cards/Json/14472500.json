@@ -1,0 +1,16 @@
+{
+  "id": 3070,
+  "cardNumber": "14472500",
+  "name": "Gokipon",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can add 1 Insect-Type monster with 1500 or less ATK from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

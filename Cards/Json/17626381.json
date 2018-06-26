@@ -1,0 +1,16 @@
+{
+  "id": 6773,
+  "cardNumber": "17626381",
+  "name": "Supply Squad",
+  "description": "Once per turn, if a monster(s) you control is destroyed by battle or card effect: Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

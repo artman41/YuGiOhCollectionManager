@@ -1,0 +1,16 @@
+{
+  "id": 2752,
+  "cardNumber": "40371092",
+  "name": "Gaia, the Mid-Knight Sun",
+  "description": "You can only use each effect of \"Gaia, the Mid-Knight Sun\" once per turn.<br>â— You can Tribute 1 other LIGHT monster you control; add 1 Level 4 DARK Warrior-Type monster from your Deck to your hand, then send 1 card from your hand to the Graveyard.<br>â— You can banish 1 DARK monster from your Graveyard, then target 1 monster on the field; it loses 500 ATK, until the end of your opponent's turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

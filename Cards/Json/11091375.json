@@ -1,0 +1,16 @@
+{
+  "id": 8743,
+  "cardNumber": "11091375",
+  "name": "Luster Dragon",
+  "description": "A very beautiful dragon covered with sapphire. It does not like fights, but has incredibly high attack power.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

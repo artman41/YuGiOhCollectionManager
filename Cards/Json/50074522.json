@@ -1,0 +1,16 @@
+{
+  "id": 4250,
+  "cardNumber": "50074522",
+  "name": "Magnetic Mosquito",
+  "description": "FLIP: Destroy all face-up Machine-Type monsters on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

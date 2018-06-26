@@ -1,0 +1,16 @@
+{
+  "id": 1280,
+  "cardNumber": "49144107",
+  "name": "Creepy Coney",
+  "description": "FLIP: Inflict 1000 damage to your opponent for each face-up Normal Monster you control, except Tokens.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

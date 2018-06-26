@@ -1,0 +1,16 @@
+{
+  "id": 3740,
+  "cardNumber": "45711266",
+  "name": "Jurrac Ptera",
+  "description": "If this card is attacked, return the attacking monster to the hand after damage calculation and this card gains DEF equal to the returned monster's Level x 100.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7510,
+  "cardNumber": "5763020",
+  "name": "Weeping Idol",
+  "description": "You can remove from play 1 Tuner monster in your Graveyard to Special Summon this card from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

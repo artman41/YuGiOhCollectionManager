@@ -1,0 +1,16 @@
+{
+  "id": 8563,
+  "cardNumber": "73911410",
+  "name": "Sword Slasher",
+  "description": "A lethal engine of destruction that wields two well-honed blades.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1450,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

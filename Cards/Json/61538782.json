@@ -1,0 +1,16 @@
+{
+  "id": 7160,
+  "cardNumber": "61538782",
+  "name": "Truckroid",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Equip the destroyed monster to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

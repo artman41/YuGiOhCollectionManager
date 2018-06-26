@@ -1,0 +1,16 @@
+{
+  "id": 3140,
+  "cardNumber": "82542267",
+  "name": "Gravedigger Ghoul",
+  "description": "Select up to 2 Monster Card(s) from your opponent's Graveyard. Remove the selected card(s) from play.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

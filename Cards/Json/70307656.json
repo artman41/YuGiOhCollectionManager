@@ -1,0 +1,16 @@
+{
+  "id": 4677,
+  "cardNumber": "70307656",
+  "name": "Mucus Yolk",
+  "description": "This card may attack your opponent's Life Points directly. Each time this card inflicts Battle Damage to your opponent's Life Points, increase the ATK of this card by 1000 points during your next Standby Phase. The ATK increase lasts as long as this card remains face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

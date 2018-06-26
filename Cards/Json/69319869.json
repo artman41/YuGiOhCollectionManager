@@ -1,0 +1,16 @@
+{
+  "id": 3173,
+  "cardNumber": "69319869",
+  "name": "Gravity Lash",
+  "description": "Target 1 face-up monster on the field; it loses ATK equal to its DEF until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

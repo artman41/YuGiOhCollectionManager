@@ -1,0 +1,16 @@
+{
+  "id": 6886,
+  "cardNumber": "36687247",
+  "name": "T.G. Rush Rhino",
+  "description": "If this card attacks, it gains 400 ATK during the Damage Step only. During the End Phase, if this card is in the Graveyard because it was destroyed on the field and sent there this turn: You can add 1 \"T.G.\" monster from your Deck to your hand, except \"T.G. Rush Rhino\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

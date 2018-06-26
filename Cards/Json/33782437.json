@@ -1,0 +1,16 @@
+{
+  "id": 5079,
+  "cardNumber": "33782437",
+  "name": "One Day of Peace",
+  "description": "Each player draws 1 card, and neither player takes damage until the end of the opponent's next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3087,
+  "cardNumber": "80233946",
+  "name": "Gora Turtle",
+  "description": "As long as this card remains face-up on the field, monsters with an ATK equal to 1900 or more cannot declare an attack.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

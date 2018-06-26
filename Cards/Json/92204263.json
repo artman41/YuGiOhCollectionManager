@@ -1,0 +1,16 @@
+{
+  "id": 7902,
+  "cardNumber": "92204263",
+  "name": "Jack Knight of the Azure Blue",
+  "description": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Azure Blue\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Jack Knight\" monster you control; move that monster you control to another of your Main Monster Zones.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

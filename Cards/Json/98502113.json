@@ -1,0 +1,16 @@
+{
+  "id": 1610,
+  "cardNumber": "98502113",
+  "name": "Dark Paladin",
+  "description": "\"Dark Magician\" + \"Buster Blader\"<br>Must be Fusion Summoned. When a Spell Card is activated (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. Gains 500 ATK for each Dragon monster on the field and in the GY.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

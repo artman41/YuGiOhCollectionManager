@@ -1,0 +1,16 @@
+{
+  "id": 1809,
+  "cardNumber": "19327348",
+  "name": "Dharc the Dark Charmer",
+  "description": "FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

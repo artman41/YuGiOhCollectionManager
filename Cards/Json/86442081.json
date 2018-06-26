@@ -1,0 +1,16 @@
+{
+  "id": 6244,
+  "cardNumber": "86442081",
+  "name": "Silent Abyss",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, destroy all face-down and non-WATER monsters.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7173,
+  "cardNumber": "74093656",
+  "name": "Tune Warrior",
+  "description": "The Warrior's antenna can attune it to any energy wave. It can monitor transmissions from miles away but always suffers from bad reception.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

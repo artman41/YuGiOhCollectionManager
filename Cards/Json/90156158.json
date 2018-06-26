@@ -1,0 +1,16 @@
+{
+  "id": 1216,
+  "cardNumber": "90156158",
+  "name": "Constellar Star Cradle",
+  "description": "Target 2 \"Constellar\" monsters in your Graveyard; add those targets to your hand. You cannot conduct your Battle Phase the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

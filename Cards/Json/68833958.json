@@ -1,0 +1,16 @@
+{
+  "id": 465,
+  "cardNumber": "68833958",
+  "name": "Back-Up Rider",
+  "description": "Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

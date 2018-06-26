@@ -1,0 +1,16 @@
+{
+  "id": 7736,
+  "cardNumber": "79861914",
+  "name": "Yosen Whirlwind",
+  "description": "Activate this card by paying 800 LP. Once per turn, if a face-up \"Yosenju\" monster you control returns to the hand (except during the Damage Step): You can target 1 card your opponent controls; return it to the hand. During your End Phase, unless this effect was activated this turn (and was not negated), destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

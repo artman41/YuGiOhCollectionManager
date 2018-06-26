@@ -1,0 +1,16 @@
+{
+  "id": 4196,
+  "cardNumber": "1073952",
+  "name": "Magic Planter",
+  "description": "Send 1 face-up Continuous Trap Card you control to the Graveyard; draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

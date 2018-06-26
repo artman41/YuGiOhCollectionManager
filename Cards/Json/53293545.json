@@ -1,0 +1,16 @@
+{
+  "id": 8217,
+  "cardNumber": "53293545",
+  "name": "Firegrass",
+  "description": "A fire-breathing plant found growing near volcanoes.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

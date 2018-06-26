@@ -1,0 +1,16 @@
+{
+  "id": 7889,
+  "cardNumber": "209710",
+  "name": "Flick Clown",
+  "description": "If you control 2 or more Cyberse monsters (other than this card) and you have no cards in your hand: You can pay 1000 LP; draw 1 card. You can only use this effect of \"Flick Clown\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

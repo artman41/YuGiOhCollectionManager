@@ -1,0 +1,16 @@
+{
+  "id": 3608,
+  "cardNumber": "14729426",
+  "name": "Interplanetary Invader \"A\"",
+  "description": "Gain control of a monster that attacks this face-up Attack Position card, at the end of the Battle Phase.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

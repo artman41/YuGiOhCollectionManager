@@ -1,0 +1,16 @@
+{
+  "id": 8047,
+  "cardNumber": "77568553",
+  "name": "Acid Crawler",
+  "description": "A giant caterpillar that secretes an acid mist that melts anything.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6212,
+  "cardNumber": "94081496",
+  "name": "Shiny Black \"C\"",
+  "description": "During either player's turn, when exactly 1 Synchro Monster is Special Summoned to your opponent's side of the field: You can banish this card from your Graveyard to target that face-up Synchro Monster; destroy that target.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

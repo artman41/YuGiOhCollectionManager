@@ -1,0 +1,16 @@
+{
+  "id": 7824,
+  "cardNumber": "76080032",
+  "name": "ZW - Unicorn Spear",
+  "description": "You can target 1 \"Number C39: Utopia Ray\" you control; equip this card from your hand to that target. It gains 1900 ATK. If the equipped monster battles an opponent's monster, the opponent's monster's effect is negated during the Battle Phase only. You can only control 1 \"ZW - Unicorn Spear\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

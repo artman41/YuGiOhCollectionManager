@@ -1,0 +1,16 @@
+{
+  "id": 2441,
+  "cardNumber": "68396778",
+  "name": "Faustian Bargain",
+  "description": "Send 1 Special Summoned monster on either side of the field to the Graveyard and Special Summon 1 Level 4 or lower Normal Monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

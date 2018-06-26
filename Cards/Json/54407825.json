@@ -1,0 +1,16 @@
+{
+  "id": 2110,
+  "cardNumber": "54407825",
+  "name": "Earthshattering Event",
+  "description": "If a card(s) is sent from the Deck to the Graveyard: Target 1 card in either player's Graveyard; shuffle it into the Deck, also neither player can send cards from the Deck to the Graveyard for the rest of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

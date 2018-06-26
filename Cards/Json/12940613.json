@@ -1,0 +1,16 @@
+{
+  "id": 4174,
+  "cardNumber": "12940613",
+  "name": "Madolche Lesson",
+  "description": "Target 1 \"Madolche\" monster in your Graveyard; shuffle that target into your Deck, and if you do, all \"Madolche\" monsters you currently control gain 800 ATK and DEF, then you can shuffle 1 other monster from your Graveyard into the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

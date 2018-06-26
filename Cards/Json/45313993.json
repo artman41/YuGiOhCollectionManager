@@ -1,0 +1,16 @@
+{
+  "id": 5755,
+  "cardNumber": "45313993",
+  "name": "Red Warg",
+  "description": "When you Normal Summon a \"Resonator\" monster: You can Special Summon this card from your hand, but its ATK becomes halved.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

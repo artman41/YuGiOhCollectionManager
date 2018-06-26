@@ -1,0 +1,16 @@
+{
+  "id": 7134,
+  "cardNumber": "79759861",
+  "name": "Tribute to The Doomed",
+  "description": "Discard 1 card, then target 1 monster on the field; destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

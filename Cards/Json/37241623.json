@@ -1,0 +1,16 @@
+{
+  "id": 3352,
+  "cardNumber": "37241623",
+  "name": "Heraldry Record",
+  "description": "When an effect of your opponent's Xyz Monster is activated by detaching its own Xyz Material(s): Negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

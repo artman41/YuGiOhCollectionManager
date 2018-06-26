@@ -1,0 +1,16 @@
+{
+  "id": 4726,
+  "cardNumber": "18158397",
+  "name": "Natural Disaster",
+  "description": "Inflict 500 damage to your opponent each time a card(s) they control is destroyed and sent to the Graveyard by the effect of a \"Cloudian\" monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

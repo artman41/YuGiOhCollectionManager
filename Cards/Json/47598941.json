@@ -1,0 +1,16 @@
+{
+  "id": 192,
+  "cardNumber": "47598941",
+  "name": "Amorphage Lysis",
+  "description": "All monsters on the field, except \"Amorphage\" monsters, lose 100 ATK and DEF for each \"Amorphage\" card on the field. If a card(s) in your Pendulum Zone is destroyed (except during the Damage Step): You can place 1 \"Amorphage\" Pendulum Monster from your Deck in your Pendulum Zone. You can only use this effect of \"Amorphage Lysis\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

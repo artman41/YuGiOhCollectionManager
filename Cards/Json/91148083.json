@@ -1,0 +1,16 @@
+{
+  "id": 3096,
+  "cardNumber": "91148083",
+  "name": "Gotterdammerung",
+  "description": "Target 1 \"Aesir\" monster you control; give control of that monster to your opponent. During your opponent's next End Phase, destroy that monster, and if you do, banish all cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

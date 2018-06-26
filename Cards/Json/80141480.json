@@ -1,0 +1,16 @@
+{
+  "id": 8302,
+  "cardNumber": "80141480",
+  "name": "Hunter Spider",
+  "description": "This monster feeds on whatever it catches in its web.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

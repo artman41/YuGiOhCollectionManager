@@ -1,0 +1,16 @@
+{
+  "id": 4377,
+  "cardNumber": "22609617",
+  "name": "Mataza the Zapper",
+  "description": "This card can make a second attack during each Battle Phase. Control of this face-up card on the field cannot switch.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

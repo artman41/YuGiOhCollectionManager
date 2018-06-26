@@ -1,0 +1,16 @@
+{
+  "id": 3962,
+  "cardNumber": "67468948",
+  "name": "Layard the Liberator",
+  "description": "Each time a Counter Trap Card is activated, immediately after it resolves, add 2 of your banished Fairy monsters to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

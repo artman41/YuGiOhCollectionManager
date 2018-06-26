@@ -1,0 +1,16 @@
+{
+  "id": 4470,
+  "cardNumber": "9293977",
+  "name": "Metal Dragon",
+  "description": "\"Steel Ogre Grotto #1\" + \"Lesser Dragon\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1850,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

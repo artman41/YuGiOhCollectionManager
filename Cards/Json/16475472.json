@@ -1,0 +1,16 @@
+{
+  "id": 4009,
+  "cardNumber": "16475472",
+  "name": "Lesser Fiend",
+  "description": "(This card is always treated as an \"Archfiend\" card.)<br>Banish any monster destroyed by battle with this card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

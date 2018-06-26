@@ -1,0 +1,16 @@
+{
+  "id": 7258,
+  "cardNumber": "19877898",
+  "name": "Ultimate Insect LV7",
+  "description": "If this card was Special Summoned by the effect of \"Ultimate Insect LV5\", while it remains on the field all your opponent's monsters lose 700 ATK and DEF.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

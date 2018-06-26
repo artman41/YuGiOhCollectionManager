@@ -1,0 +1,16 @@
+{
+  "id": 6467,
+  "cardNumber": "20822520",
+  "name": "Spellbook Library of the Heliosphere",
+  "description": "If you have 5 or more \"Spellbook\" Spell Cards in your Graveyard: Excavate the top 2 cards of your Deck, add any excavated \"Spellbook\" Spell Cards to your hand, also shuffle the other cards into the Deck. You can only activate 1 \"Spellbook Library of the Heliosphere\" per turn. You cannot activate any Spell Cards the turn you activate this card, except \"Spellbook\" Spell Cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

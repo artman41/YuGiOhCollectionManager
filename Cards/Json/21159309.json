@@ -1,0 +1,16 @@
+{
+  "id": 4272,
+  "cardNumber": "21159309",
+  "name": "Majestic Dragon",
+  "description": "Cannot be used as a Synchro Material, except for the Synchro Summon of a \"Majestic\" monster.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

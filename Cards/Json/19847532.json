@@ -1,0 +1,16 @@
+{
+  "id": 3536,
+  "cardNumber": "19847532",
+  "name": "Infernal Flame Emperor",
+  "description": "This card cannot be Special Summoned. When this card is Tribute Summoned, you can remove from play up to 5 FIRE monsters in your Graveyard. Destroy a number of Spell/Trap Cards on the field equal to the number of monsters removed from play for this effect.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

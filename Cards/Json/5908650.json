@@ -1,0 +1,16 @@
+{
+  "id": 6234,
+  "cardNumber": "5908650",
+  "name": "Shopina the Melodious Maestra",
+  "description": "Once per turn: You can target 1 LIGHT Fairy-Type monster in your Graveyard; add it to your hand. You cannot activate non-LIGHT monster effects during the turn you activate this effect.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

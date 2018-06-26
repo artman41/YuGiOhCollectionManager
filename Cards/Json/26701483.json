@@ -1,0 +1,16 @@
+{
+  "id": 957,
+  "cardNumber": "26701483",
+  "name": "Card Ejector",
+  "description": "Once per turn: You can target 1 card in your opponent's Graveyard; banish that target.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

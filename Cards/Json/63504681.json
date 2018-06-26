@@ -1,0 +1,16 @@
+{
+  "id": 4973,
+  "cardNumber": "63504681",
+  "name": "Number 86: Heroic Champion - Rhongomyniad",
+  "description": "2 or more (max. 5) Level 4 Warrior-Type monsters<br>During each of your opponent's End Phases: Detach 1 Xyz Material from this card. This card gains effects based on the number of Xyz Materials attached to it. â— 1 or more: Cannot be destroyed by battle. â— 2 or more: Gains 1500 ATK and DEF. â— 3 or more: Unaffected by other card effects. â— 4 or more: Your opponent cannot Normal or Special Summon monsters. â— 5: Once per turn: You can destroy all cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7907,
+  "cardNumber": "28692962",
+  "name": "Jack Knight of the Purple Dusk",
+  "description": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) to that column. You can only Special Summon \"Jack Knight of the Purple Dusk\" once per turn this way. (Quick Effect): You can target 1 \"Jack Knight\" monster you control; banish it (until the Standby Phase of your next turn), and if you do, add 1 \"Jack Knight\" monster from your Deck to your hand, except \"Jack Knight of the Purple Dusk\". You can only use this effect of \"Jack Knight of the Purple Dusk\" once per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

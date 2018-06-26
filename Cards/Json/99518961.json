@@ -1,0 +1,16 @@
+{
+  "id": 5837,
+  "cardNumber": "99518961",
+  "name": "Restructer Revolution",
+  "description": "Inflict 200 points of damage to your opponent's Life Points for each card in your opponent's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

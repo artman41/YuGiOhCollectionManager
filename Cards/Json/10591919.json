@@ -1,0 +1,16 @@
+{
+  "id": 4660,
+  "cardNumber": "10591919",
+  "name": "Morphtronic Scopen",
+  "description": "â— While in Attack Position: Once per turn, you can Special Summon 1 Level 4 \"Morphtronic\" monster from your hand. Destroy it during the End Phase.<br>â— While in Defense Position: While this card is in face-up Defense Position, it is Level 4.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7114,
+  "cardNumber": "73988674",
+  "name": "Tri-and-Guess",
+  "description": "If each player has an Extra Deck: Declare 1 Extra Deck monster card type (Fusion, Synchro, or Xyz); both players reveal their Extra Deck, and the player who has more monsters of the declared card type gains 3000 Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

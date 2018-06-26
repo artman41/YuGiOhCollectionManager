@@ -1,0 +1,16 @@
+{
+  "id": 3386,
+  "cardNumber": "49551909",
+  "name": "Heroic Retribution Sword",
+  "description": "Target 1 face-up \"Heroic\" monster you control; equip this card to that target. All Battle Damage you take from battles involving the equipped monster is also inflicted to your opponent. After damage calculation: Destroy any opponent's monster that battles the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

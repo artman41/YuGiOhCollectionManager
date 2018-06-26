@@ -1,0 +1,16 @@
+{
+  "id": 516,
+  "cardNumber": "60534585",
+  "name": "Battle Instinct",
+  "description": "Activate only when your opponent declares a direct attack and you control no monsters. Special Summon 1 Level 4 or lower Beast-Type monster from your hand in face-up Attack Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

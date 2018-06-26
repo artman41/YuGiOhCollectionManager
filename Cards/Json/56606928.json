@@ -1,0 +1,16 @@
+{
+  "id": 2278,
+  "cardNumber": "56606928",
+  "name": "Eternal Drought",
+  "description": "Destroy all face-up Fish-Type monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

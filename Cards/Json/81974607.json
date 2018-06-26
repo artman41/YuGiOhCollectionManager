@@ -1,0 +1,16 @@
+{
+  "id": 1122,
+  "cardNumber": "81974607",
+  "name": "Cipher Wing",
+  "description": "If you control a \"Cipher\" monster, you can Special Summon this card (from your hand). You can Tribute this card; increase the Levels of all \"Cipher\" monsters you control by 4 until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

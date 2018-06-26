@@ -1,0 +1,16 @@
+{
+  "id": 6874,
+  "cardNumber": "16946849",
+  "name": "Synthetic Seraphim",
+  "description": "Each time a Counter Trap Card is activated, immediately after it resolves, Special Summon 1 \"Synthetic Seraphim Token\" (Fairy/LIGHT/Level 1/ATK 300/DEF 300).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8377,
+  "cardNumber": "49127943",
+  "name": "Man-Eating Plant",
+  "description": "A meat-eating plant that is attractive to the eye but dangerous when approached.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

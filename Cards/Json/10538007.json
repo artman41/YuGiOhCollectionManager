@@ -1,0 +1,16 @@
+{
+  "id": 8353,
+  "cardNumber": "10538007",
+  "name": "Leogun",
+  "description": "Huge monster with a lion's mane similar to the King of Beasts.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 1550,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

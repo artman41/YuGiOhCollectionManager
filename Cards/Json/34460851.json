@@ -1,0 +1,16 @@
+{
+  "id": 8223,
+  "cardNumber": "34460851",
+  "name": "Flame Manipulator",
+  "description": "This Spellcaster attacks enemies with fire-related spells such as \"Sea of Flames\" and \"Wall of Fire\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8600,
+  "cardNumber": "78984772",
+  "name": "Twin-Headed Fire Dragon",
+  "description": "Two dragons fused as one from the effects of the Big Bang.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

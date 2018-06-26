@@ -1,0 +1,16 @@
+{
+  "id": 5389,
+  "cardNumber": "35429292",
+  "name": "Pixie Knight",
+  "description": "When this card is sent to the Graveyard as a result of battle, your opponent selects 1 Spell Card from your Graveyard, and places that card on the top of your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8626,
+  "cardNumber": "96643568",
+  "name": "Wetha",
+  "description": "A spirit that controls rain and is capable of summoning hurricanes to blow the enemy away.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

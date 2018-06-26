@@ -1,0 +1,16 @@
+{
+  "id": 8501,
+  "cardNumber": "37265642",
+  "name": "Sabersaurus",
+  "description": "This normally gentle dinosaur enjoys relaxing in its nest in the prairies. If it becomes angered, it turns terribly ferocious.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

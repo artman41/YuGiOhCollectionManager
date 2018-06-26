@@ -1,0 +1,16 @@
+{
+  "id": 4336,
+  "cardNumber": "66865880",
+  "name": "Marshmallon Glasses",
+  "description": "While \"Marshmallon\" is in your Monster Zone, your opponent cannot target monsters other than \"Marshmallon\" for attacks.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

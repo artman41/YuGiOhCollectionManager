@@ -1,0 +1,16 @@
+{
+  "id": 8370,
+  "cardNumber": "79182538",
+  "name": "Mad Dog of Darkness",
+  "description": "He used to be a normal dog who played around in a park, but was corrupted by the powers of darkness.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

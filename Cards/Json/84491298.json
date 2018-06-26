@@ -1,0 +1,16 @@
+{
+  "id": 1000,
+  "cardNumber": "84491298",
+  "name": "Cell Explosion Virus",
+  "description": "Activate only when an opponent's monster with an A-Counter declares an attack. Destroy all Attack Position monsters your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

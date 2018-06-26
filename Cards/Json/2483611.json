@@ -1,0 +1,16 @@
+{
+  "id": 8621,
+  "cardNumber": "2483611",
+  "name": "Water Omotics",
+  "description": "Transforms the water overflowing from a jar into attacking dragons.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

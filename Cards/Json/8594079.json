@@ -1,0 +1,16 @@
+{
+  "id": 3729,
+  "cardNumber": "8594079",
+  "name": "Jurrac Brachis",
+  "description": "While another face-up \"Jurrac\" monster is on the field, this card cannot be destroyed by battle.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

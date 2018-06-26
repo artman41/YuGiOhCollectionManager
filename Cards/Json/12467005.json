@@ -1,0 +1,16 @@
+{
+  "id": 6892,
+  "cardNumber": "12467005",
+  "name": "Tackle Crusader",
+  "description": "If this card is sent to the Graveyard: You can activate 1 of these effects.<br>â— Target 1 face-up monster your opponent controls; change that target to face-down Defense Position.<br>â— Target 1 face-up Spell/Trap Card your opponent controls; return that target to the hand. This turn, your opponent cannot activate cards with the same name as the card returned to the hand by this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

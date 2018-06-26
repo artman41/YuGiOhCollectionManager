@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "cardNumber": "52240819",
+  "name": "Abyss Actor - Evil Heel",
+  "description": "Pendulum Effect\n Once per turn: You can Tribute 1 \"Abyss Actor\" monster, then target 1 face-up monster your opponent controls; it loses ATK equal to the original ATK of the Tributed monster, until the end of this turn (even if this card leaves the field).\n\n Monster Effect\n If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; it loses 1000 ATK for each \"Abyss Actor\" monster you currently control, until the end of this turn. When this card destroys an opponent's monster by battle: You can target 1 \"Abyss Script\" Spell Card in your Graveyard; Set that card.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

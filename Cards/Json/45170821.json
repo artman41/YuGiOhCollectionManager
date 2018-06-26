@@ -1,0 +1,16 @@
+{
+  "id": 7392,
+  "cardNumber": "45170821",
+  "name": "Vision HERO Adoration",
+  "description": "2 \"HERO\" monsters<br>Once per turn: You can target 1 face-up monster your opponent controls and 1 other \"HERO\" monster you control; the opponent's targeted monster loses ATK and DEF equal to the ATK of your targeted monster, until the end of this turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1105,
+  "cardNumber": "17363041",
+  "name": "Chrysalis Chicky",
+  "description": "You can Tribute this card while \"Neo Space\" is on the field to Special Summon 1 \"Neo-Spacian Air Hummingbird\" from your hand or Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

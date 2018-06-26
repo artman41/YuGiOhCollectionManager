@@ -1,0 +1,16 @@
+{
+  "id": 2236,
+  "cardNumber": "70628672",
+  "name": "Emergeroid Call",
+  "description": "When a Spell/Trap Card, or monster effect, is activated while you control a \"roid\" Fusion Monster: Negate the activation, then send all cards with the same name as that card from the activating player's Deck and Extra Deck to the GY. You can banish this card from the GY, then target 1 \"roid\" monster in your GY; add it to your hand. You can only use this effect of \"Emergeroid Call\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

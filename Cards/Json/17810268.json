@@ -1,0 +1,16 @@
+{
+  "id": 1141,
+  "cardNumber": "17810268",
+  "name": "Cloudian - Acid Cloud",
+  "description": "This card cannot be destroyed by battle. If this card is in face-up Defense Position, destroy it. When you Normal Summon this card, place 1 Fog Counter on it for each \"Cloudian\" monster on the field. You can remove 2 Fog Counters from this card to destroy 1 Spell or Trap Card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

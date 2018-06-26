@@ -1,0 +1,16 @@
+{
+  "id": 5715,
+  "cardNumber": "31785398",
+  "name": "Ready for Intercepting",
+  "description": "Target 1 Warrior or Spellcaster-Type monster on the field; change that target to face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

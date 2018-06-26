@@ -1,0 +1,16 @@
+{
+  "id": 3709,
+  "cardNumber": "59771339",
+  "name": "Junk Berserker",
+  "description": "\"Junk Synchron\" + 1 or more non-Tuner monsters<br>You can banish 1 \"Junk\" monster from your Graveyard, then target 1 face-up monster your opponent controls; that target loses ATK equal to the banished monster's ATK. At the start of the Damage Step, if this card attacks a Defense Position monster: Destroy that monster.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

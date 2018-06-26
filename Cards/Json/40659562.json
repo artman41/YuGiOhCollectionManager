@@ -1,0 +1,16 @@
+{
+  "id": 3233,
+  "cardNumber": "40659562",
+  "name": "Guardian Sphinx",
+  "description": "Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Return all monsters your opponent controls to the hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

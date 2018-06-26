@@ -1,0 +1,16 @@
+{
+  "id": 7195,
+  "cardNumber": "79441381",
+  "name": "Twilight Ninja Jogen",
+  "description": "Pendulum Effect\n If your \"Ninja\" monster attacks a Defense Position monster, inflict piercing battle damage to your opponent.\n\n Monster Effect\n You can reveal 1 \"Ninjitsu Art\" card in your hand; Special Summon this card from your hand. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

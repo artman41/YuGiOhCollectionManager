@@ -1,0 +1,16 @@
+{
+  "id": 5943,
+  "cardNumber": "41160533",
+  "name": "Rose Tentacles",
+  "description": "Cannot be Special Summoned. At the start of your Battle Phase, for each Plant-Type monster your opponent currently controls, this card gains 1 additional attack during each Battle Phase this turn. Each time this card destroys a Plant-Type monster by battle: Inflict 300 damage to your opponent.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

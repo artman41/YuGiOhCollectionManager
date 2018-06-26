@@ -1,0 +1,16 @@
+{
+  "id": 459,
+  "cardNumber": "28118128",
+  "name": "Baby Raccoon Tantan",
+  "description": "FLIP: Special Summon 1 Level 2 Beast-Type monster from your Deck, except \"Baby Raccoon Tantan\".",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

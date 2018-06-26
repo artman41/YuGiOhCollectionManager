@@ -1,0 +1,16 @@
+{
+  "id": 3772,
+  "cardNumber": "41544074",
+  "name": "Kamionwizard",
+  "description": "\"Mystical Elf\" + \"Curtain of the Dark Ones\"",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

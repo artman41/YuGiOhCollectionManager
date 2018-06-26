@@ -1,0 +1,16 @@
+{
+  "id": 2462,
+  "cardNumber": "81172176",
+  "name": "Fiend Comedian",
+  "description": "Toss a coin and call it. If you call it right, all of your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the number of cards in your opponent's Graveyard from your Deck to your Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

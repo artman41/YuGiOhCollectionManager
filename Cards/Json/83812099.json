@@ -1,0 +1,16 @@
+{
+  "id": 2558,
+  "cardNumber": "83812099",
+  "name": "Flint Lock",
+  "description": "Once per turn, you can equip a \"Flint\" on the field to this card. You can take any \"Flint\" equipped to this card and equip it to another face-up monster. This card can only be equipped with one \"Flint\" at a time. While equipped with \"Flint\", this card is unaffected by \"Flint's\" effect and cannot be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5840,
+  "cardNumber": "22747316",
+  "name": "Retort",
+  "description": "When your opponent activates a Spell/Trap Card with the same name as one in your Graveyard: Negate the activation, and if you do, destroy that card. Then, you can add 1 card with that name from your Graveyard to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

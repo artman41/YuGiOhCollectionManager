@@ -1,0 +1,16 @@
+{
+  "id": 4410,
+  "cardNumber": "84206435",
+  "name": "Medallion of the Ice Barrier",
+  "description": "Add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

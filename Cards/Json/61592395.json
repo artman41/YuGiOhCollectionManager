@@ -1,0 +1,16 @@
+{
+  "id": 6469,
+  "cardNumber": "61592395",
+  "name": "Spellbook of Eternity",
+  "description": "Target 1 of your banished \"Spellbook\" Spell Cards, except \"Spellbook of Eternity\"; add that target to your hand. You can only activate 1 \"Spellbook of Eternity\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

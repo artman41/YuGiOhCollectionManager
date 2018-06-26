@@ -1,0 +1,16 @@
+{
+  "id": 1222,
+  "cardNumber": "16616620",
+  "name": "Contact",
+  "description": "Send all \"Chrysalis\" monsters you control to the Graveyard, and Special Summon 1 monster from your hand or Deck that is written in the card text of those cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

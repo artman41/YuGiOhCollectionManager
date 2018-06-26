@@ -1,0 +1,16 @@
+{
+  "id": 2879,
+  "cardNumber": "68450517",
+  "name": "Genex Ally Duradark",
+  "description": "Once per turn, during your Main Phase, you can select 1 face-up Attack Position monster your opponent controls with the same Attribute as this card, and destroy it. This card cannot attack the turn you activate this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

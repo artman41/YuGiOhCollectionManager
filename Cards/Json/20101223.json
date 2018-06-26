@@ -1,0 +1,16 @@
+{
+  "id": 812,
+  "cardNumber": "20101223",
+  "name": "Breath of Light",
+  "description": "Destroy all face-up Rock-Type monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

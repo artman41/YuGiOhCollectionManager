@@ -1,0 +1,16 @@
+{
+  "id": 6567,
+  "cardNumber": "70668285",
+  "name": "Star Seraph Sword",
+  "description": "Once per turn: You can send 1 \"Star Seraph\" monster from your hand to the Graveyard; this card gains ATK equal to the original ATK of the sent monster, until the End Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

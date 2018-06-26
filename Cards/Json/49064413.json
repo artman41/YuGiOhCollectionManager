@@ -1,0 +1,16 @@
+{
+  "id": 4348,
+  "cardNumber": "49064413",
+  "name": "The Masked Beast",
+  "description": "You can Ritual Summon this card with \"Curse of the Masked Beast\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

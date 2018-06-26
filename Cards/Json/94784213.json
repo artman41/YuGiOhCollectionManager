@@ -1,0 +1,16 @@
+{
+  "id": 4261,
+  "cardNumber": "94784213",
+  "name": "Majespecter Fox - Kyubi",
+  "description": "When this card is Normal or Special Summoned: You can add 1 \"Majespecter\" Trap Card from your Deck to your hand. You can only use this effect of \"Majespecter Fox - Kyubi\" once per turn. Cannot be targeted or destroyed by your opponent's card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

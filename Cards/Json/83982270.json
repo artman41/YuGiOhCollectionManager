@@ -1,0 +1,16 @@
+{
+  "id": 1147,
+  "cardNumber": "83982270",
+  "name": "Cloudian - Poison Cloud",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, if it was face-up at the start of the Damage Step: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

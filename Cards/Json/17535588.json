@@ -1,0 +1,16 @@
+{
+  "id": 8082,
+  "cardNumber": "17535588",
+  "name": "Armored Starfish",
+  "description": "A bluish starfish with a solid hide capable of fending off attacks.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 850,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8456,
+  "cardNumber": "49036338",
+  "name": "PSY-Frame Driver",
+  "description": "A Psychic soldier that rides into battle against the Security Forces on currents of lightning, using an automatic amplifier called \"PSY-Frame\".",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8311,
+  "cardNumber": "97923414",
+  "name": "Inpachi",
+  "description": "A log that attacks lost travelers in the forest. Originally a big tree, it was cut down and possessed by a wicked spirit.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

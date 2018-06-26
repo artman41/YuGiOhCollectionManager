@@ -1,0 +1,16 @@
+{
+  "id": 1771,
+  "cardNumber": "64184058",
+  "name": "Destiny HERO - Decider",
+  "description": "Level 6 or higher monsters your opponent controls cannot target this card for attacks. You can only use each of the following effects of \"Destiny HERO - Decider\" once per Duel.<br>â— If this card is Normal or Special Summoned: You can add 1 \"HERO\" monster from your Graveyard to your hand during the End Phase of this turn.<br>â— During either player's turn, when a card or effect is activated that would inflict damage to you, while this card is in your Graveyard: Return this card to your hand, and if you do, make that effect damage to you 0.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7177,
+  "cardNumber": "85821180",
+  "name": "Tuner's High",
+  "description": "Discard 1 monster; Special Summon from your Deck, 1 Tuner monster with the same original Type and Attribute, but 1 Level higher than the discarded monster had in hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

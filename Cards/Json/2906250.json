@@ -1,0 +1,16 @@
+{
+  "id": 8270,
+  "cardNumber": "2906250",
+  "name": "Grappler",
+  "description": "A devious snake with a thick body that wraps around an enemy monster and squeezes the life out of it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1510,
+  "cardNumber": "34109611",
+  "name": "Daigusto Falcos",
+  "description": "1 Tuner + 1 or more non-Tuner \"Gusto\" monsters<br>When this card is Synchro Summoned: All \"Gusto\" monsters currently on the field gain 600 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

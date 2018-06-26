@@ -1,0 +1,16 @@
+{
+  "id": 1774,
+  "cardNumber": "13093792",
+  "name": "Destiny HERO - Diamond Dude",
+  "description": "Once per turn: You can excavate the top card of your Deck, and if it is a Normal Spell Card, send it to the Graveyard, otherwise place it on the bottom of your Deck. During the Main Phase of your next turn, you can activate the effect of that Spell Card in your Graveyard (even if you no longer control this face-up card).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

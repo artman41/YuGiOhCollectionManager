@@ -1,0 +1,16 @@
+{
+  "id": 3466,
+  "cardNumber": "37869028",
+  "name": "Hydra Viper",
+  "description": "Each time this card declares an attack, you must Tribute 1 Aqua-Type monster. This card can attack 3 times during each Battle Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

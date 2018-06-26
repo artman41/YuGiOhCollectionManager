@@ -1,0 +1,16 @@
+{
+  "id": 5778,
+  "cardNumber": "90411554",
+  "name": "Redox, Dragon Ruler of Boulders",
+  "description": "If this card is in your hand or Graveyard: You can banish a total of 2 EARTH and/or Dragon-Type monsters from your hand and/or Graveyard, except this card; Special Summon this card. During your opponent's End Phase, if this card was Special Summoned: Return it to the hand. You can discard this card and 1 EARTH monster to the Graveyard, then target 1 monster in your Graveyard; Special Summon that target. If this card is banished: You can add 1 EARTH Dragon-Type monster from your Deck to your hand. You can only use 1 \"Redox, Dragon Ruler of Boulders\" effect per turn, and only once that turn.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

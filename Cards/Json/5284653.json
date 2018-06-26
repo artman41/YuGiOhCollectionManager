@@ -1,0 +1,16 @@
+{
+  "id": 2315,
+  "cardNumber": "5284653",
+  "name": "Evilswarm Obliviwisp",
+  "description": "After damage calculation, if this card battles a monster: Negate the effects of that monster (including in the Graveyard).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 450,
+  "def": 2050,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

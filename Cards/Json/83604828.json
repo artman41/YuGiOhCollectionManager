@@ -1,0 +1,16 @@
+{
+  "id": 1145,
+  "cardNumber": "83604828",
+  "name": "Cloudian - Ghost Fog",
+  "description": "This card cannot be Special Summoned. All Battle Damage to either player from a battle involving this monster becomes 0. If this card is destroyed by battle, distribute new Fog Counters equal to the Level of the monster that destroyed it among face-up monsters.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

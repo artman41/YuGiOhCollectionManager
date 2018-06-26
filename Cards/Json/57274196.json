@@ -1,0 +1,16 @@
+{
+  "id": 2262,
+  "cardNumber": "57274196",
+  "name": "Enlightenment",
+  "description": "You cannot Summon the turn you activate this card. Activate at the end of the Damage Step, if a Spellcaster-Type monster you control attacked and destroyed an opponent's monster by battle. That monster can attack again (immediately).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

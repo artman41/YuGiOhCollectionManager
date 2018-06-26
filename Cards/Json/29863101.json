@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "cardNumber": "29863101",
+  "name": "Assault Teleport",
+  "description": "Return 1 \"/Assault Mode\" monster from your hand to the Deck. Draw 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

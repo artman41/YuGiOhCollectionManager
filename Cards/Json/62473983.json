@@ -1,0 +1,16 @@
+{
+  "id": 3144,
+  "cardNumber": "62473983",
+  "name": "Gravekeeper's Chief",
+  "description": "You can only control 1 face-up \"Gravekeeper's Chief\". Your Graveyard is unaffected by \"Necrovalley\". When this card is Tribute Summoned: You can target 1 \"Gravekeeper's\" monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

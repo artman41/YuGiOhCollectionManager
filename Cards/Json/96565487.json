@@ -1,0 +1,16 @@
+{
+  "id": 734,
+  "cardNumber": "96565487",
+  "name": "Blizzard Warrior",
+  "description": "If this card destroys an opponent's monster by battle, look at the top card of their Deck, then return it to either the top or bottom of their Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

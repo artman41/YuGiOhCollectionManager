@@ -1,0 +1,16 @@
+{
+  "id": 3115,
+  "cardNumber": "9032529",
+  "name": "Graceful Tear",
+  "description": "Add 1 card from your hand to your opponent's hand, then gain 2000 LP.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

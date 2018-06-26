@@ -1,0 +1,16 @@
+{
+  "id": 6438,
+  "cardNumber": "16725505",
+  "name": "Speedroid Red-Eyed Dice",
+  "description": "When this card is Normal or Special Summoned: You can target 1 \"Speedroid\" monster you control, except \"Speedroid Red-Eyed Dice\", and declare a Level from 1 to 6; it becomes that Level until the end of this turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

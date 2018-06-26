@@ -1,0 +1,16 @@
+{
+  "id": 241,
+  "cardNumber": "17092736",
+  "name": "Ancient Telescope",
+  "description": "See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

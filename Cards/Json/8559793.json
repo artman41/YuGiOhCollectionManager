@@ -1,0 +1,16 @@
+{
+  "id": 5640,
+  "cardNumber": "8559793",
+  "name": "Raidraptor - Nest",
+  "description": "If you control 2 or more \"Raidraptor\" monsters: You can add 1 \"Raidraptor\" monster from your Deck or Graveyard to your hand. You can only use this effect of \"Raidraptor - Nest\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

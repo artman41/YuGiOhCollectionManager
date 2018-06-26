@@ -1,0 +1,16 @@
+{
+  "id": 6334,
+  "cardNumber": "97169186",
+  "name": "Smashing Ground",
+  "description": "Destroy the 1 face-up monster your opponent controls that has the highest DEF (your choice, if tied).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8918,
+  "cardNumber": "6556178",
+  "name": "Borrel Regenerator",
+  "description": "Activate this card by targeting 1 \"Rokket\" monster in your GY; Special Summon it and equip it with this card. When this card leaves the field, banish that monster. If this card is sent to the GY because the equipped monster was destroyed: You can draw 1 card. You can only use each effect of \"Borrel Regenerator\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

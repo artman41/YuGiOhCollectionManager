@@ -1,0 +1,16 @@
+{
+  "id": 3526,
+  "cardNumber": "77084837",
+  "name": "Inaba White Rabbit",
+  "description": "This card cannot be Special Summoned. This card returns to the owner's hand during the End Phase of the turn that this card is Normal Summoned or flipped face-up. This monster attacks your opponent's Life Points directly.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Spirit\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3681,
+  "cardNumber": "8487449",
+  "name": "Jester Confit",
+  "description": "You can Special Summon this card from your hand in face-up Attack Position. If you do, return this card and 1 face-up monster your opponent controls to the hand during the End Phase of your opponent's next turn. You can only control 1 face-up \"Jester Confit\".",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

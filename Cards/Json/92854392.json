@@ -1,0 +1,16 @@
+{
+  "id": 6593,
+  "cardNumber": "92854392",
+  "name": "Staunch Defender",
+  "description": "You can only activate this card when your opponent declares an attack. Select 1 face-up monster on your side of the field. During this turn, your opponent can only designate the selected monster as an attack target and your opponent must attack the selected monster with all face-up monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

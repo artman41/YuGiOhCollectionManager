@@ -1,0 +1,16 @@
+{
+  "id": 2546,
+  "cardNumber": "95621257",
+  "name": "Flamvell Magician",
+  "description": "While you control an \"Ally of Justice\" monster(s), this card gains 400 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

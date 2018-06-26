@@ -1,0 +1,16 @@
+{
+  "id": 8206,
+  "cardNumber": "37160778",
+  "name": "Fairywitch",
+  "description": "Though destined to be a fairy, this creature chose the way of the witch instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

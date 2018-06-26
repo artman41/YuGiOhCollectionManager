@@ -1,0 +1,16 @@
+{
+  "id": 4314,
+  "cardNumber": "80727036",
+  "name": "Man-eating Black Shark",
+  "description": "\"Sea Kamen\" + \"Gruesome Goo\" + \"Amazon of the Seas\"",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

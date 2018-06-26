@@ -1,0 +1,16 @@
+{
+  "id": 4074,
+  "cardNumber": "64238008",
+  "name": "Linear Accelerator Cannon",
+  "description": "Tribute 1 monster and inflict damage to your opponent equal to half that monster's original ATK. If you activate this card, you cannot activate any other Spell Cards this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

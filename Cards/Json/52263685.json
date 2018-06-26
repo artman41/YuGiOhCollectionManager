@@ -1,0 +1,16 @@
+{
+  "id": 5187,
+  "cardNumber": "52263685",
+  "name": "Peeking Goblin",
+  "description": "Your opponent reveals the top 3 cards of their Deck. Choose one to place on the bottom of the Deck and place the other two on top of the Deck in any order.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

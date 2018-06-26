@@ -1,0 +1,16 @@
+{
+  "id": 2738,
+  "cardNumber": "76972801",
+  "name": "Gagagaguard",
+  "description": "If you control 2 or more face-up \"Gagaga\" monsters: This turn, monsters you control cannot be destroyed by battle or by card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

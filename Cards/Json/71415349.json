@@ -1,0 +1,16 @@
+{
+  "id": 3457,
+  "cardNumber": "71415349",
+  "name": "Humpty Grumpty",
+  "description": "Once per turn: You can change this card to face-down Defense Position. If this card is Flip Summoned: It gains 800 ATK until the end of this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

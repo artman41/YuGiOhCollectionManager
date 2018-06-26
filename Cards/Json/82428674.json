@@ -1,0 +1,16 @@
+{
+  "id": 8925,
+  "cardNumber": "82428674",
+  "name": "Cybernetic Overflow",
+  "description": "Banish any number of \"Cyber Dragon\" that have different Levels from each other from your hand, GY, and/or face-up from your field, then destroy the same number of cards your opponent controls. If this card on the field is destroyed by a card effect: You can add 1 \"Cyber\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Cybernetic Overflow\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

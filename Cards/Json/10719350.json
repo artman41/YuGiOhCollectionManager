@@ -1,0 +1,16 @@
+{
+  "id": 2495,
+  "cardNumber": "10719350",
+  "name": "Fire Formation - Tensu",
+  "description": "During your Main Phase, you can Normal Summon 1 Beast-Warrior-Type monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) All Beast-Warrior-Type monsters you control gain 100 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

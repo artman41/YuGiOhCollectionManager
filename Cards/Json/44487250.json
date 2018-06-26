@@ -1,0 +1,16 @@
+{
+  "id": 7686,
+  "cardNumber": "44487250",
+  "name": "Xyz Block",
+  "description": "When your opponent activates a monster effect: Detach 1 Xyz Material from a monster you control; negate the activation, and if you do, destroy that monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

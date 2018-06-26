@@ -1,0 +1,16 @@
+{
+  "id": 1355,
+  "cardNumber": "18489208",
+  "name": "Cursed Fig",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Target 2 Set Spell/Trap Cards on the field; while this card is in the Graveyard, those Set cards cannot be activated.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

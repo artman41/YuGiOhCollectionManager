@@ -1,0 +1,16 @@
+{
+  "id": 6192,
+  "cardNumber": "7672244",
+  "name": "Shien's Spy",
+  "description": "Select 1 face-up monster you control to activate this card. Give control of the selected monster to your opponent until the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

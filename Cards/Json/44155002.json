@@ -1,0 +1,16 @@
+{
+  "id": 6969,
+  "cardNumber": "44155002",
+  "name": "The Fabled Unicore",
+  "description": "1 \"Fabled\" Tuner + 1 or more non-Tuner monsters<br>While you and your opponent have the same number of cards in hand, negate all Spell, Trap and Effect Monster effects activated by your opponent, and destroy that Spell/Trap/Monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3083,
+  "cardNumber": "59797187",
+  "name": "Gonogo",
+  "description": "At the end of the Damage Step, if this card battled an opponent's monster: Change that monster to face-down Defense Position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

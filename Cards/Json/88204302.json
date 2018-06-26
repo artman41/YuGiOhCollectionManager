@@ -1,0 +1,16 @@
+{
+  "id": 6425,
+  "cardNumber": "88204302",
+  "name": "Speed Recovery",
+  "description": "Target 1 \"Speedroid\" monster in your Graveyard; Special Summon it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 \"Speedroid\" monster in your Graveyard; add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

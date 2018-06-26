@@ -1,0 +1,16 @@
+{
+  "id": 1659,
+  "cardNumber": "87990236",
+  "name": "Darklord Enchantment",
+  "description": "Send 1 \"Darklord\" monster from your hand or face-up from your field to the Graveyard; take control of 1 face-up monster your opponent controls until the End Phase. You can only activate 1 \"Darklord Enchantment\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

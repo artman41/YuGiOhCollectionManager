@@ -1,0 +1,16 @@
+{
+  "id": 1527,
+  "cardNumber": "76895648",
+  "name": "Dangerous Machine Type-6",
+  "description": "During each of your Standby Phases: Roll a six-sided die and apply the result.<br>â— 1: Discard 1 card.<br>â— 2: Your opponent discards 1 card.<br>â— 3: Draw 1 card.<br>â— 4: Your opponent draws 1 card.<br>â— 5: Destroy 1 monster your opponent controls.<br>â— 6: Destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

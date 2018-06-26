@@ -1,0 +1,16 @@
+{
+  "id": 7147,
+  "cardNumber": "12275533",
+  "name": "Trifortressops",
+  "description": "During either player's turn, if your opponent Summoned 3 or more monsters this turn: You can Special Summon this card from your hand. If Summoned this way, it is unaffected by other cards' effects, but loses 500 DEF during each player's Standby Phase.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

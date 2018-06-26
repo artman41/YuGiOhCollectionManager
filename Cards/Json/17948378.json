@@ -1,0 +1,16 @@
+{
+  "id": 3730,
+  "cardNumber": "17948378",
+  "name": "Jurrac Dino",
+  "description": "Once during each player's End Phase, if this card destroyed an opponent's monster by battle this turn, you can Tribute 1 \"Jurrac\" monster to draw 2 cards.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

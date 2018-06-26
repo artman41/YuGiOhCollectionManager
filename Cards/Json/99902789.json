@@ -1,0 +1,16 @@
+{
+  "id": 1083,
+  "cardNumber": "99902789",
+  "name": "Chow Chow Chan",
+  "description": "When your opponent activates a Normal Trap Card in response to your monster's attack declaration targeting an opponent's monster: You can discard this card; negate the activation, and if you do, destroy that card (this is a Quick Effect).",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

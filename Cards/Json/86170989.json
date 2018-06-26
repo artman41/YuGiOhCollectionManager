@@ -1,0 +1,16 @@
+{
+  "id": 2426,
+  "cardNumber": "86170989",
+  "name": "FalchionÎ²",
+  "description": "If this card destroys an opponent's monster by battle: Activate 1 of these effects.<br>â— Send 1 LIGHT Machine-Type monster with 1200 or less ATK from your Deck to your Graveyard.<br>â— Target 1 LIGHT Machine-Type monster with 1200 or less ATK in your Graveyard; Special Summon that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

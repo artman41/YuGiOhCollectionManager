@@ -1,0 +1,16 @@
+{
+  "id": 5328,
+  "cardNumber": "63821877",
+  "name": "The Phantom Knights of Ragged Gloves",
+  "description": "A DARK Xyz Monster that was Summoned using this card on the field as an Xyz Material gains this effect.<br>â— If it is Xyz Summoned: It gains 1000 ATK.<br>You can banish this card from your Graveyard; send 1 \"Phantom Knights\" card from your Deck to the Graveyard. You can only use each effect of \"The Phantom Knights of Ragged Gloves\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

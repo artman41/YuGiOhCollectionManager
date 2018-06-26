@@ -1,0 +1,16 @@
+{
+  "id": 1464,
+  "cardNumber": "33334269",
+  "name": "D/D Ghost",
+  "description": "If this card is sent to the Graveyard: You can target 1 \"D/D\" monster or \"Dark Contract\" card in your Graveyard, except \"D/D Ghost\"; send 1 card from your Deck to the Graveyard with that name. If this card is banished: You can target 1 of your banished \"D/D\" monsters or \"Dark Contract\" cards, except \"D/D Ghost\"; return it to the Graveyard.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

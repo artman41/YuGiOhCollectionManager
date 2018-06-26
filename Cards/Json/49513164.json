@@ -1,0 +1,16 @@
+{
+  "id": 3628,
+  "cardNumber": "49513164",
+  "name": "Invoked Raidjin",
+  "description": "\"Aleister the Invoker\" + 1 WIND monster<br>Once per turn, during either player's turn: You can target 1 face-up monster on the field; change it to face-down Defense Position.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

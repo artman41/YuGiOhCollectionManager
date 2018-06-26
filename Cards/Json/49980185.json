@@ -1,0 +1,16 @@
+{
+  "id": 8661,
+  "cardNumber": "49980185",
+  "name": "Supernatural Regeneration",
+  "description": "Activate only during the End Phase. Gain 1000 Life Points for each Psychic-Type monster sent to the Graveyard this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

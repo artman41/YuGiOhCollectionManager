@@ -1,0 +1,16 @@
+{
+  "id": 8859,
+  "cardNumber": "73275815",
+  "name": "Link Hole",
+  "description": "If you control a Link-4 or higher monster: Destroy monsters your opponent controls, up to the number of Link-3 or higher monsters you control. You can only activate 1 \"Link Hole\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

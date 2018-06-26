@@ -1,0 +1,16 @@
+{
+  "id": 1824,
+  "cardNumber": "62893810",
+  "name": "Dicelops",
+  "description": "Once per turn: You can roll a six-sided die, then apply the result.<br>â— 1: Look at your opponent's hand, also discard 1 card from their hand.<br>â— 2, 3, 4, 5: Discard 1 card.<br>â— 6: Discard your entire hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1106,
+  "cardNumber": "42682609",
+  "name": "Chrysalis Dolphin",
+  "description": "By Tributing this card while \"Neo Space\" is on the field, Special Summon 1 \"Neo-Spacian Aqua Dolphin\" from your hand or Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

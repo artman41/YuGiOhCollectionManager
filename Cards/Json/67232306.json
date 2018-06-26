@@ -1,0 +1,16 @@
+{
+  "id": 4570,
+  "cardNumber": "67232306",
+  "name": "Mirror Mail",
+  "description": "When a face-up monster you control is targeted for an attack: Its ATK becomes equal to that of the attacking monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

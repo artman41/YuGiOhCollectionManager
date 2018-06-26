@@ -1,0 +1,16 @@
+{
+  "id": 6987,
+  "cardNumber": "47594192",
+  "name": "Three of a Kind",
+  "description": "If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

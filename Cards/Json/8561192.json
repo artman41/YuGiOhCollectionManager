@@ -1,0 +1,16 @@
+{
+  "id": 4005,
+  "cardNumber": "8561192",
+  "name": "Leo, the Keeper of the Sacred Tree",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Cannot be targeted by an opponent's card effects, except during your Main Phase 2.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3100,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

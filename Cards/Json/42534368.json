@@ -1,0 +1,16 @@
+{
+  "id": 6247,
+  "cardNumber": "42534368",
+  "name": "Silent Doom",
+  "description": "Target 1 Normal Monster in your Graveyard; Special Summon it in face-up Defense Position, but it cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

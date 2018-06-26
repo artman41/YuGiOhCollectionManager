@@ -1,0 +1,16 @@
+{
+  "id": 5437,
+  "cardNumber": "55063681",
+  "name": "Power Supplier",
+  "description": "Once per turn, you can select 1 face-up monster you control. It gains 400 ATK while you control this face-up card. (A monster cannot gain more than 400 ATK from this card's effect.)",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

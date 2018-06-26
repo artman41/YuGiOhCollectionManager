@@ -1,0 +1,16 @@
+{
+  "id": 818,
+  "cardNumber": "50321796",
+  "name": "Brionac, Dragon of the Ice Barrier",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>You can discard any number of cards to the Graveyard, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

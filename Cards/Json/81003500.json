@@ -1,0 +1,16 @@
+{
+  "id": 2196,
+  "cardNumber": "81003500",
+  "name": "Elemental HERO Necroid Shaman",
+  "description": "\"Elemental HERO Wildheart\" + \"Elemental HERO Necroshade\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Special Summoned: Target 1 monster your opponent controls; destroy that target, then Special Summon 1 monster from your opponent's Graveyard to their side of the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

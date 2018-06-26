@@ -1,0 +1,16 @@
+{
+  "id": 2847,
+  "cardNumber": "71594310",
+  "name": "Gem-Knight Pearl",
+  "description": "2 Level 4 monsters",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2600,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

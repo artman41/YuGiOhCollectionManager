@@ -1,0 +1,16 @@
+{
+  "id": 326,
+  "cardNumber": "28493337",
+  "name": "Armageddon Designator",
+  "description": "Banish 1 card from your hand; neither player can activate cards, or the effects of cards, with that name for the rest of this Duel.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

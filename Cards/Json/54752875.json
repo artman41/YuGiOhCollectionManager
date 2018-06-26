@@ -1,0 +1,16 @@
+{
+  "id": 7207,
+  "cardNumber": "54752875",
+  "name": "Twin-Headed Thunder Dragon",
+  "description": "\"Thunder Dragon\" + \"Thunder Dragon\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

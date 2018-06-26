@@ -1,0 +1,16 @@
+{
+  "id": 2740,
+  "cardNumber": "13166204",
+  "name": "Gagagarush",
+  "description": "When a face-up \"Gagaga\" monster(s) you control is targeted by the effect of an opponent's monster: Negate the effect of that opponent's monster, and if you do, destroy it, then inflict damage to your opponent equal to the destroyed monster's ATK or DEF in the Graveyard (whichever is higher).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8112,
+  "cardNumber": "97023549",
+  "name": "Blade Skater",
+  "description": "An image of beauty on the ice, this gorgeous warrior rips her opponents into pieces with her stylish Accel Slicer attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

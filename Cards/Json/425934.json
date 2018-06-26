@@ -1,0 +1,16 @@
+{
+  "id": 3048,
+  "cardNumber": "425934",
+  "name": "Goblin of Greed",
+  "description": "As long as this card remains face-up on your side of the field, neither player can activate an effect by discarding from his/her hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

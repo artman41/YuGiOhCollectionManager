@@ -1,0 +1,16 @@
+{
+  "id": 4749,
+  "cardNumber": "43932460",
+  "name": "Naturia Landoise",
+  "description": "1 EARTH Tuner + 1 or more non-Tuner EARTH monsters<br>While this card is face-up on the field, you can send 1 Spell Card from your hand to the Graveyard to negate the activation of an Effect Monster's effect, and destroy that Effect Monster.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2350,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

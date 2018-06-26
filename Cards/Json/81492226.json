@@ -1,0 +1,16 @@
+{
+  "id": 8064,
+  "cardNumber": "81492226",
+  "name": "Ancient Jar",
+  "description": "A very fragile jar that contains something ancient and dangerous.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

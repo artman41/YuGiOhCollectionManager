@@ -1,0 +1,16 @@
+{
+  "id": 2985,
+  "cardNumber": "16693254",
+  "name": "Gishki Avance",
+  "description": "Once per turn: You can choose 1 \"Gishki\" monster from your Deck and place it on top of your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2797,
+  "cardNumber": "8102334",
+  "name": "Gate Blocker",
+  "description": "Negate the effects of your opponent's Field Spell Cards. Your opponent cannot place counters on cards on the field. Your opponent cannot target other monsters you control for card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

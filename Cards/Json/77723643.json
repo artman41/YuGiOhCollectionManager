@@ -1,0 +1,16 @@
+{
+  "id": 6145,
+  "cardNumber": "77723643",
+  "name": "Shaddoll Dragon",
+  "description": "FLIP: You can target 1 card your opponent controls; return it to the hand.<br>If this card is sent to the Graveyard by a card effect: You can target 1 Spell/Trap Card on the field; destroy it. You can only use 1 \"Shaddoll Dragon\" effect per turn, and only once that turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

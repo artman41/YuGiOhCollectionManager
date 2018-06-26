@@ -1,0 +1,16 @@
+{
+  "id": 2076,
+  "cardNumber": "31476755",
+  "name": "Dust Barrier",
+  "description": "Face-up Normal Monsters on the field are unaffected by your opponent's Spell Cards. This card is destroyed during your second Standby Phase after activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

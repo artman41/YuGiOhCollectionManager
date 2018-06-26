@@ -1,0 +1,16 @@
+{
+  "id": 4515,
+  "cardNumber": "18190572",
+  "name": "Micro Ray",
+  "description": "Target 1 face-up monster on the field; that target's DEF becomes 0 until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4107,
+  "cardNumber": "34664411",
+  "name": "Lucky Iron Axe",
+  "description": "The equipped monster gains 500 ATK. If this face-up card you control is destroyed by your opponent's card effect and sent to your Graveyard: Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

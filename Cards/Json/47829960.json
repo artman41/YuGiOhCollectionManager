@@ -1,0 +1,16 @@
+{
+  "id": 1050,
+  "cardNumber": "47829960",
+  "name": "Chaosrider Gustaph",
+  "description": "Once per turn, you can remove from play up to 2 Spell Cards in your Graveyard. This card gains 300 ATK for each card removed, until the end of your opponent's next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

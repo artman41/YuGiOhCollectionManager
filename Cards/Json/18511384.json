@@ -1,0 +1,16 @@
+{
+  "id": 2703,
+  "cardNumber": "18511384",
+  "name": "Fusion Recovery",
+  "description": "Target 1 \"Polymerization\", and 1 Fusion Material that was used for a Fusion Summon, in your Graveyard; add them to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

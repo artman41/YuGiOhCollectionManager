@@ -1,0 +1,16 @@
+{
+  "id": 1007,
+  "cardNumber": "83021423",
+  "name": "Chachaka Archer",
+  "description": "Once per turn: You can target 1 Spell/Trap Card on the field; destroy it.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

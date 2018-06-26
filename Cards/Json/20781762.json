@@ -1,0 +1,16 @@
+{
+  "id": 5921,
+  "cardNumber": "20781762",
+  "name": "Rock Bombardment",
+  "description": "Send 1 Rock-Type monster from your Deck to the Graveyard; inflict 500 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

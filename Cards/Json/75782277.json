@@ -1,0 +1,16 @@
+{
+  "id": 3298,
+  "cardNumber": "75782277",
+  "name": "Harpies' Hunting Ground",
+  "description": "All Winged Beast-Type monsters gain 200 ATK and DEF. When any \"Harpie Lady\" or \"Harpie Lady Sisters\" are Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap Card on the field; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

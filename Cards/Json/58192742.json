@@ -1,0 +1,16 @@
+{
+  "id": 8464,
+  "cardNumber": "58192742",
+  "name": "Petit Moth",
+  "description": "This small but deadly creature is better off avoided.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

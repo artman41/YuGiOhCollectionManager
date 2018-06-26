@@ -1,0 +1,16 @@
+{
+  "id": 1281,
+  "cardNumber": "49600724",
+  "name": "Crevice Into the Different Dimension",
+  "description": "Declare 1 Attribute and select a total of 2 monsters with that Attribute from either Graveyard. Remove those monsters from play.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

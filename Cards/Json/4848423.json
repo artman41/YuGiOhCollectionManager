@@ -1,0 +1,16 @@
+{
+  "id": 4687,
+  "cardNumber": "4848423",
+  "name": "Muscle Medic",
+  "description": "If a player would take damage from a battle involving this card, they gain that much LP, instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

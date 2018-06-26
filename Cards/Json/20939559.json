@@ -1,0 +1,16 @@
+{
+  "id": 6165,
+  "cardNumber": "20939559",
+  "name": "Shadowslayer",
+  "description": "If all monsters your opponent controls are in Defense Position, this card can attack your opponent directly.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

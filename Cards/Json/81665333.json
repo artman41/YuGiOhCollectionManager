@@ -1,0 +1,16 @@
+{
+  "id": 6406,
+  "cardNumber": "81665333",
+  "name": "Sound the Retreat!",
+  "description": "Return all monsters you control to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

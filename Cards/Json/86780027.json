@@ -1,0 +1,16 @@
+{
+  "id": 6369,
+  "cardNumber": "86780027",
+  "name": "Solidarity",
+  "description": "If you have only 1 original Type of monster in your Graveyard, all monsters you control with the same Type gain 800 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

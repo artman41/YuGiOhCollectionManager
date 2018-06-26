@@ -1,0 +1,16 @@
+{
+  "id": 5694,
+  "cardNumber": "255998",
+  "name": "Rapid Warrior",
+  "description": "During your Main Phase 1, you can activate this card's effect. If you do, it can attack your opponent directly this turn. Other monsters cannot attack during the turn you activate this effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

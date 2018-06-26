@@ -1,0 +1,16 @@
+{
+  "id": 4617,
+  "cardNumber": "3810071",
+  "name": "Monk Fighter",
+  "description": "Battle Damage to this card's controller from a battle involving this card becomes 0.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

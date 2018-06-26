@@ -1,0 +1,16 @@
+{
+  "id": 5668,
+  "cardNumber": "34002992",
+  "name": "Rainbow Life",
+  "description": "Discard 1 card. Until the end of this turn, whenever you would take damage you gain that amount of Life Points instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

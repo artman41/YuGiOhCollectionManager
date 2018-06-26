@@ -1,0 +1,16 @@
+{
+  "id": 396,
+  "cardNumber": "53389254",
+  "name": "Assault Blackwing - Sohaya the Rain Storm",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>If this card is Synchro Summoned using a \"Blackwing\" monster as Material, it is treated as a Tuner while face-up on the field. You can only use each of these effects of \"Assault Blackwing - Sohaya the Rain Storm\" once per turn. â— When this card is Synchro Summoned: You can target 1 \"Assault Blackwing\" monster in your Graveyard; Special Summon it. â— During your Main Phase, if this card is in the Graveyard because it was sent there this turn: You can banish 1 other \"Assault Blackwing - Sohaya the Rain Storm\" from your Graveyard; Special Summon this card.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

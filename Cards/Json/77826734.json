@@ -1,0 +1,16 @@
+{
+  "id": 5195,
+  "cardNumber": "77826734",
+  "name": "Pendulum Reborn",
+  "description": "Special Summon 1 face-up Pendulum Monster from your Extra Deck, or 1 Pendulum Monster from your GY.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

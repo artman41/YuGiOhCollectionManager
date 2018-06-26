@@ -1,0 +1,16 @@
+{
+  "id": 905,
+  "cardNumber": "50243722",
+  "name": "Burst Rebirth",
+  "description": "Pay 2000 Life Points, then target 1 monster in your Graveyard; Special Summon that target in face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

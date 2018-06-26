@@ -1,0 +1,16 @@
+{
+  "id": 7138,
+  "cardNumber": "98700941",
+  "name": "Trickstar Lilybell",
+  "description": "If this card is added to your hand, except by drawing it: You can Special Summon it from your hand. You can only use this effect of \"Trickstar Lilybell\" once per turn. This card can attack directly. When this card inflicts battle damage to your opponent: You can target 1 \"Trickstar\" monster in your GY; add it to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

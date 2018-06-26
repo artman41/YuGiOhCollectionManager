@@ -1,0 +1,16 @@
+{
+  "id": 8342,
+  "cardNumber": "97590747",
+  "name": "La Jinn the Mystical Genie of the Lamp",
+  "description": "A genie of the lamp that is at the beck and call of its master.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

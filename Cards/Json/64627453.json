@@ -1,0 +1,16 @@
+{
+  "id": 5064,
+  "cardNumber": "64627453",
+  "name": "Ojama Blue",
+  "description": "When this card is destroyed by battle and sent to the Graveyard, you can add 2 \"Ojama\" cards from your Deck to your hand (this can include \"Ojamuscle\").",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

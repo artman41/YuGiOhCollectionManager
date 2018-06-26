@@ -1,0 +1,16 @@
+{
+  "id": 1274,
+  "cardNumber": "61505339",
+  "name": "The Creator",
+  "description": "Cannot be Special Summoned from the Graveyard. Once per turn: You can target 1 monster in your Graveyard; send 1 card from your hand to the Graveyard, and if you do, Special Summon that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

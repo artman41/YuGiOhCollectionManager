@@ -1,0 +1,16 @@
+{
+  "id": 591,
+  "cardNumber": "82386016",
+  "name": "The Big Cattle Drive",
+  "description": "If you control a Beast, Beast-Warrior, or Winged Beast-Type monster: Draw 1 card for each of those Monster Types you control. You cannot activate other Spell/Trap Cards or effects during the turn you activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

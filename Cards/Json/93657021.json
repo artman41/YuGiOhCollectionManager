@@ -1,0 +1,16 @@
+{
+  "id": 1784,
+  "cardNumber": "93657021",
+  "name": "Destiny HERO - Dusktopia",
+  "description": "1 \"Destiny HERO\" Fusion Monster + 1 \"Destiny HERO\" monster<br>If this card is Fusion Summoned: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. Once per turn (Quick Effect): You can target 1 monster on the field; make it unable to be destroyed by battle or card effects, and if you do, neither player takes any battle damage from attacks involving that monster (these effects last until the end of this turn.)",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

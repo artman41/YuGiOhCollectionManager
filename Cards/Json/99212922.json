@@ -1,0 +1,16 @@
+{
+  "id": 7520,
+  "cardNumber": "99212922",
+  "name": "White Dragon Ninja",
+  "description": "Cannot be Special Summoned, except with a \"Ninjitsu Art\" card's effect. Spell/Trap Cards you control cannot be destroyed by card effects.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

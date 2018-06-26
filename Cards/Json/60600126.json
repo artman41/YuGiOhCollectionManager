@@ -1,0 +1,16 @@
+{
+  "id": 8975,
+  "cardNumber": "60600126",
+  "name": "Cyber Emergency",
+  "description": "Add from your Deck to your hand, 1 \"Cyber Dragon\" monster or LIGHT Machine monster that cannot be Normal Summoned/Set. If this card's activation is negated by your opponent and it is sent to GY as a result: You can discard 1 card; add this card from the GY to your hand. You can only activate 1 \"Cyber Emergency\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

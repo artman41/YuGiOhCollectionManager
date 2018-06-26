@@ -1,0 +1,16 @@
+{
+  "id": 8863,
+  "cardNumber": "24429467",
+  "name": "Mythical Bestiamorph",
+  "description": "Each time an opponent's monster activates its effect, place 1 Spell Counter on this card when that effect resolves. You can send this card with 6 or more Spell Counters to the GY; add 1 Spell from your Deck to your hand. You can only use this effect of \"Mythical Bestiamorph\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

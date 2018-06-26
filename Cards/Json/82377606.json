@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "cardNumber": "82377606",
+  "name": "Ally of Justice Unlimiter",
+  "description": "You can Tribute this card to double the original ATK of 1 face-up \"Ally of Justice\" monster you control until the End Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

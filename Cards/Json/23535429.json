@@ -1,0 +1,16 @@
+{
+  "id": 6647,
+  "cardNumber": "23535429",
+  "name": "Stronghold Guardian",
+  "description": "If a Defense Position monster you control is attacked, during the Damage Step, you can send this card from your hand to the Graveyard to have that monster gain 1500 DEF until the End Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

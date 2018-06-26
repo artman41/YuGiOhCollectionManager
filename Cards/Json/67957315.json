@@ -1,0 +1,16 @@
+{
+  "id": 6510,
+  "cardNumber": "67957315",
+  "name": "Spirit Ryu",
+  "description": "You can only activate this effect during your Battle Step, if this card battles during your turn. Discard 1 Dragon-Type monster from your hand to the Graveyard to increase the ATK and DEF of this card by 1000 points until the End Step.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6357,
+  "cardNumber": "86318356",
+  "name": "Sogen",
+  "description": "Increases the ATK and DEF of all Beast-Warrior and Warrior-Type monsters by 200 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

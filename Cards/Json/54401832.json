@@ -1,0 +1,16 @@
+{
+  "id": 4476,
+  "cardNumber": "54401832",
+  "name": "Metalfoes Crimsonite",
+  "description": "1 \"Metalfoes\" monster + 2 monsters with 3000 or less ATK",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

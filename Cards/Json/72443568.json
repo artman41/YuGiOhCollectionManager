@@ -1,0 +1,16 @@
+{
+  "id": 6251,
+  "cardNumber": "72443568",
+  "name": "Silent Magician LV8",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Silent Magician LV4\" and cannot be Special Summoned by other ways. Unaffected by your opponent's Spell effects.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

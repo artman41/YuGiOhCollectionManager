@@ -1,0 +1,16 @@
+{
+  "id": 1796,
+  "cardNumber": "62980542",
+  "name": "Destruction of Destiny",
+  "description": "Send 3 cards from the top of your Deck to the Graveyard, and take 1000 damage for each Spell or Trap Card sent to the Graveyard this way.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

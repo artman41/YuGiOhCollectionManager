@@ -1,0 +1,16 @@
+{
+  "id": 2672,
+  "cardNumber": "93830681",
+  "name": "Friller Rabca",
+  "description": "When a Fish, Sea Serpent, or Aqua-Type monster you control is targeted for an attack: You can banish this card from your Graveyard, then target the attacking monster; negate the attack, and if you do, that target loses 500 ATK until the end of the next turn. You can only use this effect of \"Friller Rabca\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

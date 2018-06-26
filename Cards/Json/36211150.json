@@ -1,0 +1,16 @@
+{
+  "id": 613,
+  "cardNumber": "36211150",
+  "name": "Bitron",
+  "description": "A new species found in electronic space. There's not much information on it.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

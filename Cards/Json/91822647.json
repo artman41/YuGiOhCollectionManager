@@ -1,0 +1,16 @@
+{
+  "id": 7515,
+  "cardNumber": "91822647",
+  "name": "Whirlwind of Gusto",
+  "description": "If you control no monsters: Target 2 \"Gusto\" monsters in your Graveyard; shuffle both targets into the Deck, then Special Summon 1 \"Gusto\" monster with 1000 or less DEF from your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

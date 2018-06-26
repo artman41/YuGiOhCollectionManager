@@ -1,0 +1,16 @@
+{
+  "id": 8045,
+  "cardNumber": "23771716",
+  "name": "7 Colored Fish",
+  "description": "A rare rainbow fish that has never been caught by mortal man.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

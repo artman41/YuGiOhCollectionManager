@@ -1,0 +1,16 @@
+{
+  "id": 7958,
+  "cardNumber": "8809344",
+  "name": "Outer Entity Nyarla",
+  "description": "2 Level 4 monsters<br>When this card is Xyz Summoned: You can discard any number of cards; increase this card's Rank by 1 for each card discarded. Once per turn, if this card has Xyz Material: You can target 1 monster in your GY; detach all materials from this card, and if you do, attach that monster to this card as material, and if you do that, this card's Type and Attribute become that material's original Type and Attribute.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 0,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

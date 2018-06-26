@@ -1,0 +1,16 @@
+{
+  "id": 8619,
+  "cardNumber": "55014050",
+  "name": "Water Girl",
+  "description": "A lovely lady who can launch water projectiles that turn into lethal ice spikes before they reach an opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1250,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

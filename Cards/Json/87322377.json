@@ -1,0 +1,16 @@
+{
+  "id": 8349,
+  "cardNumber": "87322377",
+  "name": "Launcher Spider",
+  "description": "A mechanical spider with rocket launchers capable of random fire.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

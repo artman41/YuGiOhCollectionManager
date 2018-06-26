@@ -1,0 +1,16 @@
+{
+  "id": 8606,
+  "cardNumber": "97360116",
+  "name": "Unknown Warrior of Fiend",
+  "description": "The speed of this warrior creates an intense vacuum that can slice through a monster's hide.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

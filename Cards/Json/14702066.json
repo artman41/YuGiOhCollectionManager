@@ -1,0 +1,16 @@
+{
+  "id": 946,
+  "cardNumber": "14702066",
+  "name": "Cannon Soldier MK-2",
+  "description": "You can Tribute 2 monsters to inflict 1500 damage to your opponent.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

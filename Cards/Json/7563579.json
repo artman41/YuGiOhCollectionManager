@@ -1,0 +1,16 @@
+{
+  "id": 5211,
+  "cardNumber": "7563579",
+  "name": "Performage Plushfire",
+  "description": "Pendulum Effect\n If a \"Performage\" monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your Pendulum Zone, then take 500 damage. You can only use this effect of \"Performage Plushfire\" once per turn.\n\n Monster Effect\n If this card on the field is destroyed by battle or card effect: You can Special Summon 1 \"Performage\" monster from your hand or Deck, except \"Performage Plushfire\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

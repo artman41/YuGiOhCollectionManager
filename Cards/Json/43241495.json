@@ -1,0 +1,16 @@
+{
+  "id": 5288,
+  "cardNumber": "43241495",
+  "name": "Performapal Trampolynx",
+  "description": "Pendulum Effect\n When you Pendulum Summon a monster(s): You can target 1 card in either player's Pendulum Zone; return it to the hand. You can only use this effect of \"Performapal Trampolynx\" once per turn.\n\n Monster Effect\n When this card is Normal Summoned: You can target 1 card in either player's Pendulum Zone; return it to the hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2195,
+  "cardNumber": "52031567",
+  "name": "Elemental HERO Mudballman",
+  "description": "\"Elemental HERO Bubbleman\" + \"Elemental HERO Clayman\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

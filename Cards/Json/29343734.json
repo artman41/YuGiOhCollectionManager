@@ -1,0 +1,16 @@
+{
+  "id": 2177,
+  "cardNumber": "29343734",
+  "name": "Elemental HERO Electrum",
+  "description": "\"Elemental HERO Avian\" + \"Elemental HERO Burstinatrix\" + \"Elemental HERO Clayman\" + \"Elemental HERO Bubbleman\"<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. While face-up on the field, this card is also WIND, WATER, FIRE, and EARTH-Attribute. When this card is Fusion Summoned: Shuffle all banished cards into the Deck(s). This card gains 300 ATK for each monster your opponent controls that shares an Attribute with this card.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

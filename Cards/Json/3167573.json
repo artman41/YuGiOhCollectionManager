@@ -1,0 +1,16 @@
+{
+  "id": 5549,
+  "cardNumber": "3167573",
+  "name": "Puppet King",
+  "description": "When your opponent adds a Monster Card(s) to their hand, except by drawing, you can Special Summon this card from your hand. If you do, destroy it during your next turn's End Phase.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

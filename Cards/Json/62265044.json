@@ -1,0 +1,16 @@
+{
+  "id": 1995,
+  "cardNumber": "62265044",
+  "name": "Dragon Ravine",
+  "description": "Once per turn: You can discard 1 card, then activate 1 of these effects;<br>â— Add 1 Level 4 or lower \"Dragunity\" monster from your Deck to your hand.<br>â— Send 1 Dragon monster from your Deck to the GY.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

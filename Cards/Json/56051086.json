@@ -1,0 +1,16 @@
+{
+  "id": 4934,
+  "cardNumber": "56051086",
+  "name": "Number 43: Manipulator of Souls",
+  "description": "3 Level 2 DARK monsters<br>Once per turn: You can detach 1 Xyz Material from this card, then target 1 \"Number\" monster in your Graveyard; equip that target to this card. While equipped with a \"Number\" card, this card cannot be destroyed by battle or card effects. Once per turn, when you gain LP (except during the Damage Step): You can make this card gain an equal amount of ATK, also inflict that much damage to your opponent if this card is still face-up on the field.",
+  "cardLevel": null,
+  "cardRank": 2,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8176,
+  "cardNumber": "30325729",
+  "name": "Dokuroyaiba",
+  "description": "A boomerang with brains that will pursue a target to the ends of the earth.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

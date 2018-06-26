@@ -1,0 +1,16 @@
+{
+  "id": 5929,
+  "cardNumber": "51987571",
+  "name": "Rockstone Warrior",
+  "description": "You take no Battle Damage from battles involving this card. When this attacking card is destroyed by battle and sent to the Graveyard, Special Summon 2 \"Rockstone Tokens\" (Rock-Type/EARTH/Level 1/ATK 0/DEF 0). These Tokens cannot be Tributed for a Tribute Summon.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

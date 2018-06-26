@@ -1,0 +1,16 @@
+{
+  "id": 2333,
+  "cardNumber": "17045014",
+  "name": "Evolsaur Diplo",
+  "description": "When this card is Special Summoned by the effect of an \"Evoltile\" monster: Target 1 Spell/Trap Card your opponent controls; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

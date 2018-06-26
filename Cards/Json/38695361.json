@@ -1,0 +1,16 @@
+{
+  "id": 2266,
+  "cardNumber": "38695361",
+  "name": "Envoy of Chaos",
+  "description": "During either player's Battle Phase: You can discard this card, then target 1 \"Black Luster Soldier\" monster or \"Gaia The Fierce Knight\" monster you control; it gains 1500 ATK until the end of this turn, and if it does, every opponent's monster that battles it this turn has its ATK become that monster's original ATK during damage calculation only. Once per turn, during the End Phase, if this card is in the Graveyard: You can banish 1 LIGHT and 1 DARK monster from your Graveyard, except this card; add this card to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

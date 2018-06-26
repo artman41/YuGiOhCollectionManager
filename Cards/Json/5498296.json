@@ -1,0 +1,16 @@
+{
+  "id": 6046,
+  "cardNumber": "5498296",
+  "name": "Scarr, Scout of Dark World",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Add 1 Level 4 or lower \"Dark World\" monster from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

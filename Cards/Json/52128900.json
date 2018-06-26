@@ -1,0 +1,16 @@
+{
+  "id": 6864,
+  "cardNumber": "52128900",
+  "name": "Synchro Gift",
+  "description": "Select 2 face-up monsters you control (1 Synchro Monster and 1 non-Synchro monster). Until the End Phase of this turn, reduce the ATK of the Synchro Monster to 0, and the other monster gains ATK equal to the Synchro Monster's original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2126,
+  "cardNumber": "30068120",
+  "name": "Edge Imp Sabres",
+  "description": "If this card is in your Graveyard: You can place 1 card from your hand on the top of the Deck; Special Summon this card in Defense Position. You can only use this effect of \"Edge Imp Sabres\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

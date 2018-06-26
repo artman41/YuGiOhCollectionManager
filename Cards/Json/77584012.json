@@ -1,0 +1,16 @@
+{
+  "id": 5505,
+  "cardNumber": "77584012",
+  "name": "Pseudo Space",
+  "description": "Once per turn: You can banish 1 Field Spell Card from your Graveyard; until the End Phase, this card's name becomes that card's original name, and replace this effect with that card's original effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

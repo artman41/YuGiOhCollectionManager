@@ -1,0 +1,16 @@
+{
+  "id": 8850,
+  "cardNumber": "69553552",
+  "name": "F.A. Winners",
+  "description": "If you control a â€œF.A.â€ monster, this card cannot be destroyed by your opponentâ€™s card effects. When your â€œF.A.â€ monster whose Level is at least 5 higher than its original Level battles an opponentâ€™s monster and inflicts battle damage to them: banish 1 card from your hand, field or GY. You can only activate this effect of â€œF.A. Winnersâ€ once per turn. If 3 of your â€œF.Aâ€ Field Spells with different names are currently banished, and were all banished by the effect of â€œF.A. Winnersâ€, you win the Duel.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

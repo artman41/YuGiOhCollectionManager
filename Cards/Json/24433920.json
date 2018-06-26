@@ -1,0 +1,16 @@
+{
+  "id": 8460,
+  "cardNumber": "24433920",
+  "name": "Pendulum Machine",
+  "description": "A horrible torture machine with a large pendulum blade.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

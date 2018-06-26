@@ -1,0 +1,16 @@
+{
+  "id": 2319,
+  "cardNumber": "65884091",
+  "name": "Evilswarm Thanatos",
+  "description": "2 Level 4 DARK monsters<br>Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; this face-up card is unaffected by other monster effects this turn.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2350,
+  "def": 1350,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

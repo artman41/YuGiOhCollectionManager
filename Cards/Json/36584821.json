@@ -1,0 +1,16 @@
+{
+  "id": 3206,
+  "cardNumber": "36584821",
+  "name": "Gren Maju Da Eiza",
+  "description": "This card's ATK and DEF are each equal to the number of your removed from play cards x 400.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8458,
+  "cardNumber": "62762898",
+  "name": "Parrot Dragon",
+  "description": "A dragon from the cartoons that's more dangerous than it appears to be.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

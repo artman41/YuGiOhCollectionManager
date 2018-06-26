@@ -1,0 +1,16 @@
+{
+  "id": 3951,
+  "cardNumber": "89893715",
+  "name": "Laval Miller",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

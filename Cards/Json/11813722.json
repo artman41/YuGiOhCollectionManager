@@ -1,0 +1,16 @@
+{
+  "id": 490,
+  "cardNumber": "11813722",
+  "name": "Barkion's Bark",
+  "description": "Activate only if you control a face-up \"Naturia\" monster. Your opponent cannot activate Trap Cards this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

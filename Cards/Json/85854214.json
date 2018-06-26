@@ -1,0 +1,16 @@
+{
+  "id": 3369,
+  "cardNumber": "85854214",
+  "name": "Hero's Rule 2",
+  "description": "Negate the activation of a Spell, Trap, or Effect Monster's effect that targets a card(s) in the Graveyard, and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5856,
+  "cardNumber": "94156050",
+  "name": "Reverse Glasses",
+  "description": "Halve the ATK of all face-up monsters currently on the field, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

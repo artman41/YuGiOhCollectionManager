@@ -1,0 +1,16 @@
+{
+  "id": 5247,
+  "cardNumber": "78835747",
+  "name": "Performapal Kaleidoscorp",
+  "description": "Pendulum Effect\n All LIGHT monsters you control gain 300 ATK.\n\n Monster Effect\n Once per turn: You can target 1 face-up monster you control; this turn, it can attack all Special Summoned monsters your opponent controls, once each.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

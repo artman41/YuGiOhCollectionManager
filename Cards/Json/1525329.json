@@ -1,0 +1,16 @@
+{
+  "id": 3463,
+  "cardNumber": "1525329",
+  "name": "The Hunter with 7 Weapons",
+  "description": "When this card is Normal Summoned, declare 1 Type of monster. When battling that Type of monster, increase the ATK of this card by 1000 points during Damage Calculation.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

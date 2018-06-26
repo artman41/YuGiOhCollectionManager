@@ -1,0 +1,16 @@
+{
+  "id": 2762,
+  "cardNumber": "46659709",
+  "name": "Galaxy Soldier",
+  "description": "You can send 1 other LIGHT monster from your hand to the GY; Special Summon this card from your hand in Defense Position. When this card is Special Summoned: You can add 1 \"Galaxy\" monster from your Deck to your hand. You can only use this effect of \"Galaxy Soldier\" once per turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

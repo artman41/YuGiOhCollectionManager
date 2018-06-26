@@ -1,0 +1,16 @@
+{
+  "id": 5780,
+  "cardNumber": "30276969",
+  "name": "Reese the Ice Mistress",
+  "description": "This card cannot be destroyed by battle with a Level 4 or higher monster.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

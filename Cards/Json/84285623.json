@@ -1,0 +1,16 @@
+{
+  "id": 8283,
+  "cardNumber": "84285623",
+  "name": "Haniwa",
+  "description": "An earthen figure that protects the tomb of an ancient ruler.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

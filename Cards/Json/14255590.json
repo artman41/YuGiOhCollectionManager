@@ -1,0 +1,16 @@
+{
+  "id": 4305,
+  "cardNumber": "14255590",
+  "name": "Malice Ascendant",
+  "description": "During your opponent's Standby Phase, send 1 card from the top of their Deck to the Graveyard for each \"Malice Ascendant\" in your Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

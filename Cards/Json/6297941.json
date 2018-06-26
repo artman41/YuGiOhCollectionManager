@@ -1,0 +1,16 @@
+{
+  "id": 8126,
+  "cardNumber": "6297941",
+  "name": "Burglar",
+  "description": "A sly rat. He will come at you with his huge left claw.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 850,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

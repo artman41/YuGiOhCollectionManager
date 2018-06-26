@@ -1,0 +1,16 @@
+{
+  "id": 4608,
+  "cardNumber": "1965724",
+  "name": "Mokey Mokey Smackdown",
+  "description": "While a face-up \"Mokey Mokey\" is on your side of the field, if a Fairy-Type monster on your side of the field is destroyed, the ATK of all \"Mokey Mokey\" on your side of the field becomes 3000 until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7446,
+  "cardNumber": "40619741",
+  "name": "Vylon Soldier",
+  "description": "When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets' battle positions.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

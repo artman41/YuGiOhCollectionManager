@@ -1,0 +1,16 @@
+{
+  "id": 4609,
+  "cardNumber": "72142276",
+  "name": "Molten Conduction Field",
+  "description": "Send 2 \"Laval\" monsters from your Deck to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

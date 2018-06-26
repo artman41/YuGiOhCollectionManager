@@ -1,0 +1,16 @@
+{
+  "id": 8188,
+  "cardNumber": "51228280",
+  "name": "Dungeon Worm",
+  "description": "Hidden under the floors of a labyrinth, it swallows any who pass above.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

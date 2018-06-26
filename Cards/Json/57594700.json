@@ -1,0 +1,16 @@
+{
+  "id": 6049,
+  "cardNumber": "57594700",
+  "name": "Schuberta the Melodious Maestra",
+  "description": "2 \"Melodious\" monsters<br>During either player's turn: You can target up to 3 cards in any Graveyard(s); banish them, and if you do, this card gains 200 ATK for each. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1134,
+  "cardNumber": "33900648",
+  "name": "Clear World",
+  "description": "During each of your End Phases, pay 500 Life Points or destroy this card. Each player receives certain effects, depending on the monster Attributes they control. â— LIGHT: Play with your hand revealed at all times. â— DARK: If you control 2 or more monsters, you cannot declare an attack. â— EARTH: During your Standby Phase: Target 1 face-up Defense Position monster you control; destroy it. â— WATER: During your End Phase: Discard 1 card. â— FIRE: During your End Phase: Take 1000 damage. â— WIND: You must pay 500 Life Points to activate a Spell Card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

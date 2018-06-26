@@ -1,0 +1,16 @@
+{
+  "id": 5172,
+  "cardNumber": "83102080",
+  "name": "Parallel Twister",
+  "description": "Send 1 other Spell/Trap Card you control to the Graveyard, then target 1 card on the field; destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

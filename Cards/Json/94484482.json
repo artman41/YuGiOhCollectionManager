@@ -1,0 +1,16 @@
+{
+  "id": 6331,
+  "cardNumber": "94484482",
+  "name": "Slip Summon",
+  "description": "Activate only when your opponent Summons a monster. Special Summon 1 Level 4 or lower monster from your hand in face-up Defense Position. Return it to the owner's hand during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

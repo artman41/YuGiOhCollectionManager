@@ -1,0 +1,16 @@
+{
+  "id": 585,
+  "cardNumber": "25655502",
+  "name": "Bickuribox",
+  "description": "\"Crass Clown\" + \"Dream Clown\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

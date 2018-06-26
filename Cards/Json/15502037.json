@@ -1,0 +1,16 @@
+{
+  "id": 2781,
+  "cardNumber": "15502037",
+  "name": "Gamma The Electromagnet Warrior",
+  "description": "If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower \"Magnet Warrior\" monster from your hand, except \"Gamma The Electromagnet Warrior\". You can only use this effect of \"Gamma The Electromagnet Warrior\" once per turn. During your opponent's turn: You can Tribute this card; Special Summon 1 Level 4 \"Magnet Warrior\" monster from your Deck (this is a Quick Effect).",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

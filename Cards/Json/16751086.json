@@ -1,0 +1,16 @@
+{
+  "id": 7466,
+  "cardNumber": "16751086",
+  "name": "Warm Worm",
+  "description": "If this card is destroyed, send the top 3 cards of your opponent's Deck to the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4003,
+  "cardNumber": "34103656",
+  "name": "Lemuria, the Forgotten City",
+  "description": "This card's name is treated as \"Umi\". All WATER monsters gain 200 ATK and DEF. Once per turn, during your Main Phase: You can have all WATER monsters you currently control gain Levels equal to the number of WATER monsters you currently control, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

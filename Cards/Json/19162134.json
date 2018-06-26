@@ -1,0 +1,16 @@
+{
+  "id": 2072,
+  "cardNumber": "19162134",
+  "name": "Dueltaining",
+  "description": "For each player, the first time they do each of the following per turn, they draw 2 cards.<br>â— Special Summon 5 monsters with different Levels at the same time.<br>â— 1 monster they control battles 5 times.<br>â— Activate a card or effect as Chain Link 5 or higher.<br>â— Roll 1 six-sided die, or toss a coin, 5 times.<br>â— Take damage that made their LP 500 or less.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

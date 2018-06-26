@@ -1,0 +1,16 @@
+{
+  "id": 5242,
+  "cardNumber": "8384771",
+  "name": "Performapal Gumgumouton",
+  "description": "Pendulum Effect\n Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.\n\n Monster Effect\n Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can activate this effect; that monster you control cannot be destroyed by that battle.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 900,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

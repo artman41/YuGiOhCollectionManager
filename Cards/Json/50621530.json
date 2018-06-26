@@ -1,0 +1,16 @@
+{
+  "id": 5443,
+  "cardNumber": "50621530",
+  "name": "Powered Tuner",
+  "description": "This card gains 500 ATK for each face-up Tuner monster on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

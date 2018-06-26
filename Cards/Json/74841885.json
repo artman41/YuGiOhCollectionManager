@@ -1,0 +1,16 @@
+{
+  "id": 6320,
+  "cardNumber": "74841885",
+  "name": "Sky Scourge Invicil",
+  "description": "This card cannot be Special Summoned. If you Tribute Summon this card by Tributing 1 of the following monsters, this card gets the appropriate effect:<br>â— LIGHT Fairy-Type monster: Negate the effects of all Spell Cards.<br>â— DARK Fiend-Type monster: Negate the effects of all Trap Cards.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

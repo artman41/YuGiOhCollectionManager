@@ -1,0 +1,16 @@
+{
+  "id": 4625,
+  "cardNumber": "74848038",
+  "name": "Monster Reincarnation",
+  "description": "Discard 1 card, then target 1 monster in your GY; add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

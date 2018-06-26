@@ -1,0 +1,16 @@
+{
+  "id": 8477,
+  "cardNumber": "73081602",
+  "name": "Queen Bird",
+  "description": "This monster attacks enemies using its huge beak.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

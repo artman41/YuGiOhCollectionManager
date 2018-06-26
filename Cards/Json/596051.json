@@ -1,0 +1,16 @@
+{
+  "id": 6340,
+  "cardNumber": "596051",
+  "name": "Snake Fang",
+  "description": "Decrease 1 selected monster's DEF by 500 points during the turn this card is activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

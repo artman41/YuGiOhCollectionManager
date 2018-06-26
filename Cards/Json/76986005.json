@@ -1,0 +1,16 @@
+{
+  "id": 1386,
+  "cardNumber": "76986005",
+  "name": "Cyber Kirin",
+  "description": "You can Tribute this card to make any effect damage you take this turn 0.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

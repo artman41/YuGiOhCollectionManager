@@ -1,0 +1,16 @@
+{
+  "id": 3227,
+  "cardNumber": "34022290",
+  "name": "Guardian Eatos",
+  "description": "If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 of your Equip Spell Cards equipped to this card to the Graveyard, then target up to 3 monsters in your opponent's Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the end of this turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

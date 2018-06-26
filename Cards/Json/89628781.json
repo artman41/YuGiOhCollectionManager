@@ -1,0 +1,16 @@
+{
+  "id": 4851,
+  "cardNumber": "89628781",
+  "name": "Ninjitsu Art of Decoy",
+  "description": "Target 1 face-up \"Ninja\" monster you control; it cannot be destroyed by battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

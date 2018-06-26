@@ -1,0 +1,16 @@
+{
+  "id": 8543,
+  "cardNumber": "85326399",
+  "name": "Spike Seadra",
+  "description": "Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

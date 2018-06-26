@@ -1,0 +1,16 @@
+{
+  "id": 3250,
+  "cardNumber": "28066831",
+  "name": "Gusto Thunbolt",
+  "description": "At the end of the Battle Phase, if this card is in the Graveyard because it was destroyed by battle and sent to the Graveyard this turn: You can banish 1 \"Gusto\" monster from your Graveyard; Special Summon 1 WIND Psychic-Type monster with 1500 or less DEF from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

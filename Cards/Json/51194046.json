@@ -1,0 +1,16 @@
+{
+  "id": 5575,
+  "cardNumber": "51194046",
+  "name": "Qliphort Monolith",
+  "description": "Pendulum Effect\n You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. Once per turn, during the End Phase, if you Tribute Summoned this turn: You can draw a number of cards equal to the number of \"Qli\" monsters you Tributed for Tribute Summons this turn.\n\n Monster Effect\n Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000<br>Continue, ignoring this error? &lt;Y/N&gt;...[ ]<br>Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

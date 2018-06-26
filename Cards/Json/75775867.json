@@ -1,0 +1,16 @@
+{
+  "id": 4661,
+  "cardNumber": "75775867",
+  "name": "Morphtronic Slingen",
+  "description": "â— While in Attack Position: Once per turn, you can Tribute 1 \"Morphtronic\" monster, except \"Morphtronic Slingen\", to destroy 1 card on the field.<br>â— While in Defense Position: If this card would be destroyed, you can destroy another \"Morphtronic\" monster you control instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

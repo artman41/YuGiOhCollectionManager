@@ -1,0 +1,16 @@
+{
+  "id": 8404,
+  "cardNumber": "38277918",
+  "name": "Mikazukinoyaiba",
+  "description": "A dragon warrior of the moon armed with a crescent sword.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2350,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

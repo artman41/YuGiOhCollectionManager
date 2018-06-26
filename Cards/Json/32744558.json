@@ -1,0 +1,16 @@
+{
+  "id": 5605,
+  "cardNumber": "32744558",
+  "name": "R-Genex Overseer",
+  "description": "When this card is Normal or Special Summoned, you can Special Summon 1 Level 3 or lower \"Genex\" monster from your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 255,
+  "cardNumber": "20138923",
+  "name": "Anti-Magic Prism",
+  "description": "Activate only when your opponent activates a Quick-Play Spell Card. Select 1 card on the field and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

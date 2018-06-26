@@ -1,0 +1,16 @@
+{
+  "id": 59,
+  "cardNumber": "21323861",
+  "name": "Acid Rain",
+  "description": "Destroy all face-up Machine-Type monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

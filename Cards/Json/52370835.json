@@ -1,0 +1,16 @@
+{
+  "id": 3378,
+  "cardNumber": "52370835",
+  "name": "Heroic Challenger - Swordshield",
+  "description": "During either player's turn, if you control a face-up \"Heroic\" monster: You can send this card from your hand to the Graveyard; for the rest of this turn, you take no Battle Damage and \"Heroic\" monsters you control cannot be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

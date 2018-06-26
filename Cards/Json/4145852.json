@@ -1,0 +1,16 @@
+{
+  "id": 7806,
+  "cardNumber": "4145852",
+  "name": "Zoodiac Ramram",
+  "description": "If this card is destroyed by battle or card effect: You can target 1 \"Zoodiac\" monster in your GY, except \"Zoodiac Ramram\"; Special Summon it. An Xyz Monster whose original Type is Beast-Warrior and has this card as material gains this effect.<br>â— When your opponent activates a Trap Card or effect that targets this card (Quick Effect): You can detach 1 material from this card; negate the activation.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

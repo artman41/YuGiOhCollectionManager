@@ -1,0 +1,16 @@
+{
+  "id": 3950,
+  "cardNumber": "46404281",
+  "name": "Laval Magma Cannoneer",
+  "description": "Up to twice per turn: You can send 1 FIRE monster from your hand to the Graveyard; inflict 500 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

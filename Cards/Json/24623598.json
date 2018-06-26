@@ -1,0 +1,16 @@
+{
+  "id": 1878,
+  "cardNumber": "24623598",
+  "name": "Disappear",
+  "description": "Remove from play 1 card from your opponent's Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

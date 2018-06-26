@@ -1,0 +1,16 @@
+{
+  "id": 1191,
+  "cardNumber": "17375316",
+  "name": "Confiscation",
+  "description": "Pay 1000 Life Points. Look at your opponent's hand, select 1 card in it and discard that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4365,
+  "cardNumber": "21768554",
+  "name": "Mass Hypnosis",
+  "description": "Activate only while you control an \"Alien\" monster. Select and take control of up to 3 of your opponent's monsters that each have an A-Counter(s) on them. This card is destroyed during the End Phase of the turn it is activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3215,
+  "cardNumber": "55608151",
+  "name": "Gryphon Wing",
+  "description": "When your opponent activates \"Harpie's Feather Duster\": Negate its effect, and if you do, destroy all Spell and Trap Cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5969,
+  "cardNumber": "73148972",
+  "name": "Ruthless Denial",
+  "description": "Select 1 monster you control and send it to the Graveyard, and send 1 random card in your opponent's hand to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2877,
+  "cardNumber": "38049541",
+  "name": "Genex Ally Chemistrer",
+  "description": "You can declare 1 Attribute and discard this card to select 1 face-up \"Genex\" monster you control. That monster becomes that Attribute. This effect can be activated during either player's turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

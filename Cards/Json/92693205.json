@@ -1,0 +1,16 @@
+{
+  "id": 2818,
+  "cardNumber": "92693205",
+  "name": "Geargianchor",
+  "description": "Once per turn: You can change this card to face-down Defense Position. If this card is flipped face-up: You can destroy monsters on the field, up to the number of other \"Geargia\" monsters you currently control.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7337,
+  "cardNumber": "34294855",
+  "name": "Vampire's Curse",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

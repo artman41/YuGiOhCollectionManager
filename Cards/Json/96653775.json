@@ -1,0 +1,16 @@
+{
+  "id": 4755,
+  "cardNumber": "96653775",
+  "name": "Naturia Pumpkin",
+  "description": "When this card is Normal Summoned, if your opponent controls a monster, you can Special Summon 1 \"Naturia\" monster from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

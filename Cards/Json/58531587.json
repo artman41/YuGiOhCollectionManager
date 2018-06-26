@@ -1,0 +1,16 @@
+{
+  "id": 850,
+  "cardNumber": "58531587",
+  "name": "Bubble Bringer",
+  "description": "Level 4 or higher monsters cannot attack directly. During your turn: You can send this face-up card from the field to the Graveyard to target 2 Level 3 or lower WATER monsters with the same name in your Graveyard; Special Summon those targets. Their effects are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

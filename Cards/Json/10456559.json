@@ -1,0 +1,16 @@
+{
+  "id": 6877,
+  "cardNumber": "10456559",
+  "name": "T.A.D.P.O.L.E.",
+  "description": "When this card you control is destroyed by battle and sent to your Graveyard, you can add any \"T.A.D.P.O.L.E.\"(s) from your Deck to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

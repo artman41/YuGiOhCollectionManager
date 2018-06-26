@@ -1,0 +1,16 @@
+{
+  "id": 1785,
+  "cardNumber": "37780349",
+  "name": "Destiny HERO - Dynatag",
+  "description": "During damage calculation (in either player's turn) when you would take battle damage: You can discard this card; make yourself take no battle damage from that battle, and if you do, each player takes 1000 damage. You can banish this card from your Graveyard, then target 1 \"Destiny HERO\" monster you control; it gains 1000 ATK until the end of your opponent's next turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

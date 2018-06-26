@@ -1,0 +1,16 @@
+{
+  "id": 4205,
+  "cardNumber": "18809562",
+  "name": "Magical Contract Door",
+  "description": "Add 1 Spell Card from your hand to your opponent's hand, then add 1 Level 7 or 8 DARK monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

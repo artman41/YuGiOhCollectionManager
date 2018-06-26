@@ -1,0 +1,16 @@
+{
+  "id": 6584,
+  "cardNumber": "94415058",
+  "name": "Stargazer Magician",
+  "description": "Pendulum Effect\n If a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a \"Magician\" card or \"Odd-Eyes\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.\n\n Monster Effect\n Once per turn, when exactly 1 other Pendulum Monster you control (and no other cards) is returned to your hand by an opponent's card effect (except during the Damage Step): You can Special Summon 1 monster from your hand with the same name as that returned to the hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8274,
+  "cardNumber": "13429800",
+  "name": "Great White",
+  "description": "A giant white shark with razor-sharp teeth.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5809,
+  "cardNumber": "94739788",
+  "name": "Remove Brainwashing",
+  "description": "The control of all monsters on the field returns to the owners.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

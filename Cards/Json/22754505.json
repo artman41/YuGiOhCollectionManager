@@ -1,0 +1,16 @@
+{
+  "id": 6333,
+  "cardNumber": "22754505",
+  "name": "Small Piece Golem",
+  "description": "When this card is Summoned, if you control a \"Big Piece Golem\", you can Special Summon 1 \"Medium Piece Golem\" from your Deck. That monster's effect is negated while it is face-up on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

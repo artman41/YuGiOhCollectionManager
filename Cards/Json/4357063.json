@@ -1,0 +1,16 @@
+{
+  "id": 1088,
+  "cardNumber": "4357063",
+  "name": "Chronomaly City Babylon",
+  "description": "Once per turn: You can banish 1 \"Chronomaly\" monster from your Graveyard, then target 1 \"Chronomaly\" monster in your Graveyard with the same Level as the banished monster; Special Summon it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

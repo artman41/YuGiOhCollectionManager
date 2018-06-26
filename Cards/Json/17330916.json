@@ -1,0 +1,16 @@
+{
+  "id": 5254,
+  "cardNumber": "17330916",
+  "name": "Performapal Monkeyboard",
+  "description": "Pendulum Effect\n Unless you have a \"Performapal\" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4. During your Main Phase, if this card was activated this turn: You can add 1 Level 4 or lower \"Performapal\" monster from your Deck to your hand. You can only use this effect of \"Performapal Monkeyboard\" once per turn.\n\n Monster Effect\n You can discard this card; reveal 1 \"Performapal\" or \"Odd-Eyes\" monster in your hand, and if you do, reduce the Levels of monsters in your hand with that name by 1 for the rest of this turn (even after they are Summoned/Set).",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8929,
+  "cardNumber": "34767865",
+  "name": "Cynet Ritual",
+  "description": "This card can be used to Ritual Summon any Cyberse Ritual Monsters. Ritual Summon 1 Cyberse Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster. During your Main Phase if you control no monsters, except during the turn this card was sent to the GY: You can banish this card and 1 Ritual Monster from your GY; Special Summon 2 \"Cynet Tokens\" (Cyberse/LIGHT/Level 4/ATK 0/DEF 0) in Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

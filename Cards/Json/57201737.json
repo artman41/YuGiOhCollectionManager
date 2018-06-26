@@ -1,0 +1,16 @@
+{
+  "id": 4006,
+  "cardNumber": "57201737",
+  "name": "Leodrake's Mane",
+  "description": "Select 1 face-up \"Naturia\" monster you control. Its ATK becomes 3000, and its effects are negated, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

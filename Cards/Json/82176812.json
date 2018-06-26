@@ -1,0 +1,16 @@
+{
+  "id": 3470,
+  "cardNumber": "82176812",
+  "name": "Hydrotortoise, the Empowered Warrior",
+  "description": "FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

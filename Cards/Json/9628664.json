@@ -1,0 +1,16 @@
+{
+  "id": 3647,
+  "cardNumber": "9628664",
+  "name": "Iris, the Earth Mother",
+  "description": "After a Chain with 3 or more Links resolves, draw 1 card. This effect cannot activate if multiple cards/effects with the same name were activated in that Chain.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

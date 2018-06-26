@@ -1,0 +1,16 @@
+{
+  "id": 6236,
+  "cardNumber": "75967082",
+  "name": "Short Circuit",
+  "description": "Activate only if you control 3 or more face-up \"Batteryman\" monsters. Destroy all cards your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

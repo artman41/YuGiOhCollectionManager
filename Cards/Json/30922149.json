@@ -1,0 +1,16 @@
+{
+  "id": 6243,
+  "cardNumber": "30922149",
+  "name": "Side Effects?",
+  "description": "Your opponent draws 1 to 3 cards, then you gain 2000 LP for each card they drew with this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

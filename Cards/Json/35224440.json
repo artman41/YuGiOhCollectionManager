@@ -1,0 +1,16 @@
+{
+  "id": 3034,
+  "cardNumber": "35224440",
+  "name": "Gladiator Proving Ground",
+  "description": "Add 1 Level 4 or lower \"Gladiator Beast\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

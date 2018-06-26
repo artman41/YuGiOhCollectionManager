@@ -1,0 +1,16 @@
+{
+  "id": 1622,
+  "cardNumber": "6967870",
+  "name": "Dark Scorpion - Cliff the Trap Remover",
+  "description": "When this card inflicts Battle Damage to your opponent, you can activate 1 of these effects:<br>â— Target 1 Spell/Trap Card on the field; destroy that target.<br>â— Send the top 2 cards of their Deck to the Graveyard.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

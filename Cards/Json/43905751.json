@@ -1,0 +1,16 @@
+{
+  "id": 8372,
+  "cardNumber": "43905751",
+  "name": "Madjinn Gunn",
+  "description": "A living weapon that spits projectiles.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8447,
+  "cardNumber": "42941100",
+  "name": "Ojama Yellow",
+  "description": "He's one of the Ojama Trio. It's said that he butts in by any means necessary. It's also said that when the three are together, something happens.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

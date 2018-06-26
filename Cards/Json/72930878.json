@@ -1,0 +1,16 @@
+{
+  "id": 644,
+  "cardNumber": "72930878",
+  "name": "Black Sonic",
+  "description": "When an opponent's monster declares an attack on a \"Blackwing\" monster you control: Banish all face-up Attack Position monsters your opponent controls. If you control exactly 3 \"Blackwing\" monsters (and no other monsters), you can activate this card from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

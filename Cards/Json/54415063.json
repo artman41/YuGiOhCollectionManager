@@ -1,0 +1,16 @@
+{
+  "id": 3289,
+  "cardNumber": "54415063",
+  "name": "Harpie Lady 3",
+  "description": "(This card's name is always treated as \"Harpie Lady\".)<br>An opponent's monster that battles this card cannot declare an attack during your opponent's next 2 turns.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

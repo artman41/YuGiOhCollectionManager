@@ -1,0 +1,16 @@
+{
+  "id": 8422,
+  "cardNumber": "14181608",
+  "name": "Mushroom Man",
+  "description": "Found in humid regions, this creature attacks enemies with a lethal rain of poison spores.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

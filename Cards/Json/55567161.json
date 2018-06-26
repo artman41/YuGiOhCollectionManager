@@ -1,0 +1,16 @@
+{
+  "id": 8472,
+  "cardNumber": "55567161",
+  "name": "Pot the Trick",
+  "description": "A not-so-powerful servant, he is an errand boy of a master sorcerer.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

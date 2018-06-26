@@ -1,0 +1,16 @@
+{
+  "id": 8289,
+  "cardNumber": "52584282",
+  "name": "Hercules Beetle",
+  "description": "A massive beetle with a tough carapace and a dangerous horn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

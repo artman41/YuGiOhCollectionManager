@@ -1,0 +1,16 @@
+{
+  "id": 3375,
+  "cardNumber": "34143852",
+  "name": "Heroic Challenger - Extra Sword",
+  "description": "An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.<br>â— When it is Xyz Summoned: It gains 1000 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

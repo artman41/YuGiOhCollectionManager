@@ -1,0 +1,16 @@
+{
+  "id": 544,
+  "cardNumber": "46009906",
+  "name": "Beast Fangs",
+  "description": "A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

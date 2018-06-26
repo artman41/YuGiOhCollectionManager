@@ -1,0 +1,16 @@
+{
+  "id": 6223,
+  "cardNumber": "59843383",
+  "name": "Shiranui Sunsaga",
+  "description": "1 Zombie-Type Tuner + 1 or more non-Tuner Zombie-Type monsters<br>If this card is Special Summoned: You can return any number of your Zombie-Type Synchro Monsters, that are banished or are in your Graveyard, to the Extra Deck, then you can destroy cards your opponent controls, equal to the number of cards returned. If a Zombie-Type monster(s) you control would be destroyed by battle or card effect, you can banish 1 \"Shiranui\" monster from your Graveyard instead. You can only Special Summon \"Shiranui Sunsaga(s)\" once per turn.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

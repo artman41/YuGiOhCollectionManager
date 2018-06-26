@@ -1,0 +1,16 @@
+{
+  "id": 3545,
+  "cardNumber": "49080532",
+  "name": "Infernity Beetle",
+  "description": "While you have no cards in your hand, you can Tribute this card to Special Summon up to 2 \"Infernity Beetle\" from your Deck.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4752,
+  "cardNumber": "24694698",
+  "name": "Naturia Marron",
+  "description": "When this card is Normal Summoned: You can send 1 \"Naturia\" monster from your Deck to the Graveyard. Once per turn: You can target 2 \"Naturia\" monsters in your Graveyard; shuffle both those targets into the Deck, then draw 1 card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

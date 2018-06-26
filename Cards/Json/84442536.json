@@ -1,0 +1,16 @@
+{
+  "id": 3178,
+  "cardNumber": "84442536",
+  "name": "Graydle Combat",
+  "description": "When a Spell/Trap Card, or monster effect, that targets exactly 1 \"Graydle\" monster you control (and no other cards) is activated: Activate 1 of these effects;<br>â— The activated effect becomes \"Destroy that monster\".<br>â— Negate the activation, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

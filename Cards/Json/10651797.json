@@ -1,0 +1,16 @@
+{
+  "id": 6794,
+  "cardNumber": "10651797",
+  "name": "Swallow Flip",
+  "description": "Negate the activation of an Effect Monster's effect that activates when a monster is Special Summoned (including itself), and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

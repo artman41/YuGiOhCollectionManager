@@ -1,0 +1,16 @@
+{
+  "id": 5889,
+  "cardNumber": "8321183",
+  "name": "Ritual Beast Return",
+  "description": "Banish 1 \"Ritual Beast\" monster from your hand, then target 1 of your \"Ritual Beast\" monsters, that is banished or is in your Graveyard; Special Summon it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

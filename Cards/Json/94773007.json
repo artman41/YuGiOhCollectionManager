@@ -1,0 +1,16 @@
+{
+  "id": 3694,
+  "cardNumber": "94773007",
+  "name": "Jirai Gumo",
+  "description": "When this card declares an attack: Toss a coin and call it. If you call it wrong, lose half your Life Points.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

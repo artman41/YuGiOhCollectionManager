@@ -1,0 +1,16 @@
+{
+  "id": 1433,
+  "cardNumber": "9201964",
+  "name": "D - Fortune",
+  "description": "When your opponent declares a direct attack: Banish 1 \"Destiny HERO\" monster from your Graveyard; end the Battle Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

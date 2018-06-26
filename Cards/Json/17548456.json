@@ -1,0 +1,16 @@
+{
+  "id": 3737,
+  "cardNumber": "17548456",
+  "name": "Jurrac Meteor",
+  "description": "1 \"Jurrac\" Tuner + 2 or more non-Tuner Dinosaur-Type monsters<br>When this card is Synchro Summoned, destroy all cards on the field. Then, you can Special Summon 1 Tuner monster from your Graveyard.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2449,
+  "cardNumber": "68170903",
+  "name": "A Feint Plan",
+  "description": "A player cannot attack face-down monsters during this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

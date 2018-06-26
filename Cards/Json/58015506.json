@@ -1,0 +1,16 @@
+{
+  "id": 5377,
+  "cardNumber": "58015506",
+  "name": "Pikeru's Second Sight",
+  "description": "Until your opponent's second End Phase, your opponent shows you all the cards that they draw before adding them to their hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

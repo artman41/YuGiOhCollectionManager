@@ -1,0 +1,16 @@
+{
+  "id": 3205,
+  "cardNumber": "61831093",
+  "name": "Greenkappa",
+  "description": "FLIP: Target 2 Set Spell/Trap Cards on the field; destroy those targets.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 650,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

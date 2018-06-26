@@ -1,0 +1,16 @@
+{
+  "id": 4728,
+  "cardNumber": "83467607",
+  "name": "Nature's Reflection",
+  "description": "During this turn, any effect activated by your opponent that would inflict damage becomes an effect that inflicts damage to their Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3170,
+  "cardNumber": "85742772",
+  "name": "Gravity Bind",
+  "description": "Level 4 or higher monsters cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

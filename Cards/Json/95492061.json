@@ -1,0 +1,16 @@
+{
+  "id": 4319,
+  "cardNumber": "95492061",
+  "name": "Manju of the Ten Thousand Hands",
+  "description": "When this card is Normal or Flip Summoned: You can add 1 Ritual Monster or 1 Ritual Spell Card from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

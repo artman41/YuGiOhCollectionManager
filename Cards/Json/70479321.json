@@ -1,0 +1,16 @@
+{
+  "id": 5231,
+  "cardNumber": "70479321",
+  "name": "Performapal Drummerilla",
+  "description": "Pendulum Effect\n Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can target that monster you control; it gains 600 ATK until the end of the Battle Phase (even if this card leaves the field).\n\n Monster Effect\n If there are no monsters on the field, you can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, its Level becomes 4. Once per turn, when an attack is declared involving a monster you control and an opponent's monster: You can target that monster you control; it gains 600 ATK until the end of the Battle Phase.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

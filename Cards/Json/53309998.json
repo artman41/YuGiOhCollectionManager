@@ -1,0 +1,16 @@
+{
+  "id": 8718,
+  "cardNumber": "53309998",
+  "name": "Sea Archiver",
+  "description": "If a monster(s) is Normal or Special Summoned to a zone a Link Monster points to while this card is in your hand or GY (except during the Damage Step): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Sea Archiver\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

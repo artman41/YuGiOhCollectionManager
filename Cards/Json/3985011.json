@@ -1,0 +1,16 @@
+{
+  "id": 8363,
+  "cardNumber": "3985011",
+  "name": "Lucky Trinket",
+  "description": "This creature may look slim and weak, but it's protected by a mystical force.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

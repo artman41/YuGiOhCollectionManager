@@ -1,0 +1,16 @@
+{
+  "id": 4757,
+  "cardNumber": "54161401",
+  "name": "Naturia Rock",
+  "description": "When a Trap Card is activated, you can send the top card of your Deck to the Graveyard to Special Summon this card from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

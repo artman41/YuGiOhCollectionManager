@@ -1,0 +1,16 @@
+{
+  "id": 4865,
+  "cardNumber": "14745409",
+  "name": "Noble Arms - Gallatin",
+  "description": "You can only control 1 \"Noble Arms - Gallatin\". Equip only to a Warrior-Type monster. It gains 1000 ATK. During each of your Standby Phases, it loses 200 ATK. If this face-up card on the field is destroyed and sent to the Graveyard: You can target 1 Warrior-Type \"Noble Knight\" monster you control; equip this card to that target. You can only use this effect of \"Noble Arms - Gallatin\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

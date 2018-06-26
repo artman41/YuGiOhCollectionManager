@@ -1,0 +1,16 @@
+{
+  "id": 7762,
+  "cardNumber": "74580251",
+  "name": "Zefra Providence",
+  "description": "Add 1 \"Zefra\" card from your Deck to your hand, except \"Zefra Providence\". If a \"Zefra\" card(s) you control would be destroyed, except the turn this card was sent to the Graveyard, you can banish this card from your Graveyard instead. You can only activate 1 \"Zefra Providence\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

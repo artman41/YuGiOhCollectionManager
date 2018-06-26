@@ -1,0 +1,16 @@
+{
+  "id": 8172,
+  "cardNumber": "40826495",
+  "name": "Dissolverock",
+  "description": "A monster born in the lava pits, it generates intense heat that can melt away its enemies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 155,
+  "cardNumber": "67987611",
+  "name": "Amazoness Archers",
+  "description": "Activate only when your opponent declares an attack while you control an \"Amazoness\" monster. All monsters your opponent controls are changed to face-up Attack Position (Flip Effects are not activated), and lose 500 ATK as long as they remain face-up on the field. Your opponent must attack with all of their monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

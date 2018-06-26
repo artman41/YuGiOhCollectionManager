@@ -1,0 +1,16 @@
+{
+  "id": 5828,
+  "cardNumber": "24311595",
+  "name": "Rescueroid",
+  "description": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

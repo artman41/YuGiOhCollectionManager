@@ -1,0 +1,16 @@
+{
+  "id": 1190,
+  "cardNumber": "68018709",
+  "name": "Condemned Maiden",
+  "description": "During your opponent's turn, you can activate 1 Quick-Play Spell Card from your hand. You can only use this effect of \"Condemned Maiden\" once per Duel.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 669,
+  "cardNumber": "19462747",
+  "name": "Blackwing - Decay the Ill Wind",
+  "description": "Once per turn, during the End Phase, if this card is in the Graveyard because it was sent there this turn: Take 1000 damage. When this card is Normal or Special Summoned: You can target 1 \"Blackwing\" monster you control, then activate 1 of these effects;<br>â— Increase its Level by 1.<br>â— Reduce its Level by 1.<br>You can only use this effect of \"Blackwing - Decay the Ill Wind\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8973,
+  "cardNumber": "53860621",
+  "name": "Glowing Bowgun",
+  "description": "Equip only to a \"Blackwing\" monster. It gains 500 ATK/DEF. You can only use each of the following effects of \"Glowing Bowgun\" once per turn.<br>â— If the equipped monster destroys an opponent's monster by battle: You can discard 1 random card from your opponent's hand.<br>â— If this card is sent to the GY because the equipped monster was used as Synchro Material: You can add this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

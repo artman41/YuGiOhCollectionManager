@@ -1,0 +1,16 @@
+{
+  "id": 5597,
+  "cardNumber": "31980955",
+  "name": "Quiet Life",
+  "description": "Activate this card at the start of your Main Phase 1, if you control no monsters. If any player Normal Summons/Sets a monster, that player cannot Special Summon that turn. If any player Special Summons a monster, that player cannot Normal Summon/Set that turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

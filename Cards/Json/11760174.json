@@ -1,0 +1,16 @@
+{
+  "id": 6023,
+  "cardNumber": "11760174",
+  "name": "Sasuke Samurai #2",
+  "description": "Once per turn, during your Main Phase, you can pay 800 Life Points. If you do this, until the End Phase, Spell and Trap Cards cannot be activated.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

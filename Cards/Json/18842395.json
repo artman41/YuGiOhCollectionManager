@@ -1,0 +1,16 @@
+{
+  "id": 5434,
+  "cardNumber": "18842395",
+  "name": "Power Invader",
+  "description": "If your opponent controls 2 or more monsters, you can Normal Summon this card without Tributing.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

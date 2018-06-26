@@ -1,0 +1,16 @@
+{
+  "id": 7194,
+  "cardNumber": "76930964",
+  "name": "Twilight Ninja Getsuga, the Shogun",
+  "description": "You can Tribute Summon this card by Tributing 1 \"Ninja\" monster. If this card is in Attack Position: You can target 2 \"Ninja\" monsters in your Graveyard, except \"Twilight Ninja Getsuga, the Shogun\"; change this card to Defense Position, and if you do, Special Summon those monsters. You can only use this effect of \"Twilight Ninja Getsuga, the Shogun\" once per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

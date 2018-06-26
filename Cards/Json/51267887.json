@@ -1,0 +1,16 @@
+{
+  "id": 5672,
+  "cardNumber": "51267887",
+  "name": "Raise Body Heat",
+  "description": "A Dinosaur-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

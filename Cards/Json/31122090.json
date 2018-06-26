@@ -1,0 +1,16 @@
+{
+  "id": 8282,
+  "cardNumber": "31122090",
+  "name": "Gyakutenno Megami",
+  "description": "This fairy uses her mystical power to protect the weak and provide spiritual support.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

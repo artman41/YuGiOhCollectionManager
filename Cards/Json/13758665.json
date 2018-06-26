@@ -1,0 +1,16 @@
+{
+  "id": 4233,
+  "cardNumber": "13758665",
+  "name": "Magician's Left Hand",
+  "description": "Negate the effect of your opponent's first Trap Card or effect that resolves each turn while you control a Spellcaster-Type monster, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2011,
+  "cardNumber": "70681994",
+  "name": "Dragoness the Wicked Knight",
+  "description": "\"Armaill\" + \"One-Eyed Shield Dragon\"",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

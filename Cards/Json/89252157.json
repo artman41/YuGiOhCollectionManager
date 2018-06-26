@@ -1,0 +1,16 @@
+{
+  "id": 5940,
+  "cardNumber": "89252157",
+  "name": "Rose Lover",
+  "description": "You can banish this card from the Graveyard; Special Summon 1 Plant-Type monster from your hand, and if you do, it is unaffected by your opponent's Trap effects this turn. You can only use this effect of \"Rose Lover\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 800,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

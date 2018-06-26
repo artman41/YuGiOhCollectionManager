@@ -1,0 +1,16 @@
+{
+  "id": 5731,
+  "cardNumber": "37576645",
+  "name": "Reckless Greed",
+  "description": "Draw 2 cards and skip your next 2 Draw Phases.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

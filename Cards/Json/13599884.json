@@ -1,0 +1,16 @@
+{
+  "id": 6600,
+  "cardNumber": "13599884",
+  "name": "Steel Scorpion",
+  "description": "A non Machine-Type Monster attacking \"Steel Scorpion\" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 250,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

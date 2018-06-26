@@ -1,0 +1,16 @@
+{
+  "id": 4860,
+  "cardNumber": "49204190",
+  "name": "Nitwit Outwit",
+  "description": "Discard 1 monster, then target 1 face-up monster on the field; it loses ATK equal to the discarded monster's original ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

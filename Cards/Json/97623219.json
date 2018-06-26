@@ -1,0 +1,16 @@
+{
+  "id": 2161,
+  "cardNumber": "97623219",
+  "name": "Element Valkyrie",
+  "description": "This monster gets the following effect(s) while there is a monster(s) with the following Attribute(s) on the field: â— FIRE: This card gains 500 ATK. â— WATER: Control of this card cannot switch.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

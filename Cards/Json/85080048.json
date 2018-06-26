@@ -1,0 +1,16 @@
+{
+  "id": 3704,
+  "cardNumber": "85080048",
+  "name": "Judgment of Thunder",
+  "description": "Activate only when you Summon a Thunder-Type monster(s). Destroy 1 card your opponent controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 940,
+  "cardNumber": "4861205",
+  "name": "Call of the Mummy",
+  "description": "Once per turn: You can Special Summon 1 Zombie-Type monster from your hand. You must control no monsters to activate and to resolve this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

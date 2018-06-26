@@ -1,0 +1,16 @@
+{
+  "id": 8279,
+  "cardNumber": "65623423",
+  "name": "Gruesome Goo",
+  "description": "A slime boss that is definitely tougher than it looks.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

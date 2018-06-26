@@ -1,0 +1,16 @@
+{
+  "id": 4321,
+  "cardNumber": "73417207",
+  "name": "Mara of the Nordic Alfar",
+  "description": "When using this card as Synchro Material, the other Synchro Materials must be 2 \"Nordic\" monsters in your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

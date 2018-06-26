@@ -1,0 +1,16 @@
+{
+  "id": 7369,
+  "cardNumber": "54306223",
+  "name": "Venom Swamp",
+  "description": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

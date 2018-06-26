@@ -1,0 +1,16 @@
+{
+  "id": 501,
+  "cardNumber": "96700602",
+  "name": "Barrier Wave",
+  "description": "Activate by Tributing 1 Synchro Monster when an opponent's monster declares an attack. Change all Attack Position monsters your opponent controls to Defense Position. Then, inflict damage to your opponent equal to the attacking monster's DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

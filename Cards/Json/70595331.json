@@ -1,0 +1,16 @@
+{
+  "id": 3510,
+  "cardNumber": "70595331",
+  "name": "Il Blud",
+  "description": "This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it become an Effect Monster with this effect.<br>â— Once per turn: You can Special Summon 1 Zombie-Type monster from your hand or from either player's Graveyard. When this card leaves the field, destroy all Zombie-Type monsters Special Summoned by this card's effect.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Gemini\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

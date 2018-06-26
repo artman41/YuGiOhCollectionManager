@@ -1,0 +1,16 @@
+{
+  "id": 3538,
+  "cardNumber": "23309606",
+  "name": "Infernal Incinerator",
+  "description": "This card can only be Normal Summoned or Set by discarding all other card(s) in your hand and Tributing 1 card you control with 2000 or more ATK. This card gains 200 ATK for each monster your opponent controls. This card loses 500 ATK for each other monster you control.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

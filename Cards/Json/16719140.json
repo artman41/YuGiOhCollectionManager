@@ -1,0 +1,16 @@
+{
+  "id": 6673,
+  "cardNumber": "16719140",
+  "name": "Subterror Nemesis Warrior",
+  "description": "During either player's turn: You can send 1 \"Subterror\" monster from your Deck to the Graveyard; Tribute this card and at least 1 other monster so the total original Levels Tributed equal or exceed the Level of that \"Subterror\" monster in the Graveyard, and if you do, Special Summon that monster in face-up or face-down Defense Position. If a \"Subterror Behemoth\" monster is flipped face-up while this card is in your Graveyard: You can Special Summon this card. You can only use each effect of \"Subterror Nemesis Warrior\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

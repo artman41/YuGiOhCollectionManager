@@ -1,0 +1,16 @@
+{
+  "id": 5769,
+  "cardNumber": "92353449",
+  "name": "Red-Eyes Insight",
+  "description": "Send 1 \"Red-Eyes\" monster from your hand or Deck to the Graveyard; add 1 \"Red-Eyes\" Spell/Trap Card from your Deck to your hand, except \"Red-Eyes Insight\". You can only activate 1 \"Red-Eyes Insight\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

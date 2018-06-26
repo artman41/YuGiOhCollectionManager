@@ -1,0 +1,16 @@
+{
+  "id": 4146,
+  "cardNumber": "58054262",
+  "name": "Machina Force",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Commander Covington\", and cannot be Special Summoned by other ways. You must pay 1000 Life Points to declare an attack with this card. You can send this face-up card you control to the Graveyard to target 1 \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" in your Graveyard; Special Summon those targets.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4600,
+  "def": 4100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

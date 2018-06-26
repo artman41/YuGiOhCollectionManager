@@ -1,0 +1,16 @@
+{
+  "id": 1798,
+  "cardNumber": "21219755",
+  "name": "Destruction Ring",
+  "description": "Destroy 1 face-up monster on your side of the field to inflict 1000 points of damage to both player's Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

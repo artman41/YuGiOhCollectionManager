@@ -1,0 +1,16 @@
+{
+  "id": 2356,
+  "cardNumber": "95451366",
+  "name": "Exhausting Spell",
+  "description": "Remove all Spell Counters on both sides of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2496,
+  "cardNumber": "36499284",
+  "name": "Fire Formation - Yoko",
+  "description": "When you activate this card, you can target 1 face-up card your opponent controls; discard 1 Beast-Warrior-Type monster, and if you do, destroy that card. All Beast-Warrior-Type monsters you control gain 100 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1300,
+  "cardNumber": "23950192",
+  "name": "Cryomancer of the Ice Barrier",
+  "description": "While you control another \"Ice Barrier\" monster, Level 4 or higher monsters cannot declare an attack.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

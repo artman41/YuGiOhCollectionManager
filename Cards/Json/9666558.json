@@ -1,0 +1,16 @@
+{
+  "id": 3081,
+  "cardNumber": "9666558",
+  "name": "Golem Dragon",
+  "description": "Your opponent cannot target face-up Dragon-Type monsters for attacks, except this one.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

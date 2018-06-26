@@ -1,0 +1,16 @@
+{
+  "id": 4815,
+  "cardNumber": "17732278",
+  "name": "Neo-Spacian Glow Moss",
+  "description": "When this card attacks or is attacked: Your opponent draws 1 card. Reveal it, and based on its type apply this effect. â— Monster: End the Battle Phase. â— Spell: If this card is attacking, you can change it to a direct attack instead. â— Trap: Change this card to Defense Position.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

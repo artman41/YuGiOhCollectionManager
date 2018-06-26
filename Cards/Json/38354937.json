@@ -1,0 +1,16 @@
+{
+  "id": 4088,
+  "cardNumber": "38354937",
+  "name": "Locomotion R-Genex",
+  "description": "1 \"Genex\" Tuner + 1 or more non-Tuner DARK monsters<br>When this card is Synchro Summoned, take control of the face-up monster your opponent controls with the highest Level. (If it's a tie, you get to choose.)",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

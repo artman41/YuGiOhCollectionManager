@@ -1,0 +1,16 @@
+{
+  "id": 5937,
+  "cardNumber": "51852507",
+  "name": "Rose Archer",
+  "description": "During either player's turn, when your opponent activates a Trap Card while you control a Plant-Type monster: You can send this card from your hand to the Graveyard; negate the activation, and if you do, destroy it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

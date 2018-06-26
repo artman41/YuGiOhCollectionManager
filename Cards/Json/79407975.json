@@ -1,0 +1,16 @@
+{
+  "id": 5663,
+  "cardNumber": "79407975",
+  "name": "Rainbow Dark Dragon",
+  "description": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 7 DARK monsters with different names from your Graveyard, and cannot be Special Summoned by other ways. You can banish all other DARK monsters you control and from your Graveyard; this card gains 500 ATK for each card banished this way.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7536,
+  "cardNumber": "11067666",
+  "name": "White Wing Magician",
+  "description": "Pendulum Effect\n Once per turn, when an activated card or effect resolves that targets a DARK Spellcaster-Type monster you control, negate that effect, then destroy this card.\n\n Monster Effect\n (This card is always treated as a \"Synchro Dragon\" card.)<br>If this Pendulum Summoned card is used for a Synchro Summon, banish it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\",\"Tuner\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

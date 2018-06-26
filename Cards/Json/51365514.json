@@ -1,0 +1,16 @@
+{
+  "id": 3413,
+  "cardNumber": "51365514",
+  "name": "Hieratic Seal of Supremacy",
+  "description": "Special Summon 1 \"Hieratic\" monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

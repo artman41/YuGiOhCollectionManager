@@ -1,0 +1,16 @@
+{
+  "id": 1981,
+  "cardNumber": "50045299",
+  "name": "Dragon Capture Jar",
+  "description": "Change all face-up Dragon-Type monsters on the field to Defense Position, also they cannot change their battle positions.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

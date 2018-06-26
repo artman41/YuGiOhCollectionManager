@@ -1,0 +1,16 @@
+{
+  "id": 4226,
+  "cardNumber": "24845628",
+  "name": "Magicalized Duston Mop",
+  "description": "You can only control 1 \"Magicalized Duston Mop\". The equipped monster cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. When this card you control is destroyed by your opponent's card effect and sent to the Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

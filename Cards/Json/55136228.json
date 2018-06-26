@@ -1,0 +1,16 @@
+{
+  "id": 3531,
+  "cardNumber": "55136228",
+  "name": "Indomitable Gladiator Beast",
+  "description": "Target face-up \"Gladiator Beast\" monster you control gains 500 ATK until the End Phase. While this card is in your Graveyard, you can return 2 \"Gladiator Beast\" cards from your Graveyard to the Deck to return this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

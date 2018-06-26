@@ -1,0 +1,16 @@
+{
+  "id": 920,
+  "cardNumber": "35011819",
+  "name": "By Order of the Emperor",
+  "description": "When a monster effect is activated that activates when a monster is Normal Summoned: You can negate the activation, then the player whose effect activation was negated draws 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

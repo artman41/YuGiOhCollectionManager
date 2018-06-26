@@ -1,0 +1,16 @@
+{
+  "id": 1215,
+  "cardNumber": "35631584",
+  "name": "Constellar Star Chart",
+  "description": "Once per turn, when a \"Constellar\" Xyz Monster(s) is Special Summoned to your side of the field (except during the Damage Step): You can draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

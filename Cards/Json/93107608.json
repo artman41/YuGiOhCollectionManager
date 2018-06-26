@@ -1,0 +1,16 @@
+{
+  "id": 3448,
+  "cardNumber": "93107608",
+  "name": "Howling Insect",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Insect-Type monster with 1500 or less ATK from your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

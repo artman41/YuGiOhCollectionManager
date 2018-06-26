@@ -1,0 +1,16 @@
+{
+  "id": 3618,
+  "cardNumber": "79161790",
+  "name": "Inverse Universe",
+  "description": "Switch the ATK and DEF of all face-up Effect Monsters on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

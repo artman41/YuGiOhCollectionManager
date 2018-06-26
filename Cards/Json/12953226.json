@@ -1,0 +1,16 @@
+{
+  "id": 5026,
+  "cardNumber": "12953226",
+  "name": "Nuvia the Wicked",
+  "description": "If this monster is Normal Summoned, destroy this card. If your opponent controls any monster, decrease the ATK of this card by 200 points for each monster on your opponent's side of the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

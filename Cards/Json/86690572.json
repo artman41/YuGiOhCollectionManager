@@ -1,0 +1,16 @@
+{
+  "id": 894,
+  "cardNumber": "86690572",
+  "name": "Burgeoning Whirlflame",
+  "description": "When a Trap Card is activated: Send 1 \"Laval\" monster from your hand to the Graveyard; negate the activation and destroy it. If this card is in the Graveyard: You can banish 2 FIRE monsters from your Graveyard; add this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4887,
+  "cardNumber": "32623004",
+  "name": "Nopenguin",
+  "description": "During either player's turn, when an effect of a \"Penguin\" monster is activated: Special Summon this card from your Graveyard. You can only use this effect of \"Nopenguin\" once per turn. If a card would be returned from the field to the hand by the effect of a \"Penguin\" card, banish it instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

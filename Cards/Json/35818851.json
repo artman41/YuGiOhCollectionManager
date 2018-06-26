@@ -1,0 +1,16 @@
+{
+  "id": 6213,
+  "cardNumber": "35818851",
+  "name": "Shiranui Samurai",
+  "description": "During either player's turn: You can banish 1 Zombie-Type monster from your Graveyard; this card gains 600 ATK, and if it does, banish any monster that battled this card, after damage calculation. These effects last until the end of this turn. If this card is banished: You can target 1 \"Shiranui\" monster in your Graveyard, except \"Shiranui Samurai\"; add it to your hand. You can only use each effect of \"Shiranui Samurai\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

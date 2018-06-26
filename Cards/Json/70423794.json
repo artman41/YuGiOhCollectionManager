@@ -1,0 +1,16 @@
+{
+  "id": 4646,
+  "cardNumber": "70423794",
+  "name": "Morphtronic Cord",
+  "description": "Equip only to a \"Morphtronic\" monster. Each time the equipped monster's battle position is changed, destroy 1 Spell or Trap Card on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

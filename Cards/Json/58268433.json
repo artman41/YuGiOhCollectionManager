@@ -1,0 +1,16 @@
+{
+  "id": 706,
+  "cardNumber": "58268433",
+  "name": "Blade Rabbit",
+  "description": "When this card is changed from Attack Position to face-up Defense Position, destroy 1 monster on your opponent's side of the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

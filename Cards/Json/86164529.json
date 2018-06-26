@@ -1,0 +1,16 @@
+{
+  "id": 271,
+  "cardNumber": "86164529",
+  "name": "Aqua Dragon",
+  "description": "\"Fairy Dragon\" + \"Amazon of the Seas\" + \"Zone Eater\"",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2250,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

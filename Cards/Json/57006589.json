@@ -1,0 +1,16 @@
+{
+  "id": 2258,
+  "cardNumber": "57006589",
+  "name": "Energy-Absorbing Monolith",
+  "description": "Chain this card to an opponent's card effect that would inflict damage to you. That damage is negated and you gain Life Points equal to the amount you would have taken.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

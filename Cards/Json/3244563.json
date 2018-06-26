@@ -1,0 +1,16 @@
+{
+  "id": 6181,
+  "cardNumber": "3244563",
+  "name": "Shield Spear",
+  "description": "Target 1 face-up monster on the field; it gains 400 ATK and DEF until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

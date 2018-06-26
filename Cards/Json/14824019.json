@@ -1,0 +1,16 @@
+{
+  "id": 6468,
+  "cardNumber": "14824019",
+  "name": "Spellbook Magician of Prophecy",
+  "description": "If this card is Normal Summoned or flipped face-up: Add 1 \"Spellbook\" Spell from your Deck to your hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

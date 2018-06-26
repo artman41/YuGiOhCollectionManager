@@ -1,0 +1,16 @@
+{
+  "id": 450,
+  "cardNumber": "11901678",
+  "name": "B. Skull Dragon",
+  "description": "\"Summoned Skull\" + \"Red-Eyes B. Dragon\"<br><br><br><br>(This card is always treated as an \"Archfiend\" card.)",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 3200,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

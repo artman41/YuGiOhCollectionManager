@@ -1,0 +1,16 @@
+{
+  "id": 6477,
+  "cardNumber": "56981417",
+  "name": "Spellbook of the Master",
+  "description": "If you control a Spellcaster-Type monster: You can reveal 1 other \"Spellbook\" card in your hand, then target 1 \"Spellbook\" Normal Spell Card in your Graveyard, except \"Spellbook of the Master\"; this card's effect becomes that target's effect. You can only activate 1 \"Spellbook of the Master\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

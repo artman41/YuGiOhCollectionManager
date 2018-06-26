@@ -1,0 +1,16 @@
+{
+  "id": 2069,
+  "cardNumber": "54813225",
+  "name": "Duck Fighter",
+  "description": "If this card is in your hand or Graveyard: You can Tribute Tokens whose total Levels equal 3 or more; Special Summon this card. You can only use the effect of \"Duck Fighter\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

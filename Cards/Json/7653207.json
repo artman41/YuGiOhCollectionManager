@@ -1,0 +1,16 @@
+{
+  "id": 272,
+  "cardNumber": "7653207",
+  "name": "Aqua Jet",
+  "description": "Target 1 face-up Fish, Sea Serpent, or Aqua-Type monster you control; it gains 1000 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

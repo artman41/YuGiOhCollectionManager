@@ -1,0 +1,16 @@
+{
+  "id": 5069,
+  "cardNumber": "40391316",
+  "name": "Ojama Knight",
+  "description": "1 \"Ojama\" monster + 1 \"Ojama\" monster <br>Select up to 2 of your opponent's Monster Card Zones. The selected zones cannot be used.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

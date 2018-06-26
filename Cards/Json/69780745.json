@@ -1,0 +1,16 @@
+{
+  "id": 8238,
+  "cardNumber": "69780745",
+  "name": "Garvas",
+  "description": "A wicked beast that resembles a winged lion.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

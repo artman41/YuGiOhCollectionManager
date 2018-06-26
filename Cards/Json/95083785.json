@@ -1,0 +1,16 @@
+{
+  "id": 5473,
+  "cardNumber": "95083785",
+  "name": "Premature Return",
+  "description": "Banish 1 card from your hand, then target 1 of your banished monsters; Special Summon it in face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

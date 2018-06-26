@@ -1,0 +1,16 @@
+{
+  "id": 4842,
+  "cardNumber": "68353324",
+  "name": "Nimble Beaver",
+  "description": "When this card is Normal Summoned: You can Special Summon 1 Level 3 or lower \"Nimble\" monster from your Deck or GY.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3292,
+  "cardNumber": "75064463",
+  "name": "Harpie Queen",
+  "description": "You can discard this card to the Graveyard; add 1 \"Harpies' Hunting Ground\" from your Deck to your hand. This card's name becomes \"Harpie Lady\" while it is on the field or in the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

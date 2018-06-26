@@ -1,0 +1,16 @@
+{
+  "id": 2909,
+  "cardNumber": "21887179",
+  "name": "Getsu Fuhma",
+  "description": "If this card battles a Fiend or Zombie-Type monster, destroy that monster at the end of the Damage Step.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

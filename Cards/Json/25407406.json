@@ -1,0 +1,16 @@
+{
+  "id": 3029,
+  "cardNumber": "25407406",
+  "name": "Gladiator Beast's Battle Gladius",
+  "description": "Equip only to a \"Gladiator Beast\" monster. It gains 300 ATK. When the equipped monster is returned from your side of the field to the Deck and this card is sent to the Graveyard, return this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

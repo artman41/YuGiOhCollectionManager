@@ -1,0 +1,16 @@
+{
+  "id": 6927,
+  "cardNumber": "90122655",
+  "name": "Tenmataitei",
+  "description": "Your opponent cannot activate cards or effects in response to the activation of any monster effect activated by a monster that was Normal Summoned/Set.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6526,
+  "cardNumber": "15866454",
+  "name": "Spiritualism",
+  "description": "Return 1 Spell/Trap Card your opponent controls to the hand. This card's activation and effect cannot be negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5795,
+  "cardNumber": "74845897",
+  "name": "Rekindling",
+  "description": "Special Summon from your Graveyard as many FIRE monsters as possible with 200 DEF, but banish them during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

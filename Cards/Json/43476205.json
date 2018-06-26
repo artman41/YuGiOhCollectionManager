@@ -1,0 +1,16 @@
+{
+  "id": 5691,
+  "cardNumber": "43476205",
+  "name": "Rank-Up-Magic Revolution Force",
+  "description": "â— During your turn: Target 1 \"Raidraptor\" Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Raidraptor\" monster that is 1 Rank higher than that target, by using that target as the Xyz Material.<br>â— During your opponent's turn: Target 1 Xyz Monster your opponent controls with no Xyz Materials; take control of that Xyz Monster, then Special Summon from your Extra Deck, 1 \"Raidraptor\" monster that is 1 Rank higher than that monster, by using it as the Xyz Material.<br>(These Special Summons are treated as Xyz Summons. Attached Xyz Materials also become Xyz Materials on the Summoned monster.)",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

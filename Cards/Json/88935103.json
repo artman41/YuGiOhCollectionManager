@@ -1,0 +1,16 @@
+{
+  "id": 4878,
+  "cardNumber": "88935103",
+  "name": "Nobledragon Magician",
+  "description": "Pendulum Effect\n Unless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.\n\n Monster Effect\n Cannot be used as Synchro Material, except for the Synchro Summon of a Dragon Synchro Monster. If this card is used as Synchro Material, unless all other Synchro Materials are \"Odd-Eyes\" monsters, place this card on the bottom of the Deck. If this card is in your hand or GY: You can target 1 Level 7 or higher \"Odd-Eyes\" monster you control; reduce its Level by 3, and if you do, Special Summon this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\",\"Tuner\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

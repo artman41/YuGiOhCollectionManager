@@ -1,0 +1,16 @@
+{
+  "id": 8378,
+  "cardNumber": "13723605",
+  "name": "Man-Eating Treasure Chest",
+  "description": "A monster disguised as a treasure chest that is known to attack the unwary adventurer.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

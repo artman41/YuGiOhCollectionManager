@@ -1,0 +1,16 @@
+{
+  "id": 2052,
+  "cardNumber": "13215230",
+  "name": "Dream Clown",
+  "description": "When this card is changed from Attack Position to Defense Position, destroy 1 monster on your opponent's side of the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

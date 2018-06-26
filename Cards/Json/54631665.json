@@ -1,0 +1,16 @@
+{
+  "id": 6546,
+  "cardNumber": "54631665",
+  "name": "SPYRAL Resort",
+  "description": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Deck or destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

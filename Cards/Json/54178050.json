@@ -1,0 +1,16 @@
+{
+  "id": 2006,
+  "cardNumber": "54178050",
+  "name": "Dragon's Rage",
+  "description": "Dragon-Type monsters you control inflict piercing Battle Damage when they attack a Defense Position monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

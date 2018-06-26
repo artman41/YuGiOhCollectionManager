@@ -1,0 +1,16 @@
+{
+  "id": 8491,
+  "cardNumber": "68846917",
+  "name": "Rock Ogre Grotto #1",
+  "description": "Protected by a solid body of rock, this monster throws a bone-shattering punch.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

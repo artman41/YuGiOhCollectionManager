@@ -1,0 +1,16 @@
+{
+  "id": 5551,
+  "cardNumber": "41442341",
+  "name": "Puppet Master",
+  "description": "When this card is Tribute Summoned: You can pay 2000 Life Points to target 2 Fiend-Type monsters in your Graveyard; Special Summon those targets. They cannot attack this turn.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

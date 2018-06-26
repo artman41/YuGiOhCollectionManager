@@ -1,0 +1,16 @@
+{
+  "id": 6275,
+  "cardNumber": "61632317",
+  "name": "Sinister Sprocket",
+  "description": "If this card is sent to the Graveyard for the Synchro Summon of a DARK Synchro Monster, you can destroy 1 face-up Spell or Trap Card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

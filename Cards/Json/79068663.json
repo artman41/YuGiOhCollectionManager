@@ -1,0 +1,16 @@
+{
+  "id": 3708,
+  "cardNumber": "79068663",
+  "name": "Junk Barrage",
+  "description": "When the equipped monster destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's ATK in the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5422,
+  "cardNumber": "70278545",
+  "name": "Pot of Generosity",
+  "description": "Return 2 cards from your hand to your Deck. Then shuffle your Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

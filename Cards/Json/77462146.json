@@ -1,0 +1,16 @@
+{
+  "id": 5330,
+  "cardNumber": "77462146",
+  "name": "The Phantom Knights of Shadow Veil",
+  "description": "Target 1 face-up monster you control; it gains 300 ATK and DEF. When an opponent's monster declares a direct attack while this card is in your Graveyard: Special Summon this card in Defense Position as a Normal Monster (Warrior-Type/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap Card.) If Summoned this way, banish this card when it leaves the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

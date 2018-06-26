@@ -1,0 +1,16 @@
+{
+  "id": 6649,
+  "cardNumber": "34646691",
+  "name": "Stumbling",
+  "description": "Any monster that is Normal Summoned, Flip Summoned or Special Summoned is changed to Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

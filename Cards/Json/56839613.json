@@ -1,0 +1,16 @@
+{
+  "id": 512,
+  "cardNumber": "56839613",
+  "name": "Batteryman Micro-Cell",
+  "description": "FLIP: Special Summon 1 Level 4 or lower \"Batteryman\" monster from your Deck, except \"Batteryman Micro-Cell\". After this card has been flipped face-up, when it is destroyed by battle and sent to the Graveyard, draw 1 card.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

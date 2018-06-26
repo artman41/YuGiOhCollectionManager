@@ -1,0 +1,16 @@
+{
+  "id": 3027,
+  "cardNumber": "96216229",
+  "name": "Gladiator Beast War Chariot",
+  "description": "When an Effect Monster's effect is activated, if you control a face-up \"Gladiator Beast\" monster: Negate the activation and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

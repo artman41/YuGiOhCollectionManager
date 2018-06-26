@@ -1,0 +1,16 @@
+{
+  "id": 1453,
+  "cardNumber": "16638212",
+  "name": "D.D. Sprite",
+  "description": "You can Special Summon this card from your hand by removing from play 1 face-up monster you control. If you do, return the removed from play monster to the field during the next Standby Phase.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

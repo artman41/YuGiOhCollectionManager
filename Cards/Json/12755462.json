@@ -1,0 +1,16 @@
+{
+  "id": 3050,
+  "cardNumber": "12755462",
+  "name": "Goblin Pothole Squad",
+  "description": "When this card is Normal Summoned, Trap Cards cannot be activated. Also, \"Trap Hole\" Trap Cards cannot be activated when a monster is Summoned, except \"Dark Trap Hole\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6125,
+  "cardNumber": "57585212",
+  "name": "Self-Destruct Button",
+  "description": "You can only activate this card when your Life Points are lower than your opponent's Life Points and the difference is 7000 points or more. Both player's Life Points become 0.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

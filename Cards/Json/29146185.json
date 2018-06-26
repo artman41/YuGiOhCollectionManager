@@ -1,0 +1,16 @@
+{
+  "id": 7624,
+  "cardNumber": "29146185",
+  "name": "World of Prophecy",
+  "description": "When this card is Special Summoned by the effect of a Spellcaster-Type monster or a \"Spellbook\" Spell Card: You can target 2 \"Spellbook\" Spell Cards in your Graveyard; add those targets to your hand. You cannot Special Summon other monsters during the turn you activate this effect. When you add card(s) to your hand by this effect: You can reveal 4 \"Spellbook\" Spell Cards with different names in your hand; destroy all other cards on the field.",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

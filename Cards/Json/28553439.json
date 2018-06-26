@@ -1,0 +1,16 @@
+{
+  "id": 4206,
+  "cardNumber": "28553439",
+  "name": "Magical Dimension",
+  "description": "If you control a Spellcaster-Type monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster-Type monster from your hand, then you can destroy 1 monster on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

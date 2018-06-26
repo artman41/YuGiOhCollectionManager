@@ -1,0 +1,16 @@
+{
+  "id": 2053,
+  "cardNumber": "26920296",
+  "name": "Dreamland",
+  "description": "This card can activate these effects depending on the monster card types on the field.<br>â— Fusion: Once per turn, if a monster(s) is sent from your hand or field to the GY by a card effect (except during the Damage Step): You can draw 1 card.<br>â— Synchro: When a monster(s) is Normal or Special Summoned (except during the Damage Step): You can increase their Levels by 1.<br>â— Xyz: Once per turn, during your End Phase: Destroy the monster(s) on the field with the highest Level.<br>You can only activate 1 \"Dreamland\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

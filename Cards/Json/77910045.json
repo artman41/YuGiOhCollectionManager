@@ -1,0 +1,16 @@
+{
+  "id": 2440,
+  "cardNumber": "77910045",
+  "name": "Fatal Abacus",
+  "description": "Each time 1 monster is sent from the field to the Graveyard, inflict 500 points of damage per card to the respective card owner's Life Points.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

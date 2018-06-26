@@ -1,0 +1,16 @@
+{
+  "id": 3112,
+  "cardNumber": "79571449",
+  "name": "Graceful Charity",
+  "description": "Draw 3 cards, then discard 2 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2488,
+  "cardNumber": "81109178",
+  "name": "Fire Cracker",
+  "description": "During either player's turn: You can discard this card; inflict 1000 damage to your opponent, and if you do, skip your next Draw Phase. You can only use this effect of \"Fire Cracker\" once per turn. Each time your opponent takes effect damage, place 1 counter on this card. Once per turn, during the End Phase: Remove all counters from this card that were placed by its effect, and if you do, inflict 300 damage to your opponent for each.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

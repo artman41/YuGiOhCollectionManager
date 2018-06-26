@@ -1,0 +1,16 @@
+{
+  "id": 8221,
+  "cardNumber": "42599677",
+  "name": "Flame Champion",
+  "description": "A warrior protected by a flaming shield that nullifies any attack.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

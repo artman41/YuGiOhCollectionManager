@@ -1,0 +1,16 @@
+{
+  "id": 7204,
+  "cardNumber": "43898403",
+  "name": "Twin Twisters",
+  "description": "Discard 1 card, then target up to 2 Spell/Trap Cards on the field; destroy them.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

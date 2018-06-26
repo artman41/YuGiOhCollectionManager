@@ -1,0 +1,16 @@
+{
+  "id": 90,
+  "cardNumber": "65301952",
+  "name": "Alchemic Magician",
+  "description": "3 Level 4 Spellcaster-Type monsters<br>This card gains 200 ATK for each Spell Card in your Graveyard. Once per turn, during your End Phase: You can detach 1 Xyz Material from this card and send 1 card from your hand to the Graveyard; choose 1 Spell Card from your Deck, then Set it in your Spell &amp; Trap Card Zone.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 1500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

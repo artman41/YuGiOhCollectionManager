@@ -1,0 +1,16 @@
+{
+  "id": 3403,
+  "cardNumber": "78033100",
+  "name": "Hieratic Dragon of Gebeb",
+  "description": "When this card destroys an opponent's monster by battle and sends it to the Graveyard: Special Summon 1 Dragon-Type Normal Monster from your hand, Deck, or Graveyard, and make its ATK and DEF 0. When this card is Tributed: Special Summon 1 \"Hieratic\" Normal Monster from your hand, Deck, or Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

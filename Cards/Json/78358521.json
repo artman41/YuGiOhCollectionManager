@@ -1,0 +1,16 @@
+{
+  "id": 1214,
+  "cardNumber": "78358521",
+  "name": "Constellar Sombre",
+  "description": "You can only use each effect of \"Constellar Sombre\" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 \"Constellar\" monster for 1 less Tribute.<br>You can banish 1 \"Constellar\" monster from your Graveyard, then target 1 \"Constellar\" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.<br>â— This turn: You can activate this effect; Normal Summon 1 \"Constellar\" monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1550,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

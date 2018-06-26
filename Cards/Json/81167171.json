@@ -1,0 +1,16 @@
+{
+  "id": 3367,
+  "cardNumber": "81167171",
+  "name": "Hero Spirit",
+  "description": "During the Battle Phase, if an \"Elemental HERO\" monster you controlled was destroyed by battle this turn: Make the Battle Damage from 1 of your opponent's monsters 0.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

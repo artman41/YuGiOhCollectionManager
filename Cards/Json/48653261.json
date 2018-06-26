@@ -1,0 +1,16 @@
+{
+  "id": 3220,
+  "cardNumber": "48653261",
+  "name": "Guard Penalty",
+  "description": "Select 1 monster on the field. If it is changed to Defense Position this turn, draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

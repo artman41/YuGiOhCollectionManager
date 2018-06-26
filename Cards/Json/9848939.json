@@ -1,0 +1,16 @@
+{
+  "id": 7611,
+  "cardNumber": "9848939",
+  "name": "Woodland Archer",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by having 2 or more Normal Monsters in your Graveyard. You can Tribute this card to add 1 Gemini monster from your Deck to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

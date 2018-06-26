@@ -1,0 +1,16 @@
+{
+  "id": 8012,
+  "cardNumber": "16428514",
+  "name": "Subterror Guru",
+  "description": "FLIP: You can add 1 \"Subterror\" card from your Deck to your hand, except \"Subterror Guru\".<br>You can target 1 other face-up monster on the field; change both it and this card to face-down Defense Position. This effect can be activated during either player's turn, if you control another \"Subterror\" card. You can only use each effect of \"Subterror Guru\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

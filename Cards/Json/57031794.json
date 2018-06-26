@@ -1,0 +1,16 @@
+{
+  "id": 6704,
+  "cardNumber": "57031794",
+  "name": "Super Quantal Mech Beast Magnaliger",
+  "description": "2 Level 5 monsters<br>Cannot attack unless it has Xyz Material. Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster on the field; destroy it. This effect can be activated during either player's turn, if this card has \"Super Quantum Red Layer\" as Xyz Material. Once per turn: You can attach 1 \"Super Quantum\" monster from your hand or field to this card as an Xyz Material.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2600,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

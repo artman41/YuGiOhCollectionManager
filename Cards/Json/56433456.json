@@ -1,0 +1,16 @@
+{
+  "id": 6012,
+  "cardNumber": "56433456",
+  "name": "The Sanctuary in the Sky",
+  "description": "Battle damage to the controller of a Fairy monster from a battle involving that Fairy monster becomes 0.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

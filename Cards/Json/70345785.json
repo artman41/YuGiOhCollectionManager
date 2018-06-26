@@ -1,0 +1,16 @@
+{
+  "id": 8652,
+  "cardNumber": "70345785",
+  "name": "Yamadron",
+  "description": "This monster has three fire-breathing heads and can form a sea of blazing flames.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

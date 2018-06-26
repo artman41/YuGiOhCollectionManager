@@ -1,0 +1,16 @@
+{
+  "id": 5202,
+  "cardNumber": "93920745",
+  "name": "Penguin Soldier",
+  "description": "FLIP: You can target up to 2 monsters on the field; return those targets to the hand.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 750,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

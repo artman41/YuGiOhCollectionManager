@@ -1,0 +1,16 @@
+{
+  "id": 3162,
+  "cardNumber": "48135190",
+  "name": "Gravelstorm",
+  "description": "Target 1 Spell/Trap Card on each side of the field; return them to the hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

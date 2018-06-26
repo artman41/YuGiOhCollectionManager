@@ -1,0 +1,16 @@
+{
+  "id": 7900,
+  "cardNumber": "15397015",
+  "name": "Inspect Boarder",
+  "description": "Cannot be Normal or Special Summoned while you control a monster. Each turn, each player can only attempt to activate monster effects up to the number of monster card types (Ritual, Fusion, Synchro, Xyz, Pendulum, and Link) on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

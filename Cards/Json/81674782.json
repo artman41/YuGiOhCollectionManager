@@ -1,0 +1,16 @@
+{
+  "id": 1858,
+  "cardNumber": "81674782",
+  "name": "Dimensional Fissure",
+  "description": "Any monster sent to the Graveyard is banished instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

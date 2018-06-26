@@ -1,0 +1,16 @@
+{
+  "id": 1025,
+  "cardNumber": "65393205",
+  "name": "Chakra",
+  "description": "You can Ritual Summon this card with \"Resurrection of Chakra\".",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2450,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

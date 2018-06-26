@@ -1,0 +1,16 @@
+{
+  "id": 3091,
+  "cardNumber": "64379261",
+  "name": "Gorgonic Gargoyle",
+  "description": "When you Normal Summon a Rock-Type monster: You can Special Summon this card from your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

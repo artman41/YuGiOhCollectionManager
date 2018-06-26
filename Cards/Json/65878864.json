@@ -1,0 +1,16 @@
+{
+  "id": 4881,
+  "cardNumber": "65878864",
+  "name": "Nobleman-Eater Bug",
+  "description": "FLIP: Destroy 2 monsters on the field.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 900,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

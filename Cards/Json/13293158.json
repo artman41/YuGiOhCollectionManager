@@ -1,0 +1,16 @@
+{
+  "id": 2301,
+  "cardNumber": "13293158",
+  "name": "Evil HERO Wild Cyclone",
+  "description": "\"Elemental HERO Avian\" + \"Elemental HERO Wildheart\"<br>Must be Special Summoned with \"Dark Fusion\" and cannot be Special Summoned by other ways. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. When this card inflicts Battle Damage to your opponent: Destroy all face-down Spell and Trap Cards your opponent controls.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

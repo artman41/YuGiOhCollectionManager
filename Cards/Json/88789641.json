@@ -1,0 +1,16 @@
+{
+  "id": 3264,
+  "cardNumber": "88789641",
+  "name": "Hallowed Life Barrier",
+  "description": "Discard 1 card from your hand. This turn, any damage you take from your opponent's cards and effects becomes 0.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

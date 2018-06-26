@@ -1,0 +1,16 @@
+{
+  "id": 2893,
+  "cardNumber": "19182751",
+  "name": "Genex Neutron",
+  "description": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: You can add 1 Machine-Type Tuner monster from your Deck to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

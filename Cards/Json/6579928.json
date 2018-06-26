@@ -1,0 +1,16 @@
+{
+  "id": 8692,
+  "cardNumber": "6579928",
+  "name": "Secret Six Samurai - Kizaru",
+  "description": "When this card is Special Summoned: You can add from your Deck to your hand, 1 \"Six Samurai\" monster with a different Attribute from every monster you control. If exactly 1 \"Six Samurai\" monster you control (and no other cards) would be destroyed by card effect, you can banish this card from your GY instead.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

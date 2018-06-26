@@ -1,0 +1,16 @@
+{
+  "id": 7847,
+  "cardNumber": "87170768",
+  "name": "Contacting \"C\"",
+  "description": "When your opponent Normal or Special Summons a monster(s), except during the Damage Step: You can Special Summon this card from your hand to your opponent's field in Defense Position. If you would Fusion, Synchro, Xyz, or Link Summon, you must use this face-up card on the field as material.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

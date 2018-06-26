@@ -1,0 +1,16 @@
+{
+  "id": 3263,
+  "cardNumber": "77994337",
+  "name": "Hallohallo",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 face-up monster on the field; roll a six-sided die and that monster's Level becomes the same as the result until the end of this turn.\n\n Monster Effect\n Hallo Hallo, brain of tallow,<br>Guts are gone, noggin's hollow.<br>Seeking sweets and marshing mallows,<br>Watch your back, and your candy sack.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\",\"Pendulum\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

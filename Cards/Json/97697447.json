@@ -1,0 +1,16 @@
+{
+  "id": 50,
+  "cardNumber": "97697447",
+  "name": "Abyss-strom",
+  "description": "Send 1 face-up \"Umi\" you control to the Graveyard; send all Spell and Trap cards on the field to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

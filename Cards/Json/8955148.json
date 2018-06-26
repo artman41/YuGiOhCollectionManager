@@ -1,0 +1,16 @@
+{
+  "id": 8953,
+  "cardNumber": "8955148",
+  "name": "Ritual of Lithmus",
+  "description": "This card is used to Ritual Summon \"Swordsman of Doom Lithmus\". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more. If this card is in your GY: You can target 1 \"Swordsman Of Doom Lithmus\" in your GY; shuffle both this card and that target into the Deck, then draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

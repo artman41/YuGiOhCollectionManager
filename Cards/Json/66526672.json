@@ -1,0 +1,16 @@
+{
+  "id": 3910,
+  "cardNumber": "66526672",
+  "name": "Labyrinth of Nightmare",
+  "description": "Once per turn, during each player's End Phase: Change the battle positions of all face-up monsters the turn player controls.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

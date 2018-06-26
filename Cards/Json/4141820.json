@@ -1,0 +1,16 @@
+{
+  "id": 1905,
+  "cardNumber": "4141820",
+  "name": "Djinn Prognosticator of Rituals",
+  "description": "When you Ritual Summon a monster, you can banish this card from your Graveyard as 1 of the monsters required for the Ritual Summon. If a player Ritual Summons using this card, if that Ritual Summoned monster inflicts battle damage to the other player, they discard 1 card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

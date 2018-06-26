@@ -1,0 +1,16 @@
+{
+  "id": 1250,
+  "cardNumber": "27450400",
+  "name": "Cosmic Compass",
+  "description": "When this card is Normal Summoned, you can Special Summon a number of \"Compass Tokens\" (Machine-Type/EARTH/Level 1/ATK 0/DEF 0) up to the number of monsters your opponent controls.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

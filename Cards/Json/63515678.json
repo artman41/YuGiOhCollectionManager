@@ -1,0 +1,16 @@
+{
+  "id": 8426,
+  "cardNumber": "63515678",
+  "name": "Mystical Capture Chain",
+  "description": "A mystical chain that binds enemies, rendering them immobile.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

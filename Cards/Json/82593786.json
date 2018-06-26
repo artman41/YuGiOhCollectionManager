@@ -1,0 +1,16 @@
+{
+  "id": 472,
+  "cardNumber": "82593786",
+  "name": "Bacon Saver",
+  "description": "During either player's Battle Step, while an attack is occurring: You can banish this card from your Graveyard; negate the attack. You can only use the effect of \"Bacon Saver\" once per Duel.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

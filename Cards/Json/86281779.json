@@ -1,0 +1,16 @@
+{
+  "id": 8232,
+  "cardNumber": "86281779",
+  "name": "Gadget Soldier",
+  "description": "A rust-free machine warrior born to battle.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

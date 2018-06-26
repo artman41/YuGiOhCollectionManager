@@ -1,0 +1,16 @@
+{
+  "id": 8410,
+  "cardNumber": "27288416",
+  "name": "Mokey Mokey",
+  "description": "An outcast angel. Nobody knows what he is thinking at all. Sometimes he gets mad and that is dreadful.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1498,
+  "cardNumber": "92536468",
+  "name": "D/D/D Rebel King Leonidas",
+  "description": "Pendulum Effect\n When you take effect damage (except during the Damage Step): You can destroy this card, and if you do, any effect that would inflict damage to a player this turn increases their LP by the same amount, instead.\n\n Monster Effect\n When you take effect damage (except during the Damage Step): You can Special Summon this card from your hand, and if you do, gain LP equal to the damage you took. You take no effect damage.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

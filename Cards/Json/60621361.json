@@ -1,0 +1,16 @@
+{
+  "id": 4622,
+  "cardNumber": "60621361",
+  "name": "Monster Rebone",
+  "description": "If your opponent Special Summoned a monster this turn: Activate this card by targeting 1 monster in your opponent's Graveyard; Special Summon it to your side of the field in Defense Position. When this card leaves the field, banish that monster. When that monster leaves the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8115,
+  "cardNumber": "35282433",
+  "name": "Blue-Eyed Silver Zombie",
+  "description": "The beams from the eyes of this creature are said to turn enemies into zombies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

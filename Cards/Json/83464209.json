@@ -1,0 +1,16 @@
+{
+  "id": 8428,
+  "cardNumber": "83464209",
+  "name": "Mystical Sheep #2",
+  "description": "A monstrous sheep with a long tail for hypnotizing enemies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

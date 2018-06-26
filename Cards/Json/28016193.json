@@ -1,0 +1,16 @@
+{
+  "id": 4480,
+  "cardNumber": "28016193",
+  "name": "Metalfoes Orichalc",
+  "description": "2 \"Metalfoes\" monsters<br>If a \"Metalfoes\" monster you control attacks a Defense Position monster, inflict double piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can target 1 card on the field; destroy it.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

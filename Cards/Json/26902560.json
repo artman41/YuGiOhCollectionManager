@@ -1,0 +1,16 @@
+{
+  "id": 2706,
+  "cardNumber": "26902560",
+  "name": "Fusion Sage",
+  "description": "Add 1 \"Polymerization\" from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

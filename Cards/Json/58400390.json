@@ -1,0 +1,16 @@
+{
+  "id": 558,
+  "cardNumber": "58400390",
+  "name": "Beckoned by the World Chalice",
+  "description": "His battle with the Mekkstrosities never seems to end. Even when their forest was invaded by Mekkstrocious Insects, he stood his ground and inspired the other defenders around him.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

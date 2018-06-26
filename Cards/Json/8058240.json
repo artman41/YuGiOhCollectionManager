@@ -1,0 +1,16 @@
+{
+  "id": 8108,
+  "cardNumber": "8058240",
+  "name": "Binding Chain",
+  "description": "The mystic links of this chain can rob enemies of their power.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

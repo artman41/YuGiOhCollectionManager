@@ -1,0 +1,16 @@
+{
+  "id": 4490,
+  "cardNumber": "50705071",
+  "name": "Metalzoa",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing \"Zoa\" equipped with \"Metalmorph\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

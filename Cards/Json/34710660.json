@@ -1,0 +1,16 @@
+{
+  "id": 2153,
+  "cardNumber": "34710660",
+  "name": "Electromagnetic Turtle",
+  "description": "During your opponent's Battle Phase: You can banish this card from your Graveyard; end the Battle Phase (this is a Quick Effect). You can only use this effect of \"Electromagnetic Turtle\" once per Duel.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

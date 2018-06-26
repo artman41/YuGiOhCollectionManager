@@ -1,0 +1,16 @@
+{
+  "id": 5320,
+  "cardNumber": "6901008",
+  "name": "Phantom King Hydride",
+  "description": "If you use this card you control for a Synchro Summon, you can treat it as a non-Tuner monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

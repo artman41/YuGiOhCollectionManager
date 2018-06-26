@@ -1,0 +1,16 @@
+{
+  "id": 7352,
+  "cardNumber": "67267333",
+  "name": "Vendread Houndhorde",
+  "description": "If this card is in your GY: You can discard 1 \"Vendread\" card; Special Summon this card, but banish it when it leaves the field. A \"Vendread\" monster Ritual Summoned using this card on the field gains the following effect. You can only use each of the preceding effects of \"Vendread Houndhorde\" once per turn.<br>â— Once per turn (Quick Effect): You can target 1 Spell/Trap your opponent controls; banish it.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

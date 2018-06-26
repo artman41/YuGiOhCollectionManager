@@ -1,0 +1,16 @@
+{
+  "id": 6586,
+  "cardNumber": "61344030",
+  "name": "Starliege Paladynamo",
+  "description": "2 Level 4 LIGHT monsters<br>Once per turn: You can detach 2 Xyz Materials from this card, then target 1 face-up monster your opponent controls; change its ATK to 0, and if you do, it has its effects negated. If this card you control is destroyed by an opponent's card (by battle or card effect) and sent to your Graveyard: Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

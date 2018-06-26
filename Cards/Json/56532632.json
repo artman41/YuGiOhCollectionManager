@@ -1,0 +1,16 @@
+{
+  "id": 1075,
+  "cardNumber": "56532632",
+  "name": "Chivalry",
+  "description": "Activate only during the Battle Phase, when the effect of an opponent's Effect Monster is activated. Negate the activation and destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

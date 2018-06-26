@@ -1,0 +1,16 @@
+{
+  "id": 3138,
+  "cardNumber": "11448373",
+  "name": "Grave Protector",
+  "description": "Any monster destroyed by battle is shuffled into the Deck instead of going to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

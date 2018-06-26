@@ -1,0 +1,16 @@
+{
+  "id": 2970,
+  "cardNumber": "76436988",
+  "name": "Gillagillancer",
+  "description": "If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). During each End Phase: You take 500 damage. This card must be face-up on the field to activate and to resolve this effect.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

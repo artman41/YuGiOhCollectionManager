@@ -1,0 +1,16 @@
+{
+  "id": 127,
+  "cardNumber": "19204398",
+  "name": "Ally of Justice Light Gazer",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>This card gains 200 ATK for each LIGHT monster in your opponent's Graveyard.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

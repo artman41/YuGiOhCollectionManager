@@ -1,0 +1,16 @@
+{
+  "id": 4256,
+  "cardNumber": "17214465",
+  "name": "Maiden of the Aqua",
+  "description": "As long as this card remains face-up on the field, the field is treated as \"Umi\" (however there is no increasing or decreasing of ATK/DEF due to \"Umi\"'s effect). If there is an active Field Spell Card on the field, this effect is not applied.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 700,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

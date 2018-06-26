@@ -1,0 +1,16 @@
+{
+  "id": 8762,
+  "cardNumber": "84640866",
+  "name": "Network Trap Hole",
+  "description": "When your opponent Special Summons a monster(s) from the Main Deck or GY: Banish it face-down.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

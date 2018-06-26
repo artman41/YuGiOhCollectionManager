@@ -1,0 +1,16 @@
+{
+  "id": 2615,
+  "cardNumber": "27243130",
+  "name": "Forbidden Lance",
+  "description": "Target 1 face-up monster on the field; this turn, that target loses 800 ATK, but is unaffected by the effects of other Spells/Traps.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

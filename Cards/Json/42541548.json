@@ -1,0 +1,16 @@
+{
+  "id": 1153,
+  "cardNumber": "42541548",
+  "name": "Coach Goblin",
+  "description": "While this card is face-up on your side of the field, you can return 1 Normal Monster Card in your hand to the bottom of your Deck during your End Phase to draw 1 card from your Deck. You can only use this effect once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

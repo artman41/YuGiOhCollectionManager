@@ -1,0 +1,16 @@
+{
+  "id": 2032,
+  "cardNumber": "28183605",
+  "name": "Dragunity Dux",
+  "description": "This card gains 200 ATK for each face-up \"Dragunity\" card you control. When this card is Normal Summoned, you can select 1 Level 3 or lower Dragon-Type \"Dragunity\" monster in your Graveyard and equip it as an Equip Card to this card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

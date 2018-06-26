@@ -1,0 +1,16 @@
+{
+  "id": 8105,
+  "cardNumber": "24348204",
+  "name": "The Bewitching Phantom Thief",
+  "description": "An elegant thief with a black cloak that charms its enemies.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 700,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

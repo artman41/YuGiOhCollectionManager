@@ -1,0 +1,16 @@
+{
+  "id": 1573,
+  "cardNumber": "674561",
+  "name": "Dark Eruption",
+  "description": "Target 1 DARK monster with 1500 or less ATK in your Graveyard; add that target to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

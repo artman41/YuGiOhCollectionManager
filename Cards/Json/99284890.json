@@ -1,0 +1,16 @@
+{
+  "id": 440,
+  "cardNumber": "99284890",
+  "name": "Avatar of The Pot",
+  "description": "By sending 1 \"Pot of Greed\" from your hand to the Graveyard, draw 3 cards from your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

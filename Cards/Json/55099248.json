@@ -1,0 +1,16 @@
+{
+  "id": 4763,
+  "cardNumber": "55099248",
+  "name": "Naturia Strawberry",
+  "description": "Once per turn, when your opponent Normal or Special Summons a monster(s): Target 1 of those monsters; this card gains 100 ATK x the Level of that monster, until the End Phase.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

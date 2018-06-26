@@ -1,0 +1,16 @@
+{
+  "id": 4572,
+  "cardNumber": "10691144",
+  "name": "Mirror of the Ice Barrier",
+  "description": "During this turn, each time a card(s) is removed from play from your hand, your side of the field, and/or your Graveyard by the effect of an opponent's Effect Monster: â— If a card in your hand is removed from play, remove from play up to 2 random cards in your opponent's hand. â— If a card you control is removed from play, remove from play up to 2 cards your opponent controls. â— If a card in your Graveyard is removed from play, remove from play up to 2 cards in your opponent's Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

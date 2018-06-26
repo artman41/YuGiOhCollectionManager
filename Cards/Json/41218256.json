@@ -1,0 +1,16 @@
+{
+  "id": 8133,
+  "cardNumber": "41218256",
+  "name": "Claw Reacher",
+  "description": "Stretching arms and razor-sharp claws make this monster a formidable opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

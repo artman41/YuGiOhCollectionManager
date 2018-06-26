@@ -1,0 +1,16 @@
+{
+  "id": 4190,
+  "cardNumber": "96474800",
+  "name": "Magic Deflector",
+  "description": "For the rest of this turn, negate all Equip, Field, Continuous and Quick-Play Spell Card effects on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

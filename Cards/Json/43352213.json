@@ -1,0 +1,16 @@
+{
+  "id": 8432,
+  "cardNumber": "43352213",
+  "name": "Nekogal #2",
+  "description": "A fast and lethal creature with very dangerous claws.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

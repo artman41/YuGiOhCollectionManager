@@ -1,0 +1,16 @@
+{
+  "id": 5441,
+  "cardNumber": "78586116",
+  "name": "Power-Up Adapter",
+  "description": "After activation, treat this card as an Equip Card and equip it to 1 face-up \"Morphtronic\" monster you control. The equipped monster cannot declare an attack. Then, select 1 face-up monster on the field, except the equipped monster. It gains ATK equal to the ATK of the equipped monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

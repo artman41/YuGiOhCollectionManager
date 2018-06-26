@@ -1,0 +1,16 @@
+{
+  "id": 6710,
+  "cardNumber": "59975920",
+  "name": "Super Quantum Red Layer",
+  "description": "If you control no monsters, you can Special Summon this card (from your hand). You can only use each of these effects of \"Super Quantum Red Layer\" once per turn.<br>â— When this card is Normal or Special Summoned: You can target 1 \"Super Quant\" card in your Graveyard; add it to your hand.<br>â— If this card is sent to the Graveyard: You can target 1 \"Super Quant\" monster in your Graveyard, except \"Super Quantum Red Layer\"; Special Summon it, but it cannot activate its effects.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

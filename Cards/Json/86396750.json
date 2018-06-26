@@ -1,0 +1,16 @@
+{
+  "id": 6512,
+  "cardNumber": "86396750",
+  "name": "Spiritual Beast Apelio",
+  "description": "Once per turn, during either player's turn: You can banish 1 \"Ritual Beast\" card from your Graveyard; for the rest of this turn, all \"Ritual Beast\" monsters you control will gain 500 ATK and DEF. You can only Special Summon \"Spiritual Beast Apelio(s)\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

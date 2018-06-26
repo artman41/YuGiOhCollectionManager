@@ -1,0 +1,16 @@
+{
+  "id": 2614,
+  "cardNumber": "53778229",
+  "name": "Forbidden Graveyard",
+  "description": "Activate by discarding 1 card. Effects that activate in the Graveyard this turn are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

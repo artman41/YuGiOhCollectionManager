@@ -1,0 +1,16 @@
+{
+  "id": 8523,
+  "cardNumber": "5265750",
+  "name": "Skull Mariner",
+  "description": "A pirate ship that appears out of the mist and sinks any seagoing vessels.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

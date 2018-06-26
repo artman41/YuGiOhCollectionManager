@@ -1,0 +1,16 @@
+{
+  "id": 7590,
+  "cardNumber": "33776734",
+  "name": "Winged Kuriboh LV9",
+  "description": "During either player's turn, as Chain Link 3 or higher: You can Special Summon this card from your hand. Spell Cards that have been activated are banished instead of being sent to the Graveyard. The ATK and DEF of this card are each equal to the number of Spell Cards in your opponent's Graveyard x 500. You can only control 1 face-up \"Winged Kuriboh LV9\".",
+  "cardLevel": 9,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

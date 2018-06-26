@@ -1,0 +1,16 @@
+{
+  "id": 4225,
+  "cardNumber": "30608985",
+  "name": "Magical Undertaker",
+  "description": "FLIP: You can target 1 Level 4 or lower Spellcaster-Type monster in your Graveyard; Special Summon that target.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 400,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

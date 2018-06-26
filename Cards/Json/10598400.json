@@ -1,0 +1,16 @@
+{
+  "id": 8658,
+  "cardNumber": "10598400",
+  "name": "Zarigun",
+  "description": "A lethal crawfish with extremely dangerous claws.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

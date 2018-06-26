@@ -1,0 +1,16 @@
+{
+  "id": 2508,
+  "cardNumber": "53927679",
+  "name": "Fire Trooper",
+  "description": "When this card is Summoned, you can send it to the Graveyard to inflict 1000 damage to your opponent.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

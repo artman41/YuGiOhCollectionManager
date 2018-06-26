@@ -1,0 +1,16 @@
+{
+  "id": 2375,
+  "cardNumber": "55737443",
+  "name": "Exxod, Master of The Guard",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"sphinx\" monster. Each time an EARTH monster is Flip Summoned while this card remains face-up on the field, inflict 1000 damage to your opponent.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 0,
+  "def": 4000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8567,
+  "cardNumber": "44073668",
+  "name": "Takriminos",
+  "description": "A member of a race of sea serpents that freely travels through the sea.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

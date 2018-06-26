@@ -1,0 +1,16 @@
+{
+  "id": 8441,
+  "cardNumber": "92125819",
+  "name": "Noble Knight Artorigus",
+  "description": "No one shall ever know the truth behind<br>That fateful day. Artorigus went forth<br>To where the brilliant sword didst lay.<br>'Twas the first of many feats so great,<br>A legend through and through. We sing of him,<br>Artorigus, the Noble and the brave.<br>-From the Tales of the Noble Knights",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

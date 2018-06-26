@@ -1,0 +1,16 @@
+{
+  "id": 6788,
+  "cardNumber": "58419204",
+  "name": "Survival Instinct",
+  "description": "Banish any number of Dinosaur-Type monsters from your Graveyard; gain 400 Life Points for each Dinosaur-Type monster banished to activate this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1895,
+  "cardNumber": "81066751",
+  "name": "Divine Punishment",
+  "description": "When a Spell/Trap Card or monster effect, is activated while \"The Sanctuary in the Sky\" is on the field: Negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

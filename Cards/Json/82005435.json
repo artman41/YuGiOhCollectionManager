@@ -1,0 +1,16 @@
+{
+  "id": 3914,
+  "cardNumber": "82005435",
+  "name": "Lady Ninja Yae",
+  "description": "By discarding 1 WIND monster from your hand to the Graveyard, return all Spell and Trap Cards on your opponent's side of the field to the owner's hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

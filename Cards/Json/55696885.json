@@ -1,0 +1,16 @@
+{
+  "id": 5391,
+  "cardNumber": "55696885",
+  "name": "Plague Wolf",
+  "description": "Once per turn: You can make this card's ATK become double its original ATK, until the End Phase. During the End Phase, if this effect of this card was used: Destroy this card.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

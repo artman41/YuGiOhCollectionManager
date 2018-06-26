@@ -1,0 +1,16 @@
+{
+  "id": 4768,
+  "cardNumber": "48576971",
+  "name": "Necklace of Command",
+  "description": "When a monster you control that's equipped with this card is destroyed by battle, and this card is sent to the Graveyard, you can either:<br>â— Draw 1 card. OR<br>â— Discard 1 random card from your opponent's hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7380,
+  "cardNumber": "44910027",
+  "name": "Victory Dragon",
+  "description": "This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

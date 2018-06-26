@@ -1,0 +1,16 @@
+{
+  "id": 3657,
+  "cardNumber": "34545235",
+  "name": "Iron Core Luster",
+  "description": "Reveal 1 \"Iron Core of Koa'ki Meiru\" in your hand. Negate the activation of your opponent's Spell or Trap Card and destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

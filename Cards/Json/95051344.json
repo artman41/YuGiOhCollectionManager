@@ -1,0 +1,16 @@
+{
+  "id": 2279,
+  "cardNumber": "95051344",
+  "name": "Eternal Rest",
+  "description": "Destroy all monsters equipped with Equip Cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

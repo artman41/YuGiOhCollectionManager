@@ -1,0 +1,16 @@
+{
+  "id": 6685,
+  "cardNumber": "39823987",
+  "name": "Sun Dragon Inti",
+  "description": "\"Fire Ant Ascator\" + 1 or more non-Tuner monsters<br> If this card is destroyed by battle and sent to the Graveyard: Destroy the monster that destroyed this card, and if you do, inflict damage to your opponent equal to half the ATK that monster had on the field. If this card on the field is destroyed, during the Standby Phase of the next turn: You can target 1 \"Moon Dragon Quilla\" in your Graveyard; Special Summon that target.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 4714,
+  "cardNumber": "35563539",
+  "name": "Mystical Refpanel",
+  "description": "Activate only when a Spell Card that targets 1 player is activated. The effect of that Spell Card is applied to the other player instead.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

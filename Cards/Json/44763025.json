@@ -1,0 +1,16 @@
+{
+  "id": 1717,
+  "cardNumber": "44763025",
+  "name": "Delinquent Duo",
+  "description": "Pay 1000 LP; your opponent discards 1 random card, and if they have any other cards in hand, discard 1 more card of their choice.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

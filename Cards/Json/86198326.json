@@ -1,0 +1,16 @@
+{
+  "id": 8,
+  "cardNumber": "86198326",
+  "name": "7 Completed",
+  "description": "Activate this card by choosing ATK or DEF; equip only to a Machine-Type monster. It gains 700 ATK or DEF, depending on the choice.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

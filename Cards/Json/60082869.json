@@ -1,0 +1,16 @@
+{
+  "id": 2079,
+  "cardNumber": "60082869",
+  "name": "Dust Tornado",
+  "description": "Target 1 Spell/Trap Card your opponent controls; destroy that target, then you can Set 1 Spell/Trap Card from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

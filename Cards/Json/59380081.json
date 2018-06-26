@@ -1,0 +1,16 @@
+{
+  "id": 603,
+  "cardNumber": "59380081",
+  "name": "Big-Tusked Mammoth",
+  "description": "Monsters your opponent controls cannot attack the turn they are Summoned.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

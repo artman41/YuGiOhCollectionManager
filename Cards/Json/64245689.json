@@ -1,0 +1,16 @@
+{
+  "id": 4432,
+  "cardNumber": "64245689",
+  "name": "Meliae of the Trees",
+  "description": "2 Level 3 EARTH monsters<br>Once per turn: You can detach 1 Xyz Material from this card, then activate 1 of these effects.<br>â— Send 1 Plant-Type monster from your Deck to the Graveyard.<br>â— Target 1 Plant-Type monster in your Graveyard; Special Summon that target in face-up Defense Position.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 1700,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

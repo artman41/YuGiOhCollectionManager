@@ -1,0 +1,16 @@
+{
+  "id": 3447,
+  "cardNumber": "97922283",
+  "name": "Howl of the Wild",
+  "description": "When a monster you control destroys an opponent's monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent for each face-up Beast-Type monster you control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3702,
+  "cardNumber": "4869446",
+  "name": "Judgment of the Desert",
+  "description": "The Battle Position of face-up monsters that are flipped face-up after activation of this card cannot be changed, except with a card effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

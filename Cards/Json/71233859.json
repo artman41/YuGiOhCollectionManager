@@ -1,0 +1,16 @@
+{
+  "id": 5350,
+  "cardNumber": "71233859",
+  "name": "Photon Booster",
+  "description": "Target 1 Level 4 or lower LIGHT monster on the field, except a Token; the ATK of all monsters currently on the field with its name become 2000, until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

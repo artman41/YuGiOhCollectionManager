@@ -1,0 +1,16 @@
+{
+  "id": 2526,
+  "cardNumber": "51282878",
+  "name": "Fishborg Planter",
+  "description": "Once, while this card is in the Graveyard: You can send the top card of your Deck to the Graveyard, then, if it is a WATER monster, Special Summon this card from the Graveyard. You can only use the effect of \"Fishborg Planter\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 200,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

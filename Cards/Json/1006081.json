@@ -1,0 +1,16 @@
+{
+  "id": 3713,
+  "cardNumber": "1006081",
+  "name": "Junk Changer",
+  "description": "You can only use the following effect of \"Junk Changer\" once per turn. If this card is Normal or Special Summoned: You can target 1 \"Junk\" monster on the field, then activate 1 of these effects;<br>â— Increase its Level by 1.<br>â— Reduce its Level by 1.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

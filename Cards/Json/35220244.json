@@ -1,0 +1,16 @@
+{
+  "id": 3171,
+  "cardNumber": "35220244",
+  "name": "Gravity Blaster",
+  "description": "Equip only to a Machine-Type monster. Once per turn: You can activate this effect; it permanently gains 400 ATK. (This ATK gain remains even if this card leaves the field or if the monster becomes unaffected by card effects.) If it battles an opponent's monster, that monster's effect is negated during the Battle Phase only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

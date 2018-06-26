@@ -1,0 +1,16 @@
+{
+  "id": 8609,
+  "cardNumber": "51638941",
+  "name": "V-Tiger Jet",
+  "description": "This ace fighter is unbeatable in a dogfight. It combines with other monsters to launch an array of encircling attacks.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7702,
+  "cardNumber": "66604523",
+  "name": "Xyz Reversal",
+  "description": "Target 1 face-up Xyz Monster your opponent controls and 1 face-up Xyz Monster you control; switch control of both monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6959,
+  "cardNumber": "38730226",
+  "name": "The Agent of Wisdom - Mercury",
+  "description": "During your Standby Phase, if you controlled this face-up card and had no cards in your hand at the end of the opponent's last End Phase: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

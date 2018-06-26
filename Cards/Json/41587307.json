@@ -1,0 +1,16 @@
+{
+  "id": 820,
+  "cardNumber": "41587307",
+  "name": "Broken Bamboo Sword",
+  "description": "The equipped monster gains 0 ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

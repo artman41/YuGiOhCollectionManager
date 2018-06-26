@@ -1,0 +1,16 @@
+{
+  "id": 2054,
+  "cardNumber": "8687195",
+  "name": "Dreamsprite",
+  "description": "When attacked by your opponent's monster, select another 1 of your Monster Cards and designate it as the attack's target, then calculate damage.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

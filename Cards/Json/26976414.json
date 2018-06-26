@@ -1,0 +1,16 @@
+{
+  "id": 8084,
+  "cardNumber": "26976414",
+  "name": "Atlantean Pikeman",
+  "description": "The Great Ocean Lord, who reigns over the depths, is served by these lancers. Deep-sea creatures exist in fear of facing the stream of attacks their lances are capable of.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

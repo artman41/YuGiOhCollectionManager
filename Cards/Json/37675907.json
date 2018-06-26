@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "cardNumber": "37675907",
+  "name": "Accel Synchron",
+  "description": "1 Tuner + 1 or more non-Tuner monsters<br>Once per turn: You can send 1 \"Synchron\" monster from your Deck to the Graveyard, then activate 1 of these effects;<br>â— Increase this card's Level by the Level of the sent monster.<br>â— Reduce this card's Level by the Level of the sent monster.<br>During your opponent's Main Phase, you can: Immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using Materials including this card you control (this is a Quick Effect). You can only Synchro Summon \"Accel Synchron(s)\" once per turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

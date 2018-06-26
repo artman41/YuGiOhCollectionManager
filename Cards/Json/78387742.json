@@ -1,0 +1,16 @@
+{
+  "id": 2424,
+  "cardNumber": "78387742",
+  "name": "Fake Hero",
+  "description": "Special Summon 1 \"Elemental HERO\" monster from your hand. That monster cannot attack, and returns to the hand during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

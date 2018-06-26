@@ -1,0 +1,16 @@
+{
+  "id": 1650,
+  "cardNumber": "25460258",
+  "name": "Darkflare Dragon",
+  "description": "You can Special Summon this card (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. Once per turn: You can send 1 Dragon-Type monster from your hand and 1 Dragon-Type monster from your Deck to the Graveyard, then target 1 card in either Graveyard; banish that target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

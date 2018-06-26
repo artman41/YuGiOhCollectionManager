@@ -1,0 +1,16 @@
+{
+  "id": 1367,
+  "cardNumber": "3629090",
+  "name": "Cyber Angel Idaten",
+  "description": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can add 1 Ritual Spell Card from your Deck or Graveyard to your hand. If this card is Tributed: You can make all Ritual Monsters you control gain 1000 ATK and DEF.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

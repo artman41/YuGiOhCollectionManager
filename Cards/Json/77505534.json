@@ -1,0 +1,16 @@
+{
+  "id": 6274,
+  "cardNumber": "77505534",
+  "name": "Sinister Shadow Games",
+  "description": "Send 1 \"Shaddoll\" card from your Deck to the Graveyard, then you can change any number of face-down Defense Position \"Shaddoll\" monsters you control to face-up Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

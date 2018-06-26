@@ -1,0 +1,16 @@
+{
+  "id": 1207,
+  "cardNumber": "73964868",
+  "name": "Constellar Pleiades",
+  "description": "2 Level 5 LIGHT monsters<br>Once per turn, during either player's turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; return that target to the hand.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 2500,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

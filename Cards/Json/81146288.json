@@ -1,0 +1,16 @@
+{
+  "id": 5936,
+  "cardNumber": "81146288",
+  "name": "Rosaria, the Stately Fallen Angel",
+  "description": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (1 from your hand and 1 from your Graveyard). Once per turn: You can negate the effects of all other face-up cards currently on the field, until the end of this turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

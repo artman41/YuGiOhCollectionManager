@@ -1,0 +1,16 @@
+{
+  "id": 4262,
+  "cardNumber": "5153769",
+  "name": "Majespecter Gust",
+  "description": "Target 1 \"Majespecter\" card in your Pendulum Zone; Special Summon it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

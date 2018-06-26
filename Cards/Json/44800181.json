@@ -1,0 +1,16 @@
+{
+  "id": 1176,
+  "cardNumber": "44800181",
+  "name": "Combo Master",
+  "description": "If a Chain (of 2 or more Links) occurred in your Main Phase 1, this card can attack twice during the Battle Phase this turn.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

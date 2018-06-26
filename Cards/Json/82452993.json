@@ -1,0 +1,16 @@
+{
+  "id": 4090,
+  "cardNumber": "82452993",
+  "name": "Lone Wolf",
+  "description": "Activate only if the 1 and only monster on your side of the field is \"Chu-Ske the Mouse Fighter\", \"Monk Fighter\", or \"Master Monk\". That monster cannot be destroyed as a result of battle, and is unaffected by any of your opponent's monster effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

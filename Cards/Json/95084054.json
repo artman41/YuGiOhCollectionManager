@@ -1,0 +1,16 @@
+{
+  "id": 7483,
+  "cardNumber": "95084054",
+  "name": "Wattcannon",
+  "description": "Once per turn, when a Level 4 or lower Thunder-Type monster(s) is Normal or Special Summoned to the field, inflict 600 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

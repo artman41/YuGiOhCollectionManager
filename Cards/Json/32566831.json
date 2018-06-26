@@ -1,0 +1,16 @@
+{
+  "id": 973,
+  "cardNumber": "32566831",
+  "name": "Cards of the Red Stone",
+  "description": "Send 1 Level 7 \"Red-Eyes\" monster from your hand to the Graveyard; draw 2 cards, then you can send 1 Level 7 \"Red-Eyes\" monster from your Deck to the Graveyard. You can only activate 1 \"Cards of the Red Stone\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8663,
+  "cardNumber": "74277583",
+  "name": "Brave Scizzar",
+  "description": "Armed with a mass of scissors, this monster can clip an enemy into any desired shape and size.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

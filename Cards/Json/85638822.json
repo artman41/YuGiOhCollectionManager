@@ -1,0 +1,16 @@
+{
+  "id": 8760,
+  "cardNumber": "85638822",
+  "name": "Gouki Deathmatch",
+  "description": "When this card is activated: Place 3 counters on it. If your \"Gouki\" monster destroys an opponent's monster by battle: Remove 1 counter from this card. At the end of the Battle Phase, if the last counter was removed from this card by its own effect: You can Special Summon as many \"Gouki\" monsters as possible with different names from your hand and/or Deck, then place 3 counters on this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

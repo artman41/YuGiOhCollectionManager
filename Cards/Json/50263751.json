@@ -1,0 +1,16 @@
+{
+  "id": 3199,
+  "cardNumber": "50263751",
+  "name": "Greed Quasar",
+  "description": "This card's original ATK and DEF are each equal to its Level x 300. This monster's Level is increased by the Level of monsters it destroys by battle.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

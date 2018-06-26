@@ -1,0 +1,16 @@
+{
+  "id": 2309,
+  "cardNumber": "35209994",
+  "name": "Evilswarm Hraesvelg",
+  "description": "FLIP: Target 1 face-up card your opponent controls; return that target to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1150,
+  "def": 1850,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

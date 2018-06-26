@@ -1,0 +1,16 @@
+{
+  "id": 5244,
+  "cardNumber": "88358139",
+  "name": "Performapal Helpprincess",
+  "description": "When you Normal or Special Summon a \"Performapal\" monster(s), except \"Performapal Helpprincess\" (except during the Damage Step): You can Special Summon this card from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

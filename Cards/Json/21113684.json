@@ -1,0 +1,16 @@
+{
+  "id": 6777,
+  "cardNumber": "21113684",
+  "name": "Supreme Arcanite Magician",
+  "description": "1 Spellcaster-Type Synchro Monster + 1 Spellcaster-Type monster<br>This monster can only be Special Summoned by Fusion Summon (from the Extra Deck). When this card is Fusion Summoned, place 2 Spell Counters on it. This card gains 1000 ATK for each Spell Counter on it. Once per turn, you can remove 1 Spell Counter from your side of the field to activate one of the following effects: â— Select 1 card on the field, and destroy it. â— Draw 1 card.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

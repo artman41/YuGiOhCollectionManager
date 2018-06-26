@@ -1,0 +1,16 @@
+{
+  "id": 8801,
+  "cardNumber": "86607583",
+  "name": "Limit Code",
+  "description": "If you have any Cyberse Link Monsters in your GY: Place 1 counter on this card for each of those monsters, and if you do, Special Summon 1 \"Code Talker\" monster from your Extra Deck, and equip it with this card. When this card leaves the field, destroy the equipped monster. Once per turn, during your End Phase: Remove 1 counter from this card. If you cannot, destroy it. You can only activate 1 \"Limit Code\" per Duel.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6602,
+  "cardNumber": "53116300",
+  "name": "Steelswarm Caller",
+  "description": "When a \"Steelswarm\" monster is Tribute Summoned face-up by Tributing this card: You can Special Summon 1 Level 4 or lower \"Steelswarm\" monster from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

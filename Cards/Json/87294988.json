@@ -1,0 +1,16 @@
+{
+  "id": 1074,
+  "cardNumber": "87294988",
+  "name": "ChirubimÃ©, Princess of Autumn Leaves",
+  "description": "Your opponent cannot target face-up Plant-Type monsters for attacks, except this one. If this card in your possession is sent to your Graveyard by your opponent's card (either by battle or by card effect): You can Special Summon 1 Plant-Type monster from your Deck, except \"ChirubimÃ©, Princess of Autumn Leaves\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 2800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

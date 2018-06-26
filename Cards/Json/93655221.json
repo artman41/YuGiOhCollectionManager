@@ -1,0 +1,16 @@
+{
+  "id": 8955,
+  "cardNumber": "93655221",
+  "name": "Shield Handler",
+  "description": "When a card or effect is activated that would destroy a monster(s) on the field: Target 1 Link Monster on each player's field; that opponent's monster has its effects negated, and if it does, equip this card to that monster you control. The equipped monster cannot be destroyed by card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

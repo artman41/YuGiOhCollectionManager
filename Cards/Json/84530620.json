@@ -1,0 +1,16 @@
+{
+  "id": 5137,
+  "cardNumber": "84530620",
+  "name": "Pahunder",
+  "description": "Once per turn: You can Normal Summon 1 Level 4 LIGHT Thunder-Type monster from your hand, except \"Pahunder\", as an additional Normal Summon.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

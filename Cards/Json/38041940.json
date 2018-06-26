@@ -1,0 +1,16 @@
+{
+  "id": 6120,
+  "cardNumber": "38041940",
+  "name": "Seed of Flame",
+  "description": "When this card you control is destroyed by a card effect and sent to your Graveyard: You can target 1 Level 4 or lower Plant-Type monster in your Graveyard, except \"Seed of Flame\"; Special Summon that target, and if you do, Special Summon 1 \"Seed Token\" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0) to your opponent's side of the field in Defense Position. This Token cannot be Tributed for a Tribute Summon.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

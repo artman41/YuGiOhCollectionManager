@@ -1,0 +1,16 @@
+{
+  "id": 1690,
+  "cardNumber": "65703851",
+  "name": "Debunk",
+  "description": "When a monster effect is activated in the hand or Graveyard: Negate its activation, and if you do, banish it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 62,
+  "cardNumber": "21051977",
+  "name": "Acorno",
+  "description": "During your Main Phase: You can send 1 \"Pinecono\" from your hand to the Graveyard, and Special Summon this card from the hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

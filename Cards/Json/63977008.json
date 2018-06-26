@@ -1,0 +1,16 @@
+{
+  "id": 3721,
+  "cardNumber": "63977008",
+  "name": "Junk Synchron",
+  "description": "When this card is Normal Summoned: You can target 1 Level 2 or lower monster in your Graveyard; Special Summon that target in Defense Position, but it has its effects negated.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

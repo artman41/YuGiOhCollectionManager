@@ -1,0 +1,16 @@
+{
+  "id": 6811,
+  "cardNumber": "64689404",
+  "name": "Sword Breaker",
+  "description": "2 Level 6 monsters<br>Once per turn: You can detach 1 Xyz Material from this card to declare 1 Monster Type; this card gains the following effect. At the start of the Damage Step, if this card battles a monster of a Type that has been declared: Destroy that monster.",
+  "cardLevel": null,
+  "cardRank": 6,
+  "atk": 2700,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

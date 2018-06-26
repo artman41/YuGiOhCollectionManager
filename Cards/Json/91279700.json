@@ -1,0 +1,16 @@
+{
+  "id": 2316,
+  "cardNumber": "91279700",
+  "name": "Evilswarm Ophion",
+  "description": "2 Level 4 \"lswarm\" monsters<br>While this card has Xyz Material, Level 5 or higher monsters cannot be Special Summoned. Once per turn: You can detach 1 Xyz Material from this card; add 1 \"Infestation\" Spell/Trap Card from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": 4,
+  "atk": 2550,
+  "def": 1650,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

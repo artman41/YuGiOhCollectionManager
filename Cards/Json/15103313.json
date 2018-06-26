@@ -1,0 +1,16 @@
+{
+  "id": 6126,
+  "cardNumber": "15103313",
+  "name": "Self-Mummification",
+  "description": "Select 1 monster you control, and send it to the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

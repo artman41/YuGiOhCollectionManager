@@ -1,0 +1,16 @@
+{
+  "id": 7603,
+  "cardNumber": "2602411",
+  "name": "Wizard Buster Destruction Sword",
+  "description": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, monsters in your opponent's Graveyard cannot activate their effects. You can send this Equip Card to the Graveyard, then target 1 \"Destruction Sword\" monster in your Graveyard, except \"Wizard Buster Destruction Sword\"; add it to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

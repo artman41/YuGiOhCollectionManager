@@ -1,0 +1,16 @@
+{
+  "id": 8944,
+  "cardNumber": "34959756",
+  "name": "Living Fossil",
+  "description": "Activate this card by targeting 1 Level 4 or lower monster in your GY; Special Summon it and equip it with this card, but banish it when it leaves the field. When this card leaves the field, banish that monster. The equipped monster loses 1000 ATK/DEF, also it has its effects negated. You can only activate 1 \"Living Fossil\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

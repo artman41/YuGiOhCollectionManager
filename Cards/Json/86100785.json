@@ -1,0 +1,16 @@
+{
+  "id": 7795,
+  "cardNumber": "86100785",
+  "name": "Zone Eater",
+  "description": "A monster attacked by this card will be destroyed during the End Phase of the 5th turn after the attack.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 250,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

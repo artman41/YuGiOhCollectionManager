@@ -1,0 +1,16 @@
+{
+  "id": 3744,
+  "cardNumber": "62701967",
+  "name": "Jurrac Tyrannus",
+  "description": "You can Tribute 1 Dinosaur-Type monster to have this card gain 500 ATK. When this card destroys an opponent's monster by battle and sends it to the Graveyard, this card gains 300 ATK.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

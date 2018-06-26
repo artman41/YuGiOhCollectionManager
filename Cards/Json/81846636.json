@@ -1,0 +1,16 @@
+{
+  "id": 2844,
+  "cardNumber": "81846636",
+  "name": "Gem-Knight Lazuli",
+  "description": "If this card is sent to the Graveyard by a card effect: You can target 1 Normal Monster in your Graveyard; add that target to your hand.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 600,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3720,
+  "cardNumber": "78922939",
+  "name": "Junk Servant",
+  "description": "If you control a \"Junk\" monster, you can Special Summon this card (from your hand).",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

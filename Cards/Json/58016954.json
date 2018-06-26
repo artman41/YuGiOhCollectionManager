@@ -1,0 +1,16 @@
+{
+  "id": 6152,
+  "cardNumber": "58016954",
+  "name": "Shaddoll Zefranaga",
+  "description": "Pendulum Effect\n You cannot Pendulum Summon monsters, except \"Shaddoll\" and \"Zefra\" monsters. This effect cannot be negated.\n\n Monster Effect\n If this card is Pendulum Summoned or sent to the Graveyard: You can target 1 card in either player's Pendulum Zone; return it to the hand. You must have a \"Zefra\" card in your Pendulum Zone to activate and to resolve this effect. You can only use this effect of \"Shaddoll Zefranaga\" once per turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

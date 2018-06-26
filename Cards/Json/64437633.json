@@ -1,0 +1,16 @@
+{
+  "id": 279,
+  "cardNumber": "64437633",
+  "name": "Aquamirror Illusion",
+  "description": "Special Summon 1 \"Gishki\" Ritual Monster from your hand. It cannot attack, and is returned to the hand during the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

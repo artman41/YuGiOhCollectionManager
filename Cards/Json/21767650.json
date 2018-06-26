@@ -1,0 +1,16 @@
+{
+  "id": 4454,
+  "cardNumber": "21767650",
+  "name": "Mermail Abyssmander",
+  "description": "You can banish this card from your Graveyard to activate 1 of these effects;<br>â— Increase the Level of all \"Mermail\" monsters you currently control by 1.<br>â— Increase the Level of all \"Mermail\" monsters you currently control by 2.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

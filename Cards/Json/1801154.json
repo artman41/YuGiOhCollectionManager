@@ -1,0 +1,16 @@
+{
+  "id": 1003,
+  "cardNumber": "1801154",
+  "name": "Centrifugal Field",
+  "description": "When a Fusion Monster(s) is destroyed by a card effect and sent to the Graveyard: Its owner targets 1 Fusion Material Monster in their Graveyard that is listed on that Fusion Monster; that player Special Summons that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

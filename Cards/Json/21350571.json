@@ -1,0 +1,16 @@
+{
+  "id": 3432,
+  "cardNumber": "21350571",
+  "name": "Horn of the Phantom Beast",
+  "description": "Target 1 Beast or Beast-Warrior monster you control; equip this card to that target. It gains 800 ATK. If the equipped monster destroys your opponent's monster by battle and sends it to the GY: Draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5504,
+  "cardNumber": "26439287",
+  "name": "Proto-Cyber Dragon",
+  "description": "This card's name becomes \"Cyber Dragon\" while on the field.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

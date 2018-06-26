@@ -1,0 +1,16 @@
+{
+  "id": 6810,
+  "cardNumber": "30426226",
+  "name": "Switcheroroo",
+  "description": "If you control the same number of monsters as your opponent, switch control of all those monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

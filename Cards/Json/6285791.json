@@ -1,0 +1,16 @@
+{
+  "id": 7543,
+  "cardNumber": "6285791",
+  "name": "The Wicked Worm Beast",
+  "description": "This face-up card on the field is returned to the owner's hand during the End Phase of your turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

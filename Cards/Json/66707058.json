@@ -1,0 +1,16 @@
+{
+  "id": 3041,
+  "cardNumber": "66707058",
+  "name": "Goblin Black Ops",
+  "description": "This card can attack your opponent directly. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. This card's battle position cannot be changed until the end of your next turn, except with a card effect.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

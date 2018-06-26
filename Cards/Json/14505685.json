@@ -1,0 +1,16 @@
+{
+  "id": 7854,
+  "cardNumber": "14505685",
+  "name": "Cyberse Converter",
+  "description": "If all monsters you control are Cyberse monsters (min. 1), you can Special Summon this card (from your hand). You can only Special Summon \"Cyberse Converter\" once per turn this way. When this card is Normal Summoned: You can target 1 face-up monster you control; it becomes Cyberse until the end of this turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Cyberse\"]"
+}

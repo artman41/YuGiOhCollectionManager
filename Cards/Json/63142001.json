@@ -1,0 +1,16 @@
+{
+  "id": 505,
+  "cardNumber": "63142001",
+  "name": "Batteryman AA",
+  "description": "If all \"Batteryman AA\"(s) you control are in Attack Position, this card gains 1000 ATK for each. If all \"Batteryman AA\"(s) you control are in Defense Position, this card gains 1000 DEF for each.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

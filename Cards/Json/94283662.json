@@ -1,0 +1,16 @@
+{
+  "id": 7080,
+  "cardNumber": "94283662",
+  "name": "Trance Archfiend",
+  "description": "Once per turn: You can discard 1 Fiend-Type monster, and if you do, this card gains 500 ATK until the end of this turn. When this card you control is destroyed and sent to your Graveyard: You can target 1 of your banished DARK monsters; add that target to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

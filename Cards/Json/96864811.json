@@ -1,0 +1,16 @@
+{
+  "id": 2613,
+  "cardNumber": "96864811",
+  "name": "Forbidden Dress",
+  "description": "Target 1 face-up monster on the field; until the end of this turn, that target loses 600 ATK, but cannot be targeted or destroyed by other card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

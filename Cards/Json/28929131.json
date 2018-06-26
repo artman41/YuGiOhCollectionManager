@@ -1,0 +1,16 @@
+{
+  "id": 7759,
+  "cardNumber": "28929131",
+  "name": "Zaphion, the Timelord",
+  "description": "Cannot be Special Summoned from the Deck. If you control no monsters, you can Normal Summon this card without Tributing. Cannot be destroyed by battle or card effects. You take no battle damage from attacks involving this card. At the end of the Battle Phase, if this card battled: Shuffle all Spells and Traps your opponent controls into the Deck. If this card is sent from the field to the GY: You can draw 1 card. Once per turn, during your Standby Phase: Shuffle this card into the Deck.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

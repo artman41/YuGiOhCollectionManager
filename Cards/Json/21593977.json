@@ -1,0 +1,16 @@
+{
+  "id": 4289,
+  "cardNumber": "21593977",
+  "name": "Makyura the Destructor",
+  "description": "During the turn this card was sent to the Graveyard, you can activate Trap Cards from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1825,
+  "cardNumber": "3493058",
+  "name": "Dicephoon",
+  "description": "Roll a six-sided die and apply the result.<br>â— 2, 3, or 4: Destroy 1 Spell/Trap Card on the field.<br>â— 5: Destroy 2 Spell/Trap Cards on the field.<br>â— 1 or 6: You take 1000 damage.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

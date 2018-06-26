@@ -1,0 +1,16 @@
+{
+  "id": 3028,
+  "cardNumber": "8730435",
+  "name": "Gladiator Beast's Battle Archfiend Shield",
+  "description": "Equip only to a \"Gladiator Beast\" monster. If the equipped monster would be destroyed, destroy this card instead. When this card is sent to your Graveyard because the equipped monster you controlled was shuffled into your Deck: Return this card to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

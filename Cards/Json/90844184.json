@@ -1,0 +1,16 @@
+{
+  "id": 2790,
+  "cardNumber": "90844184",
+  "name": "Garma Sword",
+  "description": "This card can only be Ritual Summoned with the Ritual Spell Card, \"Garma Sword Oath\".",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2550,
+  "def": 2150,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

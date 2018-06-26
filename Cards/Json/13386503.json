@@ -1,0 +1,16 @@
+{
+  "id": 2914,
+  "cardNumber": "13386503",
+  "name": "Ghost Knight of Jackal",
+  "description": "You can Special Summon an opponent's monster that is destroyed and sent to the Graveyard by this card as a result of battle to your side of the field in face-up Defense Position.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

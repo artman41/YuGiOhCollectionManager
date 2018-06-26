@@ -1,0 +1,16 @@
+{
+  "id": 2427,
+  "cardNumber": "49674183",
+  "name": "Fallen Angel of Roses",
+  "description": "You can Special Summon this card (from your hand) by returning 1 Plant-Type monster you control to the hand, except \"Fallen Angel of Roses\", but banish it when it leaves the field.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

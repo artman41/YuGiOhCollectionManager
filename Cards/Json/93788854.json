@@ -1,0 +1,16 @@
+{
+  "id": 8615,
+  "cardNumber": "93788854",
+  "name": "The Wandering Doomed",
+  "description": "A monster that wanders the edges of the netherworld.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

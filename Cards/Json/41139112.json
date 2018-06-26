@@ -1,0 +1,16 @@
+{
+  "id": 8958,
+  "cardNumber": "41139112",
+  "name": "Summon Dice",
+  "description": "Pay 1000 LP; roll a six-sided die, then apply the result.<br>â— 1 or 2: Immediately after this effect resolves, you can Normal Summon 1 monster.<br> â— 3 or 4: You can Special Summon 1 monster from your GY.<br> â— 5 or 6: You can Special Summon 1 Level 5 or higher monster from your hand.<br>You can only activate 1 \"Summon Dice\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

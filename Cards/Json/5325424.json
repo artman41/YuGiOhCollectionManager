@@ -1,0 +1,16 @@
+{
+  "id": 2009,
+  "cardNumber": "5325424",
+  "name": "Dragoncarnation",
+  "description": "Target 1 of your banished Dragon-Type monsters; add that target to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

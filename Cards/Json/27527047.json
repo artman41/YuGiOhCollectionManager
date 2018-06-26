@@ -1,0 +1,16 @@
+{
+  "id": 6108,
+  "cardNumber": "27527047",
+  "name": "Secret Guards of the Ice Barrier",
+  "description": "Face-up \"Ice Barrier\" monsters you control cannot be targeted by the effects of your opponent's Effect Monsters.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 100,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

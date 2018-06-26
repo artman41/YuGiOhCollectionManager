@@ -1,0 +1,16 @@
+{
+  "id": 8144,
+  "cardNumber": "30655537",
+  "name": "Cyber Falcon",
+  "description": "A jet-powered hawk that travels at the speed of sound.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

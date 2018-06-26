@@ -1,0 +1,16 @@
+{
+  "id": 8055,
+  "cardNumber": "70924884",
+  "name": "Alinsection",
+  "description": "A stag beetle with saw-like head and arms.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 950,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

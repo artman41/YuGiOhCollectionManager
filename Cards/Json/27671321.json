@@ -1,0 +1,16 @@
+{
+  "id": 8355,
+  "cardNumber": "27671321",
+  "name": "Lightning Conger",
+  "description": "This massive eel generates huge charges of electricity and unleashes them as thunderbolts.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 350,
+  "def": 750,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

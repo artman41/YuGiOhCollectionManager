@@ -1,0 +1,16 @@
+{
+  "id": 7306,
+  "cardNumber": "72648810",
+  "name": "Unwavering Bond",
+  "description": "When your opponent activates a Pendulum Monster's effect, or an effect of a card in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

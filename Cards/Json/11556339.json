@@ -1,0 +1,16 @@
+{
+  "id": 5890,
+  "cardNumber": "11556339",
+  "name": "Ritual Beast Steeds",
+  "description": "If you control a \"Ritual Beast\" monster: Destroy monsters on the field up to the number of \"Ritual Beast\" monsters you currently control.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

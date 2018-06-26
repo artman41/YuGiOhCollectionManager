@@ -1,0 +1,16 @@
+{
+  "id": 3922,
+  "cardNumber": "46272804",
+  "name": "Lancer Lindwurm",
+  "description": "If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6854,
+  "cardNumber": "21879581",
+  "name": "Synchro Barrier",
+  "description": "Tribute 1 Synchro Monster you control. You do not take any damage until the End Phase of the next turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

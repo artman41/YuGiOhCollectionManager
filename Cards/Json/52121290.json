@@ -1,0 +1,16 @@
+{
+  "id": 8542,
+  "cardNumber": "52121290",
+  "name": "Spherous Lady",
+  "description": "Many have been deceived by the beauty of this vampire.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

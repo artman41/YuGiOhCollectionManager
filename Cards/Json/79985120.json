@@ -1,0 +1,16 @@
+{
+  "id": 7982,
+  "cardNumber": "79985120",
+  "name": "Raidraptor - Revolution Falcon - Airraid",
+  "description": "3 Level 6 Winged Beast monsters<br>You can also Xyz Summon this card by discarding 1 \"Rank-Up-Magic\" Spell, then using a Rank 5 or lower \"Raidraptor\" Xyz Monster you control as material. (Transfer its materials to this card.) If this card is Xyz Summoned: You can target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the ATK it had on the field. If this card in your possession is destroyed by an opponent's card (by battle or card effect) and sent to your GY: You can Special Summon 1 \"Raidraptor - Revolution Falcon\" from your Extra Deck, and if you do, attach this card to it as material.",
+  "cardLevel": null,
+  "cardRank": 6,
+  "atk": 2000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

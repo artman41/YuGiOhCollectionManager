@@ -1,0 +1,16 @@
+{
+  "id": 4957,
+  "cardNumber": "23085002",
+  "name": "Number 68: Sanaphond the Sky Prison",
+  "description": "2 Level 8 monsters<br>Gains 100 ATK and DEF for each monster in the GYs. Once per turn: You can detach 1 material from this card; until the end of your opponent's next turn, this card cannot be destroyed by card effects, also neither player can Special Summon monsters from the GYs.",
+  "cardLevel": null,
+  "cardRank": 8,
+  "atk": 2100,
+  "def": 2700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

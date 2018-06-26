@@ -1,0 +1,16 @@
+{
+  "id": 1599,
+  "cardNumber": "43892408",
+  "name": "Dark Magician Girl the Dragon Knight",
+  "description": "\"Dark Magician Girl\" + 1 Dragon monster<br>Must be Fusion Summoned with the above Fusion Materials or with \"The Eye of Timaeus\". Once per turn (Quick Effect): You can send 1 card from your hand to the GY, then target 1 face-up card on the field; destroy that target.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

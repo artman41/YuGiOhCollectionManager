@@ -1,0 +1,16 @@
+{
+  "id": 4083,
+  "cardNumber": "73702909",
+  "name": "Little Trooper",
+  "description": "If this card is destroyed by battle: You can Special Summon 1 Level 2 or lower Warrior-Type monster from your Deck in face-down Defense Position.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 900,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

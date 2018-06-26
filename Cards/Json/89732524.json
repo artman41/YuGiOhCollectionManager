@@ -1,0 +1,16 @@
+{
+  "id": 7068,
+  "cardNumber": "89732524",
+  "name": "Tour Bus To Forbidden Realms",
+  "description": "FLIP: Add 1 Fiend-Type monster from your Deck to your hand, except a DARK or LIGHT monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

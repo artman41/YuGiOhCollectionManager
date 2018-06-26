@@ -1,0 +1,16 @@
+{
+  "id": 1597,
+  "cardNumber": "36996508",
+  "name": "Dark Magician",
+  "description": "The ultimate wizard in terms of attack and defense.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

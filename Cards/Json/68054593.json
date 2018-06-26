@@ -1,0 +1,16 @@
+{
+  "id": 2472,
+  "cardNumber": "68054593",
+  "name": "Fiery Fervor",
+  "description": "Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster's original ATK, the ATK of the equipped monster becomes double the equipped monster's original ATK, during the Damage Step only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

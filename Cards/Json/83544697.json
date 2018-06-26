@@ -1,0 +1,16 @@
+{
+  "id": 1224,
+  "cardNumber": "83544697",
+  "name": "Contact with Gusto",
+  "description": "Target 2 \"Gusto\" monsters in your Graveyard and 1 card your opponent controls; shuffle both targets in your Graveyard into the Deck, then destroy the opponent's target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

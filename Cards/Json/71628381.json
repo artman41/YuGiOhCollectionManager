@@ -1,0 +1,16 @@
+{
+  "id": 4682,
+  "cardNumber": "71628381",
+  "name": "Multiple Piece Golem",
+  "description": "\"Big Piece Golem\" + \"Medium Piece Golem\"<br>At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Extra Deck. Then, if all of the Fusion Material Monsters that were used for the Fusion Summon of this card are in your Graveyard, you can Special Summon them.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

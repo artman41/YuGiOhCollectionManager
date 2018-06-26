@@ -1,0 +1,16 @@
+{
+  "id": 8518,
+  "cardNumber": "87303357",
+  "name": "Shining Abyss",
+  "description": "This monster employs the powers of both Light and Darkness.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6830,
+  "cardNumber": "10753491",
+  "name": "Sylvan Cherubsprout",
+  "description": "When this card is Special Summoned: You can choose either 1 or 2, then excavate that many cards from the top of your Deck, send any excavated Plant-Type monsters to the Graveyard, also place the other cards on the bottom of your Deck in any order. If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can Special Summon 1 Level 1 Plant-Type monster from your Deck. You can only use this effect of \"Sylvan Cherubsprout\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

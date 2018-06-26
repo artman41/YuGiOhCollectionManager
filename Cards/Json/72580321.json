@@ -1,0 +1,16 @@
+{
+  "id": 738,
+  "cardNumber": "72580321",
+  "name": "Block Golem",
+  "description": "If all the monsters in your Graveyard are EARTH: You can Tribute this card to target 2 Level 4 or lower Rock-Type monsters in your Graveyard, except \"Block Golem\"; Special Summon those targets, but their effects that activate on the field cannot be activated this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8366,
+  "cardNumber": "56342351",
+  "name": "M-Warrior #1",
+  "description": "Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

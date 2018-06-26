@@ -1,0 +1,16 @@
+{
+  "id": 4793,
+  "cardNumber": "99185129",
+  "name": "Nekroz of Clausolas",
+  "description": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned and cannot be Special Summoned by other ways. You can only use each of these effects of \"Nekroz of Clausolas\" once per turn.<br>â— You can discard this card; add 1 \"Nekroz\" Spell/Trap Card from your Deck to your hand.<br>â— During either player's turn: You can target 1 face-up monster on the field that was Special Summoned from the Extra Deck; until the end of this turn, that target's ATK becomes 0, also that target's effects are negated.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

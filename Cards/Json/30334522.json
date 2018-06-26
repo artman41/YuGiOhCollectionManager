@@ -1,0 +1,16 @@
+{
+  "id": 2995,
+  "cardNumber": "30334522",
+  "name": "Gishki Psychelone",
+  "description": "You can Ritual Summon this card with any \"Gishki\" Ritual Spell Card. Once per turn: You can declare 1 Monster Type and Attribute; look at 1 random card in your opponent's hand, and if it is a monster of the declared Type and Attribute, shuffle it into the Deck. Otherwise, return it to the hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2150,
+  "def": 1650,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

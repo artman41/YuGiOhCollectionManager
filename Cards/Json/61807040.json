@@ -1,0 +1,16 @@
+{
+  "id": 2555,
+  "cardNumber": "61807040",
+  "name": "Flelf",
+  "description": "Once per turn: You can reveal 1 monster in your hand; increase the Level of this card by the Level of that monster, until the End Phase.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

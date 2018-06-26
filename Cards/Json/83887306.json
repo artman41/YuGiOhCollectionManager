@@ -1,0 +1,16 @@
+{
+  "id": 7215,
+  "cardNumber": "83887306",
+  "name": "Two-Pronged Attack",
+  "description": "Select and destroy 2 of your monsters and 1 of your opponent's monsters.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

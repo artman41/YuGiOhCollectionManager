@@ -1,0 +1,16 @@
+{
+  "id": 1166,
+  "cardNumber": "65830223",
+  "name": "Coffin Seller",
+  "description": "Each time a monster(s) is sent to your opponent's Graveyard: Inflict 300 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3519,
+  "cardNumber": "96631852",
+  "name": "Impenetrable Formation",
+  "description": "Select 1 monster on your side of the field to activate this card. While you have 2 or more monsters on your side of the field, and all monsters on your side of the field are in Defense Position, the selected monster gains 700 DEF. When the selected monster is removed from the field, destroy this card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

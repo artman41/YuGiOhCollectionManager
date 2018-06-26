@@ -1,0 +1,16 @@
+{
+  "id": 4458,
+  "cardNumber": "28577986",
+  "name": "Mermail Abyssocea",
+  "description": "You can target 1 \"Mermail\" monster you control; Special Summon any number of Level 4 or lower \"Mermail\" monsters from your Deck whose combined Levels are less than or equal to the Level of that monster, then send that monster to the Graveyard. You can only use the effect of \"Mermail Abyssocea\" once per turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

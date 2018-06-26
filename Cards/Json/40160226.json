@@ -1,0 +1,16 @@
+{
+  "id": 4406,
+  "cardNumber": "40160226",
+  "name": "Mecha Sea Dragon Plesion",
+  "description": "If you control a face-up Sea Serpent-Type monster, you can Normal Summon this card without Tributing. Once per turn: You can Tribute 1 WATER monster to target 1 face-up card your opponent controls; destroy that target.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

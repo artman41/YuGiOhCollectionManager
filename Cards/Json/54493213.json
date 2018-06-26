@@ -1,0 +1,16 @@
+{
+  "id": 3328,
+  "cardNumber": "54493213",
+  "name": "Helios - The Primordial Sun",
+  "description": "This card's ATK and DEF are each equal to the number of removed from play monsters x 100.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7223,
+  "cardNumber": "94568601",
+  "name": "Tyrant Dragon",
+  "description": "During your Battle Phase, if your opponent controls a monster after this card's first attack, this card can make a second attack. Negate any Trap effects that target this card, and if you do, destroy that Trap Card. This card cannot be Special Summoned from the Graveyard, unless you Tribute 1 Dragon-Type monster.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2900,
+  "def": 2500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

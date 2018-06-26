@@ -1,0 +1,16 @@
+{
+  "id": 1506,
+  "cardNumber": "71249758",
+  "name": "D2 Shield",
+  "description": "Select 1 face-up Defense Position monster you control. Its DEF becomes double its original DEF.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

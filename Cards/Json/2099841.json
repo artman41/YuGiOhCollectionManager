@@ -1,0 +1,16 @@
+{
+  "id": 6337,
+  "cardNumber": "2099841",
+  "name": "Smile World",
+  "description": "All face-up monsters currently on the field gain 100 ATK for each monster currently on the field, until the end of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

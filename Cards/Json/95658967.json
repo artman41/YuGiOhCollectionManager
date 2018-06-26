@@ -1,0 +1,16 @@
+{
+  "id": 5907,
+  "cardNumber": "95658967",
+  "name": "Ritual Sanctuary",
+  "description": "You can discard 1 Spell Card; add 1 LIGHT Ritual Monster or 1 Ritual Spell Card from your Deck to your hand. You can shuffle any number of Spell Cards from your Graveyard into the Deck, then target 1 LIGHT Fairy-Type monster in your Graveyard whose Level equals the number of cards you shuffled into the Deck; Special Summon it. You can only use each effect of \"Ritual Sanctuary\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

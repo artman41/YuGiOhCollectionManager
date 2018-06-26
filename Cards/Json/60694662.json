@@ -1,0 +1,16 @@
+{
+  "id": 6291,
+  "cardNumber": "60694662",
+  "name": "Skelengel",
+  "description": "FLIP: Draw 1 card.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 900,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

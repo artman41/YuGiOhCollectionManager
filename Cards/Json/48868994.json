@@ -1,0 +1,16 @@
+{
+  "id": 4664,
+  "cardNumber": "48868994",
+  "name": "Morphtronic Vacuumen",
+  "description": "â— While in Attack Position: Once per turn, you can send 1 card equipped to this card to the Graveyard to inflict 500 damage to your opponent. <br> â— While in Defense Position: Once per turn, you can equip 1 face-up Attack Position monster your opponent controls to this card. (You can only equip 1 monster at a time to this card.)",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

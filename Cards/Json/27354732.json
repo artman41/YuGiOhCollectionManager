@@ -1,0 +1,16 @@
+{
+  "id": 8736,
+  "cardNumber": "27354732",
+  "name": "Mythical Beast Jackal King",
+  "description": "Pendulum Effect\n If you have no cards in your other Pendulum Zone: You can destroy this card, and if you do, Special Summon 1 face-up \"Mythical Beast\" Pendulum Monster from your Extra Deck, except \"Mythical Beast Jackal King\". You can only use this effect of \"Mythical Beast Jackal King\" once per turn.\n\n Monster Effect\n Each time a Spell is activated, place 2 Spell Counters on this card when that Spell resolves. Once per turn, when an opponent activates a monster effect (Quick Effect): You can remove 2 Spell Counters from your field; negate the activation, and if you do, destroy that card.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

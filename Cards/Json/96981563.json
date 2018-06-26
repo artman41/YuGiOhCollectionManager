@@ -1,0 +1,16 @@
+{
+  "id": 8256,
+  "cardNumber": "96981563",
+  "name": "Giant Turtle Who Feeds on Flames",
+  "description": "A crimson-shelled tortoise that feeds on flames.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3013,
+  "cardNumber": "4253484",
+  "name": "Gladiator Beast Hoplomus",
+  "description": "If this card was Special Summoned by the effect of a \"Gladiator Beast\" monster, its original DEF becomes 2400. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Hoplomus\".",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 700,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

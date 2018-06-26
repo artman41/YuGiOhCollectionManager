@@ -1,0 +1,16 @@
+{
+  "id": 7782,
+  "cardNumber": "85446833",
+  "name": "Zerozerock",
+  "description": "Your opponent cannot target face-up Attack Position monsters with 0 ATK for attacks.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

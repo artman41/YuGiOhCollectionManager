@@ -1,0 +1,16 @@
+{
+  "id": 6146,
+  "cardNumber": "37445295",
+  "name": "Shaddoll Falco",
+  "description": "FLIP: You can target 1 \"Shaddoll\" monster in your Graveyard, except \"Shaddoll Falco\"; Special Summon it in face-down Defense Position.<br>If this card is sent to the Graveyard by a card effect: You can Special Summon it in face-down Defense Position. You can only use 1 \"Shaddoll Falco\" effect per turn, and only once that turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

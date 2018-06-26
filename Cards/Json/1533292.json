@@ -1,0 +1,16 @@
+{
+  "id": 5603,
+  "cardNumber": "1533292",
+  "name": "R-Genex Magma",
+  "description": "When this card is Normal Summoned, you can add 1 Level 2 \"R-Genex\" monster from your Deck to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

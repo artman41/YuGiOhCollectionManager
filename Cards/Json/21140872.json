@@ -1,0 +1,16 @@
+{
+  "id": 5771,
+  "cardNumber": "21140872",
+  "name": "Red-Eyes Slash Dragon",
+  "description": "\"Red-Eyes B. Dragon\" + 1 Warrior monster<br>When a \"Red-Eyes\" monster declares an attack: You can target 1 Warrior monster in your GY; equip it to this card as an Equip Spell with this effect. â— The equipped monster gains 200 ATK.<br>When a card or effect is activated that targets a card you control (Quick Effect): You can send 1 Equip Card you control to the GY; negate the activation, and if you do, destroy that card. If this card is destroyed by battle or card effect: You can Special Summon as many monsters from your GY as possible, that were equipped to this card.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

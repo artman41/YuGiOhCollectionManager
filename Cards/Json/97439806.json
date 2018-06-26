@@ -1,0 +1,16 @@
+{
+  "id": 2394,
+  "cardNumber": "97439806",
+  "name": "Fabled Kushano",
+  "description": "You can discard 1 \"Fabled\" monster to the Graveyard except \"Fabled Kushano\" to add this card from your Graveyard to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

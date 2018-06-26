@@ -1,0 +1,16 @@
+{
+  "id": 4240,
+  "cardNumber": "89448140",
+  "name": "Magicians' Defense",
+  "description": "While you control a Spellcaster-Type monster, any damage you take is halved. (You cannot halve the same damage twice this way.) If this card is sent from the field to the Graveyard: You can target 1 Spellcaster-Type monster in your Graveyard; Special Summon it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 313,
+  "cardNumber": "14430063",
+  "name": "Archfiend Interceptor",
+  "description": "While you control this face-up Attack Position card, when an opponent's monster declares an attack, inflict 500 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

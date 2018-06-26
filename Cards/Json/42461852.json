@@ -1,0 +1,16 @@
+{
+  "id": 8711,
+  "cardNumber": "42461852",
+  "name": "Cynet Storm",
+  "description": "Linked monsters on the field gain 500 ATK/DEF. The Link Summon of Link Monsters cannot be negated. If you take 2000 or more damage by battle or a card effect: You can shuffle the face-down cards in your Extra Deck and excavate the top card of those cards, and if it is a Cyberse Link Monster, Special Summon it. Otherwise, return it to its original position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

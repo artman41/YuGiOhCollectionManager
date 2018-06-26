@@ -1,0 +1,16 @@
+{
+  "id": 7455,
+  "cardNumber": "12607053",
+  "name": "Waboku",
+  "description": "You take no battle damage from your opponent's monsters this turn. Your monsters cannot be destroyed by battle this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

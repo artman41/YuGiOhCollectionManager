@@ -1,0 +1,16 @@
+{
+  "id": 8555,
+  "cardNumber": "68171737",
+  "name": "Stone Dragon",
+  "description": "A dragon formed by huge boulders that are also used to attack the enemy.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

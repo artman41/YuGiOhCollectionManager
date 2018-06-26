@@ -1,0 +1,16 @@
+{
+  "id": 5565,
+  "cardNumber": "1082946",
+  "name": "Pyro Clock of Destiny",
+  "description": "Move the turn count forward by 1 turn. The turn in which this card is activated continues as normal.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

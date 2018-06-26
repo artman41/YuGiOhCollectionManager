@@ -1,0 +1,16 @@
+{
+  "id": 7091,
+  "cardNumber": "19252988",
+  "name": "Trap Jammer",
+  "description": "When your opponent activates a Trap Card during the Battle Phase: Negate the activation, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

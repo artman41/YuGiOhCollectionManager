@@ -1,0 +1,16 @@
+{
+  "id": 8776,
+  "cardNumber": "18214905",
+  "name": "Elementsaber Lapa Uila",
+  "description": "Once per turn, when a Spell/Trap Card is activated (Quick Effect): You can send 1 \"Elementsaber\" monster from your hand to the GY; negate the activation, and if you do, destroy that card. Once per turn, if this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

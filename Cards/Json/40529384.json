@@ -1,0 +1,16 @@
+{
+  "id": 2363,
+  "cardNumber": "40529384",
+  "name": "Exploder Dragonwing",
+  "description": "1 Tuner + 1 or more non-Tuner Dragon-Type monsters<br>At the start of the Damage Step, if this card battles a monster: You can destroy that monster, and if you do, inflict damage to your opponent equal to the ATK the destroyed monster had on the field. This card's ATK must be greater than or equal to the ATK of that monster to activate and to resolve this effect.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

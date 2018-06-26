@@ -1,0 +1,16 @@
+{
+  "id": 2431,
+  "cardNumber": "89731911",
+  "name": "Familiar Knight",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: Each player can Special Summon 1 Level 4 monster from their hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

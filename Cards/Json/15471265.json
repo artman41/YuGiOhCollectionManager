@@ -1,0 +1,16 @@
+{
+  "id": 579,
+  "cardNumber": "15471265",
+  "name": "Berserker Crush",
+  "description": "Remove from play 1 monster from your Graveyard. The ATK and DEF of 1 face-up \"Winged Kuriboh\" you control becomes equal to the ATK and DEF of that monster, until the End Phase of this turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

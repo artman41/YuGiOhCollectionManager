@@ -1,0 +1,16 @@
+{
+  "id": 8774,
+  "cardNumber": "99674361",
+  "name": "World Legacy Inheritor",
+  "description": "Target 1 monster in your GY; Special Summon it to your zone a Link Monster points to. You can only activate 1 \"World Legacy Inheritor\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

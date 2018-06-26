@@ -1,0 +1,16 @@
+{
+  "id": 5790,
+  "cardNumber": "80102359",
+  "name": "Reinforced Human Psychic Borg",
+  "description": "Up to twice per turn, you can remove from play 1 Psychic-Type monster from your Graveyard to have this card gain 500 ATK.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

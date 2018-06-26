@@ -1,0 +1,16 @@
+{
+  "id": 22,
+  "cardNumber": "3900605",
+  "name": "Absorbing Jar",
+  "description": "FLIP: Destroy all Set Spell/Trap Cards on the field, then each player draws 1 card for each of the cards they controlled that was destroyed by this effect. You cannot Set any cards this turn.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

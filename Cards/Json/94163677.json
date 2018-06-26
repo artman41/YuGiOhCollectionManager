@@ -1,0 +1,16 @@
+{
+  "id": 3584,
+  "cardNumber": "94163677",
+  "name": "Infinite Cards",
+  "description": "There is no limit to the number of cards in players' hands.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

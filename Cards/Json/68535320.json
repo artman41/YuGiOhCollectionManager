@@ -1,0 +1,16 @@
+{
+  "id": 2497,
+  "cardNumber": "68535320",
+  "name": "Fire Hand",
+  "description": "When this card in your possession is destroyed by your opponent's card (by battle or card effect) and sent to your Graveyard: You can target 1 monster they control; destroy that target, then you can Special Summon 1 \"Ice Hand\" from your Deck.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Pyro\"]"
+}

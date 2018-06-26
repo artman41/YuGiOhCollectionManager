@@ -1,0 +1,16 @@
+{
+  "id": 423,
+  "cardNumber": "31175914",
+  "name": "Attack Gainer",
+  "description": "If this card is sent to the Graveyard as a Synchro Material Monster, select 1 face-up monster your opponent controls. The selected opponent's monster loses 1000 ATK until the End Phase.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

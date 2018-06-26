@@ -1,0 +1,16 @@
+{
+  "id": 6134,
+  "cardNumber": "98358303",
+  "name": "Serene Psychic Witch",
+  "description": "When this card on the field is destroyed and sent to the Graveyard: You can banish 1 Psychic-Type monster with 2000 or less ATK from your Deck. During the next Standby Phase, if this card stays in the Graveyard: Special Summon the monster banished by this card's effect.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Psychic\"]"
+}

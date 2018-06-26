@@ -1,0 +1,16 @@
+{
+  "id": 727,
+  "cardNumber": "22802010",
+  "name": "Blind Obliteration",
+  "description": "Roll a six-sided die twice and destroy all face-up monsters with Levels/Ranks lower than the total roll.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

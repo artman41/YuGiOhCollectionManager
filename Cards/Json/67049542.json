@@ -1,0 +1,16 @@
+{
+  "id": 8153,
+  "cardNumber": "67049542",
+  "name": "Dark Bat",
+  "description": "Bats from the netherworld that use their hyper senses to detect their enemies.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

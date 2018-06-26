@@ -1,0 +1,16 @@
+{
+  "id": 7410,
+  "cardNumber": "42175079",
+  "name": "Volcanic Eruption",
+  "description": "During your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

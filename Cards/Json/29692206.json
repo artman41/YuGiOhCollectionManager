@@ -1,0 +1,16 @@
+{
+  "id": 8599,
+  "cardNumber": "29692206",
+  "name": "Twin Long Rods #2",
+  "description": "An amphibious creature with two whip-like tails.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 850,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7448,
+  "cardNumber": "38679204",
+  "name": "Vylon Stella",
+  "description": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. At the end of the Damage Step, if the equipped monster battled an opponent's monster: Destroy that opponent's monster.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 7421,
+  "cardNumber": "25373678",
+  "name": "Vortex the Whirlwind",
+  "description": "1 Tuner + 1 or more non-Tuner Winged Beast-Type monsters<br>When this card is destroyed by battle and sent to the Graveyard, you can Special Summon 1 Level 4 or lower Winged Beast-Type monster from your Deck.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

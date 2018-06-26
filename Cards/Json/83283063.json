@@ -1,0 +1,16 @@
+{
+  "id": 6215,
+  "cardNumber": "83283063",
+  "name": "Shiranui Shogunsaga",
+  "description": "1 Zombie-Type Tuner + 1 or more non-Tuner Zombie-Type monsters<br>If this card is Special Summoned: You can banish 1 Zombie-Type monster from your Graveyard; this card gains ATK equal to the banished monster's original ATK, until the end of this turn. If this card on the field is destroyed by battle or card effect and sent to the Graveyard: You can target 1 of your banished Zombie-Type monsters with 0 DEF; return it to the Graveyard. You can only Special Summon \"Shiranui Shogunsaga(s)\" once per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Zombie\"]"
+}

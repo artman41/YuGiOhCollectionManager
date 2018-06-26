@@ -1,0 +1,16 @@
+{
+  "id": 4440,
+  "cardNumber": "60080151",
+  "name": "Memory of an Adversary",
+  "description": "When an opponent's monster declares an attack: You take damage equal to the attacking monster's ATK, and if you do, banish that monster. During the End Phase of your opponent's next turn, Special Summon that monster to your side of the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

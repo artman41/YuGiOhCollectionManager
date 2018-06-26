@@ -1,0 +1,16 @@
+{
+  "id": 5146,
+  "cardNumber": "85346853",
+  "name": "Paladin of Photon Dragon",
+  "description": "You can Ritual Summon this card with \"Luminous Dragon Ritual\". You can Tribute this card; Special Summon 1 \"Galaxy-Eyes Photon Dragon\" from your hand or Deck. When this card destroys an opponent's monster by battle and sends it to the Graveyard: Draw 1 card.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Ritual\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 105,
+  "cardNumber": "24104865",
+  "name": "Alien Mother",
+  "description": "If this card destroys a monster with an A-Counter by battle and sends it to the Graveyard, Special Summon the destroyed monster to your side of the field at the end of the Battle Phase. When this card is removed from the field, all monsters that were Special Summoned by this card's effect are destroyed.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

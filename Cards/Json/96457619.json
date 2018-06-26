@@ -1,0 +1,16 @@
+{
+  "id": 7709,
+  "cardNumber": "96457619",
+  "name": "Xyz Veil",
+  "description": "Face-up Xyz Monsters with Xyz Material cannot be targeted by card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

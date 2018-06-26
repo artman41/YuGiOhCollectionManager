@@ -1,0 +1,16 @@
+{
+  "id": 8309,
+  "cardNumber": "28546905",
+  "name": "Illusionist Faceless Mage",
+  "description": "Manipulates enemy attacks with the power of illusion.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 2200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

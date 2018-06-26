@@ -1,0 +1,16 @@
+{
+  "id": 8559,
+  "cardNumber": "55291359",
+  "name": "Succubus Knight",
+  "description": "A warrior wizard adept in casting bone-chilling spells.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1650,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

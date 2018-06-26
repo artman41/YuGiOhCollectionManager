@@ -1,0 +1,16 @@
+{
+  "id": 6226,
+  "cardNumber": "38528901",
+  "name": "Shock Troops of the Ice Barrier",
+  "description": "You can Tribute this card to select 1 face-up WATER monster on the field, destroy it, and add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

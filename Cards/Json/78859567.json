@@ -1,0 +1,16 @@
+{
+  "id": 7961,
+  "cardNumber": "78859567",
+  "name": "Packet Link",
+  "description": "During the Main Phase 2: Special Summon any number of Level 2 or lower monsters with different names from your hand, Deck, and/or GY to your zones a Link Monster(s) points to. You can only activate 1 \"Packet Link\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

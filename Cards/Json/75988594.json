@@ -1,0 +1,16 @@
+{
+  "id": 8017,
+  "cardNumber": "75988594",
+  "name": "Superheavy Samurai Swordmaster Musashi",
+  "description": "1 Tuner + 1 or more non-Tuner monsters When this card is Synchro Summoned: You can target 1 Machine-Type monster in your Graveyard; add it to your hand, also if you have a Spell/Trap Card in your Graveyard, you cannot Normal or Special Summon monsters with the added monster's name for the rest of this turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 300,
+  "def": 2300,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

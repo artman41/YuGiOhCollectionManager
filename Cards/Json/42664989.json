@@ -1,0 +1,16 @@
+{
+  "id": 963,
+  "cardNumber": "42664989",
+  "name": "Card of Sanctity",
+  "description": "Banish all other cards you control and in your hand (min.1 from each); draw until you have 2 cards in your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

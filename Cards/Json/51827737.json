@@ -1,0 +1,16 @@
+{
+  "id": 2895,
+  "cardNumber": "51827737",
+  "name": "Genex Recycled",
+  "description": "Once per turn, you can select 1 \"Genex\" monster in your Graveyard. Until the End Phase, this card's name is treated as the selected monster's name.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 200,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

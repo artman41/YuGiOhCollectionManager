@@ -1,0 +1,16 @@
+{
+  "id": 540,
+  "cardNumber": "36916401",
+  "name": "Battlin' Boxing Spirits",
+  "description": "Send the top card of your Deck to the Graveyard, then target 1 \"Battlin' Boxer\" monster in your Graveyard; Special Summon that target in face-up Defense Position. You can only activate 1 \"Battlin' Boxing Spirits\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

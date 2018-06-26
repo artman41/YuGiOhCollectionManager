@@ -1,0 +1,16 @@
+{
+  "id": 1128,
+  "cardNumber": "22479888",
+  "name": "Clay Charge",
+  "description": "When an \"Elemental HERO Clayman\" you control is targeted for an attack (even if it is face-down, but reveal it to your opponent in that case): Destroy the attacking monster and that \"Elemental HERO Clayman\", and inflict 800 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

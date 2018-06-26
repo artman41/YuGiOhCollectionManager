@@ -1,0 +1,16 @@
+{
+  "id": 7208,
+  "cardNumber": "88132637",
+  "name": "Twin-Headed Wolf",
+  "description": "When there is another face-up Fiend-Type monster on your side of the field, negate the effect of Flip Effect Monsters destroyed by this card as a result of battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

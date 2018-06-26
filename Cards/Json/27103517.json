@@ -1,0 +1,16 @@
+{
+  "id": 7538,
+  "cardNumber": "27103517",
+  "name": "Wicked Acolyte Chilam Sabak",
+  "description": "If you have 5 or more cards in your hand, you can Normal Summon this card without Tributing. When this card is destroyed by battle and sent to the GY: You can Special Summon this card in Defense Position, and if you do, it is treated as a Tuner. You can only use this effect of \"Wicked Acolyte Chilam Sabak\" once per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

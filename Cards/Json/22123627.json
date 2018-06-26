@@ -1,0 +1,16 @@
+{
+  "id": 4634,
+  "cardNumber": "22123627",
+  "name": "Moray of Greed",
+  "description": "Shuffle 2 WATER monsters from your hand into the Deck, then draw 3 cards.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

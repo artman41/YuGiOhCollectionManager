@@ -1,0 +1,16 @@
+{
+  "id": 215,
+  "cardNumber": "67829249",
+  "name": "Ancient Gear Drill",
+  "description": "If you control an \"Ancient Gear\" monster: Discard 1 card; Set 1 Spell Card directly from your Deck. This turn, that Spell Card cannot be activated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

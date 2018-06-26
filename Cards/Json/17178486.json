@@ -1,0 +1,16 @@
+{
+  "id": 4027,
+  "cardNumber": "17178486",
+  "name": "Life Equalizer",
+  "description": "Activate this card when the difference between both players' Life Points is 8000 or more. Both players' Life Points become 3000.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

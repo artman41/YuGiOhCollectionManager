@@ -1,0 +1,16 @@
+{
+  "id": 1463,
+  "cardNumber": "39153655",
+  "name": "D/D Cerberus",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 \"D/D\" monster you control; change its Level to 4, and if you do, it gains 400 ATK and DEF (even if this card leaves the field).\n\n Monster Effect\n When this card is Pendulum Summoned from the hand, while you control a \"D/D\" monster other than \"D/D Cerberus\": You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

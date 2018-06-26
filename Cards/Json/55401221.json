@@ -1,0 +1,16 @@
+{
+  "id": 509,
+  "cardNumber": "55401221",
+  "name": "Batteryman D",
+  "description": "Your opponent cannot select a Thunder-Type monster you control as an attack target (except \"Batteryman D\").",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

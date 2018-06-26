@@ -1,0 +1,16 @@
+{
+  "id": 2755,
+  "cardNumber": "5133471",
+  "name": "Galaxy Cyclone",
+  "description": "Target 1 Set Spell/Trap Card on the field; destroy it. During your Main Phase, except the turn this card was sent to the Graveyard: You can banish this card from your Graveyard, then target 1 face-up Spell/Trap Card on the field; destroy it. You can only use this effect of \"Galaxy Cyclone\" once per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

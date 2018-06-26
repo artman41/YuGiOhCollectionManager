@@ -1,0 +1,16 @@
+{
+  "id": 3907,
+  "cardNumber": "88240808",
+  "name": "Kycoo the Ghost Destroyer",
+  "description": "When this card inflicts battle damage to your opponent: You can target up to 2 monsters in their Graveyard; banish those targets. Your opponent cannot banish cards from either player's Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6179,
+  "cardNumber": "52097679",
+  "name": "Shield &amp; Sword",
+  "description": "Switch the original ATK and DEF of all face-up monsters currently on the field, until the End Phase.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 625,
+  "cardNumber": "50323155",
+  "name": "Black Horn of Heaven",
+  "description": "When your opponent would Special Summon exactly 1 monster: Negate the Special Summon, and if you do, destroy it.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

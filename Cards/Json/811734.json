@@ -1,0 +1,16 @@
+{
+  "id": 1484,
+  "cardNumber": "811734",
+  "name": "D/D/D Contract Change",
+  "description": "When an opponent's monster declares an attack: Activate 1 of these effects;<br>â— Banish 1 \"D/D/D\" monster from your Graveyard, and if you do, the attacking monster loses ATK equal to the banished monster's ATK.<br>â— Add 1 Level 4 or lower \"D/D\" Pendulum Monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

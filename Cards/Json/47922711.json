@@ -1,0 +1,16 @@
+{
+  "id": 8570,
+  "cardNumber": "47922711",
+  "name": "Tatsunootoshigo",
+  "description": "A bizarre monster with the torso of a horse and a fish's tail. It gallops through the sea as if it were the wind.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1350,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

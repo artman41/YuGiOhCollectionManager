@@ -1,0 +1,16 @@
+{
+  "id": 1372,
+  "cardNumber": "10248389",
+  "name": "Cyber Blader",
+  "description": "\"Etoile Cyber\" + \"Blade Skater\"<br>A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. While your opponent controls only 1 monster, this card cannot be destroyed by battle. While your opponent controls only 2 monsters, double this card's ATK. While your opponent controls only 3 monsters, negate the effects of your opponent's Spell, Trap, and Effect Monster Cards.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

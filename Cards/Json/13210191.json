@@ -1,0 +1,16 @@
+{
+  "id": 6632,
+  "cardNumber": "13210191",
+  "name": "Storm",
+  "description": "Destroy as many Spell/Trap Cards you control as possible, then destroy as many Spell/Trap Cards your opponent controls as possible, up to the number of cards destroyed by this effect.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

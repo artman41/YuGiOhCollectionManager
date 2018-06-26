@@ -1,0 +1,16 @@
+{
+  "id": 8573,
+  "cardNumber": "60715406",
+  "name": "Tentacle Plant",
+  "description": "A carnivorous plant that has an outgrowth of tentacles. It attacks someone nearby by extending its tentacles.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

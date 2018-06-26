@@ -1,0 +1,16 @@
+{
+  "id": 2104,
+  "cardNumber": "64187086",
+  "name": "Earthbound Revival",
+  "description": "Discard 1 card, then target 1 \"Earthbound Immortal\" monster and 1 Field Spell Card in your Graveyard; add those targets to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

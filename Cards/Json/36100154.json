@@ -1,0 +1,16 @@
+{
+  "id": 162,
+  "cardNumber": "36100154",
+  "name": "Amazoness Fighting Spirit",
+  "description": "If an \"Amazoness\" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

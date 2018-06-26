@@ -1,0 +1,16 @@
+{
+  "id": 6409,
+  "cardNumber": "92092092",
+  "name": "Space Dragster",
+  "description": "Special Summon this card as an Effect Monster (Machine-Type/Tuner/FIRE/Level 1/ATK 0/DEF 1800). (This card is also still a Trap Card.) If Summoned this way, other Tuners you control cannot be destroyed by battle or your opponent's card effects while this card is in the Monster Zone.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2611,
+  "cardNumber": "25789292",
+  "name": "Forbidden Chalice",
+  "description": "Target 1 face-up monster on the field; until the end of this turn, that target gains 400 ATK, but its effects are negated.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

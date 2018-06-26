@@ -1,0 +1,16 @@
+{
+  "id": 2981,
+  "cardNumber": "92821268",
+  "name": "Gimmick Puppet Twilight Joker",
+  "description": "When a \"Gimmick Puppet\" monster you control is destroyed by battle and sent to your Graveyard: You can banish that monster; Special Summon this card from your hand. You can only use the effect of \"Gimmick Puppet Twilight Joker\" once per turn.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 800,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

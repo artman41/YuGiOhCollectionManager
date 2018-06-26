@@ -1,0 +1,16 @@
+{
+  "id": 3798,
+  "cardNumber": "71587526",
+  "name": "Karma Cut",
+  "description": "Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then banish all cards with the same name as that monster from your opponent's Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5094,
+  "cardNumber": "79306385",
+  "name": "Oracle of the Herald",
+  "description": "This card is used to Ritual Summon \"Herald of Ultimateness\". You must also Tribute monsters from your hand or field whose total Levels equal 12 or more. Your opponent cannot activate cards or effects in response to this card's activation.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Ritual\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

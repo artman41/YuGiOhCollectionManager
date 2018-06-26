@@ -1,0 +1,16 @@
+{
+  "id": 8471,
+  "cardNumber": "32541773",
+  "name": "The Portrait's Secret",
+  "description": "A portrait cursed by the artist, it is said to bring ill fortune to anyone who owns it.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

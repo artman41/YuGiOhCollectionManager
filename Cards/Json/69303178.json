@@ -1,0 +1,16 @@
+{
+  "id": 4274,
+  "cardNumber": "69303178",
+  "name": "Majestic Mech - Ohka",
+  "description": "You can Normal Summon this card without Tributing. If you do, during the End Phase: Send it to the Graveyard.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 154,
+  "cardNumber": "91869203",
+  "name": "Amazoness Archer",
+  "description": "You can Tribute 2 monsters; inflict 1200 damage to your opponent.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

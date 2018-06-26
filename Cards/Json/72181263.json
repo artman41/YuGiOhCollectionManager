@@ -1,0 +1,16 @@
+{
+  "id": 1469,
+  "cardNumber": "72181263",
+  "name": "D/D Orthros",
+  "description": "Pendulum Effect\n Once per turn: You can target 1 Spell/Trap Card on the field and 1 other \"D/D\" or \"Dark Contract\" card you control; destroy them.\n\n Monster Effect\n When you take battle or effect damage: You can Special Summon this card from your hand. If this card is Special Summoned to your field, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3047,
+  "cardNumber": "34251483",
+  "name": "Goblin Marauding Squad",
+  "description": "When this card declares an attack, your opponent cannot activate cards or effects. If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1900,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

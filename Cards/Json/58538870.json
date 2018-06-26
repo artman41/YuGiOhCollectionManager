@@ -1,0 +1,16 @@
+{
+  "id": 8451,
+  "cardNumber": "58538870",
+  "name": "Oppressed People",
+  "description": "They are oppressed, but believe they will have their freedom someday.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 400,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

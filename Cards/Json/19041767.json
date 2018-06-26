@@ -1,0 +1,16 @@
+{
+  "id": 2863,
+  "cardNumber": "19041767",
+  "name": "Gemini Summoner",
+  "description": "Once per turn, during your opponent's End Phase: You can pay 500 LP; Normal Summon/Set 1 Gemini monster from your hand or Normal Summon 1 face-up Gemini monster you control. The first time this card would be destroyed by battle each turn, it is not destroyed.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

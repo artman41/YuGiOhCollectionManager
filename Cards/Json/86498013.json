@@ -1,0 +1,16 @@
+{
+  "id": 8150,
+  "cardNumber": "86498013",
+  "name": "D.D. Trainer",
+  "description": "A poor goblin that was sucked into a different dimension. However, he's doing his best with his new destiny.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

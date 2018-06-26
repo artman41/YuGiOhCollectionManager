@@ -1,0 +1,16 @@
+{
+  "id": 7890,
+  "cardNumber": "33541430",
+  "name": "Flower Cardian Moonflower",
+  "description": "1 Tuner + 2 non-Tuner monsters<br>Once per turn: You can activate this effect; skip the Draw Phase of your next turn, also draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster, ignoring its Summoning conditions, and if you do, it can attack directly this turn. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Synchro\",\"Tuner\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

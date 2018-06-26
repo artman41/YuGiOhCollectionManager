@@ -1,0 +1,16 @@
+{
+  "id": 5932,
+  "cardNumber": "13478040",
+  "name": "Rodenut",
+  "description": "Each time your opponent Special Summons a monster(s), place 1 Nut Counter on this card. You can remove 1 Nut Counter from this card to target 1 monster your opponent controls; destroy that target.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 100,
+  "def": 100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

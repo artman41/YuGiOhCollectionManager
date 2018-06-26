@@ -1,0 +1,16 @@
+{
+  "id": 2152,
+  "cardNumber": "91107093",
+  "name": "Electromagnetic Shield",
+  "description": "Level 3 or lower face-up Defense Position Thunder-Type monsters you control cannot be destroyed by battle. Destroy this card if you control a face-up Attack Position monster.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

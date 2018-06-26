@@ -1,0 +1,16 @@
+{
+  "id": 56,
+  "cardNumber": "70410002",
+  "name": "The Accumulator",
+  "description": "Gains ATK equal to the combined Link Ratings of all Link Monsters on the field x 300.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

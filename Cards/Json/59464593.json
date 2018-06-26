@@ -1,0 +1,16 @@
+{
+  "id": 330,
+  "cardNumber": "59464593",
+  "name": "Armed Dragon LV10",
+  "description": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 \"Armed Dragon LV7\". You can send 1 card from your hand to the Graveyard to destroy all face-up monsters your opponent controls.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

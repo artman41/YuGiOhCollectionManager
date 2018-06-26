@@ -1,0 +1,16 @@
+{
+  "id": 6776,
+  "cardNumber": "51402908",
+  "name": "The Supremacy Sun",
+  "description": "Cannot be Special Summoned, except by its own effect. After this face-up card on the field is destroyed and sent to the Graveyard, during the Standby Phase of the next turn: You can discard 1 card; Special Summon this card from the Graveyard.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3000,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

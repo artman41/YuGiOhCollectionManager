@@ -1,0 +1,16 @@
+{
+  "id": 1309,
+  "cardNumber": "95600067",
+  "name": "Crystal Beast Topaz Tiger",
+  "description": "If this card attacks an opponent's monster, it gains 400 ATK during the Damage Step only. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell &amp; Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

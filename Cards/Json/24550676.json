@@ -1,0 +1,16 @@
+{
+  "id": 4123,
+  "cardNumber": "24550676",
+  "name": "Lunalight Leo Dancer",
+  "description": "\"Lunalight Panther Dancer\" + 2 \"Lunalight\" monsters<br>Must be Fusion Summoned with the above Fusion Materials and cannot be Special Summoned by other ways. Cannot be targeted, or destroyed by, your opponent's card effects. This card can make a second attack during each Battle Phase. Once per turn, at the end of the Damage Step, if this card attacked a monster: You can destroy all Special Summoned monsters your opponent controls.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

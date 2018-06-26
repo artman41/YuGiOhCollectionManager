@@ -1,0 +1,16 @@
+{
+  "id": 3650,
+  "cardNumber": "26157485",
+  "name": "Iron Chain Blaster",
+  "description": "Once per turn, you can send 1 \"Iron Chain\" monster you control to the Graveyard to inflict 800 damage to your opponent.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

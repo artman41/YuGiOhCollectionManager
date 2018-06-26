@@ -1,0 +1,16 @@
+{
+  "id": 7509,
+  "cardNumber": "28604635",
+  "name": "Weed Out",
+  "description": "Pay 500 Life Points. Destroy all Level 3 monsters in face-up Attack Position on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

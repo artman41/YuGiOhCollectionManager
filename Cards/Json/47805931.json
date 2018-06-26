@@ -1,0 +1,16 @@
+{
+  "id": 4912,
+  "cardNumber": "47805931",
+  "name": "Number 20: Giga-Brilliant",
+  "description": "2 Level 3 monsters<br>Once per turn: You can detach 1 Xyz Material from this card; all face-up monsters you currently control gain 300 ATK.",
+  "cardLevel": null,
+  "cardRank": 3,
+  "atk": 1800,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Insect\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8186,
+  "cardNumber": "16353197",
+  "name": "Drooling Lizard",
+  "description": "A blood-sucking snake in human form that attacks any living being that passes nearby.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Reptile\"]"
+}

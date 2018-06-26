@@ -1,0 +1,16 @@
+{
+  "id": 6474,
+  "cardNumber": "43841694",
+  "name": "Spellbook of Miracles",
+  "description": "Target 1 Spellcaster-Type Xyz Monster in your Graveyard and up to 2 of your banished \"Spellbook\" Spell Cards; Special Summon that monster, and if you do, attach the targeted \"Spellbook\" Spell Card(s) to it as Xyz Material. You can only activate 1 \"Spellbook of Miracles\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8046,
+  "cardNumber": "40387124",
+  "name": "Abyss Flower",
+  "description": "A rarely seen flower that blossoms quietly on the edge of darkness.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 750,
+  "def": 400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

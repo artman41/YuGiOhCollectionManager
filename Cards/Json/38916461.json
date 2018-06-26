@@ -1,0 +1,16 @@
+{
+  "id": 8490,
+  "cardNumber": "38916461",
+  "name": "Roboyarou",
+  "description": "A warrior fully covered with metal. It upgrades by fusing with \"Robolady\".",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 900,
+  "def": 450,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

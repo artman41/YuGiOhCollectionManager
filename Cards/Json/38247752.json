@@ -1,0 +1,16 @@
+{
+  "id": 1644,
+  "cardNumber": "38247752",
+  "name": "Dark-Eyes Illusionist",
+  "description": "FLIP: Target 1 monster on the field; it cannot attack while this card is face-up on the field.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

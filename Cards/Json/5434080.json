@@ -1,0 +1,16 @@
+{
+  "id": 8288,
+  "cardNumber": "5434080",
+  "name": "Headless Knight",
+  "description": "A haunted spirit of a falsely accused knight who wanders in search of truth and justice.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1450,
+  "def": 1700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

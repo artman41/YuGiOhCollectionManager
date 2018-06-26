@@ -1,0 +1,16 @@
+{
+  "id": 5273,
+  "cardNumber": "92958307",
+  "name": "Performapal Show Down",
+  "description": "Target any number of face-up monsters your opponent controls, up to the number of face-up Spell Cards you control; change those monsters to face-down Defense Position.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

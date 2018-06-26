@@ -1,0 +1,16 @@
+{
+  "id": 8639,
+  "cardNumber": "31447217",
+  "name": "Wingweaver",
+  "description": "A six-winged fairy who prays for peace and hope.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2750,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

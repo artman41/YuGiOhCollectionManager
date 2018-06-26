@@ -1,0 +1,16 @@
+{
+  "id": 3492,
+  "cardNumber": "67273917",
+  "name": "Igknight Cavalier",
+  "description": "Pendulum Effect\n If you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n Monster Effect\n The vaunted weapons of this pink Igknight have inflicted as much damage to her enemies as to her own troops, but she gets results so very few complain.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6007,
+  "cardNumber": "93124273",
+  "name": "Samurai Cavalry of Reptier",
+  "description": "At the start of the Damage Step, if this card attacks an opponent's face-up monster that is not a Pendulum Monster: You can destroy that monster.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3854,
+  "cardNumber": "95204084",
+  "name": "Koa'ki Meiru Tornado",
+  "description": "You can return 1 \"Iron Core of Koa'ki Meiru\" from your hand to the top of the Deck to destroy all Special Summoned monsters your opponent controls.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

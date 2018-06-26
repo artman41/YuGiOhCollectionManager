@@ -1,0 +1,16 @@
+{
+  "id": 1569,
+  "cardNumber": "21417692",
+  "name": "Dark Elf",
+  "description": "This card requires a cost of 1000 of your own Life Points to attack.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2000,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

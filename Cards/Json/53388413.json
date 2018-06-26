@@ -1,0 +1,16 @@
+{
+  "id": 1182,
+  "cardNumber": "53388413",
+  "name": "Commander Gottoms, Swordmaster",
+  "description": "All face-up \"Saber\" monsters you control gain 400 ATK.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

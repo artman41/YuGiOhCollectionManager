@@ -1,0 +1,16 @@
+{
+  "id": 5091,
+  "cardNumber": "43268675",
+  "name": "Opera the Melodious Diva",
+  "description": "Cannot attack the turn it is Normal Summoned or flipped face-up. If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can activate this effect; for the rest of this turn, \"Melodious\" monsters you control cannot be destroyed by battle or card effects.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

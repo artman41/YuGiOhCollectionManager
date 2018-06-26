@@ -1,0 +1,16 @@
+{
+  "id": 2443,
+  "cardNumber": "55416843",
+  "name": "Feast of the Wild LV5",
+  "description": "Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also, for the rest of this turn, they cannot attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

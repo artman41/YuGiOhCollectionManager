@@ -1,0 +1,16 @@
+{
+  "id": 6186,
+  "cardNumber": "11102908",
+  "name": "Shien's Castle of Mist",
+  "description": "When a \"Six Samurai\" monster is attacked, the attacking monster loses 500 ATK during damage calculation only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

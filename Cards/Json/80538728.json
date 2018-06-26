@@ -1,0 +1,16 @@
+{
+  "id": 7564,
+  "cardNumber": "80538728",
+  "name": "Wind-Up Knight",
+  "description": "When a face-up \"Wind-Up\" monster you control is targeted for an attack: You can negate the attack. This effect can only be used once while this card is face-up on the field.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

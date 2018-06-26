@@ -1,0 +1,16 @@
+{
+  "id": 1595,
+  "cardNumber": "82404868",
+  "name": "Dark Magic Veil",
+  "description": "Pay 1000 LP; Special Summon 1 DARK Spellcaster-Type monster from your hand or Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8500,
+  "cardNumber": "2964201",
+  "name": "Ryu-Ran",
+  "description": "A vicious little dragon sheltered in an egg that looks deceptively harmless.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2200,
+  "def": 2600,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

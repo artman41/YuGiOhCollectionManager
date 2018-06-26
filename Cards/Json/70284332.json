@@ -1,0 +1,16 @@
+{
+  "id": 7178,
+  "cardNumber": "70284332",
+  "name": "Tuner's Scheme",
+  "description": "Activate only when a Synchro Monster is Special Summoned to your opponent's side of the field. Take control of that Synchro Monster. Remove it from play when it is destroyed. Destroy this card when that monster is removed from the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

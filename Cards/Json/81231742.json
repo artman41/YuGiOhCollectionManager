@@ -1,0 +1,16 @@
+{
+  "id": 6383,
+  "cardNumber": "81231742",
+  "name": "Sorcerous Spell Wall",
+  "description": "All monsters you control gain 300 ATK during your turn only. All monsters you control gain 300 DEF during your opponent's turn only.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

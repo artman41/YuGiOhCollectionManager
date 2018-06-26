@@ -1,0 +1,16 @@
+{
+  "id": 5359,
+  "cardNumber": "38757297",
+  "name": "Photon Leo",
+  "description": "When this card is Normal Summoned: You can have your opponent shuffle their entire hand into the Deck, then they draw the same number of cards as they shuffled into the Deck.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 2100,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

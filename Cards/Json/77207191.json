@@ -1,0 +1,16 @@
+{
+  "id": 573,
+  "cardNumber": "77207191",
+  "name": "Berfomet",
+  "description": "When this card is Normal or Flip Summoned: You can add 1 \"Gazelle the King of Mythical Beasts\" from your Deck to your hand.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

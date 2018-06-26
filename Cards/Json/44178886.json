@@ -1,0 +1,16 @@
+{
+  "id": 2132,
+  "cardNumber": "44178886",
+  "name": "Ehren, Lightsworn Monk",
+  "description": "If this card attacks a Defense Position monster, before damage calculation: Shuffle that monster into the Deck. Once per turn, during your End Phase: Send the top 3 cards of your Deck to the Graveyard.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2402,
+  "cardNumber": "46833854",
+  "name": "Fabled Topi",
+  "description": "If your opponent has 2 or more cards in their hand than you do, you can reveal 1 \"Fabled\" monster in your hand and Tribute this face-up card to select 2 Spell or Trap Cards your opponent controls, and destroy them.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

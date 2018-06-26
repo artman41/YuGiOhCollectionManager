@@ -1,0 +1,16 @@
+{
+  "id": 7028,
+  "cardNumber": "14342283",
+  "name": "Token Stampede",
+  "description": "All Tokens in Attack Position gain 1000 ATK, also they cannot be destroyed by battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

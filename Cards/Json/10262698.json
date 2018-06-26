@@ -1,0 +1,16 @@
+{
+  "id": 8551,
+  "cardNumber": "10262698",
+  "name": "The Statue of Easter Island",
+  "description": "A stone monument from Easter Island that launches laser blasts from its rock-hewn lips.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

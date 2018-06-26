@@ -1,0 +1,16 @@
+{
+  "id": 6061,
+  "cardNumber": "83135907",
+  "name": "Scrap Goblin",
+  "description": "This card cannot be destroyed by battle. If this face-up Defense Position card is selected as an attack target, destroy this card at the end of the Battle Phase. If this card is destroyed by the effect of a \"Scrap\" card and sent to the Graveyard, you can select 1 \"Scrap\" monster in your Graveyard, except \"Scrap Goblin\" and add it to your hand.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 0,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Tuner\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast-Warrior\"]"
+}

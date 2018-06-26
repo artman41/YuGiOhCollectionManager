@@ -1,0 +1,16 @@
+{
+  "id": 3232,
+  "cardNumber": "71799173",
+  "name": "Guardian of Order",
+  "description": "If you control 2 or more LIGHT monsters, you can Special Summon this card from your hand. You can only control 1 \"Guardian of Order\".",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

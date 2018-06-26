@@ -1,0 +1,16 @@
+{
+  "id": 3710,
+  "cardNumber": "51855378",
+  "name": "Junk Blader",
+  "description": "You can banish 1 \"Junk\" monster from your Graveyard; this card gains 400 ATK until the end of this turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

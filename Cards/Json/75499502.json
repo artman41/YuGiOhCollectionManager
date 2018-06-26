@@ -1,0 +1,16 @@
+{
+  "id": 8381,
+  "cardNumber": "75499502",
+  "name": "Master &amp; Expert",
+  "description": "A deadly duo consisting of a beast master and its loyal servant.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Beast\"]"
+}

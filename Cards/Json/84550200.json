@@ -1,0 +1,16 @@
+{
+  "id": 6377,
+  "cardNumber": "84550200",
+  "name": "Sonic Jammer",
+  "description": "FLIP: Your opponent cannot activate any Spell Cards until the end of the End Phase of the next turn.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 350,
+  "def": 650,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3065,
+  "cardNumber": "62476815",
+  "name": "Gogogo Golem",
+  "description": "Once per turn, this Defense Position card cannot be destroyed by battle.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 1500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

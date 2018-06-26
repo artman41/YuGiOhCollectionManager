@@ -1,0 +1,16 @@
+{
+  "id": 6326,
+  "cardNumber": "47349310",
+  "name": "Skystarray",
+  "description": "This card can attack your opponent directly. At the end of the Battle Phase, if this card attacked directly: Banish this card until your next Standby Phase.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 600,
+  "def": 300,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Sea Serpent\"]"
+}

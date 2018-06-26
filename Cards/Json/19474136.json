@@ -1,0 +1,16 @@
+{
+  "id": 4316,
+  "cardNumber": "19474136",
+  "name": "Mandragon",
+  "description": "This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 2500,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Plant\"]"
+}

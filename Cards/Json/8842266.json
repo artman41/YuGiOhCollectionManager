@@ -1,0 +1,16 @@
+{
+  "id": 5403,
+  "cardNumber": "8842266",
+  "name": "Poison of the Old Man",
+  "description": "Activate 1 of these effects;<br>â— Gain 1200 LP.<br>â— Inflict 800 damage to your opponent.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Quick-Play\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

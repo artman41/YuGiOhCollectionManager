@@ -1,0 +1,16 @@
+{
+  "id": 4217,
+  "cardNumber": "7802006",
+  "name": "Magical Plant Mandragola",
+  "description": "FLIP: Place 1 Spell Counter on each face-up card on the field that you can place a Spell Counter on.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Flip\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

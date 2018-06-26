@@ -1,0 +1,16 @@
+{
+  "id": 8070,
+  "cardNumber": "48365709",
+  "name": "Ansatsu",
+  "description": "A silent and deadly warrior specializing in assassinations.",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1700,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3159,
+  "cardNumber": "99690140",
+  "name": "Gravekeeper's Vassal",
+  "description": "Any battle damage this card inflicts to your opponent is treated as effect damage instead.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 700,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

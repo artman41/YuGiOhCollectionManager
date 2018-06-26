@@ -1,0 +1,16 @@
+{
+  "id": 5664,
+  "cardNumber": "79856792",
+  "name": "Rainbow Dragon",
+  "description": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field or in your Graveyard, and cannot be Special Summoned by other ways. This card cannot activate its effects the turn it is Special Summoned. â— During either player's turn: You can send all \"Crystal Beast\" monsters you control to the Graveyard; this card gains 1000 ATK for each card sent. â— You can banish all \"Crystal Beast\" monsters in your Graveyard; shuffle all cards on the field into the Deck.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 4000,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5697,
+  "cardNumber": "66994718",
+  "name": "Raptor's Gust",
+  "description": "When a Spell/Trap Card is activated while you control a \"Raidraptor\" card: Negate the activation, and if you do, destroy that card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Counter\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

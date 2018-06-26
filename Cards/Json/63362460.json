@@ -1,0 +1,16 @@
+{
+  "id": 1767,
+  "cardNumber": "63362460",
+  "name": "Destiny HERO - Celestial",
+  "description": "When this card declares an attack: You can target 1 face-up Spell Card your opponent controls; destroy it, and if you do, inflict 500 damage to your opponent. While you have no cards in your hand, except the turn this card was sent to the Graveyard: You can banish this card and 1 \"Destiny HERO\" monster from your Graveyard; draw 2 cards. You can only use this effect of \"Destiny HERO - Celestial\" once per turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1600,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

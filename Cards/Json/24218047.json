@@ -1,0 +1,16 @@
+{
+  "id": 7302,
+  "cardNumber": "24218047",
+  "name": "Unmasked Dragon",
+  "description": "When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 Wyrm-Type monster with 1500 or less DEF from your Deck.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1100,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Fire",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Wyrm\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3202,
+  "cardNumber": "52182715",
+  "name": "Green Duston",
+  "description": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller targets 1 Spell/Trap Card they control; return that target to the hand. You can only control 1 face-up \"Green Duston\".",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

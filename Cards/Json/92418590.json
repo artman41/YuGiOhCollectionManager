@@ -1,0 +1,16 @@
+{
+  "id": 2973,
+  "cardNumber": "92418590",
+  "name": "Gimmick Puppet Dreary Doll",
+  "description": "If this card is in your Graveyard: You can banish 1 other \"Gimmick Puppet\" monster from your Graveyard; Special Summon this card from your Graveyard. You can only use this effect of \"Gimmick Puppet Dreary Doll\" once per turn. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a \"Gimmick Puppet\" monster.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 0,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

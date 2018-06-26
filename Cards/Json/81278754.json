@@ -1,0 +1,16 @@
+{
+  "id": 2560,
+  "cardNumber": "81278754",
+  "name": "Flip Flop Frog",
+  "description": "Once per turn, you can flip this card into face-down Defense Position. When this card is flipped face-up, you can return monsters your opponent controls to their owners' hand up to the number of face-up \"Frog\" monsters you control, except \"Frog the Jam\".",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Aqua\"]"
+}

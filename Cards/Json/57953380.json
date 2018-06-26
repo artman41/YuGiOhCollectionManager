@@ -1,0 +1,16 @@
+{
+  "id": 962,
+  "cardNumber": "57953380",
+  "name": "Card of Safe Return",
+  "description": "When a monster is Special Summoned from your Graveyard, you can draw 1 card.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

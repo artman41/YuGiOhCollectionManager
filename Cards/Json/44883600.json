@@ -1,0 +1,16 @@
+{
+  "id": 1952,
+  "cardNumber": "44883600",
+  "name": "Double Defender",
+  "description": "Once per turn, when an opponent's monster declares an attack while you control 2 or more face-up Defense Position monsters: You can target the attacking monster; negate that attack.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

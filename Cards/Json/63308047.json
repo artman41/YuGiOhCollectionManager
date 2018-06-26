@@ -1,0 +1,16 @@
+{
+  "id": 8574,
+  "cardNumber": "63308047",
+  "name": "Terra the Terrible",
+  "description": "Known as a swamp dweller, this creature is a minion of the dark forces.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1300,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

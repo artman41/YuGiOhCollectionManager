@@ -1,0 +1,16 @@
+{
+  "id": 1842,
+  "cardNumber": "29515122",
+  "name": "Digvorzhak, King of Heavy Industry",
+  "description": "3 Level 5 monsters<br>Once per turn: You can detach 1 Xyz Material from this card; send the top 3 cards of your opponent's Deck to the Graveyard, then, if any monsters were sent to the Graveyard by this effect, destroy cards your opponent controls, up to the number of monsters sent.",
+  "cardLevel": null,
+  "cardRank": 5,
+  "atk": 3200,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Xyz\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

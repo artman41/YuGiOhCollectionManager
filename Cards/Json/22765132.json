@@ -1,0 +1,16 @@
+{
+  "id": 5223,
+  "cardNumber": "22765132",
+  "name": "Performapal Call",
+  "description": "When an opponent's monster declares a direct attack: Target that attacking monster; negate the attack, and if you do, add up to 2 \"Performapal\" monsters from your Deck to your hand, whose total DEF is less than or equal to the ATK of the targeted monster. Until the end of your next turn after this card resolves, you cannot Special Summon monsters from the Extra Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

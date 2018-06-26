@@ -1,0 +1,16 @@
+{
+  "id": 8151,
+  "cardNumber": "59983499",
+  "name": "Dancing Elf",
+  "description": "An elf that dances across the sky with wings of razor-sharp blades.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 300,
+  "def": 200,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

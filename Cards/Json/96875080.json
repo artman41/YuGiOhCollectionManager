@@ -1,0 +1,16 @@
+{
+  "id": 5099,
+  "cardNumber": "96875080",
+  "name": "Orbital Bombardment",
+  "description": "Send 1 \"Alien\" monster from your side of the field to the Graveyard to activate this card. Destroy 1 Spell or Trap Card on the field.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

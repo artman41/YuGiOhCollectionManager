@@ -1,0 +1,16 @@
+{
+  "id": 8592,
+  "cardNumber": "77827521",
+  "name": "Trial of Nightmare",
+  "description": "This fiend passes judgment on enemies that are locked in coffins.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1300,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

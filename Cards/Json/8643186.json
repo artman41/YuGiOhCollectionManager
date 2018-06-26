@@ -1,0 +1,16 @@
+{
+  "id": 1473,
+  "cardNumber": "8643186",
+  "name": "D/D Recruits",
+  "description": "If your opponent controls more monsters than you do: Target any number of \"D/D\" monsters and/or \"Dark Contract\" cards in your Graveyard up to the difference; add those cards to your hand. You can only activate 1 \"D/D Recruits\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2623,
+  "cardNumber": "29826127",
+  "name": "The Forces of Darkness",
+  "description": "Target 2 \"Dark World\" monsters in your Graveyard; add those targets to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

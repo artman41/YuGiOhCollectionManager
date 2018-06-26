@@ -1,0 +1,16 @@
+{
+  "id": 7530,
+  "cardNumber": "1571945",
+  "name": "White Ninja",
+  "description": "FLIP: Target 1 Defense Position monster on the field; destroy that target.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

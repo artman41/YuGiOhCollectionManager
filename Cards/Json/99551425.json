@@ -1,0 +1,16 @@
+{
+  "id": 3911,
+  "cardNumber": "99551425",
+  "name": "Labyrinth Tank",
+  "description": "\"Giga-Tech Wolf\" + \"Cannon Soldier\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2400,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

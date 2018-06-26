@@ -1,0 +1,16 @@
+{
+  "id": 5560,
+  "cardNumber": "30585393",
+  "name": "Puzzle Reborn",
+  "description": "If exactly 1 monster you control (and no other cards) is destroyed by a card effect: Target that monster; Special Summon that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

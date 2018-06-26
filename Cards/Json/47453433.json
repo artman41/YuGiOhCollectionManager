@@ -1,0 +1,16 @@
+{
+  "id": 463,
+  "cardNumber": "47453433",
+  "name": "Back to Square One",
+  "description": "Discard 1 card, then target 1 monster on the field; place that target on the top of the Deck.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 3763,
+  "cardNumber": "94566432",
+  "name": "Kaiser Dragon",
+  "description": "\"Winged Dragon, Guardian of the Fortress #1\" + \"Fairy Dragon\"",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

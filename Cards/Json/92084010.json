@@ -1,0 +1,16 @@
+{
+  "id": 7304,
+  "cardNumber": "92084010",
+  "name": "Unshaven Angler",
+  "description": "When Tribute Summoning a WATER monster, you can treat this 1 monster as 2 Tributes.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1500,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Water",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fish\"]"
+}

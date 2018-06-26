@@ -1,0 +1,16 @@
+{
+  "id": 589,
+  "cardNumber": "32696942",
+  "name": "Big Belly Knight",
+  "description": "If this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect: You can Special Summon 1 Level 3 or lower monster from your hand.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1000,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

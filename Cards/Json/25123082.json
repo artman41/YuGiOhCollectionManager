@@ -1,0 +1,16 @@
+{
+  "id": 6475,
+  "cardNumber": "25123082",
+  "name": "Spellbook of Power",
+  "description": "Target 1 Spellcaster-Type monster you control; until the End Phase, it gains 1000 ATK. Also, until the End Phase, each time it destroys an opponent's monster by battle: You can add 1 \"Spellbook\" Spell Card from your Deck to your hand. You can only activate 1 \"Spellbook of Power\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8771,
+  "cardNumber": "22159429",
+  "name": "Trickstar Magicorolla",
+  "description": "Activate this card by targeting 1 \"Trickstar\" monster in your GY; Special Summon it and equip it with this card. When this card leaves the field, destroy the equipped monster. Once per turn, if the equipped monster inflicts damage to your opponent by battle or card effect: You can Special Summon 1 \"Trickstar\" monster from your hand. You can only activate 1 \"Trickstar Magicorolla\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Equip\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

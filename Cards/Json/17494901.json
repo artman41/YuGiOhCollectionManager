@@ -1,0 +1,16 @@
+{
+  "id": 2736,
+  "cardNumber": "17494901",
+  "name": "Gagagabolt",
+  "description": "If you control a \"Gagaga\" monster: Target 1 card on the field; destroy that target.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

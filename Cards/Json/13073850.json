@@ -1,0 +1,16 @@
+{
+  "id": 5578,
+  "cardNumber": "13073850",
+  "name": "Qliphort Stealth",
+  "description": "Pendulum Effect\n You cannot Special Summon monsters, except \"Qli\" monsters. This effect cannot be negated. All \"Qli\" monsters you control gain 300 ATK.\n\n Monster Effect\n You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. When this card is Tribute Summoned by Tributing a \"Qli\" monster(s): You can target 1 card on the field; return it to the hand. Your opponent cannot activate cards or effects in response to this effect's activation.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Pendulum\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1781,
+  "cardNumber": "66262416",
+  "name": "Destiny HERO - Dreamer",
+  "description": "During damage calculation, if your \"Destiny HERO\" monster battles and this card is in your GY: You can Special Summon this card, make that monster unable to be destroyed by that battle, and if you do, you take no battle damage from that battle. If Summoned this way, banish this card when it leaves the field. You can only use this effect of \"Destiny HERO - Dreamer\" once per turn.",
+  "cardLevel": 1,
+  "cardRank": null,
+  "atk": 0,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

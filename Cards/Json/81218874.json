@@ -1,0 +1,16 @@
+{
+  "id": 3580,
+  "cardNumber": "81218874",
+  "name": "Infestation Ripples",
+  "description": "Pay 500 Life Points to target 1 Level 4 or lower \"Steelswarm\" monster in your Graveyard; Special Summon it from the Graveyard.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

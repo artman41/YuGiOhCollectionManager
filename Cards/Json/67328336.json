@@ -1,0 +1,16 @@
+{
+  "id": 4430,
+  "cardNumber": "67328336",
+  "name": "Meklord Fortress",
+  "description": "\"Meklord Emperor\" monsters you control cannot be targeted by the effects of Synchro Monsters. When this card on the field is destroyed and sent to the Graveyard: You can add 1 \"Meklord Emperor\" monster from your Deck to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Field\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

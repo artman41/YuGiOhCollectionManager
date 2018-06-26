@@ -1,0 +1,16 @@
+{
+  "id": 7754,
+  "cardNumber": "62499965",
+  "name": "Z-ONE",
+  "description": "When this Set card is destroyed and sent to the Graveyard, select 1 Continuous Spell or Field Spell Card in your Graveyard, and add it to your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 817,
+  "cardNumber": "3105404",
+  "name": "Brilliant Spark",
+  "description": "If a face-up \"Gem-Knight\" monster(s) you control is destroyed by your opponent's attack or card effect: Target 1 of those destroyed monsters; inflict damage to your opponent equal to its original ATK. If this card is in your Graveyard: You can send 1 \"Gem-Knight\" card from your hand to the Graveyard; add this card to your hand. You can only activate 1 \"Brilliant Spark\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

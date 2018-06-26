@@ -1,0 +1,16 @@
+{
+  "id": 333,
+  "cardNumber": "73879377",
+  "name": "Armed Dragon LV7",
+  "description": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Armed Dragon LV5\", and cannot be Special Summoned by other ways. You can send 1 monster from your hand to the Graveyard; destroy all face-up monsters your opponent controls with ATK less than or equal to the sent monster's ATK.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2800,
+  "def": 1000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dragon\"]"
+}

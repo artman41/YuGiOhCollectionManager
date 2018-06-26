@@ -1,0 +1,16 @@
+{
+  "id": 6133,
+  "cardNumber": "42029847",
+  "name": "Serenade the Melodious Diva",
+  "description": "This card can be treated as 2 Tributes for the Tribute Summon of a Fairy-Type monster. After this card is Special Summoned to your side of the field, you can Normal Summon 1 \"Melodious\" monster during your Main Phase this turn, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 400,
+  "def": 1900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fairy\"]"
+}

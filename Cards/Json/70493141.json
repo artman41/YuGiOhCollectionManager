@@ -1,0 +1,16 @@
+{
+  "id": 383,
+  "cardNumber": "70493141",
+  "name": "The Ascended of Thunder",
+  "description": "You can Special Summon this card (from your hand) by paying 3000 LP. If this card Summoned this way in its owner's control is destroyed by an opponent's card (by battle or card effect): Gain 5000 LP.",
+  "cardLevel": 7,
+  "cardRank": null,
+  "atk": 2700,
+  "def": 2400,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Thunder\"]"
+}

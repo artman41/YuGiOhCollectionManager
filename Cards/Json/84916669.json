@@ -1,0 +1,16 @@
+{
+  "id": 8178,
+  "cardNumber": "84916669",
+  "name": "Doriado",
+  "description": "A spirit of the forest powered by the surrounding trees and wildlife.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1400,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Spellcaster\"]"
+}

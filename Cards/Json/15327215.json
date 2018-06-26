@@ -1,0 +1,16 @@
+{
+  "id": 7913,
+  "cardNumber": "15327215",
+  "name": "Legendary Shadow of the Six Samurai",
+  "description": "When you Normal or Special Summon a \"Secret Six Samurai\" monster(s) (except during the Damage Step): You can Special Summon this card from your hand. You can only use this effect of \"Legendary Shadow of the Six Samurai\" once per turn. Once per turn: You can banish 1 Level 4 or lower \"Six Samurai\" monster from your GY; until the end of this turn, this card's Attribute, Level, and ATK/DEF become the banished monster's original Attribute, Level, and ATK/DEF.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 500,
+  "def": 2000,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

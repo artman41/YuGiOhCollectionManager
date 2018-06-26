@@ -1,0 +1,16 @@
+{
+  "id": 7834,
+  "cardNumber": "75906310",
+  "name": "Armed Dragon Catapult Cannon",
+  "description": "\"VWXYZ-Dragon Catapult Cannon\" + \"Armed Dragon LV7\"<br>Must first be Special Summoned (from your Extra Deck) by banishing the above cards you control and/or from your GY, after you have Special Summoned the above cards this Duel. (You do not use \"Polymerization\".) Your opponent cannot activate cards, or the effects of cards, with the same name as a banished card. Once per opponent's turn (Quick Effect): You can banish 1 card from your Deck or Extra Deck; banish all cards your opponent controls and in their GY.",
+  "cardLevel": 10,
+  "cardRank": null,
+  "atk": 3500,
+  "def": 3000,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

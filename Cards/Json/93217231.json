@@ -1,0 +1,16 @@
+{
+  "id": 5058,
+  "cardNumber": "93217231",
+  "name": "Offering to the Snake Deity",
+  "description": "Target 1 face-up Reptile-Type monster you control and 2 cards your opponent controls; destroy all three targets.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8562,
+  "cardNumber": "13069066",
+  "name": "Sword Arm of Dragon",
+  "description": "This Jurassic juggernaut has a spine covered in sword-like plates, and a tail to split open skulls.",
+  "cardLevel": 6,
+  "cardRank": null,
+  "atk": 1750,
+  "def": 2030,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Dinosaur\"]"
+}

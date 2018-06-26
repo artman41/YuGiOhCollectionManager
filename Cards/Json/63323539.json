@@ -1,0 +1,16 @@
+{
+  "id": 7155,
+  "cardNumber": "63323539",
+  "name": "Trojan Blast",
+  "description": "Activate only when an opponent's card effect shifts control of a monster from your side of the field to theirs. Destroy that 1 monster and inflict damage to your opponent equal to its ATK.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

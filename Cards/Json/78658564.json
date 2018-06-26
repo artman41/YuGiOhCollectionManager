@@ -1,0 +1,16 @@
+{
+  "id": 3040,
+  "cardNumber": "78658564",
+  "name": "Goblin Attack Force",
+  "description": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase, and its battle position cannot be changed until the End Phase of your next turn.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 2300,
+  "def": 0,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6088,
+  "cardNumber": "61258740",
+  "name": "Sea Lord's Amulet",
+  "description": "Send this card to the Graveyard during your opponent's 3rd End Phase after activation. WATER monsters you control cannot be destroyed by your opponent's card effects.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

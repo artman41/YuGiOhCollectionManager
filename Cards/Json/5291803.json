@@ -1,0 +1,16 @@
+{
+  "id": 1103,
+  "cardNumber": "5291803",
+  "name": "Chronomaly Tula Guardian",
+  "description": "If there is a face-up Field Spell Card on the field, you can Special Summon this card (from your hand). You can only control 1 \"Chronomaly Tula Guardian\".",
+  "cardLevel": 5,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 900,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Rock\"]"
+}

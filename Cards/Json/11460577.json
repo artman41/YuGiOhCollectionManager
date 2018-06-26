@@ -1,0 +1,16 @@
+{
+  "id": 2281,
+  "cardNumber": "11460577",
+  "name": "Etoile Cyber",
+  "description": "If this card attacks your opponent directly, it gains 500 ATK during the Damage Step only.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1200,
+  "def": 1600,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

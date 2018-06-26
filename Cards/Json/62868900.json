@@ -1,0 +1,16 @@
+{
+  "id": 1434,
+  "cardNumber": "62868900",
+  "name": "D - Shield",
+  "description": "When an Attack Position \"Destiny HERO\" monster you control is targeted for an attack: Target it; change it to Defense Position and equip it with this card. The equipped monster cannot be destroyed by battle.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

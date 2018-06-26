@@ -1,0 +1,16 @@
+{
+  "id": 2633,
+  "cardNumber": "66288028",
+  "name": "Fortress Warrior",
+  "description": "You take no battle damage from attacks involving this card. Once per turn, this card cannot be destroyed by battle.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 600,
+  "def": 1200,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

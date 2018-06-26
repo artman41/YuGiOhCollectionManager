@@ -1,0 +1,16 @@
+{
+  "id": 5123,
+  "cardNumber": "27068117",
+  "name": "Overlay Regen",
+  "description": "Target 1 face-up Xyz Monster on the field; attach this card to it as an Xyz Material.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

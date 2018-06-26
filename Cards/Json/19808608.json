@@ -1,0 +1,16 @@
+{
+  "id": 1462,
+  "cardNumber": "19808608",
+  "name": "D/D Berfomet",
+  "description": "Once per turn: You can target 1 \"D/D\" monster you control that has a Level, except \"D/D Berfomet\", and declare a Level from 1 to 8; it becomes that Level until the end of this turn, also you cannot Special Summon monsters for the rest of this turn, except \"D/D\" monsters.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1400,
+  "def": 1800,
+  "link": null,
+  "subCategories": "[\"Effect\"]",
+  "attribute": "Dark",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Fiend\"]"
+}

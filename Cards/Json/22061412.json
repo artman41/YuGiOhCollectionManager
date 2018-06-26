@@ -1,0 +1,16 @@
+{
+  "id": 2216,
+  "cardNumber": "22061412",
+  "name": "Elemental HERO The Shining",
+  "description": "1 \"Elemental HERO\" monster + 1 LIGHT monster<br>Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each of your banished \"Elemental HERO\" monsters. When this card is sent from the field to the Graveyard: You can target up to 2 of your banished \"Elemental HERO\" monsters; add those targets to your hand.",
+  "cardLevel": 8,
+  "cardRank": null,
+  "atk": 2600,
+  "def": 2100,
+  "link": null,
+  "subCategories": "[\"Effect\",\"Fusion\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}

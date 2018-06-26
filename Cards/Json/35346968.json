@@ -1,0 +1,16 @@
+{
+  "id": 6368,
+  "cardNumber": "35346968",
+  "name": "Solemn Wishes",
+  "description": "Increase your Life Points by 500 points each time you draw a card (or cards).",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 3,
+  "type": "[]"
+}

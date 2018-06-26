@@ -1,0 +1,16 @@
+{
+  "id": 2675,
+  "cardNumber": "46181000",
+  "name": "Frontline Base",
+  "description": "Once per turn: You can Special Summon 1 Level 4 or lower Union monster from your hand.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Continuous\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

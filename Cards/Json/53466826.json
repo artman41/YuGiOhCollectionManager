@@ -1,0 +1,16 @@
+{
+  "id": 3384,
+  "cardNumber": "53466826",
+  "name": "Heroic Chance",
+  "description": "Target 1 face-up \"Heroic\" monster you control; this turn, double its ATK, but it cannot attack your opponent directly. You can only activate 1 \"Heroic Chance\" per turn.",
+  "cardLevel": null,
+  "cardRank": null,
+  "atk": null,
+  "def": null,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": null,
+  "linkArrows": [],
+  "cardType": 2,
+  "type": "[]"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 8297,
+  "cardNumber": "10859908",
+  "name": "Holograh",
+  "description": "This machine generates illusions that leave an enemy wide open to attacks.",
+  "cardLevel": 3,
+  "cardRank": null,
+  "atk": 1100,
+  "def": 700,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Earth",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Machine\"]"
+}

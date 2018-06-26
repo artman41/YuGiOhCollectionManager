@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Photon</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="../css/photon.min.css">
+
+    <!-- Javascript -->
+    //
+    <script src="js/js.js" charset="utf-8"></script>
+</head>
+<body>
+<span class="window">
+
+    <!-- .toolbar-header sits at the top of your app -->
+    <header class="toolbar toolbar-header" style="-webkit-app-region: drag">
+        <h1 class="title">Deck Collection</h1>
+        <div class="toolbar-actions">
+            <div class="btn-group">
+                <span>
+                    <input placeholder="Deck Name" id="DeckName" style="float: left;"/>
+                    <button class="btn btn-default" onclick="SaveDeck()">
+                        <span class="icon icon-floppy"/>
+                    </button>
+                    <input placeholder="filter" id="CardFilter" style="float: right;"
+                           onkeyup="UpdateShownCollection(event)"/>
+                </span>
+            </div>
+            <span class="btn-group" style="float: right;">
+                <button style="float:right;" onmousedown="CloseWindow()" onclick="CloseWindow()">
+                        <span class="icon icon-cancel"/>
+                </button>
+            </span>
+        </div>
+    </header>
+
+    <!-- Your app's content goes inside .window-content -->
+    <div class="window-content">
+        <div class="pane-group">
+            <div class="pane pane-sm sidebar">
+                <nav class="nav-group">
+                    <h5 class="nav-group-title text-center" id="DeckHeader">Deck - 0 Cards</h5>
+                    <span id="DeckHolder">
+                        <!--<span class="nav-group-item" style="padding-left: 5px;" >
+                            <div>
+                                <span style="float: left;">
+                                    <img style="width: 10px; height: 10px; display: inline;" src="images/Monster/level_star.png">
+                                    <p style="display: inline;">1 x </p>
+                                    <p style="display: inline;">Kuriboh</p>
+                                </span>
+                            </div>
+                        </span>-->
+                    </span>
+                </nav>
+            </div>
+
+            <div class="pane" id="SetCollection">
+                <div class="tab-group" id="TabGroup">
+                    <div class="tab-item active" id="Cards">
+                        Cards
+                    </div>
+                    <!--
+                    <div class="tab-item">
+                        Set 2
+                    </div>
+                    <div class="tab-item">
+                        Set 3
+                    </div>-->
+                </div>
+                <nav class="nav-group" id="CardCollection"/>
+            </div>
+
+            <div class="pane" id="CardDisplay">
+                <table style="table-layout: fixed; width: 100%">
+                    <tr>
+                        <td align="center">
+                            <img src="https://vignette.wikia.nocookie.net/yugioh/images/9/90/Kuriboh-SDMY-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161021200140"
+                                 width="100" height="145" id="CardImage"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <table class="table-striped">
+                            <tbody>
+                                <tr>
+                                    <td>Name</td>
+                                    <td>
+                                        <p id="CardName">Kuriboh</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Type</td>
+                                    <td>
+                                        <p id="CardType">Monster</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Monster Types</td>
+                                    <td>
+                                        <p id="CardMonsterTypes">Effect</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Number</td>
+                                    <td>
+                                        <p id="CardNumber">Kuriboh</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>Card Text</b></td>
+                                    <td>
+                                        <p style="white-space: normal;" id="CardDescription">During your opponent's turn, at damage calculation: You can discard this card; you take no battle damage from that battle (this is a Quick Effect).</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</span>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "id": 8286,
+  "cardNumber": "34100324",
+  "name": "Harpie Girl",
+  "description": "A Harpie chick who aspires to flit about beautifully and gorgeously, but attack sharply.",
+  "cardLevel": 2,
+  "cardRank": null,
+  "atk": 500,
+  "def": 500,
+  "link": null,
+  "subCategories": "[\"Normal\"]",
+  "attribute": "Wind",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Winged Beast\"]"
+}

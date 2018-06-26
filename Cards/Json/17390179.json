@@ -1,0 +1,16 @@
+{
+  "id": 2552,
+  "cardNumber": "17390179",
+  "name": "Flash Knight",
+  "description": "The power of the pendulum flashes forth from this shining knight.",
+  "cardLevel": 4,
+  "cardRank": null,
+  "atk": 1800,
+  "def": 600,
+  "link": null,
+  "subCategories": "[\"Pendulum\"]",
+  "attribute": "Light",
+  "linkArrows": [],
+  "cardType": 1,
+  "type": "[\"Warrior\"]"
+}
