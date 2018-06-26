@@ -125,7 +125,7 @@ function InitializeCardCollection(indexJson) {
         };
         collection.categories[parseInt(Object.values(indexJson)[i]["cardType"]) - 1].cards.push(span);
     }
-    UpdateShownCollection(null);
+    UpdateShownCollection();
     UpdateShownCard(cardCollection.childNodes[0]);
 }
 
@@ -152,63 +152,50 @@ function UpdateShownCollection(ev) {
         ft = document.getElementById("CardFilter");
     }
 
-
-    //console.log("filterText :: " + ft.value + extraChar);
     var filterText = ft.value.toString().toLowerCase();
     if (cardCollection != null) {
         if (cardCollection.childNodes[0] != null && cardCollection.childNodes[0].nodeName == "#text") {
             cardCollection.removeChild(cardCollection.childNodes[0]);
         }
-        //console.log(cardCollection.childNodes);
-        var removed = true;
-        var i = 0;
-        while (removed) {
-            removed = false;
-            if (cardCollection.childNodes.length == 0) break;
-            if (i >= cardCollection.childElementCount) {
-                i = 0;
-            }
+
+        for (var i = 0; i < cardCollection.childElementCount; i++) {
             var childNode = cardCollection.childNodes[i];
 
-            //if(filterText != null) console.log(`FILTER:: ${filterText}`);
-            //console.log(`iteration:: ${i}`);
-            //if(childNode.name != null) console.log(`NAME:: ${childNode.name}`);
-            //if(childNode.cardType != null)console.log(`CARDTYPE NUM:: ${childNode.cardType}`);
-            //if(childNode.cardType != null) console.log(`CARDTYPE STR:: ${GetCardType(childNode.cardType)}`);
-            //if(childNode.number != null) console.log(`NUMBER:: ${childNode.number}`);
-
-            if (filterText != "" &&
+            if (filterText != "" && //don't delete anything if there isn't a filter
                 (
-                    (childNode.name != null && !childNode.name.toLowerCase().includes(filterText))
-                    || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() != filterText)
-                    || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() != filterText)
-                    || (childNode.number != null && !childNode.number.toString().toLowerCase().includes(filterText))
-                )) {
-                //console.log(`Removing ${childNode.name}`);
-                cardCollection.removeChild(cardCollection.childNodes[i]);
-                removed = true;
-            }
-            //console.log("----")
-            i++;
-        }
-    }
-    //console.log("collection.categories length: " + collection.categories.length);
-    for (var i = 0; i < collection.categories.length; i++) {
-        //console.log(`collection.categories[${i}] length: ${collection.categories[i].cards.length}`);
-        for (var j = 0; j < collection.categories[i].cards.length; j++) {
-            var childNode = collection.categories[i].cards[j];
-            //console.log(`FilterText :: ${filterText}`);
-            if ((filterText == "" || (
-                (childNode.name != null && childNode.name.toLowerCase().includes(filterText))
-                || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() == filterText)
-                || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() == filterText)
-                || (childNode.number != null && childNode.number.toString().toLowerCase().includes(filterText))
-            )) && !Array.prototype.includes(cardCollection.childNodes, childNode)) {
-                //console.log(`adding ${childNode.name}`);
-                cardCollection.appendChild(childNode);
+                    (childNode.name != null && !childNode.name.toLowerCase().includes(filterText)) //Check name isn't null & doesn't include filter text
+                    || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() != filterText) //Check cardType isn't null & isn't equal to filter text
+                    || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() != filterText) //Check cardType isn't null & the string version isn't equal to filter text
+                    || (childNode.number != null && !childNode.number.toString().toLowerCase().includes(filterText)) //Check number isn't null & isn't equal to filter text
+                )
+            ) {
+                //cardCollection.removeChild(cardCollection.childNodes[i]);
+                childNode.style.display = "none";
             }
         }
     }
+
+    var loop = function (childNode) {
+        if (filterText == "" || ( //if filter text is empty
+            (childNode.name != null && childNode.name.toLowerCase().includes(filterText)) //check whether the name contains filtertext
+            || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() == filterText) //check whether the card type [1, 2, 3] == filter text
+            || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() == filterText) //check whether the string version of card type == filter text
+            || (childNode.number != null && childNode.number.toString().toLowerCase().includes(filterText)) //check whether the card number includes filter text
+        )) {
+            if (ev == undefined)//if the collection doesn't already contain the card add it
+                cardCollection.appendChild(childNode); //add the card
+            else if (childNode.style.display == "none")
+                childNode.style.display = "block";
+        }
+    };
+
+    if (ev == undefined)
+        for (var i = 0; i < collection.categories.length; i++)
+            for (var j = 0; j < collection.categories[i].cards.length; j++)
+                loop(collection.categories[i].cards[j]);
+    else
+        for (var i = 0; i < cardCollection.childElementCount; i++)
+            loop(cardCollection.childNodes[i]);
 }
 
 function UpdateShownCard(span) {
