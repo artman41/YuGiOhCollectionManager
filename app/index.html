@@ -19,6 +19,9 @@
         <div class="toolbar-actions">
             <div class="btn-group">
                 <span>
+                    <button class="btn btn-default" onclick="LoadDeck()">
+                        <span class="icon icon-export"/>
+                    </button>
                     <input placeholder="Deck Name" id="DeckName" style="float: left;"/>
                     <button class="btn btn-default" onclick="SaveDeck()">
                         <span class="icon icon-floppy"/>
@@ -42,15 +45,6 @@
                 <nav class="nav-group">
                     <h5 class="nav-group-title text-center" id="DeckHeader">Deck - 0 Cards</h5>
                     <span id="DeckHolder">
-                        <!--<span class="nav-group-item" style="padding-left: 5px;" >
-                            <div>
-                                <span style="float: left;">
-                                    <img style="width: 10px; height: 10px; display: inline;" src="images/Monster/level_star.png">
-                                    <p style="display: inline;">1 x </p>
-                                    <p style="display: inline;">Kuriboh</p>
-                                </span>
-                            </div>
-                        </span>-->
                     </span>
                 </nav>
             </div>
@@ -60,13 +54,6 @@
                     <div class="tab-item active" id="Cards">
                         Cards
                     </div>
-                    <!--
-                    <div class="tab-item">
-                        Set 2
-                    </div>
-                    <div class="tab-item">
-                        Set 3
-                    </div>-->
                 </div>
                 <nav class="nav-group" id="CardCollection"/>
             </div>
@@ -76,7 +63,7 @@
                     <tr>
                         <td align="center">
                             <img src="https://vignette.wikia.nocookie.net/yugioh/images/9/90/Kuriboh-SDMY-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20161021200140"
-                                 width="100" height="145" id="CardImage"/>
+                                 width="200" height="290" id="CardImage" style="opacity: 0;"/>
                         </td>
                     </tr>
                     <tr>
@@ -85,31 +72,31 @@
                                 <tr>
                                     <td>Name</td>
                                     <td>
-                                        <p id="CardName">Kuriboh</p>
+                                        <p id="CardName"></p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Type</td>
                                     <td>
-                                        <p id="CardType">Monster</p>
+                                        <p id="CardType"></p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Monster Types</td>
                                     <td>
-                                        <p id="CardMonsterTypes">Effect</p>
+                                        <p id="CardMonsterTypes"></p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Number</td>
                                     <td>
-                                        <p id="CardNumber">Kuriboh</p>
+                                        <p id="CardNumber"></p>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td><b>Card Text</b></td>
                                     <td>
-                                        <p style="white-space: normal;" id="CardDescription">During your opponent's turn, at damage calculation: You can discard this card; you take no battle damage from that battle (this is a Quick Effect).</p>
+                                        <p style="white-space: normal;" id="CardDescription"></p>
                                     </td>
                                 </tr>
                             </tbody>

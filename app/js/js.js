@@ -1,14 +1,26 @@
 const http = require("http");
 const remote = require('electron').remote;
+const dialog = remote.dialog;
 const fs = require('fs');
 
 var collection = {};
 var IndexJson;
+var DeckDir =
 
-String.prototype.toTitleCase = function () {
-    return this.replace(/\w\S*/g, function (txt) {
-        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-    });
+    String.prototype.toTitleCase = function () {
+        return this.replace(/\w\S*/g, function (txt) {
+            return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+        });
+};
+
+Array.prototype.contains = function (array2) {
+    for (var i = 0; i < this.length; i++) {
+        for (var j = 0; j < array2.length; j++) {
+            if (this[i] == array2[j])
+                return true;
+        }
+    }
+    return false;
 };
 
 function CloseWindow() {
@@ -28,27 +40,24 @@ function LoadIndexFile(action) {
     });
 }
 
-function LoadJsonFile(action, number) {
-    fs.readFile(`${__dirname}/../Cards/Json/${number}.json`, async function read(err, data) {
+function LoadJsonFile(action, jsonLoc, p1, p2) {
+    var jsonLocation = p2 != undefined ? jsonLoc : `${__dirname}/../Cards/Json/${jsonLoc}.json`;
+    console.log(jsonLocation)
+    fs.readFile(jsonLocation, async function read(err, data) {
         if (err) {
             throw err;
         }
 
-        // Invoke the next step here however you like
-        //console.log(data);   // Put all of the code here (not the best solution)
-        action(await JSON.parse(data));          // Or put the next step in a function and invoke it
-    });
-}
-
-function LoadJsonFile(action, number, p1) {
-    fs.readFile(`${__dirname}/../Cards/Json/${number}.json`, async function read(err, data) {
-        if (err) {
-            throw err;
-        }
+        var json = await JSON.parse(data);
+        if (p1 != undefined)
+            json["subCategories"] = JSON.parse(json["subCategories"]);
 
         // Invoke the next step here however you like
         //console.log(data);   // Put all of the code here (not the best solution)
-        action(await JSON.parse(data), p1);          // Or put the next step in a function and invoke it
+        if (p1 != undefined)
+            action(json, p1);          // Or put the next step in a function and invoke it
+        else
+            action(json);
     });
 }
 
@@ -57,11 +66,11 @@ function InitializeCardCollection(indexJson) {
     collection.name = "CardIndex";
     var monsters = {};
     monsters.cards = [];
-    var traps = {};
-    traps.cards = [];
     var spells = {};
     spells.cards = [];
-    collection.categories = [monsters, traps, spells];
+    var traps = {};
+    traps.cards = [];
+    collection.categories = [monsters, spells, traps];
 
     //console.log(indexJson);
 
@@ -117,6 +126,7 @@ function InitializeCardCollection(indexJson) {
         collection.categories[parseInt(Object.values(indexJson)[i]["cardType"]) - 1].cards.push(span);
     }
     UpdateShownCollection(null);
+    UpdateShownCard(cardCollection.childNodes[0]);
 }
 
 //returns the string definition of a card type
@@ -193,7 +203,7 @@ function UpdateShownCollection(ev) {
                 || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() == filterText)
                 || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() == filterText)
                 || (childNode.number != null && childNode.number.toString().toLowerCase().includes(filterText))
-            )) && !cardCollection.contains(childNode)) {
+            )) && !Array.prototype.includes(cardCollection.childNodes, childNode)) {
                 //console.log(`adding ${childNode.name}`);
                 cardCollection.appendChild(childNode);
             }
@@ -212,9 +222,12 @@ function UpdateShownCard(span) {
         if (err) {
             throw err;
         }
+
+        var json = await JSON.parse(data);
+        json["subCategories"] = JSON.parse(json["subCategories"]);
         // Invoke the next step here however you like
         //console.log(data);   // Put all of the code here (not the best solution)
-        UpdateShownCard2(span, await JSON.parse(data));        // Or put the next step in a function and invoke it
+        UpdateShownCard2(span, json);        // Or put the next step in a function and invoke it
     });
 }
 
@@ -227,9 +240,11 @@ function UpdateShownCard2(span, json) {
 
     //console.log(json);
 
+    document.getElementById("CardImage").style.opacity = "1.0";
     desc.innerHTML = json["description"];
     number.innerHTML = json["cardNumber"];
-    monsterTypes.innerHTML = json["subCategories"].replace("[\"", "").replace("\"]", "");
+    //console.log(json["subCategories"]);
+    monsterTypes.innerHTML = json["subCategories"].join(", ");
     cardType.innerHTML = GetCardType(json["cardType"]).toTitleCase();
     cardName.innerHTML = json["name"];
 }
@@ -237,7 +252,6 @@ function UpdateShownCard2(span, json) {
 var deck = [];
 
 function AddCard(json, amount) {
-
     var item = deck.find(o => o.number == json["cardNumber"]);
     if (item == null) {
         var obj = {};
@@ -252,6 +266,7 @@ function AddCard(json, amount) {
         item.amount += amount;
     }
     UpdateShownDeck();
+
 }
 
 function RemoveCard(json, amount) {
@@ -279,6 +294,7 @@ function UpdateShownDeck() {
         navSpan.classList.add("nav-group-item");
         navSpan.style.paddingLeft = "5px";
         navSpan.object = deck[i];
+        navSpan.type = "span";
         var div = document.createElement("div");
         div.style.paddingLeft = "0px";
         var span = document.createElement("span");
@@ -308,14 +324,14 @@ function UpdateShownDeck() {
         span.appendChild(img);
         span.appendChild(p1);
         span.appendChild(p2);
-        /*navSpan.onclick = e => {
+        navSpan.onclick = e => {
             if (e.target.type == "span") {
                 //console.log(`${e.target.name} with ID ${e.target.id} clicked`);
-                UpdateShownCard(e.target);
+                UpdateShownCard(collection.categories[e.currentTarget.object.type - 1].cards.find(o => o.number == e.currentTarget.object.number));
             } else {
-                UpdateShownCard(e.target.parentElement);
+                UpdateShownCard(collection.categories[e.currentTarget.object.type - 1].cards.find(o => o.number == e.currentTarget.object.number));
             }
-        };*/
+        };
         navSpan.ondblclick = e => {
             //console.log(e.currentTarget.object);
             RemoveCard(e.currentTarget.object.json, 1);
@@ -328,8 +344,94 @@ function UpdateShownDeck() {
     document.getElementById("DeckHeader").innerText = `Deck - ${deckSize}`
 }
 
-function SaveDeck(name) {
+var extras = ["Xyz", "Fusion", "Synchro"];
 
+function SaveDeck() {
+    var deckName = document.getElementById("DeckName").value;
+    var extraDeck = deck.filter(o => Array.prototype.contains(o.json["subCategories"], extras));
+    var mainDeck = deck.filter(o => !extraDeck.includes(o));
+    //console.log(extraDeck);
+    //console.log(mainDeck);
+    var deckString = "";
+    deckString += "#Created By [Yu-Gi-Oh Deck Builder]\n";
+    deckString += "#main\n";
+    for (var i = 0; i < mainDeck.length; i++) {
+        var item = mainDeck[i];
+        //console.log(item.json);
+        for (var j = 0; j < item.amount; j++) {
+            deckString += `${item.json.cardNumber}\n`;
+        }
+    }
+    deckString += "#extra\n";
+    for (var i = 0; i < extraDeck.length; i++) {
+        var item = extraDeck[i];
+        for (var j = 0; j < item.amount; j++) {
+            deckString += `${item.json.cardNumber}\n`
+        }
+    }
+    deckString += "!side\n";
+    //console.log(deckString);
+    dialog.showSaveDialog(
+        {
+            title: `Saving Deck '${deckName != "" ? deckName : "DECK"}'`,
+            defaultPath: `*/${deckName != "" ? deckName : "DECK"}.ydk`,
+            filters: [
+                {name: "YGOPro Deck", extensions: ["ydk"]}
+            ]
+        }, function (fileName) {
+
+            if (fileName === undefined) return;
+
+            fs.writeFile(fileName, deckString, function (err) {
+                if (err == undefined)
+                    dialog.showMessageBox({title: `Deck saved to ${fileName}`, message: deckString, buttons: ["OK"]});
+                else
+                    dialog.showErrorBox("File Save Error", err.message);
+            });
+
+        });
+}
+
+function LoadDeck() {
+    deck = [];
+    UpdateShownDeck();
+    dialog.showOpenDialog(
+        {
+            title: `Loading Deck`,
+            defaultPath: `*/${"DECK"}.ydk`,
+            filters: [
+                {name: "YGOPro Deck", extensions: ["ydk"]}
+            ]
+        }, function (fileNames) {
+            if (fileNames == undefined)
+                return;
+            var fileName = fileNames[0];
+            fs.readFile(fileName, 'utf-8', function (err, data) {
+
+                var numbers = data.split("\n").filter(o => !o.startsWith("#") && !o.startsWith("!") && o != "");
+                console.log(numbers);
+                for (var i = 0; i < numbers.length; i++) {
+                    console.log(numbers[i]);
+                    var jsonI = IndexJson.find(o => {
+                        var b = parseInt(o.cardNumber) == parseInt(numbers[i]);
+                        console.log(`[${o.name} ${o.cardNumber}] == ${numbers[i]} :: ${b}`);
+                        return b;
+                    });
+                    console.log(jsonI);
+                    //console.log(jsonI.cardType);
+                    console.log(jsonI.cardType - 1);
+                    //console.log(collection.categories[jsonI.cardType -1]);
+                    var tempCard = collection.categories[jsonI.cardType - 1].cards.find(o => {
+                        var b = parseInt(o.number) == parseInt(numbers[i]);
+                        //console.log(`[${o.name} ${o.number}] == ${numbers[i]} :: ${b}`);
+                        return b;
+                    });
+                    console.log(tempCard.jsonLocation);
+                    LoadJsonFile(AddCard, tempCard.jsonLocation, 1, true);
+                }
+                UpdateShownDeck();
+            });
+        });
 }
 
 LoadIndexFile(InitializeCardCollection);
