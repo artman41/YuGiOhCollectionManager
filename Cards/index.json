@@ -957,12 +957,12 @@
   {
     "cardType": 1,
     "cardNumber": "16261341",
-    "name": "Angel Paladin Arch-Parshath"
+    "name": "Sacred Arch-Airknight Parshath"
   },
   {
     "cardType": 1,
     "cardNumber": "53666449",
-    "name": "Angel Sage Minerva"
+    "name": "Minerva, Scholar of the Sky"
   },
   {
     "cardType": 1,
@@ -982,7 +982,7 @@
   {
     "cardType": 1,
     "cardNumber": "16632144",
-    "name": "Angrappler"
+    "name": "Grappler Angler"
   },
   {
     "cardType": 1,
@@ -2387,7 +2387,7 @@
   {
     "cardType": 1,
     "cardNumber": "36694815",
-    "name": "Bitlooper"
+    "name": "Bitrooper"
   },
   {
     "cardType": 1,
@@ -4237,7 +4237,7 @@
   {
     "cardType": 1,
     "cardNumber": "28806532",
-    "name": "Cloudy Weathery Sleet"
+    "name": "The Weather Painter Cloud"
   },
   {
     "cardType": 1,
@@ -5162,7 +5162,7 @@
   {
     "cardType": 1,
     "cardNumber": "89015998",
-    "name": "D.D. Pursuer"
+    "name": "D.D. Seeker"
   },
   {
     "cardType": 1,
@@ -6042,7 +6042,7 @@
   {
     "cardType": 1,
     "cardNumber": "88392300",
-    "name": "Data Transavatar Wattkinesis"
+    "name": "Wattkinetic Puppeteer"
   },
   {
     "cardType": 1,
@@ -6142,7 +6142,7 @@
   {
     "cardType": 1,
     "cardNumber": "50426119",
-    "name": "Degrenade Buster"
+    "name": "Degrade Buster"
   },
   {
     "cardType": 1,
@@ -6457,7 +6457,7 @@
   {
     "cardType": 1,
     "cardNumber": "10158145",
-    "name": "Destroymare Iblee"
+    "name": "Knightmare Corruptor Iblee"
   },
   {
     "cardType": 1,
@@ -7997,7 +7997,7 @@
   {
     "cardType": 1,
     "cardNumber": "18214905",
-    "name": "Elementsaber Lapa Uila"
+    "name": "Elementsaber Lapauila"
   },
   {
     "cardType": 1,
@@ -8012,7 +8012,7 @@
   {
     "cardType": 1,
     "cardNumber": "71797713",
-    "name": "Elementsaber Willard"
+    "name": "Elementsaber Lapauila Mana"
   },
   {
     "cardType": 1,
@@ -13122,7 +13122,7 @@
   {
     "cardType": 1,
     "cardNumber": "15397015",
-    "name": "Inspect Boarder"
+    "name": "Inspector Boarder"
   },
   {
     "cardType": 1,
@@ -13337,12 +13337,12 @@
   {
     "cardType": 1,
     "cardNumber": "92204263",
-    "name": "Jack Knight of the Azure Blue"
+    "name": "Mekk-Knight Indigo Eclipse"
   },
   {
     "cardType": 1,
     "cardNumber": "28692962",
-    "name": "Jack Knight of the Purple Dusk"
+    "name": "Mekk-Knight Purple Nightfall"
   },
   {
     "cardType": 1,
@@ -13372,7 +13372,7 @@
   {
     "cardType": 1,
     "cardNumber": "53620899",
-    "name": "Janshimatsu"
+    "name": "Mahjong Munia Maidens"
   },
   {
     "cardType": 1,
@@ -16762,7 +16762,7 @@
   {
     "cardType": 1,
     "cardNumber": "15419596",
-    "name": "Mikuratori"
+    "name": "Ghost Bird of Bewitchment"
   },
   {
     "cardType": 1,
@@ -19107,7 +19107,7 @@
   {
     "cardType": 1,
     "cardNumber": "41782653",
-    "name": "Overtyx Coatlus"
+    "name": "Overtex Qoatlus"
   },
   {
     "cardType": 1,
@@ -20952,7 +20952,7 @@
   {
     "cardType": 1,
     "cardNumber": "19636995",
-    "name": "Rapid Red Hared Mare"
+    "name": "Red Hared Hasty Horse"
   },
   {
     "cardType": 1,
@@ -23132,7 +23132,7 @@
   {
     "cardType": 1,
     "cardNumber": "44586426",
-    "name": "Solar Batteryman"
+    "name": "Batteryman Solar"
   },
   {
     "cardType": 1,
@@ -25762,7 +25762,7 @@
   {
     "cardType": 1,
     "cardNumber": "67744384",
-    "name": "Tindangle Apostle"
+    "name": "Tindangle Protector"
   },
   {
     "cardType": 1,
@@ -26117,7 +26117,7 @@
   {
     "cardType": 1,
     "cardNumber": "59604521",
-    "name": "Trickstar Shakunage"
+    "name": "Trickstar Rhodode"
   },
   {
     "cardType": 1,
@@ -28202,7 +28202,7 @@
   {
     "cardType": 1,
     "cardNumber": "10852583",
-    "name": "Yajirovader"
+    "name": "Yajiro Invader"
   },
   {
     "cardType": 1,
@@ -28237,7 +28237,7 @@
   {
     "cardType": 1,
     "cardNumber": "73642296",
-    "name": "Yashiki Warashi"
+    "name": "Ghost Belle & Haunted Mansion"
   },
   {
     "cardType": 1,
@@ -29797,7 +29797,7 @@
   {
     "cardType": 2,
     "cardNumber": "53956001",
-    "name": "Cloudy Weathery Pattern"
+    "name": "The Weather Cloudy Canvas"
   },
   {
     "cardType": 2,
@@ -35422,7 +35422,7 @@
   {
     "cardType": 2,
     "cardNumber": "97729135",
-    "name": "Staredown"
+    "name": "Staring Contest"
   },
   {
     "cardType": 2,
@@ -36977,7 +36977,7 @@
   {
     "cardType": 3,
     "cardNumber": "55573346",
-    "name": "Accidetonation"
+    "name": "Oops!"
   },
   {
     "cardType": 3,
@@ -37162,7 +37162,7 @@
   {
     "cardType": 3,
     "cardNumber": "97803170",
-    "name": "Archfiend's Call"
+    "name": "Call of the Archfiend"
   },
   {
     "cardType": 3,
@@ -37267,7 +37267,7 @@
   {
     "cardType": 3,
     "cardNumber": "52834429",
-    "name": "Aurora Weathery Pattern"
+    "name": "The Weather Auroral Canvas"
   },
   {
     "cardType": 3,
@@ -37572,7 +37572,7 @@
   {
     "cardType": 3,
     "cardNumber": "62753201",
-    "name": "Borrel Refrigeration"
+    "name": "Borrel Cooling"
   },
   {
     "cardType": 3,

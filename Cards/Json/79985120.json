@@ -12,5 +12,6 @@
   "attribute": "Dark",
   "linkArrows": [],
   "cardType": 1,
-  "type": "[\"Winged Beast\"]"
+  "type": "[\"Winged Beast\"]",
+  "image": "data:image/png;base64,"
 }

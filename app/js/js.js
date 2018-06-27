@@ -6,7 +6,7 @@ const fs = require('fs');
 var collection = {}; //all the possible cards sorted into [Monsters, Spells, Traps]
 var IndexJson; //the global card index file
 var deck = []; //the deck collection (right hand pane)
-var extras = ["Xyz", "Fusion", "Synchro"]; //types that are meant to be in the extra deck
+var extras = ["Xyz", "Fusion", "Synchro", "Pendulum"]; //types that are meant to be in the extra deck
 
 var cardCollection = document.getElementById("CardCollection"); //the collection of cards in the center pane
 var ft = document.getElementById("CardFilter"); //the filter, right-most textbox
@@ -94,7 +94,7 @@ function InitializeCardCollection(indexJson) {
         span.cardType = Object.values(indexJson)[i]["cardType"];
         span.name = Object.values(indexJson)[i]["name"];
         span.number = Object.values(indexJson)[i]["cardNumber"];
-        span.image = `${__dirname}/../Cards/Images/${Object.values(indexJson)[i]["cardNumber"]}.png`;
+        //span.image = `${__dirname}/../Cards/Images/${Object.values(indexJson)[i]["cardNumber"]}.png`;
         span.type = "span";
         span.jsonLocation = `${__dirname}/../Cards/Json/${Object.values(indexJson)[i]["cardNumber"]}.json`;
         //----------------------------------------
@@ -256,7 +256,9 @@ function UpdateShownCard(span) { //where span is an object created in <Initializ
     var image = document.getElementById("CardImage");
     var desc = document.getElementById("CardDescription");
 
-    image.src = span.image;
+    LoadJsonFile(json=>{
+        image.src = json["image"];
+    }, span.jsonLocation, undefined, true);
 
     var callback = function (span, json) {
         var desc = document.getElementById("CardDescription");
