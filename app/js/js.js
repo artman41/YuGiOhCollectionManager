@@ -54,7 +54,7 @@ function LoadJsonFile(action, jsonLoc, p1, p2) {
     //if p2 is undefined, it'll load any json
     //else it'll attempt to load a card json
     var jsonLocation = p2 != undefined ? jsonLoc : `${__dirname}/../Cards/Json/${jsonLoc}.json`;
-    console.log(jsonLocation);
+    //console.log(jsonLocation);
     fs.readFile(jsonLocation, async function read(err, data) {
         if (err) {
             throw err;
@@ -177,6 +177,11 @@ function GetCardType(cardType) {
     }
 }
 
+//returns the card with the corresponding details
+function GetCard(cardType, number) {
+    return collection.categories[cardType - 1].cards.find(o => o.number == number);
+}
+
 //updates the spans contained in the center pane
 //  - adds the spans on first run
 //  - hides/unhides spans thereafter
@@ -192,6 +197,8 @@ function UpdateShownCollection(ev) {
 
     //gets the filter text to a lowercase string
     var filterText = ft.value.toString().toLowerCase();
+    while (filterText.startsWith("0"))
+        filterText = filterText.substring(1);
     //if the cardCollection exists
     if (cardCollection != null) {
         //weird bug where there's a text object in the collection, should only ever contain #span
@@ -204,14 +211,12 @@ function UpdateShownCollection(ev) {
             //gets the span at index i
             var childNode = cardCollection.childNodes[i];
 
-            if (filterText != "" && //don't delete anything if there isn't a filter
-                (
-                    (childNode.name != null && !childNode.name.toLowerCase().includes(filterText)) //Check name isn't null & doesn't include filter text
-                    || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() != filterText) //Check cardType isn't null & isn't equal to filter text
-                    || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() != filterText) //Check cardType isn't null & the string version isn't equal to filter text
-                    || (childNode.number != null && !childNode.number.toString().toLowerCase().includes(filterText)) //Check number isn't null & isn't equal to filter text
-                )
-            ) {
+            if (childNode.style.display == "none")
+                continue;
+
+            var isInt = !isNaN(parseInt(filterText));
+
+            if (filterText != "") {
                 childNode.style.display = "none"; //hides the span
             }
         }
@@ -219,11 +224,14 @@ function UpdateShownCollection(ev) {
 
     var loop = function (childNode) {
         if (filterText == "" || ( //if filter text is empty
-            (childNode.name != null && childNode.name.toLowerCase().includes(filterText)) //check whether the name contains filtertext
-            || (childNode.cardType != null && childNode.cardType.toString().toLowerCase() == filterText) //check whether the card type [1, 2, 3] == filter text
-            || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() == filterText) //check whether the string version of card type == filter text
-            || (childNode.number != null && childNode.number.toString().toLowerCase().includes(filterText)) //check whether the card number includes filter text
-        )) {
+            (!isInt && (
+                    (childNode.name != null && childNode.name.toLowerCase().includes(filterText)) //Check name isn't null, the filter isn't pure numbers & doesn't include filter text
+                    || (childNode.cardType != null && GetCardType(childNode.cardType).toLowerCase() == filterText) //Check cardType isn't null & the string version isn't equal to filter text
+                )
+                || (isInt && (childNode.number != null && childNode.number.toString().toLowerCase().includes(filterText))) //Check number isn't null & isn't equal to filter text
+            )
+        )
+        ) {
             if (ev == undefined)//if the collection doesn't already contain the card add it
                 cardCollection.appendChild(childNode); //add the card
             else if (childNode.style.display == "none") //else if the span is hidden
@@ -325,6 +333,8 @@ function RemoveCard(json, amount) {
 
 //updates what can visually be seen in the deck (left pane)
 function UpdateShownDeck() {
+    if (deck.length > 0)
+        deck = SortDeck();
     var holder = document.getElementById("DeckHolder");
     //removes all objects from the deck
     while (holder.childElementCount > 0) {
@@ -333,7 +343,6 @@ function UpdateShownDeck() {
 
     //inits the deck size as 0
     var deckSize = 0;
-
 
     for (var i = 0; i < deck.length; i++) {
         deckSize += deck[i].amount;
@@ -349,6 +358,7 @@ function UpdateShownDeck() {
         var navSpan = document.createElement("span");
         navSpan.classList.add("nav-group-item");
         navSpan.style.paddingLeft = "5px";
+        navSpan.style.display = "inline-block";
         navSpan.object = deck[i];
         navSpan.type = "span";
         //----------------------------------------
@@ -433,11 +443,27 @@ function UpdateShownDeck() {
     document.getElementById("DeckHeader").innerText = `Deck - ${deckSize}`
 }
 
+//sorts the deck by cardType and then by name
+function SortDeck(d) {
+    if (d == undefined)
+        d = deck;
+    var x = d.filter(o => o.type == 1);
+    var y = d.filter(o => o.type == 2);
+    var z = d.filter(o => o.type == 3);
+
+    x.sort((a, b) => a.name.localeCompare(b.name));
+    y.sort((a, b) => a.name.localeCompare(b.name));
+    z.sort((a, b) => a.name.localeCompare(b.name));
+
+    return (x.concat(y).concat(z));
+}
+
 //Saves the deck to a file
 function SaveDeck() {
     var deckName = document.getElementById("DeckName").value;
-    var extraDeck = deck.filter(o => Array.prototype.contains(o.json["subCategories"], extras)); //gets the extra Deck cards
-    var mainDeck = deck.filter(o => !extraDeck.includes(o)); //gets the main deck cards
+
+    var extraDeck = SortDeck(deck.filter(o => o.json["subCategories"].contains(extras))); //gets the extra Deck cards
+    var mainDeck = SortDeck(deck.filter(o => !extraDeck.includes(o))); //gets the main deck cards
 
 
     var deckString = "";
@@ -447,7 +473,6 @@ function SaveDeck() {
     deckString += "#main\n";
     for (var i = 0; i < mainDeck.length; i++) {
         var item = mainDeck[i];
-        //console.log(item.json);
         for (var j = 0; j < item.amount; j++) {
             deckString += `${item.json.cardNumber}\n`;
         }
@@ -497,10 +522,19 @@ function SaveDeck() {
 //Loads the deck from a file
 function LoadDeck() {
     //empties the deck
-    deck = [];
-
-    //clears the deck pane
-    UpdateShownDeck();
+    if (deck.length > 0) {
+        var replaceDeck = dialog.showMessageBox({
+            type: 'question',
+            buttons: ['Yes', 'No'],
+            title: 'Confirm',
+            message: 'Deck will be overridden.\nAre you sure you want to load a deck?'
+        }) === 0;
+        if (!replaceDeck)
+            return;
+        deck = [];
+        //clears the deck pane
+        UpdateShownDeck();
+    }
 
     //prompts the user to open a deck file
     dialog.showOpenDialog(
