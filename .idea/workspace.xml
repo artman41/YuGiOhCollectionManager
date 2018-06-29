@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c033da86-6bd3-4cd4-8793-98ea212fa375" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/node_modules/backend/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/eventcollection/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/eventcollection/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/extensions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/extensions/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/frontend/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/objects/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/node_modules/objects/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/js/js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/eventcollection/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/eventcollection/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/extensions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/extensions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/frontend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/frontend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/node_modules/objects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/node_modules/objects/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,35 +21,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#div#2;n#div#0;n#div#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/node_modules/backend/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-382">
-              <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+            <state relative-caret-position="17">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
               <folding>
-                <element signature="n#!!block;n#SaveDeck#0" />
                 <element signature="n#!!block;n#LoadIndexFile#0" />
+                <element signature="n#!!block;n#LoadJsonFile#0" />
+                <element signature="n#!!block;n#InitializeCardCollection#0" />
+                <element signature="n#!!block;n#RemoveCard#0" />
                 <element signature="n#!!block;n#SortDeck#0" />
                 <element signature="n#!!block;n#Start#0" />
               </folding>
@@ -65,22 +38,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/node_modules/objects/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/node_modules/eventcollection/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+            <state relative-caret-position="68">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
               <folding>
-                <element signature="n#!!block;n#OnStart#0" />
                 <element signature="n#!!block;n#Button_Save#0" />
                 <element signature="n#!!block;n#Button_Load#0" />
               </folding>
@@ -89,27 +52,34 @@
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/node_modules/extensions/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+              <folding>
+                <element signature="n#!!block;n#GetCardType#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/node_modules/frontend/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state relative-caret-position="343">
+              <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
               <folding>
-                <element signature="n#!!block;n#UpdateShownDeck#0" />
                 <element signature="n#!!block;n#UpdateShownCard#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/node_modules/extensions/index.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/node_modules/objects/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!block;n#GetCardType#0" />
-                <element signature="n#!!block;n#InitializeExtensions#0" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -155,9 +125,9 @@
       <find>../cards</find>
       <find>events</find>
       <find>eventCollection</find>
+      <find>GetCardT</find>
       <find>GetCard</find>
       <find>GetCardTy</find>
-      <find>GetCardT</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -199,15 +169,15 @@
         <option value="$PROJECT_DIR$/app/node_modules/logic/frontend/index.js" />
         <option value="$PROJECT_DIR$/app/node_modules/logic/package.json" />
         <option value="$PROJECT_DIR$/app/node_modules/objects/package.json" />
-        <option value="$PROJECT_DIR$/app/node_modules/objects/index.js" />
         <option value="$PROJECT_DIR$/app/node_modules/events/index.js" />
         <option value="$PROJECT_DIR$/app/main.js" />
-        <option value="$PROJECT_DIR$/app/node_modules/backend/index.js" />
         <option value="$PROJECT_DIR$/app/node_modules/eventcollection/package.json" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/node_modules/eventcollection/index.js" />
         <option value="$PROJECT_DIR$/app/node_modules/frontend/index.js" />
+        <option value="$PROJECT_DIR$/app/node_modules/objects/index.js" />
+        <option value="$PROJECT_DIR$/app/node_modules/backend/index.js" />
         <option value="$PROJECT_DIR$/app/node_modules/extensions/index.js" />
+        <option value="$PROJECT_DIR$/app/node_modules/eventcollection/index.js" />
       </list>
     </option>
   </component>
@@ -405,7 +375,7 @@
       <workItem from="1530071310790" duration="14913000" />
       <workItem from="1530129182733" duration="2397000" />
       <workItem from="1530134346755" duration="744000" />
-      <workItem from="1530186569039" duration="16902000" />
+      <workItem from="1530186569039" duration="20475000" />
     </task>
     <task id="LOCAL-00001" summary="first commit of the project">
       <created>1529981274575</created>
@@ -442,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530120603715</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="#Huge refactor&#10;- Separated code in to relevant files&#10;- Converted certain functions to instead use an object, allowing for easier handling of params">
+      <created>1530282527462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530282527462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109379000" />
+    <option name="totallyTimeSpent" value="112952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -457,6 +434,7 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32943678" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.34962806" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943678" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.34962806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -470,7 +448,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32943678" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +472,8 @@
     <MESSAGE value="Increased efficiency of card filtering" />
     <MESSAGE value="Added tons of comments" />
     <MESSAGE value="- Added check to deck loading asking whether the user wants to replace the current deck&#10;- Allowed for horizontal scrolling of the deck for cards whose names overflow&#10;- Fixed deck saving (wasn't properly saving the extra deck)&#10;- Added deck sorting to ensure deck is in the order of `Monster -&gt; Spell -&gt; Trap`, `A -&gt; Z`" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Added check to deck loading asking whether the user wants to replace the current deck&#10;- Allowed for horizontal scrolling of the deck for cards whose names overflow&#10;- Fixed deck saving (wasn't properly saving the extra deck)&#10;- Added deck sorting to ensure deck is in the order of `Monster -&gt; Spell -&gt; Trap`, `A -&gt; Z`" />
+    <MESSAGE value="#Huge refactor&#10;- Separated code in to relevant files&#10;- Converted certain functions to instead use an object, allowing for easier handling of params" />
+    <option name="LAST_COMMIT_MESSAGE" value="#Huge refactor&#10;- Separated code in to relevant files&#10;- Converted certain functions to instead use an object, allowing for easier handling of params" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -798,30 +776,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/node_modules/objects/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/node_modules/eventcollection/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!block;n#OnStart#0" />
-            <element signature="n#!!block;n#Button_Save#0" />
-            <element signature="n#!!block;n#Button_Load#0" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/node_modules/backend/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-382">
-          <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding>
-            <element signature="n#!!block;n#SaveDeck#0" />
             <element signature="n#!!block;n#LoadIndexFile#0" />
+            <element signature="n#!!block;n#LoadJsonFile#0" />
+            <element signature="n#!!block;n#InitializeCardCollection#0" />
+            <element signature="n#!!block;n#RemoveCard#0" />
             <element signature="n#!!block;n#SortDeck#0" />
             <element signature="n#!!block;n#Start#0" />
           </folding>
@@ -830,10 +798,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/node_modules/frontend/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state relative-caret-position="343">
+          <caret line="72" column="34" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
           <folding>
-            <element signature="n#!!block;n#UpdateShownDeck#0" />
             <element signature="n#!!block;n#UpdateShownCard#0" />
           </folding>
         </state>
@@ -841,11 +808,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/node_modules/extensions/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="459">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding>
             <element signature="n#!!block;n#GetCardType#0" />
-            <element signature="n#!!block;n#InitializeExtensions#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/node_modules/eventcollection/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!block;n#Button_Save#0" />
+            <element signature="n#!!block;n#Button_Load#0" />
           </folding>
         </state>
       </provider>
