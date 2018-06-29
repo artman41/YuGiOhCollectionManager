@@ -7,7 +7,15 @@
     <link rel="stylesheet" href="../css/photon.min.css">
 
     <!-- Javascript -->
-    <script src="js/js.js" charset="utf-8"></script>
+    <script>
+        global.__approot = require('path').resolve(__dirname + "/../");
+        global.extensions = require("extensions");
+        global.backend = require("backend");
+        global.frontend = require("frontend");
+        global.objects = require("objects");
+        global.eventcollection = require("eventcollection");
+    </script>
+
 </head>
 <body>
 <span class="window">
@@ -18,19 +26,20 @@
         <div class="toolbar-actions">
             <div class="btn-group">
                 <span>
-                    <button class="btn btn-default" onclick="LoadDeck()">
+                    <button class="btn btn-default" onclick="eventcollection.Button_Load()">
                         <span class="icon icon-export"/>
                     </button>
                     <input placeholder="Deck Name" id="DeckName" style="float: left;"/>
-                    <button class="btn btn-default" onclick="SaveDeck()">
+                    <button class="btn btn-default" onclick="eventcollection.Button_Save()">
                         <span class="icon icon-floppy"/>
                     </button>
                     <input placeholder="filter" id="CardFilter" style="float: right;"
-                           onkeyup="UpdateShownCollection(event)"/>
+                           onkeyup="frontend.UpdateShownCollection(event)"/>
                 </span>
             </div>
             <span class="btn-group" style="float: right;">
-                <button style="float:right;" onmousedown="CloseWindow()" onclick="CloseWindow()">
+                <button style="float:right;" onmousedown="eventcollection.Button_Close()"
+                        onclick="eventcollection.Button_Close()">
                         <span class="icon icon-cancel"/>
                 </button>
             </span>
