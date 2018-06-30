@@ -123,7 +123,7 @@ th {
 
 * {
     cursor: default;
-    -webkit-user-drag: text;
+    -webkit-user-drag: auto;
     -webkit-user-select: none;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -704,7 +704,7 @@ textarea {
 }
 
 img {
-    -webkit-user-drag: text;
+    -webkit-user-drag: auto;
 }
 
 .img-circle {
@@ -2371,4 +2371,14 @@ td:last-child {
 .tab-item-fixed {
     flex: none;
     padding: 3px 10px;
+}
+
+.context-menu {
+    display: none;
+    position: absolute;
+    z-index: 10;
+}
+
+.context-menu--active {
+    display: block;
 }

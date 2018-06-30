@@ -3,9 +3,11 @@ const {app, BrowserWindow} = require('electron');  // Module to create native br
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 var mainWindow = null;
-
 // Quit when all windows are closed.
 app.on('window-all-closed', function () {
+
+    backend.SaveStorage(true);
+
     // On OS X it is common for applications and their menu bar
     // to stay active until the user quits explicitly with Cmd + Q
     if (process.platform != 'darwin') {
@@ -27,7 +29,7 @@ app.on('ready', function () {
         titleBarStyle: 'hidden'
     });
 
-    mainWindow.setMenu(null);
+    //mainWindow.setMenu(null);
 
     // and load the index.html of the app.
     mainWindow.loadFile(`${__dirname}/index.html`);

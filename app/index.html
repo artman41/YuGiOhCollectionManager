@@ -59,8 +59,11 @@
 
             <div class="pane" id="SetCollection">
                 <div class="tab-group" id="TabGroup">
-                    <div class="tab-item active" id="Cards">
+                    <div class="tab-item active" id="Cards" onmousedown="eventcollection.TabChange(0)">
                         Cards
+                    </div>
+                    <div class="tab-item" id="Storage" onmousedown="eventcollection.TabChange(1)">
+                        Collection
                     </div>
                 </div>
                 <nav class="nav-group" id="CardCollection"/>
@@ -105,6 +108,12 @@
                                     <td><b>Card Text</b></td>
                                     <td>
                                         <p style="white-space: normal;" id="CardDescription"></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td><b>In Collection</b></td>
+                                    <td>
+                                        <p id="CardStored"></p>
                                     </td>
                                 </tr>
                             </tbody>
